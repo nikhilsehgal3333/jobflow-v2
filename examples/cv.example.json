@@ -1,0 +1,49 @@
+{
+  "company": "Acme GmbH",
+  "role": "ESG Manager",
+  "profile": "Sustainability professional with hands-on CSRD and ESRS implementation experience at TUI AG, where I built reporting workflows across the osapiens platform. I combine corporate ESG delivery with LCA and carbon accounting from my work at KarbonWise, and I am drawn to roles where regulatory reporting meets measurable climate impact.",
+  "experience": [
+    {
+      "company": "KarbonWise | Berlin, Germany",
+      "dates": "January 2026 - Present",
+      "title": "Sustainability Consultant",
+      "bullets": [
+        "Run product-level LCA and PCF studies in OneClick LCA, translating supplier data into auditable carbon footprints.",
+        "Apply CRREM pathways to real-estate portfolios so clients can see where assets fall short of decarbonisation targets.",
+        "Brief client teams on SBTi and TCFD so their disclosures hold up under assurance."
+      ]
+    },
+    {
+      "company": "TUI AG | Hanover, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "ESG Reporting Specialist",
+      "bullets": [
+        "Stood up CSRD and ESRS reporting on osapiens, mapping double-materiality results to the right datapoints.",
+        "Coordinated five ESG ratings methodologies with raters, keeping evidence consistent across submissions.",
+        "Built an internal ESG chatbot that cut the time teams spent hunting for disclosure guidance."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master of Business Administration",
+      "dates": "2021 - 2022",
+      "institution": "Technische Universitat Berlin, Germany",
+      "details": ["Focus on sustainability strategy and corporate finance."]
+    },
+    {
+      "degree": "Bachelor of Architecture",
+      "dates": "2014 - 2019",
+      "institution": "University of Mumbai, India",
+      "details": ["Thesis on energy-efficient building envelopes."]
+    }
+  ],
+  "skills": [
+    { "category": "Reporting Frameworks", "items": "CSRD, ESRS, GRI, CDP, TCFD, SBTi" },
+    { "category": "Carbon and LCA", "items": "OneClick LCA, PCF, CCF, CRREM, GHG Protocol" },
+    { "category": "Tools", "items": "osapiens, Power BI, Python, Excel" }
+  ],
+  "certifications": ["GRI Certified Sustainability Professional"],
+  "languages": ["English (C1)", "German (B2)", "Hindi (Native)"],
+  "footer": "Berlin, Germany | Available immediately | Open to relocation"
+}

@@ -1,0 +1,130 @@
+{
+  "company": "IISD",
+  "role": "Policy Analyst Trade Policy",
+  "format": "preferred",
+  "language": "en",
+  "profile": "Policy analyst with over four years in sustainability policy research, EU regulatory analysis and project implementation with multiple partners. Works across trade policy and sustainability, from CBAM and the EUDR and their effect on exporters outside the EU to GSP+ and the sustainability chapters of EU trade agreements, combining qualitative, quantitative and AI-assisted analysis. Evaluated SDG engagement across a 53-member, 5-country consortium by designing the evaluation criteria and benchmarking members against one another.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Analyse how CBAM and the EUDR affect producers and exporters outside the EU, for clients trading covered goods and agricultural commodities",
+        "Map CBAM reporting duties against clients' covered goods and the underlying declaration data",
+        "Apply geolocation and deforestation-risk data to EUDR due diligence statements and risk assessments",
+        "Model clients' EPR fee and cost exposure per market in Excel",
+        "Derive retrofit and operating measures for 10+ client buildings, with the CO2 and cost effect of each",
+        "Track emerging issues in EU regulation by status, deadline and client impact, now covering Omnibus I and ESRS Set 2",
+        "Draft the deliverables for an EU LIFE project work package and coordinate the consortium partners behind them",
+        "Direct 6+ analysts across client engagements, quality-checking deliverables and tracking hours or fees against budget",
+        "Examine client datasets in Python, using AI tools in the data work"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Aligned disclosures with ESRS E1 for the group's CSRD preparation, assessing SBTi and TCFD statements with the disclosure team",
+        "Compared 4 ESG rating methodologies against TUI's operations and regulatory requirements",
+        "Ran stakeholder interviews and a full survey cycle, condensing the findings into written analyses",
+        "Presented regulatory analysis and recommendations to senior leadership and the sustainability steering committee"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Served as primary contact for 150+ disclosing organisations worldwide, cutting response times by 20%+"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Delivered 5+ tender and RFP responses end to end, writing the methodology sections and pricing each bid",
+        "Sized markets and mapped competitive landscapes behind a go/no-go market-entry decision",
+        "Cut manual data processing by 40% through Python automation on a GRI-aligned reporting platform"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Evaluated 53 consortium members' engagement with 17 SDGs across 5 countries, designing the evaluation criteria and covering gender and SDG 5",
+        "Assessed how EU trade-related measures affect companies in 3 South Asian markets: India, Sri Lanka and Bangladesh",
+        "Wrote policy briefs and structured literature reviews for non-specialist readers",
+        "Chaired recurring meetings of the 53-member consortium, setting agendas, mediating between member mandates and closing out actions",
+        "Produced member newsletters, policy updates and outreach articles, and hosted a webinar for external audiences",
+        "Presented the GRI Standards at 3 stock exchanges (Bombay, Colombo, Dhaka) and delivered capacity building for government stakeholders",
+        "Built partnerships with corporates, governments and NGOs across South Asia, identifying new revenue opportunities for the chapter"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Architect",
+      "bullets": [
+        "Authored full Environmental Impact Assessment reports, consolidating specialist consultants' air, noise, water and ecology inputs into permit submissions",
+        "Advised on 15+ projects worth 20M+ euros, from pre-feasibility studies to cost estimates",
+        "Briefed government authorities and took part in EIA public consultation meetings with communities"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universität Berlin, Germany",
+      "details": [
+        "Grade 1,6 (good). Coursework in environmental law, WTO and trade law topics, data analysis and statistical methods",
+        "Thesis on the financial implications of CSRD in the construction industry, using survey design and regression analysis in Python; presented the results in a guest lecture at TU Berlin"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), five-year professional degree",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": []
+    }
+  ],
+  "skills": [
+    {
+      "category": "Trade Policy and Sustainability",
+      "items": "CBAM (importer and customs interface), EU Deforestation Regulation (EUDR), effects of EU measures on non-EU exporters, India-EU FTA negotiations, EU GSP and GSP+, trade and sustainable development (TSD) chapters, trade policy developments, ESPR and Digital Product Passport, PPWR and EPR, EU Battery Regulation"
+    },
+    {
+      "category": "Policy Research and Evaluation",
+      "items": "Primary and secondary research, qualitative and quantitative policy analysis, evaluation criteria and methodology design, cost-efficiency assessment, structured literature reviews, stakeholder interviews and surveys, peer benchmarking, regression analysis, Excel cost modelling"
+    },
+    {
+      "category": "AI and Data",
+      "items": "AI tools for research and analysis (Claude), LLM-based extraction, text classification, web scraping, Python, SQL, Power BI"
+    },
+    {
+      "category": "Communication and Outreach",
+      "items": "Policy briefs, research reports and technical reports, outreach materials (blog articles, brochures, explainers), newsletters, webinars and events, presentations to government, corporate and investor audiences"
+    },
+    {
+      "category": "Partnerships and Project Delivery",
+      "items": "Consortium and partner coordination, EU LIFE project delivery, tenders, proposals and business development materials, budget tracking, meeting facilitation and documentation"
+    },
+    {
+      "category": "Frameworks",
+      "items": "SDGs, UNFCCC and NDCs, GRI Standards, CSRD and ESRS, EU Taxonomy, GHG Protocol, UN Guiding Principles, OECD due diligence guidance, SEBI BRSR"
+    }
+  ],
+  "certifications": [
+    "Climate-related Financial Disclosures - CDP",
+    "Climate Change & Sustainability - EY",
+    "Climate & Sustainability - Boston Consulting Group (BCG)"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional (B2) | Hindi - Native"
+  ],
+  "footer": "Valid German work and residence permit | Based in Berlin, Germany | Available immediately"
+}

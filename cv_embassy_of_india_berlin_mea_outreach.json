@@ -1,0 +1,130 @@
+{
+  "company": "Embassy of India Berlin",
+  "role": "MEA Outreach",
+  "format": "preferred",
+  "language": "en",
+  "profile": "Management professional with 5+ years across consulting, corporate, research and project roles in India and Germany. Combines research and policy analysis, engagement with governments, businesses and NGOs, and project and team coordination with a working knowledge of EU and Indian regulation. Served as primary contact for 150+ organisations at CDP and chaired a 53-member, 5-country consortium at GRI.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Map CBAM reporting duties against clients' goods and assess their exposure under the EU ETS and India's CCTS",
+        "Deliver GHG Protocol carbon footprints and CRREM pathway analyses, covering 10+ real-estate assets for 4+ clients",
+        "Direct a team of 6+ analysts and quality-check their deliverables before they reach the client",
+        "Negotiate fees and scope directly with clients, and pitch follow-on work that clients go on to buy",
+        "Flag slipping deliverables early and agree recovery plans and revised timelines with clients",
+        "Author deliverables for an EU LIFE programme work package and coordinate partners across the consortium"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Built and steered a 5-function project team across Compliance, Risk, Legal, IT and supply chain",
+        "Implemented German Supply Chain Act (LkSG) due diligence across 500+ suppliers",
+        "Coordinated implementation directly with 5+ international subsidiaries, tracking completion entity by entity",
+        "Presented analysis to senior leadership and the steering committee, then tracked its decisions to closure across functions",
+        "Documented processes and SOPs, and defined who owns what across functions and entities",
+        "Rolled out an employee awareness campaign and e-learning modules on the SAP LMS"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Served as primary contact for 150+ organisations worldwide, owning their onboarding and support",
+        "Resolved finance, invoice and payment queries, and escalated harder cases to internal teams through to closure",
+        "Ran feedback calls with disclosing organisations and supported the CDP-hosted workshop in Warsaw"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Sized a new market segment for a go/no-go entry decision and mapped the competitive landscape behind it",
+        "Owned 5+ tender and RFP responses end to end, pricing each bid and authoring the methodology sections",
+        "Cut manual data processing by 40% through Python automation on a B2B reporting platform"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Chaired recurring meetings of a 53-member consortium across 5 countries, facilitating between differing mandates",
+        "Presented the GRI Standards at 3 stock exchanges: Bombay, Colombo and Dhaka",
+        "Delivered capacity building to ministries, regulators and public bodies, and briefed government delegates",
+        "Researched reporting trends across India, Sri Lanka and Bangladesh and benchmarked members against the 17 SDGs",
+        "Wrote policy briefs, member newsletters and policy updates for non-specialist audiences",
+        "Steered a communications campaign end to end, setting the messaging, channels, timeline and measurement",
+        "Forged partnerships with corporates, governments and NGOs across South Asia, and organised speaker-led learning sessions"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Selected and managed a team of 4 interns, and advised on 15+ projects worth 20M+ euros",
+        "Coordinated 20+ contractors and vendors across 6+ sites, checking invoices against agreed work and tracking SLAs",
+        "Authored full Environmental Impact Assessment reports and briefed government authorities on a government hotel project",
+        "Prepared cost and budget estimates and supported the investment cases behind client approval"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universität Berlin, Germany",
+      "details": [
+        "Grade 1,6 (good). Thesis on the financial implications of CSRD in the construction industry, using survey design and regression analysis in Python",
+        "Coursework in data analysis, statistical methods, risk management (COSO, ISO 31000) and environmental law"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), five-year professional degree",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": [
+        "Coursework in urban planning, contract management and construction technology"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Research and Analysis",
+      "items": "Policy and market research, briefs and reports, market sizing and competitive analysis, benchmarking, survey design and regression analysis, data validation"
+    },
+    {
+      "category": "Stakeholder and Project Management",
+      "items": "Government, business and NGO engagement, cross-functional project teams, chairing meetings, event and workshop organisation, client account management, tenders and proposals, vendor and contractor management"
+    },
+    {
+      "category": "Communication and Training",
+      "items": "Newsletters and policy updates, communications campaigns, presentations to senior leadership, training and e-learning, report production to corporate design standards"
+    },
+    {
+      "category": "Regulation and Policy",
+      "items": "EU (CSRD, CBAM, EUDR, EU ETS, CSDDD), German Supply Chain Act (LkSG), India (BRSR, CCTS), UNFCCC and NDCs, SDGs, GHG Protocol"
+    },
+    {
+      "category": "Tools",
+      "items": "Excel modelling, Python, SQL, Power BI, SAP, Dynamics 365, HubSpot, Jira, Confluence, Microsoft 365, Google Workspace"
+    }
+  ],
+  "certifications": [
+    "Climate & Sustainability - Boston Consulting Group (BCG)",
+    "Climate-related Financial Disclosures - CDP",
+    "Agile - Cognizant"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional (B2) | Hindi - Native"
+  ],
+  "footer": "Indian national | German work and residence permit, self-employment permitted | Berlin-based, open to roles in Germany and across Europe | Available immediately"
+}

@@ -1,0 +1,122 @@
+{
+  "company": "ESCP Business School",
+  "role": "Brand Communications Manager",
+  "format": "preferred",
+  "language": "en",
+  "profile": "Communications and campaign professional with four years translating complex sustainability topics into campaigns, content and events for international audiences. Combines social media, SEO content optimisation and brand guidelines with briefing agencies and freelancers and managing several projects in parallel across multicultural teams. Ran a multi-channel communications campaign end to end and presented to audiences at 3 South Asian stock exchanges.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Brief and coordinate the design agency on a client's sustainability report, checking proofs and marking up corrections through to final layout",
+        "Brief freelance creatives and assess their work on client reports and content",
+        "Assemble long reports to final layout in line with each client's corporate design manual",
+        "Advise clients on green claims under the Empowering Consumers Directive, substantiating environmental claims with LCA and EPD evidence",
+        "Coach clients on sustainability reporting, translating technical requirements for non-specialist audiences"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Rolled out an employee sustainability awareness campaign and an engagement programme that staff joined",
+        "Created e-learnings on ISO 14001, CSDDD and human rights and delivered them to staff through the SAP LMS",
+        "Presented analysis results and regulatory developments to senior leadership with recommendations",
+        "Built and steered a cross-functional project team across 5 functions, holding contributors to deadlines",
+        "Reported group sustainability KPIs in Power BI dashboards for internal stakeholders",
+        "Compared 5 ESG rating methodologies and prepared documentation for rating agency and investor queries"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Served as first point of contact for 150+ organisations worldwide through the disclosure inbox",
+        "Supported delivery of the CDP-hosted workshop in Warsaw for disclosing organisations",
+        "Logged stakeholder interactions in HubSpot and ran feedback calls with disclosing and prospective organisations"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Created brand guidelines, a reusable content library, proposal templates and pitch decks that kept brand presence and messaging consistent",
+        "Set up and sent email campaigns and marketing workflows in HubSpot, tracking engagement in CRM reports",
+        "Authored the methodology sections of proposals, turning platform capability into client-facing narrative",
+        "Automated data processing in Python and cut manual effort by 40%"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Ran a communications campaign end to end, setting the messaging, channels, timeline and measurement",
+        "Coordinated a paid campaign within a set budget",
+        "Planned content formats and posts for the organisation's social media channel, reporting reach and engagement from platform analytics",
+        "Optimised web content for organic search visibility through keywords, meta descriptions and on-page structure",
+        "Produced member newsletters and policy updates for a 53-member consortium across 5 countries",
+        "Organised speaker-led learning sessions and presented the GRI Standards at the Bombay, Colombo and Dhaka stock exchanges",
+        "Wrote policy briefs and technical summaries for non-specialist audiences",
+        "Coordinated a university partnership and gave guest presentations at a university"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Selected and managed a team of 4 interns and sourced freelancers across 15+ projects worth over 20M euros",
+        "Produced 3D visualisations and renderings for client presentations"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universitaet Berlin, Germany",
+      "details": [
+        "Grade 1,6 (good). Thesis on the financial implications of CSRD, built on survey design and quantitative analysis"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), five-year professional degree",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": []
+    }
+  ],
+  "skills": [
+    {
+      "category": "Brand and communications",
+      "items": "Brand guidelines and consistent brand presence, communications strategy implementation, integrated campaigns across digital and offline channels, storytelling, content creation, newsletters, English copywriting, briefing agencies and freelancers, assessing creative work, events and workshops"
+    },
+    {
+      "category": "Digital",
+      "items": "Social media activities, channels and content formats, SEO activities and content optimisation for organic visibility, platform analytics and performance monitoring, paid campaign coordination, HubSpot email campaigns and marketing workflows"
+    },
+    {
+      "category": "Design and tools",
+      "items": "Adobe Creative Suite including InDesign, corporate design manuals, Word templates, 3D visualisation and rendering, Power BI, Microsoft 365, Google Workspace"
+    },
+    {
+      "category": "Project management",
+      "items": "Project management, managing multiple projects independently, prioritisation, internal stakeholder collaboration, Jira, Confluence, MS Project"
+    }
+  ],
+  "certifications": [
+    "Agile - Cognizant",
+    "Climate & Sustainability - Boston Consulting Group (BCG)",
+    "Climate-related Financial Disclosures - CDP"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional working proficiency (B2) | Hindi - Native"
+  ],
+  "footer": "Berlin, Germany | Available from 1 November 2026 | Valid German work and residence permit"
+}

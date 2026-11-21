@@ -1,0 +1,125 @@
+{
+  "company": "AUTODOC",
+  "role": "Sustainability Specialist",
+  "format": "preferred",
+  "language": "en",
+  "profile": "Sustainability specialist with four years in GHG accounting, ESG reporting frameworks and European sustainability regulations. Calculates Scope 1-3 emissions and product carbon footprints to GHG Protocol standards, tracks CSRD, ESRS and EU Taxonomy compliance, and runs internal sustainability initiatives with cross-functional stakeholders. Cut manual ESG data processing by 40% by automating a GRI-aligned reporting platform in Python.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Deliver carbon footprint calculations for Scope 1-3 emissions and products on GHG Protocol for automotive component, building materials and food and beverage clients",
+        "Run sustainability data collection, validation and analysis of client environmental data across Scope 1, 2 and 3 to audit-ready standard",
+        "Scope decarbonisation projects with clients and track each measure through implementation by owner, status and achieved reduction",
+        "Monitor evolving ESG regulations in an up-to-date compliance tracker on CSRD, ESRS, EU Taxonomy and GHG Protocol, logging deadlines and client impact",
+        "Model decarbonisation pathways under 1.5 and 2 degree CRREM scenarios for Middle Eastern real estate clients",
+        "Model packaging EPR fees and cost exposure market by market in Excel",
+        "Pilot new data-collection processes with one client before rolling them out across the portfolio",
+        "Produce product LCAs in OneClick LCA to ISO 14040, 14044 and 14067"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Delivered the double materiality assessment alongside the senior disclosure team, scoring impacts, risks and opportunities and mapping ESRS datapoints",
+        "Aligned CSRD compliance reporting with ESRS E1 and prepared the working papers the external assurance provider tested",
+        "Assessed EU Taxonomy eligibility and alignment, and documented the evidence behind each classification",
+        "Rolled out internal sustainability campaigns on awareness and an internal engagement programme on employee volunteering and giving",
+        "Created e-learnings on ISO 14001, CSDDD and human rights and delivered them to staff through the SAP LMS",
+        "Built and steered a cross-functional project team of stakeholders from Compliance, Risk, Legal, IT and supply chain, tracking deliverables to deadline",
+        "Consolidated non-financial KPIs group-wide in SAP and visualised them in Power BI dashboards",
+        "Scoped and drove an LLM assistant proof of concept, designing the prompts and retrieval behind CSRD and ESRS queries",
+        "Set annual ESG KPI targets and data-collection cycles, and followed attainment against reduction pathways",
+        "Wrote the SOPs and responsibility splits behind the group's regulatory requirements",
+        "Compared five ESG rating methodologies including S&P CSA, Sustainalytics, MSCI and ISS"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Served as first point of contact for 150+ organisations worldwide through the disclosure inbox",
+        "Validated ESG data on the CDP platform through the 2024 disclosure cycle and tracked submission coverage"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Automated data processing in Python and cut manual effort by 40%",
+        "Introduced data system enhancements and SQL validation rules on a GRI-aligned sustainability reporting platform",
+        "Tracked sprint progress in Jira and wrote the requirement pages, project documentation and decision logs in Confluence"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Assessed 53 consortium members against 17 SDGs across 5 countries",
+        "Delivered a communications campaign end to end, setting the messaging, channels, timeline and measurement",
+        "Presented the GRI Standards at the Bombay, Colombo and Dhaka stock exchanges"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Conducted energy audits on commercial buildings and advised on 15+ projects worth over 20M euros"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universitaet Berlin, Germany",
+      "details": [
+        "Grade 1,6 (good). Thesis on the financial implications of CSRD, using survey design, quantitative analysis and regression in Python",
+        "Coursework: environmental law, life cycle assessment, energy audits, ISO 50001, data analysis and statistical methods, SQL"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), five-year professional degree",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": [
+        "Coursework: energy systems, building services, building physics, environmental control systems and contract management"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Sustainability regulation and reporting",
+      "items": "CSRD, ESRS (E1, S1, G1), EU Taxonomy, double materiality assessments, EU sustainability compliance and European regulatory requirements, GRI Standards, CDP, TCFD, SBTi, CSDDD and LkSG, PPWR and EPR, ESPR, End-of-Life Vehicles and take-back schemes, third-party assurance evidence"
+    },
+    {
+      "category": "GHG accounting and carbon",
+      "items": "GHG Protocol, Scope 1-3 emissions, Product Carbon Footprints (PCF), Corporate Carbon Footprint (CCF), ISO 14040, 14044 and 14067, OneClick LCA, CRREM, decarbonisation projects and pathways, environmental impact and data tracking"
+    },
+    {
+      "category": "Tools and data",
+      "items": "MS Office (Excel, PowerPoint, Word), Jira, Confluence, Power BI, SAP and SAP LMS, SQL, Python, osapiens, Google Workspace, AI tools for research and analysis, data validation and process improvement"
+    },
+    {
+      "category": "Engagement and project work",
+      "items": "Internal employee engagement programmes, awareness campaigns, sustainability communication programmes, e-learning, project tracking across cross-functional teams, process documentation and knowledge hubs, senior leadership reporting"
+    }
+  ],
+  "certifications": [
+    "Climate-related Financial Disclosures - CDP",
+    "Climate & Sustainability - Boston Consulting Group (BCG)",
+    "Climate Change & Sustainability - EY"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional working proficiency (B2) | Hindi - Native"
+  ],
+  "footer": "Berlin, Germany | Immediately available | Valid German work and residence permit"
+}

@@ -1,0 +1,128 @@
+{
+  "profile": "Project management and advisory consultant with six years coordinating complex multi-stakeholder initiatives across NGOs, a DAX-listed group and B2B advisory clients. Builds consolidated project plans and trackers, maps dependencies across workstreams, and carries risks, actions and decisions to closure through structured reporting and lessons-learned review. Steered a cross-functional team spanning Compliance, Risk, Legal, IT and supply chain at TUI AG, taking a regulatory programme into operation across international subsidiaries and tracking completion entity by entity.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd.",
+      "location": "Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Advise B2B clients as an independent contractor, determining the methodology, tools and delivery approach for each engagement and reporting progress against agreed milestones",
+        "Monitor EU and national policy developments and translate each obligation into implementation roadmaps carrying named owners, deadlines and the evidence required to close it",
+        "Pilot new compliance and data-collection processes on a single client and product line, then extend them across the wider portfolio once the approach holds",
+        "Quantify the commercial impact of regulation by modelling market-by-market fee exposure in Excel, so decisions rest on figures rather than estimates"
+      ]
+    },
+    {
+      "company": "TUI AG",
+      "location": "Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Built and steered a cross-functional project team across Compliance, Risk, Legal, IT and supply chain, setting deliverables, mapping dependencies between workstreams and holding contributors to deadlines without line authority",
+        "Coordinated a regulatory rollout directly with international group subsidiaries, maintaining the planning trackers, action logs and completion records behind entity-by-entity progress",
+        "Reported status, emerging risks and outstanding actions to senior leadership, with recommendations on where alignment across functions and regions needed correcting",
+        "Assessed delivery and supply chain risks against severity and likelihood thresholds, and put forward the mitigation measures that went into the implementation plan",
+        "Wrote the process documentation, work instructions and decision-rights splits defining who owned each requirement across functions and entities"
+      ]
+    },
+    {
+      "company": "CDP Worldwide",
+      "location": "Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Served as primary point of contact for 150+ organisations globally, resolving methodology, reporting-requirement and deadline queries across a full disclosure cycle",
+        "Supported delivery of the CDP-hosted disclosure workshop in Warsaw, handling participant information flows and follow-up either side of the event",
+        "Standardised repeatable processes and controls across organisations of very different size, sector and geography, and tracked submission coverage against deadlines"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd.",
+      "location": "Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Owned tender and proposal responses end to end, setting response strategy, section ownership and the submission timeline against hard external deadlines",
+        "Ran sprint cycles with engineers, writing user stories and acceptance criteria and resolving scope questions in flight",
+        "Reviewed closed bids with sales in structured win and loss sessions, then reset qualification and response tactics on what the outcome data showed"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI)",
+      "location": "New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Chaired recurring meetings of a 53-member consortium spanning corporate, government and NGO mandates, setting agendas, facilitating between competing positions and carrying actions to closure",
+        "Issued member newsletters and policy updates tracking international and national regulatory developments across five countries",
+        "Convened speaker-led learning sessions with industry associations and policymakers, from programme design through to participant follow-up",
+        "Presented GRI Standards at the Bombay, Colombo and Dhaka stock exchanges, and evaluated 53 members' engagement with 17 SDGs across 5 countries",
+        "Established partnerships with corporates, governments and NGOs across South Asia, and documented GRI-BRSR linkage against national SEBI requirements"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd.",
+      "location": "Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Managed a team of 4 from proposal to delivery, and advised on 15+ commercial, hospitality and institutional projects worth 20M+ euros",
+        "Consolidated specialist consultant inputs on air, noise, water and ecology into single regulatory submissions against permit deadlines, and briefed government authorities on a public-sector project"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universität Berlin, Germany",
+      "details": [
+        "Grade 1.6 (Distinction). Coursework in ISO 31000 risk management and COSO internal control"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), five-year professional degree",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": []
+    }
+  ],
+  "extras": [
+    {
+      "label": "SELECTED ENGAGEMENTS AND CLIENTS",
+      "bullets": [
+        "Consulting clients, KarbonWise Ltd.: building materials manufacturers, automotive component suppliers, a textile and footwear brand, Middle East real estate portfolio owners",
+        "Organisations served in house: TUI AG (DAX-listed), CDP Worldwide, Global Reporting Initiative, Holistics Urban Innovations",
+        "Client names withheld under confidentiality obligations. References available on request"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Project Management and Delivery",
+      "items": "Integrated project management frameworks, consolidated project plans and timelines, milestones and critical deadlines, dependency mapping across workstreams, risk identification and mitigation, action and decision logs, status reporting, readiness assessments, lessons-learned reports, planning trackers, process documentation and SOPs, RACI and decision rights, agile delivery"
+    },
+    {
+      "category": "Stakeholder Coordination and Advisory Support",
+      "items": "Multi-stakeholder consortia and member networks, chairing and facilitation, agenda setting and summary notes, stakeholder mapping, cross-functional teams without line authority, international subsidiaries and matrix organisations, government authorities, industry associations and NGOs, external partner coordination support, senior leadership briefings, event support"
+    },
+    {
+      "category": "Policy and Regulation",
+      "items": "International policy processes, UNFCCC and COP processes, NDCs, EU Green Deal and EU climate regulation, CSRD and ESRS, EU Taxonomy, CSDDD and LkSG, GRI Standards, CDP, TCFD, national policy alignment (SEBI and BRSR), regulatory impact assessment, briefing materials"
+    },
+    {
+      "category": "Tools",
+      "items": "Microsoft 365 (Excel, PowerPoint, SharePoint), Google Workspace, Power BI, osapiens, SAP, HubSpot, Dynamics 365, SQL, Python"
+    }
+  ],
+  "certifications": [
+    "Agile - Cognizant",
+    "Climate & Sustainability - Boston Consulting Group",
+    "Climate-related Financial Disclosures - CDP"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional (B2) | Hindi - Native"
+  ],
+  "footer": "Berlin, Germany | Available 4 days per week from mid-September 2026 | Valid German work and residence permit"
+}

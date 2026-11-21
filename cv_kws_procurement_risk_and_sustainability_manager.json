@@ -1,0 +1,126 @@
+{
+  "contact": {
+    "location": "Berlin, Germany",
+    "phone": "+49 172 6568115",
+    "email": "nikkhilsehgal@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/nikkhil-sehgal-a68577146/"
+  },
+  "profile": "Sustainability and compliance professional with over four years in supplier due diligence, third-party risk and responsible sourcing regulation across international organisations. Pairs LkSG and CSDDD due diligence, supplier ESG assessment and audit with the platforms and controls that carry them, from osapiens and SAP to risk registers and reporting for senior management. Implemented group-wide supply chain due diligence at a DAX-listed group, extending it to international subsidiaries and tracking completion entity by entity.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd.",
+      "location": "Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Advise clients on responsible sourcing and international supply chain regulation, including the EU Conflict Minerals Regulation, EUDR, REACH, PPWR and the Green Claims Directive, and map CBAM reporting duties against covered goods at the importer interface",
+        "Issue supplier data requests for material-level inputs and validate the returns into BOM-based product carbon footprints for manufactured goods across building materials, automotive components and textiles",
+        "Manage ESG data collection, validation and consolidation across Scope 1, 2 and 3 on GHG Protocol methodology, and track sustainability KPIs to audit-ready standard",
+        "Model EPR fee and cost exposure market by market in Excel, converting packaging regulation into the commercial impact each market carries",
+        "Pilot new compliance and data collection processes with a single client or product line, then extend them across the wider portfolio once the approach holds"
+      ]
+    },
+    {
+      "company": "TUI AG",
+      "location": "Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Implemented CSDDD and LkSG supplier due diligence on the osapiens platform, coordinating rollout directly with international group subsidiaries and tracking completion entity by entity",
+        "Assessed suppliers against ESG criteria through desk-based review of questionnaires and supporting documentation, and took part in on-site supplier audits alongside the responsible functions",
+        "Maintained the supply chain risk register and reported risk findings and regulatory developments to senior leadership with recommendations for action",
+        "Evaluated supplier human rights risk and tracked remediation and improvement plans to closure, and contributed to the group's published human rights and modern slavery disclosure",
+        "Documented supplier ESG performance across EcoVadis, SAQ and Integrity Next questionnaires",
+        "Built and steered a cross-functional project team across compliance, risk, legal, IT and supply chain, setting deliverables and holding contributors to deadlines in agile cycles",
+        "Designed the sustainability internal control system, documenting the processes, SOPs and roles and responsibilities behind each regulatory requirement across functions and entities",
+        "Delivered CSDDD, human rights and ISO 14001 training as e-learning modules on the SAP LMS, supporting change management through the due diligence rollout",
+        "Consolidated non-financial KPIs group-wide from SAP into Power BI dashboards, drawing data from multiple business units and legal entities"
+      ]
+    },
+    {
+      "company": "CDP Worldwide",
+      "location": "Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Served as primary point of contact for 150+ organisations globally, resolving disclosure, methodology and invoicing queries across diverse organisation types",
+        "Owned ESG data collection, validation and quality tracking on the disclosure platform, and monitored submission coverage across the user base",
+        "Established repeatable processes and controls for organisations of differing size, sector and reporting maturity"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd.",
+      "location": "Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Automated data processing in Python for a GRI-aligned reporting platform, cutting manual effort by 40 percent, and wrote the SQL validation rules behind its data systems",
+        "Produced training materials and risk assessments for client teams across a B2B ESG reporting portfolio"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative",
+      "location": "New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Evaluated 53 consortium members' engagement with 17 SDGs across 5 countries, benchmarking members against one another and documenting GRI-BRSR linkage for SEBI alignment",
+        "Chaired recurring member meetings across differing mandates and presented GRI Standards at the Bombay, Colombo and Dhaka stock exchanges"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations",
+      "location": "Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Conducted HSE site audits and risk assessments across 15+ projects worth over EUR 20M, issuing non-conformance reports and tracking corrective actions to closure"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universitaet Berlin, Germany",
+      "details": [
+        "Grade 1.6 (Distinction). Coursework in COSO and ISO 31000 risk frameworks, environmental law, data analysis, statistical methods and SQL"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (5-year professional degree)",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": [
+        "Contract management, land use and urban planning, construction technology"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Responsible Sourcing and Third-Party Risk",
+      "items": "Procurement sustainability and responsible sourcing, CSDDD and LkSG supply chain due diligence regulations, supplier ESG assessment, desk-based supplier review and on-site supplier audits, supplier risk management and risk monitoring, supplier human rights risk and remediation tracking, supplier standards and questionnaire documentation, osapiens, EcoVadis, SAQ, Integrity Next, EU Conflict Minerals Regulation, EUDR, REACH, CBAM at the importer interface, modern slavery and human rights disclosure"
+    },
+    {
+      "category": "Risk Management and Governance",
+      "items": "Risk assessment methodologies, risk registers and risk reporting to senior management, impact, risk and opportunity scoring against severity, likelihood and financial magnitude, COSO and ISO 31000, ESG compliance and non-financial internal control system design, continuous improvement of risk processes and supplier standards, process documentation and SOPs, roles and responsibilities across functions and entities, third-party assurance, evidence packs and audit trails"
+    },
+    {
+      "category": "Systems, Data and Analysis",
+      "items": "SAP including MM purchasing and non-financial KPI consolidation, SAP LMS, osapiens, Power BI dashboards, SQL, advanced Excel cost and fee modelling, Python, Jira, Confluence, Microsoft 365"
+    },
+    {
+      "category": "Stakeholder Management and Delivery",
+      "items": "Cross-functional programme steering across compliance, risk, legal, IT and supply chain, international subsidiary coordination, senior leadership reporting and recommendations, training design and e-learning delivery, change management, workshop facilitation, project management, CSRD and ESRS, EU Taxonomy, TCFD"
+    }
+  ],
+  "certifications": [
+    "Climate-related Financial Disclosures - CDP",
+    "Climate Change & Sustainability - EY",
+    "Introduction to ESG - Corporate Finance Institute"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional (B2) | Hindi - Native"
+  ],
+  "footer": "Valid German work and residence permit | Available immediately"
+}

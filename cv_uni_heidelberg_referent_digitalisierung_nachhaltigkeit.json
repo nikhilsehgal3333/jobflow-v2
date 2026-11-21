@@ -1,0 +1,117 @@
+{
+  "company": "Universitaet Heidelberg",
+  "role": "Referent Digitalisierung und Nachhaltigkeit",
+  "format": "preferred",
+  "language": "de",
+  "profile": "Sechs Jahre Erfahrung an der Schnittstelle von Nachhaltigkeit und digitalen Systemen, davon zwei Jahre in der Zuarbeit für die Leitungsebene eines börsennotierten Konzerns. Recherchiert fachliche und regulatorische Entwicklungen eigenständig, bereitet sie schriftlich als Entscheidungsgrundlage auf und verfolgt vereinbarte Maßnahmen bis zum Abschluss nach. Baute ein bereichsübergreifendes Projektteam aus fünf Fachbereichen auf und erstellte die Analysen und Empfehlungen, auf deren Grundlage die Leitungsebene entschieden hat.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "Januar 2026 - heute",
+      "title": "LCA & Sustainability Consultant (Werkvertrag)",
+      "bullets": [
+        "Recherchiere regulatorische Entwicklungen in der EU laufend und bereite sie als schriftliche Entscheidungsgrundlage für die Leitung von Kundenorganisationen auf",
+        "Erstelle Analysen und Berichte zu Klima- und Nachhaltigkeitsthemen und stelle die Ergebnisse in Präsentationen dar",
+        "Begleite Organisationen durch regulatorisch dichte Verfahren und übersetze Anforderungen in konkrete Umsetzungsschritte"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Deutschland",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Werkstudium)",
+      "bullets": [
+        "Konzipierte und steuerte ein KI-gestütztes Assistenzsystem für Nachhaltigkeitsfragen bis zum Proof of Concept und gestaltete die Prompt- und Retrieval-Logik dahinter",
+        "Führte die Einführung einer digitalen Plattform für Sorgfaltspflichten ein und stimmte die Umsetzung mit internationalen Konzerngesellschaften ab",
+        "Baute ein bereichsübergreifendes Projektteam aus Compliance, Risiko, Recht, IT und Einkauf auf, legte die Arbeitspakete fest und hielt die Beteiligten an Fristen",
+        "Stellte Analysen und regulatorische Entwicklungen der Leitungsebene vor und erstellte die Entscheidungspapiere mit den Empfehlungen",
+        "Dokumentierte Prozesse, Arbeitsanweisungen und Zuständigkeiten und sicherte damit Ergebnisse über einzelne Termine hinaus",
+        "Erhob, validierte und konsolidierte nichtfinanzielle Kennzahlen konzernweit über mehrere Fachbereiche und Gesellschaften, gestützt auf SAP und Power BI",
+        "Entwickelte Schulungen und E-Learnings und führte sie für Mitarbeitende weltweit ein"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Deutschland",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Werkstudium)",
+      "bullets": [
+        "Betreute über 150 Organisationen weltweit als erste Ansprechperson und klärte Fragen zu Methodik, Daten und Fristen",
+        "Unterstützte den CDP-Workshop in Warschau und führte Feedbackgespräche mit teilnehmenden Organisationen"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "März 2023 - März 2024",
+      "title": "Product Manager / Sustainability Consultant (Werkvertrag)",
+      "bullets": [
+        "Verantwortete das Produktmanagement einer B2B-Softwareplattform von der Konzeption bis zur Einführung, einschließlich Anforderungsaufnahme und Abnahmetests",
+        "Automatisierte die Datenverarbeitung mit Python und senkte den manuellen Aufwand um 40 %",
+        "Legte eine wiederverwendbare Vorlagen- und Textbibliothek an und verkürzte damit die Bearbeitungszeit wiederkehrender Unterlagen"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | Neu-Delhi, Indien",
+      "dates": "März 2022 - Februar 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Leitete wiederkehrende Sitzungen eines Konsortiums mit 53 Mitgliedern, erstellte die Tagesordnungen, moderierte zwischen unterschiedlichen Mandaten und führte Maßnahmen zum Abschluss",
+        "Verfasste Mitglieder-Newsletter und Politik-Updates und hielt 53 Organisationen zu regulatorischen Entwicklungen auf Stand",
+        "Untersuchte die Berichtspraxis in Indien, Sri Lanka und Bangladesch und dokumentierte die Verknüpfung nationaler Vorgaben mit globalen Standards",
+        "Hielt Fachvorträge an den Börsen von Bombay, Colombo und Dhaka und organisierte referentengeführte Lernformate"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, Indien",
+      "dates": "Juni 2020 - Februar 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Führte ein Team von 4 Personen und erarbeitete technische und wirtschaftliche Bewertungen für über 15 Projekte mit mehr als 20 Mio. Euro Volumen",
+        "Erstellte Präsentations- und Visualisierungsunterlagen für Auftraggeber und Behörden"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "Oktober 2023 - März 2025",
+      "institution": "Technische Universität Berlin, Deutschland",
+      "details": [
+        "Wissenschaftlicher Universitätsabschluss (Master). Note 1,6 (mit Auszeichnung)",
+        "Masterarbeit zu den finanziellen Auswirkungen der EU-Nachhaltigkeitsregulierung, gestützt auf Umfragedesign, quantitative Analyse und Regression in Python"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), fünfjähriges Vollzeitstudium",
+      "dates": "August 2016 - Juni 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, Neu-Delhi, Indien",
+      "details": [
+        "Schwerpunkte: Energiesysteme, Bauphysik, Stadt- und Quartiersentwicklung"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Entscheidungsvorbereitung und Gremienarbeit",
+      "items": "Eigenständige Informations- und Themenrecherche, schriftliche Entscheidungsgrundlagen, Analysen und Berichte, Zuarbeit zu Entscheidungspapieren, Vorbereitung und Moderation wiederkehrender Sitzungen, Tagesordnungen, Ergebnissicherung und Nachverfolgung von Maßnahmen, Terminkoordination, Zusammenarbeit über Bereichsgrenzen hinweg"
+    },
+    {
+      "category": "Digitalisierung",
+      "items": "Einführung digitaler Plattformen, Produktmanagement für B2B-Software, Anforderungsaufnahme und Abnahmetests, KI-gestützte Assistenzsysteme mit Prompt- und Retrieval-Design bis zum Proof of Concept, Datenmanagement und Automatisierung, SQL, Python, Power BI"
+    },
+    {
+      "category": "Nachhaltigkeit",
+      "items": "CSRD und ESRS, EU-Taxonomie, doppelte Wesentlichkeitsanalyse, THG-Bilanzierung nach GHG Protocol, Ökobilanzierung, Klimaberichterstattung nach CDP und TCFD, Kreislaufwirtschaft, EU-Umweltregulatorik, Nachhaltigkeitsstrategie"
+    },
+    {
+      "category": "Kommunikation und Visualisierung",
+      "items": "Präsentationen und Fachvorträge, Newsletter und Fachtexte, Schulungen und Lernformate, Moderation zwischen unterschiedlichen Interessen, grafische Visualisierung mit Adobe Creative Suite und Power BI, Präsentationsdesign, Microsoft 365, Google Workspace, Projektmanagement-Tools"
+    }
+  ],
+  "certifications": [
+    "Agile Methodology - Cognizant",
+    "Climate & Sustainability - Boston Consulting Group (BCG)"
+  ],
+  "languages": [
+    "Deutsch - Gute Kenntnisse (B2) | Englisch - Fließend (C1) | Hindi - Muttersprache"
+  ],
+  "footer": "Berlin, Deutschland | Umzug nach Heidelberg möglich | Verfügbar zum 01.10.2026 | Gültige deutsche Arbeits- und Aufenthaltserlaubnis"
+}

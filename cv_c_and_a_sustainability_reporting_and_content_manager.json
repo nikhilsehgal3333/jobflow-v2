@@ -1,0 +1,131 @@
+{
+  "company": "C&A",
+  "role": "Sustainability Reporting and Content Manager",
+  "format": "preferred",
+  "language": "en",
+  "profile": "Sustainability reporting professional with 4+ years in CSRD, GRI and ESG reporting and sustainability communication across corporate, consulting and non-profit roles. Combines CSRD reporting and external assurance preparation with green-claims guidance and content coordination across Corporate Communications, Marketing and Legal. Prepared 2+ GRI-referenced sustainability reports through to sign-off and consolidated ESG data across 5+ group entities at TUI.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Prepare GRI-referenced sustainability reports for clients through to sign-off, building the content index and coordinating the design agency on proofs",
+        "Substantiate clients' product environmental claims with LCA and EPD evidence, advising on greenwashing risk under the Empowering Consumers Directive",
+        "Deliver sustainability content for a client's marketing materials alongside its marketing team",
+        "Monitor legislative developments in a regulatory tracker covering CSRD, ESRS and the EU Taxonomy, with deadlines and impact per client",
+        "Led a client's CSRD double materiality assessment, scoring the IRO long list and taking the ESRS mapping to management sign-off",
+        "Calculated the Scope 1-3 corporate carbon footprint for an apparel brand and ran supplier due diligence across its mills and dyehouses",
+        "Direct a team of 6+ analysts and quality-check their deliverables before release"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Aligned the group's annual sustainability reporting with CSRD requirements and ESRS E1 alongside the senior disclosure team",
+        "Consolidated and validated non-financial ESG data across 5+ group entities in SAP and Power BI",
+        "Prepared the working papers, evidence packs and audit trails for the external assurance process, coordinating with the assurance provider",
+        "Agreed the wording of sustainability claims with Legal and wrote green-claims communication guidelines that colleagues used",
+        "Trained internal stakeholders on sustainability communication requirements and responsible communication practices, and rolled out an awareness campaign",
+        "Delivered content on sustainability communication topics for the group's channels with the Corporate Communications team",
+        "Designed the sustainability internal control system, documenting reporting processes, SOPs and responsibilities against assurance requirements",
+        "Presented regulatory developments to senior leadership and the sustainability steering committee, then tracked decisions to closure",
+        "Built and steered a 5-function team across Compliance, Risk, Legal, IT and supply chain to roll out LkSG due diligence for 500+ suppliers"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Served as primary contact for 150+ disclosing organisations, owning their onboarding and support",
+        "Validated disclosure data on the CDP platform and tracked submission coverage and data quality"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Authored the methodology sections of 5+ proposals, turning GRI-aligned reporting logic into client-facing narrative",
+        "Created a reusable content library and templates that kept messaging consistent across contributors",
+        "Cut manual data processing by 40% through Python automation on a GRI-aligned reporting platform"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Steered a communications campaign end to end with GRI's communications team, setting the messaging, channels, timeline and measurement",
+        "Wrote policy briefs and member newsletters that simplified complex ESG topics for different stakeholder groups",
+        "Presented the GRI Standards at 3 stock exchanges: Bombay, Colombo and Dhaka",
+        "Chaired recurring meetings of a 53-member consortium across 5 countries, facilitating between differing mandates"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Authored full Environmental Impact Assessment reports, consolidating specialist inputs on air, noise, water and ecology",
+        "Selected and managed a team of 4 interns, and advised on 15+ projects worth 20M+ euros"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universität Berlin, Germany",
+      "details": [
+        "Grade 1,6 (good). Thesis on the financial implications of CSRD in the construction industry: mapped GRI against ESRS and IFRS S1 and S2 against GRI, and drafted IFRS S1 and S2 disclosure content"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), five-year professional degree",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": [
+        "Coursework in environmental control systems, energy systems and construction technology"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Sustainability Reporting Frameworks",
+      "items": "CSRD and ESRS, double materiality, GRI Standards and content index, EU Taxonomy (turnover, CapEx and OpEx KPIs), ESRS XBRL taxonomy mapping, CDP, TCFD, TNFD, Scope 1-3 GHG accounting"
+    },
+    {
+      "category": "Assurance and Data Governance",
+      "items": "Limited and reasonable assurance, assurance working papers and audit trails, sustainability internal control system, non-financial ESG data and KPI frameworks, monitoring of legislative developments"
+    },
+    {
+      "category": "Communication and Claims",
+      "items": "Stakeholder communication, Empowering Consumers Directive and green claims, claim substantiation with LCA and EPD evidence, claims guidelines, communication campaigns, newsletters, social channel and SEO, report production to corporate design standards, English style guides"
+    },
+    {
+      "category": "Supply Chain and Product Regulation",
+      "items": "CSDDD, German Supply Chain Act (LkSG), textile supply chain due diligence, ESPR and Digital Product Passport, PPWR and EPR"
+    },
+    {
+      "category": "Project and Stakeholder Management",
+      "items": "Project management across multiple priorities and timelines, stakeholder management, cross-functional teams, steering committee reporting, agency coordination"
+    },
+    {
+      "category": "Tools",
+      "items": "SAP, Power BI, Excel, Python, SQL, Adobe InDesign, Jira, Confluence, Microsoft 365, Google Workspace"
+    }
+  ],
+  "certifications": [
+    "Climate-related Financial Disclosures - CDP",
+    "Climate & Sustainability - Boston Consulting Group (BCG)",
+    "Climate Change & Sustainability - EY"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional (B2) | Hindi - Native"
+  ],
+  "footer": "Valid German work and residence permit | Berlin-based, open to relocation to Düsseldorf | Available immediately"
+}

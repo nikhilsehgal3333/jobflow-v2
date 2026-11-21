@@ -1,0 +1,37 @@
+{
+  "name": "Nikhil Sehgal",
+  "contact": {
+    "location": "Berlin, Deutschland",
+    "phone": "+49 172 6568115",
+    "email": "nikkhilsehgal@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/nikkhil-sehgal-a68577146/"
+  },
+  "recipientAddress": [
+    "Stadt Ulm",
+    "Zentrales Gebäudemanagement",
+    "Marktplatz 1",
+    "89073 Ulm"
+  ],
+  "date": "Berlin, 9. November 2026",
+  "subject": "Bewerbung für die Projektsteuerung von Großbauvorhaben",
+  "salutation": "Sehr geehrte Damen und Herren,",
+  "intro": "für die Projektsteuerung kommunaler Großbauvorhaben im Zentralen Gebäudemanagement bringe ich ein Architekturstudium, Erfahrung auf Bauherrenseite und ein sicheres Handwerkszeug für Kosten, Termine und Risiken mit. Besonders reizt mich die Vielfalt Ihrer rund 350 Liegenschaften, von Schulen und Kitas bis zu Theater und Festungsanlagen.",
+  "experiences": "Bei Holistics Urban Innovations habe ich über 15 Hochbauprojekte mit mehr als 20 Mio. Euro Volumen begleitet, das größte mit über 5 Mio. Euro Baukosten, und war bei mehreren Teil des Projektsteuerungsteams privater Bauherren. Nach dem MBA in Building Sustainability an der TU Berlin (Note 1,6) ermittle ich heute bei KarbonWise für über 10 Gebäude privater und öffentlicher Eigentümer Sanierungsmaßnahmen mit CO2- und Kostenwirkung.",
+  "qualitiesLead": "In Ihr Team kann ich von Beginn an zwei Stärken einbringen:",
+  "skills": [
+    {
+      "name": "Steuerung von Kosten, Terminen und Risiken",
+      "body": "Gute Projektsteuerung erkennt Abweichungen, bevor sie teuer werden. Für private Bauherren habe ich bei Holistics die Ist-Kosten laufend dem Budget gegenübergestellt, Terminpläne in Primavera P6 geführt, Nachträge nach Kosten- und Terminwirkung bewertet und eine Risikoliste mit Gegenmaßnahmen fortgeschrieben. Mit Entscheidungsvorlagen zu Kosten, Terminen und Qualität habe ich die Projektleitung bei wesentlichen Entscheidungen unterstützt."
+    },
+    {
+      "name": "Koordination der Projektbeteiligten",
+      "body": "Projektsteuerung heißt, viele Interessen zusammenzuführen. Bei Holistics habe ich Baubesprechungen mit Fachplanern und Firmen geleitet, Preise und Zahlungsbedingungen mit Baufirmen verhandelt und Behörden zu einem staatlichen Hotelprojekt unterrichtet. Bei der Global Reporting Initiative habe ich Sitzungen von 53 Mitgliedsorganisationen geleitet und zwischen unterschiedlichen Interessen bis zu gemeinsamen Maßnahmen vermittelt."
+    }
+  ],
+  "extraParagraphs": [
+    "Das AHO-Leistungsbild und die HOAI-Leistungsphasen sind mir bekannt. Ich ziehe gerne nach Ulm, besitze eine deutsche Arbeitserlaubnis und kann kurzfristig beginnen."
+  ],
+  "closing": "Gerne erläutere ich Ihnen meine Erfahrung in einem persönlichen Gespräch.",
+  "signoff": "Mit freundlichen Grüßen",
+  "enclosures": "Anlagen: Lebenslauf, Zeugnisse und Nachweise"
+}

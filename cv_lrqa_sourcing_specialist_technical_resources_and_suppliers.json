@@ -1,0 +1,121 @@
+{
+  "company": "LRQA",
+  "role": "Sourcing Specialist Technical Resources and Suppliers",
+  "format": "preferred",
+  "language": "en",
+  "contact": {
+    "location": "New Delhi, India",
+    "phone": "+91 7042509790",
+    "email": "nikkhilsehgal@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/nikkhil-sehgal-a68577146/"
+  },
+  "profile": "Sourcing and supplier management professional with six years across vendor qualification, contract negotiation and technical resource coordination in international, multi-site environments. Sources and screens technical specialists and subcontractors, negotiates and renews supplier contracts on price, payment terms and risk coverage, and maintains resource databases covering competencies, certifications, availability and rate cards. Assessed and scored suppliers against defined criteria and tracked performance and remediation to closure across a global supply base.",
+  "experience": [
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Sourced and engaged freelance specialists, consultants and subcontractors across air, noise, water, ecology and engineering disciplines, building a talent pool drawn on across concurrent projects",
+        "Screened candidate applications, ran interviews and selected the team of 4 managed from proposal through delivery, then coached them to work independently",
+        "Negotiated subcontractor and consultant contracts on price, payment terms and risk coverage, and secured best price on tendered packages",
+        "Onboarded new vendors through qualification and documentation onto the approved supplier list, and handled renewals and the exit of non-performing suppliers",
+        "Maintained the resource database covering consultant competencies, certifications, availability and rate cards, and benchmarked rates against the market",
+        "Prepared pre-feasibility studies, technical and financial evaluations and cost estimates across 15+ projects worth 20M+ euros",
+        "Ran site audits and risk assessments, raised non-conformities and tracked corrective actions through to closure",
+        "Coordinated design, engineering and client teams across disciplines, keeping concurrent projects to programme"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Assessed suppliers against defined criteria from questionnaires and supporting documentation and scored the outcome, and took part in on-site supplier audits",
+        "Developed supplier scorecards and ran performance reviews, tracking remediation and improvement actions through to verified closure",
+        "Maintained the supply chain risk register and reported supplier risk findings and mitigation plans monthly to senior management",
+        "Built and steered a cross-functional team across Compliance, Risk, Legal, IT and supply chain, and coordinated implementation with international group subsidiaries"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Owned tender and RFP responses end to end, pricing submissions and setting the commercial terms attached to them",
+        "Managed the opportunity pipeline with weekly forecasting in Dynamics 365 and HubSpot, and built the reports and dashboards tracking engagement and conversion",
+        "Sized target markets and mapped competitive landscapes, and ran win/loss reviews that reset qualification and response tactics"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Commission and follow up external testing laboratories, and file the resulting test reports as compliance and certification evidence",
+        "Advise clients across industrial, building materials and automotive manufacturing on regulatory obligations and the certification evidence each product has to carry"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Served as primary point of contact for 150+ organisations globally across multiple time zones, owning onboarding, query resolution and data quality through a full cycle"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Evaluated 53 consortium members across 5 countries, handled membership renewals and chaired the recurring meetings through to agreed actions",
+        "Developed partnerships with corporates, governments and industry associations across South Asia, and researched market and policy trends across India, Sri Lanka and Bangladesh"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universität Berlin, Germany",
+      "details": [
+        "Grade 1.6 (Distinction). Coursework in data analysis and statistical methods, SQL, contract and cost management"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), five-year professional technical degree",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": [
+        "Technical coursework: construction technology, building services, structural and environmental systems, Baustofflehre, contract management"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Sourcing and Resource Management",
+      "items": "Direct sourcing of technical specialists, freelancers and subcontractors, recruitment and selection, candidate screening and interviewing, talent pipeline development, talent and rate benchmarking, LinkedIn, referral and network sourcing, professional associations and industry networks, market mapping, resource and skills databases covering competencies, certifications, availability and rate cards, rate and compensation benchmarking, competency matrices, onboarding and compliance documentation"
+    },
+    {
+      "category": "Supplier and Contract Management",
+      "items": "Supplier qualification, screening and evaluation, vendor onboarding onto approved supplier lists, contract negotiation on price, payment terms and risk coverage, renewals and exit procedures for non-performing suppliers, supplier scorecards and performance reviews, supplier risk registers, remediation and improvement tracking, on-site supplier audit participation, EcoVadis, SAQ and Integrity Next"
+    },
+    {
+      "category": "Commercial and Analytical",
+      "items": "Cost optimisation, negotiation and influencing, financial awareness, cost and cash-flow modelling in Excel, tender pricing and commercial terms, market sizing and competitive landscape mapping, peer and competitor benchmarking, market intelligence, pipeline forecasting, win/loss analysis, strategic thinking"
+    },
+    {
+      "category": "Systems, Reporting and Compliance",
+      "items": "Power BI dashboards, advanced Excel and Microsoft Office, SQL, SAP and SAP MM purchasing, Dynamics 365, HubSpot, osapiens, Jira, Confluence, monthly reporting to leadership, process improvement, SOPs and work instructions, risk management, quality and compliance management, audit readiness of supplier documentation, data privacy awareness, cross-cultural stakeholder management"
+    }
+  ],
+  "certifications": [
+    "Agile - Cognizant",
+    "Introduction to ESG - Corporate Finance Institute (CFI)"
+  ],
+  "languages": [
+    "English - Fluent (C1) | Hindi - Native | German - Professional (B2)"
+  ],
+  "footer": "New Delhi, India | Open to relocation to Mumbai | Immediately available | Indian national with unrestricted right to work in India"
+}

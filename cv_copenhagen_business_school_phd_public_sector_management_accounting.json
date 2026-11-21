@@ -1,0 +1,131 @@
+{
+  "company": "Copenhagen Business School",
+  "role": "PhD Public Sector Management Accounting",
+  "format": "preferred",
+  "language": "en",
+  "profile": "Sustainability reporting and performance measurement practitioner with 4+ years of experience, including KPI, target and internal control work at a DAX-listed group and for consultancy clients. Experienced in management accounting and control practices, non-financial information for senior decision-makers and work with public sector stakeholders, and in survey, regression and text-as-data research methods. Cut manual processing of reporting data by 40% through Python automation on a GRI-aligned reporting platform.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Develop sustainability KPIs for clients to audit-ready standard and report them through client KPI dashboards",
+        "Track client decarbonisation measures through implementation by owner, status and achieved reduction",
+        "Assess 10+ buildings for 4+ real-estate clients against CRREM 1.5 and 2 degree pathways, with the CO2 and cost effect of each retrofit measure",
+        "Run a work package in an EU LIFE project, authoring deliverables to the funder and coordinating consortium partners",
+        "Direct 6+ analysts on client engagements and quality-check their deliverables"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Designed the sustainability internal control system (IKS), with process documentation, SOPs and responsibilities split across functions and entities",
+        "Planned annual ESG KPI targets and data-collection cycles, and tracked attainment against reduction pathways",
+        "Collected, validated and consolidated group-wide non-financial KPIs from several functions and entities in SAP and Power BI",
+        "Calculated EU Taxonomy turnover, CapEx and OpEx KPIs from finance data, and classified activities for eligibility and alignment",
+        "Presented analysis and regulatory developments to senior leadership and the sustainability steering committee, then tracked its decisions to closure",
+        "Steered a 5-function project team and rolled out regulatory requirements across 5+ subsidiaries, tracking completion by entity",
+        "Compared the methodologies of 5 ESG rating providers, including S&P CSA, MSCI and Sustainalytics",
+        "Scoped and drove an LLM ESG assistant proof of concept, designing its prompts and retrieval"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Answered disclosure queries as primary contact for 150+ organisations worldwide, escalating open issues to closure"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Cut manual data processing by 40% through Python automation",
+        "Built the SQL queries and validation rules behind a GRI-aligned reporting platform",
+        "Priced 5+ tender bids from cost models and cash-flow scenarios, and set their commercial terms",
+        "Analysed cohort retention and churn across a book of 5+ client accounts"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Evaluated 53 consortium members' engagement with 17 SDGs across 5 countries, including gender and SDG 5 coverage",
+        "Researched sustainability reporting trends and regulation in India, Sri Lanka and Bangladesh through structured literature reviews",
+        "Facilitated the GRI-BRSR linkage documentation, aligning the GRI Standards with SEBI disclosure requirements",
+        "Designed training curricula and delivered capacity building to ministries, regulators and other public sector bodies",
+        "Wrote policy briefs and technical summaries for non-specialist audiences, and briefed government delegates",
+        "Presented the GRI Standards at 3 stock exchanges: Bombay, Colombo and Dhaka"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Architect",
+      "bullets": [
+        "Evaluated 15+ projects worth 20M+ euros technically and financially, preparing cost and budget estimates and investment case inputs",
+        "Compared actual cost with project budgets and reported the variances",
+        "Checked invoices from 20+ contractors across 6+ sites against agreed work and resolved discrepancies before approval",
+        "Authored full EIA reports for permit submissions, dealt with municipal counterparts and briefed authorities on a government hotel project"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universität Berlin, Germany",
+      "details": [
+        "Overall grade 1,6 (good); master's thesis graded 1,5 (very good)",
+        "Thesis: Assessing the Financial Implications of CSRD in the Construction Industry: Evaluating E1-G1 Topics. Survey design, quantitative analysis and regression in Python",
+        "Within the thesis, mapped IFRS S1 and S2 against GRI and GRI against ESRS, and drafted IFRS S1 and S2 disclosure content",
+        "Coursework in data analysis, statistical methods, SQL, COSO internal control, ISO 31000 risk management and environmental law"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), five-year professional degree",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": []
+    }
+  ],
+  "extras": [
+    {
+      "label": "TEACHING",
+      "bullets": [
+        "Tutored students on the B.Arch at GGSIPU and the MBA at TU Berlin, including one course run independently",
+        "Gave a guest lecture at TU Berlin presenting the results of the MBA thesis",
+        "Built 3 compliance e-learning modules for TUI staff on ISO 14001, CSDDD and human rights, delivered via SAP LMS"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Management Accounting and Control",
+      "items": "KPI design, target setting and performance management, internal control systems (IKS, COSO), process documentation and SOPs, budgeting and cost estimation, variance reporting, cost and cash-flow models, benchmarking"
+    },
+    {
+      "category": "Financial and Non-financial Reporting",
+      "items": "CSRD, ESRS, EU Taxonomy KPIs, GRI, IFRS S1 and S2 (thesis), TCFD, CDP, GHG Protocol, assurance working papers"
+    },
+    {
+      "category": "Research Methods",
+      "items": "Python and SQL, survey design, regression analysis, structured literature reviews, stakeholder interviews, web scraping and crawling, text classification and embeddings, LLM-based extraction, network analysis"
+    }
+  ],
+  "certifications": [
+    "Climate-related Financial Disclosures - CDP",
+    "Introduction to ESG - Corporate Finance Institute",
+    "Climate Change & Sustainability - EY"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional (B2) | Hindi - Native"
+  ],
+  "footer": "Berlin-based, open to relocation to Copenhagen | Valid German work and residence permit | Available immediately"
+}

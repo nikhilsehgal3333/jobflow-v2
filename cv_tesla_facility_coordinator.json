@@ -1,0 +1,120 @@
+{
+  "company": "Tesla",
+  "role": "Facility Coordinator",
+  "format": "preferred",
+  "language": "en",
+  "profile": "Site and vendor operations professional with six years across commercial building projects, construction sites and building-performance consulting. Core strengths in repair and maintenance coordination, vendor management against SLAs and KPIs, and site standards and compliance checks. Ran the vendor side of 6+ sites at once, coordinating 20+ contractors from repair request through invoice approval to inspection close-out.",
+  "experience": [
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Coordinated 20+ external contractors and vendors, logging facility repair and defect requests and chasing each one to a completed fix",
+        "Scheduled recurring and planned services across 6+ sites, and acted as the day-to-day contact for building management and housekeeping",
+        "Checked vendor invoices against agreed work before approving them for payment, and took discrepancies back to the vendor for correction",
+        "Held vendors to agreed service levels and KPIs, renewing contracts that performed and exiting suppliers that did not",
+        "Onboarded new vendors through qualification and documentation onto the approved supplier list",
+        "Negotiated supplier and service contracts on price, payment terms and risk coverage",
+        "Ran site visits and inspections against drawings and quality standards, logged NCRs in a QHSE reporting system and followed open items to verified closure",
+        "Kept equipment and permit registers current against regulatory requirements, chasing test intervals, certificate expiry and permit conditions to closure",
+        "Hosted external auditors and certification bodies through third-party audits",
+        "Chaired site progress meetings with contractors and consultants, wrote the minutes that kept stakeholders informed and reported cost variances against budget",
+        "Advised on 15+ commercial, hospitality and residential projects worth 20M+ euros, and selected and led a team of 4 interns"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Validate metered energy and consumption data for 10+ buildings across 4+ real-estate clients, catching gaps, outliers and unit errors",
+        "Derive retrofit and operating measures per building with their CO2 and cost effect, then track each through implementation by status and owner",
+        "Flag slipping deliverables early and agree recovery plans and revised timelines with the client",
+        "Calculate carbon footprints for automotive component suppliers and industrial clients, and advise on electric vehicles"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Built supplier scorecards, ran formal performance reviews and took part in on-site supplier audits",
+        "Configured the osapiens supplier platform to the group's requirements and loaded cleansed data for 500+ suppliers through templates",
+        "Steered a cross-functional team across Compliance, Risk, Legal, IT and supply chain, tracking rollout entity by entity across 5+ group companies",
+        "Presented to the sustainability steering committee and tracked its decisions and actions to closure across functions"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Triaged queries from 150+ organisations globally as their primary point of contact, resolving each or escalating it to internal teams and closing it out",
+        "Resolved finance, invoice and payment queries for disclosing companies",
+        "Contributed to the CDP-hosted stakeholder workshop in Warsaw"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Cut manual data processing by 40% through Python automation",
+        "Took client-reported platform issues to engineering and tracked each to a fix across 5+ client accounts"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Chaired recurring meetings of a 53-member consortium across 5 countries, setting agendas and driving actions to closure"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universität Berlin, Germany",
+      "details": [
+        "Grade 1.6. Coursework in energy audits, ISO 50001 energy management, German and EU building regulation (GEG, EPBD), environmental law and ISO 31000 risk management"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), five-year professional degree",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": [
+        "Coursework in building services, construction technology, environmental control systems and contract management"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Facilities Management",
+      "items": "Facility requests, R&M and recurring-service issues, planned maintenance, triage, prioritisation and escalation, site visits and standards checks, NCRs and corrective actions, QHSE reporting systems, documentation and reporting, smaller project coordination, building management liaison"
+    },
+    {
+      "category": "Vendor Management",
+      "items": "Vendor onboarding and qualification, approved supplier lists, day-to-day vendor activity, contract negotiation, SLAs and KPIs, supplier scorecards and performance reviews, invoice approvals and resolving discrepancies, budget and cost variance tracking, contract renewals and supplier exit"
+    },
+    {
+      "category": "Compliance and Safety",
+      "items": "Equipment registers and inspection intervals, certificate expiry tracking, permit registers, hazardous substance registers, PPE management, risk assessments and toolbox talks, external audits and certification bodies, environmental compliance, energy audits, metered energy data"
+    },
+    {
+      "category": "Tools and Communication",
+      "items": "Microsoft Office (Excel, Word, PowerPoint, Outlook), Microsoft Teams, SAP, Power BI, MS Project, Jira, Confluence, clear written and verbal communication, working relationships with vendors, cross-functional partners and senior leadership"
+    }
+  ],
+  "certifications": [
+    "Climate & Sustainability - Boston Consulting Group (BCG)",
+    "Agile - Cognizant"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional (B2) | Hindi - Native"
+  ],
+  "footer": "Berlin, Germany | Valid German work and residence permit | Available immediately | Open to ~40% travel across Central and Eastern Europe"
+}

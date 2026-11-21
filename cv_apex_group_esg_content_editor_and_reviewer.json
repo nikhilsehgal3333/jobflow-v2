@@ -1,0 +1,128 @@
+{
+  "company": "Apex Group",
+  "role": "ESG Content Editor and Reviewer",
+  "format": "workday",
+  "language": "en",
+  "contact": {
+    "location": "New Delhi, India",
+    "phone": "+91 7042509790",
+    "email": "nikkhilsehgal@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/nikkhil-sehgal-a68577146/"
+  },
+  "profile": "ESG content and reporting specialist with 4+ years across sustainability report writing, ESG assessments and ratings, and review of client deliverables, in consulting, a listed group, a disclosure platform and a reporting NGO. Reviews complex analytical material for structure, logic and evidence, and checks ESG scores, questionnaires and data for consistency. Prepared 2+ GRI-referenced sustainability reports through to sign-off, and completed or reviewed 6+ fund ESG questionnaires for private-markets clients.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Prepare clients' GRI-referenced sustainability reports from content and data through to sign-off",
+        "Assemble the final report document and check design-agency proofs, marking up corrections to final layout",
+        "Run substantive reviews of colleagues' client-facing reports, covering structure, logic, evidence and conclusions as well as language",
+        "Check other analysts' ESG assessment scores and questionnaire answers for accuracy",
+        "Complete and review fund ESG questionnaires for private-markets clients",
+        "Led a client's CSRD double materiality assessment, scoring the IRO long list and mapping material topics to ESRS datapoints",
+        "Build the GRI content index, tracking which disclosures are covered and where evidence gaps sit",
+        "Direct teams of 6+ analysts on client engagements and quality-check their deliverables"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Compared 5 ESG rating methodologies, including S&P CSA, Sustainalytics, MSCI and ISS, and presented the findings to senior leadership",
+        "Documented EcoVadis, SAQ and Integrity Next questionnaires, and answered investor and rating-agency queries",
+        "Assessed suppliers against ESG criteria from questionnaires and evidence, and scored the outcome",
+        "Delivered the double materiality assessment alongside the senior disclosure team, through stakeholder interviews, surveys and workshops",
+        "Prepared the working papers, evidence packs and audit trails the external assurance provider tested against",
+        "Gathered and structured sustainability data and regulatory exposure for ESG due diligence on a corporate transaction",
+        "Scoped and drove an LLM assistant for CSRD and ESRS queries to proof of concept, designing its prompts and retrieval"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Served as primary contact for 150+ organisations globally, resolving methodology and data-quality queries",
+        "Validated disclosure data on the CDP platform, tracking submission coverage and data quality against deadlines",
+        "Analysed the newly launched integrated questionnaire modules, aligned to IFRS S2, to confirm each captured disclosure data accurately"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Copy-edited documents to English style guides and client terminology lists",
+        "Built a reusable content library, proposal templates and pitch decks that cut turnaround on repeat bids",
+        "Set up Word templates with heading and table styles, numbering and automatic tables of contents",
+        "Wrote SQL validation rules that caught incomplete and implausible entries on a GRI-aligned reporting platform"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Wrote policy briefs and technical summaries from scientific and technical literature for non-specialist audiences",
+        "Ran structured literature reviews on sustainability reporting trends across India, Sri Lanka and Bangladesh",
+        "Produced member newsletters and policy updates for a 53-member consortium across 5 countries",
+        "Trained companies on the GRI Standards at 3 stock exchanges: Bombay, Colombo and Dhaka"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Authored full EIA reports for hotels and commercial buildings, consolidating specialist inputs on air, noise, water and ecology",
+        "Advised on 15+ projects worth 20M+ euros across commercial, hospitality and institutional sectors"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universität Berlin, Germany",
+      "details": [
+        "Grade 1.6 on the German scale (good). Thesis on the financial implications of CSRD in the construction industry, using survey design and regression analysis"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), five-year professional degree",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": []
+    }
+  ],
+  "skills": [
+    {
+      "category": "Editorial and Review",
+      "items": "Content editing, substantive review of structure, logic, evidence and conclusions, copy-editing to UK and US English style guides, client terminology and templates, report writing, policy briefs and technical summaries, structured literature reviews, proofing to final layout, checks for factual inconsistencies, evidence gaps and data discrepancies"
+    },
+    {
+      "category": "Sustainability Knowledge",
+      "items": "CSRD and ESRS, double materiality, GRI Standards and content index, ESG risks and opportunities (IROs), ESG ratings (S&P CSA, MSCI, Sustainalytics, ISS, EcoVadis), sustainability due diligence (CSDDD, LkSG), ESG due diligence support, private-markets fund ESG questionnaires, SFDR entity-level and PAI indicators, TCFD, CDP, EU Taxonomy, GHG Protocol Scope 1-3"
+    },
+    {
+      "category": "ESG Assessment and Data",
+      "items": "Assessment scoring reviews, questionnaire checks, supplier ESG assessments, validation of findings and data, SQL validation rules, assurance working papers and audit trails"
+    },
+    {
+      "category": "Tools and Delivery",
+      "items": "Microsoft Word (templates and styles), Excel, PowerPoint, Adobe InDesign, AI-enabled tools for research, drafting, summarisation and quality checks, with independent validation of outputs, LLM prompt and retrieval design, Power BI, SAP, Python, Google Workspace, multiple deadlines and review cycles, global teams"
+    }
+  ],
+  "certifications": [
+    "Introduction to ESG - Corporate Finance Institute (CFI)",
+    "Climate-related Financial Disclosures - CDP",
+    "Climate Change & Sustainability - EY"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional (B2) | Hindi - Native"
+  ],
+  "footer": "Indian national | Open to relocation to Mumbai, Pune or Bangalore | Available immediately"
+}

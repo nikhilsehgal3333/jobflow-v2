@@ -1,0 +1,135 @@
+{
+  "company": "Toyota Material Handling",
+  "role": "Junior Spezialist Nachhaltigkeit",
+  "format": "preferred",
+  "language": "de",
+  "contact": {
+    "location": "Berlin, Deutschland",
+    "phone": "+49 172 6568115",
+    "email": "nikkhilsehgal@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/nikkhil-sehgal-a68577146/"
+  },
+  "profile": "Nachhaltigkeitsspezialist mit über vier Jahren Erfahrung in Datenmanagement, Nachhaltigkeitsberichterstattung sowie Energie- und Umweltmanagement in Beratung, Konzern und NGO. Kernthemen sind THG-Bilanzierung und KPI-Monitoring, Berichte nach GRI und ESRS sowie die Mitarbeit in ISO-Managementsystemen: Energiekennzahlen (EnPIs), Teilnahme an internen Audits und Schulungen zu ISO 14001. Erstellte 4+ Unternehmens-CO2-Bilanzen einschließlich Scope 3 und verkürzte die Datenerhebung um über 10 Prozent mit neuen Vorlagen, Datenprüfungen und einem Excel-Rechenmodell.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "Januar 2026 - heute",
+      "title": "LCA & Sustainability Consultant (freiberuflich)",
+      "bullets": [
+        "Berechne CO2-Bilanzen für Unternehmen und Produkte nach GHG Protocol und bewerte alle 15 Scope-3-Kategorien auf Relevanz",
+        "Verfolge den Energieverbrauch mehrerer Standorte anhand von Zählerdaten, plausibilisiere Verbrauchsdaten von 10+ Objekten und setze Reduktionsziele",
+        "Plane Dekarbonisierungsprojekte mit Einsparschätzung und Umsetzungsplan und verfolge die Maßnahmen nach Status, Verantwortlichen und erreichter Reduktion",
+        "Dokumentiere regulatorische Anforderungen je Kunde in einem Tracker zu CSRD, ESRS und EU-Taxonomie mit Status, Fristen und Auswirkungen",
+        "Beantworte ESG- und PCF-Anfragen von Kunden der Mandanten und bündle die Anforderungen mehrerer Kunden in einer Anforderungsliste",
+        "Werte Kundenverträge und Lieferantenkodizes auf ESG-Pflichten aus und fordere Lieferantendaten für Scope 3 und PCFs an",
+        "Entwickle prüfungssichere Nachhaltigkeits-KPIs, verfolge sie laufend und baue KPI-Dashboards für Kunden",
+        "Erstelle GRI-Berichte bis zur Freigabe und ordne GRI-Angaben in 4+ Kundenberichten den ESRS-Datenpunkten zu",
+        "Begleite Zertifizierungen wie das EU Ecolabel samt Multisite-Zertifizierung und berate 4+ Kunden zu Ökobilanzen, PCFs und EPDs",
+        "Steuere 6+ Analysten in Kundenprojekten und verfolge Stunden bzw. Honorare gegen das Budget"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Deutschland",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Werkstudium)",
+      "bullets": [
+        "Bereitete mit dem Disclosure-Team und externen Beratern die CSRD-Berichterstattung nach ESRS E1 vor und bewertete SBTi- und TCFD-Aussagen",
+        "Konsolidierte ESG-Daten der Konzerngesellschaften in SAP und forderte fehlende Daten bei den Tochtergesellschaften nach",
+        "Berechnete die Taxonomie-KPIs zu Umsatz, CapEx und OpEx aus Finanzdaten und glich ESG-Kennzahlen im Geschäftsbericht mit den Finanzzahlen ab",
+        "Schrieb Prozessbeschreibungen und Arbeitsanweisungen für Berichtspflichten und legte Verantwortliche in Fachbereichen und Gesellschaften fest",
+        "Steuerte ein Projektteam aus 5 Bereichen (Compliance, Risk, Legal, IT, Lieferkette) und hielt die Beteiligten an Fristen",
+        "Entwickelte Schulungsmodule zu 4 Themen (ISO 14001, Menschenrechte, Kinderschutz, moderne Sklaverei) und wirkte an den Leitlinien mit",
+        "Stellte mit den Prüfungspartnern die Nachweisdokumentation für die externe Prüfung zusammen",
+        "Beantwortete Fragebögen von Ratingagenturen und Investoren und verglich 4 Ratingmethoden (S&P, Sustainalytics, MSCI, ISS)",
+        "Rollte mit dem Team eine Sensibilisierungskampagne zu Nachhaltigkeit für Mitarbeitende aus"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Deutschland",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Werkstudium)",
+      "bullets": [
+        "Betreute als erste Ansprechperson 150+ Organisationen über das Offenlegungspostfach und verkürzte die Antwortzeiten um über 20 Prozent",
+        "Validierte Offenlegungsdaten auf der CDP-Plattform und unterstützte die Organisation eines CDP-Workshops in Warschau"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "März 2023 - März 2024",
+      "title": "Product Manager / Sustainability Consultant (freiberuflich)",
+      "bullets": [
+        "Senkte den manuellen Aufwand der Datenverarbeitung um 40 Prozent durch Python-Automatisierung",
+        "Verbesserte die Datensysteme einer GRI-konformen Berichtsplattform mit SQL-Abfragen und Validierungsregeln"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | Neu-Delhi, Indien",
+      "dates": "März 2022 - Februar 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Moderierte regelmäßige Treffen von 53 Konsortiumsmitgliedern und organisierte Lernveranstaltungen mit Gastrednern",
+        "Präsentierte die GRI-Standards an 3 Börsen: Bombay, Colombo und Dhaka"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, Indien",
+      "dates": "Juni 2020 - Februar 2022",
+      "title": "Architect",
+      "bullets": [
+        "Führte Energieaudits und Umwelt-Compliance-Prüfungen für Gewerbegebäude und IT-Parks durch",
+        "Arbeitete im ISO-9001-Qualitätsmanagementsystem, betreute externe Auditoren und Zertifizierungsstellen und verfolgte Korrekturmaßnahmen bis zum Abschluss",
+        "Pflegte Register für Genehmigungsauflagen, Gefahrstoffe und Abfallströme mit Fristen und Compliance-Status"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "Oktober 2023 - März 2025",
+      "institution": "Technische Universität Berlin, Deutschland",
+      "details": [
+        "Abschlussnote 1,6 (gut). Masterarbeit zu den finanziellen Folgen der CSRD in der Bauwirtschaft, mit Fragebogenerhebung und Regressionsanalyse in Python",
+        "Schwerpunkte: ISO 50001, Energieaudits, Ökobilanzierung, Umweltrecht, GEG und EU-Gebäuderichtlinien"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (fünfjähriger Studiengang)",
+      "dates": "August 2016 - Juni 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, Neu-Delhi, Indien",
+      "details": [
+        "Schwerpunkte: Energiesysteme, Gebäudetechnik, Bauphysik"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Managementsysteme und Zertifizierung",
+      "items": "ISO 50001 (Energiekennzahlen), Energieaudits, ISO 14001 (Schulungen), ISO 9001, Teilnahme an internen und externen Audits, Korrekturmaßnahmen, EU Ecolabel, EPD nach EN 15804"
+    },
+    {
+      "category": "Nachhaltigkeitsdaten und Berichterstattung",
+      "items": "THG-Bilanzierung nach GHG Protocol (Scope 1 bis 3), CCF und PCF, KPI-Monitoring, CSRD und ESRS, GRI, VSME, EU-Taxonomie, SBTi, CDP, TCFD, Rating- und Investorenfragebögen"
+    },
+    {
+      "category": "Regulatorik und Lieferkette",
+      "items": "Regulierungs-Monitoring, LkSG und CSDDD, REACH, PPWR und EPR, EUDR, Green Claims (EmpCo), Kunden- und Lieferantenanfragen"
+    },
+    {
+      "category": "Projekte und Prozesse",
+      "items": "Projektmanagement, Prozessoptimierung, Prozessdokumentation (Prozessbeschreibungen, Arbeitsanweisungen), Pilotierung neuer Prozesse, Reports, Auswertungen und Präsentationen, Schulungen, Workshop-Moderation"
+    },
+    {
+      "category": "Tools",
+      "items": "MS Office (Excel, PowerPoint, Word), Power BI, SAP, Carbon-Accounting-Plattformen, OneClick LCA, SQL, Python, Jira, Confluence, MS Project"
+    }
+  ],
+  "certifications": [
+    "Climate-related Financial Disclosures - CDP",
+    "Climate Change & Sustainability - EY",
+    "Climate & Sustainability - Boston Consulting Group (BCG)"
+  ],
+  "languages": [
+    "Deutsch - gute Kenntnisse (B2) | Englisch - verhandlungssicher (C1) | Hindi - Muttersprache"
+  ],
+  "footer": "Gültige deutsche Arbeits- und Aufenthaltserlaubnis | Ab sofort verfügbar | Umzugsbereit nach Hannover"
+}

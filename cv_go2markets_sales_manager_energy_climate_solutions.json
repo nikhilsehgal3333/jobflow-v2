@@ -1,0 +1,125 @@
+{
+  "company": "GO2 Markets",
+  "role": "Sales Manager - Energy & Climate Solutions",
+  "format": "preferred",
+  "language": "en",
+  "profile": "Climate advisor and business developer with over four years across carbon consulting, B2B ESG software and corporate sustainability. Core strengths in lead generation and pipeline building, advising corporates on climate strategies and carbon markets, and negotiating fees, scope and commercial terms. Carried a EUR 100k+ annual book across 5+ client accounts, measured on renewal, upsell and growth targets.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Advise corporate clients on climate strategy, from GHG Protocol footprints to 3+ decarbonisation projects that clients went on to implement",
+        "Productised recurring client questions into a priced package with fixed deliverables and duration, sold to multiple clients",
+        "Sold follow-on scope during delivery and negotiated fees and scope directly with Head-of-Sustainability and C-level counterparts",
+        "Run account reviews and write account growth plans, with clients renewing or extending their engagements",
+        "Write the storyline and present quantified CO2, cost or savings findings to client senior leadership",
+        "Assessed clients' EU ETS exposure and briefed them on India's Carbon Credit Trading Scheme (CCTS)",
+        "Track metered energy use and set reduction targets across 10+ client buildings and a client's warehouse"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Built a 20+ prospect pipeline through cold outreach and qualified inbound leads, tracking conversion from lead to demo to deal",
+        "Pitched the platform in live and custom demos built for specific use cases, then trained client users after signing",
+        "Secured renewals within a 5+ account book and moved an existing client onto a paid add-on module",
+        "Priced 5+ tender and RFP responses and set their commercial terms, backed by cost models and cash-flow scenarios",
+        "Forecast weekly revenue from the opportunity pipeline in Dynamics 365 and built CRM reports on client engagement",
+        "Ran win/loss reviews with sales on closed deals and reset qualification and response tactics on the deal data",
+        "Sized markets and mapped competitive landscapes in B2B ESG software"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Drafted TUI's CDP climate response and answered ESG rating agency and investor questionnaires",
+        "Steered a project team across 5 functions (Compliance, Risk, Legal, IT, supply chain), holding contributors to deadlines",
+        "Presented analysis and regulatory updates to senior leadership and the sustainability steering committee"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Cut response times by 20%+ as first point of contact for 150+ disclosing organisations",
+        "Onboarded organisations and ran feedback calls with disclosing and prospective ones, logging interactions in HubSpot"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Presented the GRI Standards at 3 stock exchanges: Bombay, Colombo and Dhaka",
+        "Built partnerships with corporates, governments and NGOs across South Asia and identified new revenue opportunities for the chapter",
+        "Hosted a webinar and organised speaker-led learning sessions for a 53-member consortium"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Architect",
+      "bullets": [
+        "Advised clients across 15+ commercial, hospitality, institutional and residential projects worth over 20M euros",
+        "Negotiated supplier contracts on price, payment terms and risk coverage, and compared quotes side by side before award"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universität Berlin, Germany",
+      "details": [
+        "Grade 1.6. Thesis: Assessing the Financial Implications of CSRD in the Construction Industry, with survey design and regression analysis in Python",
+        "Coursework included energy audits, ISO 50001 energy management, data analysis and environmental law"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (5-year professional degree)",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": [
+        "Coursework in energy systems, building services and building physics"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "B2B Sales and Business Development",
+      "items": "Full sales cycle (prospecting, pitching, negotiating, closing), lead generation, cold outreach, inbound lead qualification, pipeline building, conversion tracking (lead, demo, deal), live and custom demos, proposals and RFP responses, bid pricing and commercial terms, renewals and upsell, account reviews and growth plans, win/loss reviews, weekly revenue forecasting"
+    },
+    {
+      "category": "Energy & Climate Solutions",
+      "items": "Corporate climate strategy, GHG Protocol (Scope 1-3) footprints, decarbonisation projects, SBTi and TCFD, EU ETS exposure, India CCTS, voluntary carbon market project assessment (Gold Standard), retirement documentation for client credits, electrification and fuel switching, metered energy tracking and reduction targets, CDP climate response"
+    },
+    {
+      "category": "Market and Policy Intelligence",
+      "items": "Tracking market trends, policy developments and competitor activity through market sizing, competitive landscape mapping, peer benchmarking and a regulatory tracker (CSRD, EU Taxonomy, Omnibus I, ESRS Set 2), UNFCCC, COP and NDC developments, EU climate regulation"
+    },
+    {
+      "category": "CRM and Tools",
+      "items": "HubSpot, Dynamics 365, CRM reports and dashboards, email campaigns, Excel cost and cash-flow models, Power BI, Microsoft 365, Google Workspace (Sheets, Slides)"
+    },
+    {
+      "category": "Client Relationships and Stakeholder Engagement",
+      "items": "Head-of-Sustainability and C-level counterparts, client onboarding and user training, escalations to internal teams, industry events, trade fair booth and event sign-ups, webinars and stock-exchange presentations, cross-functional work with product, engineering, compliance and legal teams"
+    }
+  ],
+  "certifications": [
+    "Climate & Sustainability - BCG",
+    "Climate Change & Sustainability - EY",
+    "Climate-related Financial Disclosures - CDP"
+  ],
+  "languages": [
+    "English - fluent (C1) | German - professional working proficiency (B2) | Hindi - native"
+  ],
+  "footer": "Valid German work and residence permit | Based in Berlin | Available immediately"
+}

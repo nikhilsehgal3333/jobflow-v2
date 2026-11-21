@@ -1,0 +1,122 @@
+{
+  "profile": "Sustainability professional with six years across nonprofit programming, climate policy research and corporate sustainability delivery, working alongside government bodies, regulators and civil society partners. Convenes cross-sector groups, designs and administers member programs and events, and turns policy research into planning and community engagement that partners act on. Evaluated 53 consortium members against 17 SDGs across 5 countries, producing the impact metrics and member communications that carried program results to a regional audience.",
+  "experience": [
+    {
+      "company": "Global Reporting Initiative (GRI)",
+      "location": "New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Chaired recurring meetings of a cross-sector consortium of 53 corporate, government and NGO members, setting agendas, facilitating between competing mandates, driving agreed actions to closure and securing annual membership renewals",
+        "Evaluated 53 members against 17 SDGs across 5 countries, building the measurement framework that tracked progress, benchmarked members against one another and showed where collective action fell short",
+        "Researched sustainability policy and reporting trends across India, Sri Lanka and Bangladesh, tracking UNFCCC and COP outcomes and national NDC commitments, and identified new revenue opportunities for the regional chapter",
+        "Ran a communications campaign end to end, setting the messaging, channels, timeline and measurement, and produced the member newsletters and policy updates that carried program results to partners",
+        "Presented GRI Standards at the Bombay, Colombo and Dhaka stock exchanges to listed issuers, financial institutions and sector regulators, and organized speaker-led learning sessions for members",
+        "Documented GRI-BRSR linkages against SEBI requirements, mapping a voluntary international standard onto national disclosure obligations, and built partnerships with corporates, government bodies and NGOs across South Asia"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd.",
+      "location": "Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Advise clients on incoming EU climate and product regulation, mapping compliance pathways and coaching their teams on methodology, data governance and reporting requirements",
+        "Model decarbonization pathways and transition risk at 1.5 and 2 degree scenarios for real estate portfolios, and track the resulting sustainability KPIs on client dashboards"
+      ]
+    },
+    {
+      "company": "TUI AG",
+      "location": "Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Built and steered a cross-functional project team across Compliance, Risk, Legal, IT and supply chain at a publicly listed travel group, setting deliverables and holding contributors to agreed deadlines",
+        "Presented analysis and regulatory developments to senior leadership with recommendations, and coordinated implementation directly with international group subsidiaries",
+        "Set annual sustainability targets with the data collection cycles and attainment tracking behind them, and reported progress against group reduction pathways on Power BI dashboards",
+        "Gathered stakeholder input through interviews, surveys and workshops for the group double materiality assessment, scoring impacts, risks and opportunities against severity and likelihood thresholds",
+        "Delivered environmental management, human rights and child protection training modules to staff across the group as e-learnings, and wrote the process documentation behind each requirement"
+      ]
+    },
+    {
+      "company": "CDP Worldwide",
+      "location": "Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Served as primary point of contact for 150+ disclosing organizations worldwide, resolving methodology, reporting requirement and deadline queries across a full disclosure cycle",
+        "Supported the CDP-hosted workshop in Warsaw, ran feedback calls with disclosing and prospective organizations, and tracked submission coverage and data quality across the portfolio"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd.",
+      "location": "Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Owned proposal and tender responses end to end against hard deadlines, authoring the technical and methodology sections and building the reusable content library behind repeat submissions"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd.",
+      "location": "Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Selected and supervised a team of 4 interns, screening applications and running interviews, and sourced external specialists and contractors across 15+ projects worth 20M+ euros",
+        "Briefed local government authorities on a public sector development and secured environmental permits for commercial, retail and mixed-use projects",
+        "Authored full environmental impact assessment reports start to finish, coordinating air, noise, water and ecology specialist inputs into consolidated submissions and monitoring reports against permit conditions",
+        "Contributed to district development and masterplanning covering land use, site roads and utilities, and produced the pre-feasibility studies and cost estimates behind client go-ahead"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universität Berlin, Germany",
+      "details": [
+        "Grade 1.6 (Distinction). Thesis on the financial implications of EU sustainability reporting regulation. Coursework in environmental law, data analysis and statistical methods"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), five-year professional degree",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": [
+        "Land use and urban planning, district development, energy systems and environmental control systems"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Policy, Planning and Government Engagement",
+      "items": "Climate policy research, UNFCCC and COP processes, NDCs, EU climate and environmental regulation, national policy alignment (SEBI BRSR), environmental permitting and impact assessment, land use and district planning, briefing public authorities and regulators"
+    },
+    {
+      "category": "Programs, Convening and Community Engagement",
+      "items": "Member program design and administration, cross-sector convening and facilitation, chairing recurring member meetings, speaker-led learning sessions and workshops, membership renewals, partnership building across government, corporate and NGO stakeholders, cross-cultural engagement, training delivery"
+    },
+    {
+      "category": "Communications and Storytelling",
+      "items": "Newsletters and policy updates, campaign messaging, channels and measurement, published and thought-leadership writing, public speaking and panel presentations, reporting to senior leadership"
+    },
+    {
+      "category": "Impact Measurement and Reporting",
+      "items": "SDG progress evaluation, peer benchmarking, sustainability KPI target setting and attainment tracking, GRI, CDP, TCFD, GHG Protocol Scope 1, 2 and 3 accounting, scenario analysis"
+    },
+    {
+      "category": "Leadership and Tools",
+      "items": "Supervision, recruitment and selection, contractor sourcing, proposal writing, budget and cost estimation, Excel, Power BI, SQL, Microsoft 365, Google Workspace"
+    }
+  ],
+  "certifications": [
+    "Climate-related Financial Disclosures - CDP",
+    "Scenario Analysis - CDP",
+    "Climate & Sustainability - Boston Consulting Group"
+  ],
+  "languages": [
+    "English - Fluent (C1) | Hindi - Native | German - Professional (B2)"
+  ],
+  "footer": "Indian national | Berlin-based, open to relocation to Cincinnati | US work authorization would require sponsorship | Available immediately"
+}

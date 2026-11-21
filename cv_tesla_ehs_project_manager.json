@@ -1,0 +1,123 @@
+{
+  "company": "Tesla",
+  "role": "EHS Project Manager",
+  "format": "preferred",
+  "language": "en",
+  "profile": "Sustainability and EHS professional with over four years of project delivery across site EHS, compliance and group-wide reporting programmes. Combines end-to-end project coordination across functions and sites, data analysis and dashboards in Python, SQL and Power BI, and AI-assisted workflows built for real operational tasks. Cut document extraction time by 25%+ with a self-built Claude workflow, and manual data processing by 40% through Python automation.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Run a self-built Claude workflow that extracts structured data from client documents, cutting extraction time by 25%+",
+        "Direct 6+ analysts across client engagements, quality-checking deliverables and tracking hours against budget",
+        "Flag slipping deliverables early and agree recovery plans and revised timelines with clients",
+        "Track reduction measures on 3+ client decarbonisation projects through implementation by status, owner and achieved reduction",
+        "Build client KPI dashboards and analyse datasets in Python, including metered energy use across 10+ client buildings",
+        "Track workforce health, safety and wellbeing indicators for clients"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Steered a cross-functional project team across 5 functions (Compliance, Risk, Legal, IT, supply chain), setting deliverables and holding contributors to deadlines",
+        "Scoped and drove an LLM assistant proof of concept, designing the prompts and retrieval behind it",
+        "Gathered requirements for the supplier risk platform, configured it and loaded data on 500+ suppliers through templates",
+        "Developed e-learning modules on ISO 14001, human rights and modern slavery, delivered through the SAP LMS",
+        "Wrote process descriptions and defined task owners across functions and group entities",
+        "Presented analysis and recommendations to senior leadership and the sustainability steering committee"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Served as primary contact for 150+ disclosing organisations worldwide, cutting response times by 20%+",
+        "Escalated organisations' issues to internal teams and closed them out",
+        "Tracked submission coverage and data quality, building repeatable processes and controls"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Ran sprint cycles in Jira, writing the user stories and acceptance criteria engineers built against",
+        "Turned 5+ customer interviews into requirements and tested a new feature with one customer before rollout",
+        "Cut manual data processing by 40% through Python automation and SQL validation rules",
+        "Took client-reported platform issues to engineering and tracked each to a fix"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Chaired recurring meetings of a 53-member consortium across 5 countries, setting agendas and closing out actions"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Architect",
+      "bullets": [
+        "Logged hazards, incidents, NCRs and audit findings in a QHSE online reporting system and tracked each to closure",
+        "Planned the annual audit schedule and hosted external auditors, driving corrective and preventive actions to verified closure",
+        "Ran toolbox talks, site risk assessments and PPE checks, and tracked health and safety figures as KPIs",
+        "Kept permit, hazardous substance and inspection-interval registers, chasing due items to closure",
+        "Coordinated 20+ contractors and vendors across 6+ sites, tracking each against SLAs and KPIs",
+        "Advised on 15+ projects worth 20M+ euros, from pre-feasibility studies to cost estimates"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universität Berlin, Germany",
+      "details": [
+        "Grade 1,6 (good). Coursework in energy audits, ISO 50001, LCA, environmental law, risk management (ISO 31000), SQL and statistical methods",
+        "Thesis on the financial implications of CSRD in the construction industry, using survey design and regression analysis in Python"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), five-year professional degree",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": [
+        "Building services, building physics, environmental control systems and construction technology"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Project Management",
+      "items": "End-to-end project delivery, scope and timeline management, stakeholder coordination, task delegation, progress tracking, risk lists, recovery plans, requirements gathering, Jira, Confluence, MS Project, Oracle Primavera P6, SharePoint"
+    },
+    {
+      "category": "EHS",
+      "items": "ISO 14001 (internal audit participation, training modules), ISO 9001 quality management system, incident and NCR tracking, CAPA, risk assessments, toolbox talks, PPE management, permit and hazardous substance registers, health and safety KPIs, environmental permitting, energy baselines (EnPIs)"
+    },
+    {
+      "category": "Data and Reporting",
+      "items": "Data-driven analysis, Python, SQL, Power BI, KPI dashboards and data visualizations, tracking tools, Excel models, SAP, data validation, leadership presentations and progress reports, stakeholder communication across technical and non-technical teams"
+    },
+    {
+      "category": "AI and Automation",
+      "items": "Claude workflows for document extraction, LLM prompt and retrieval design, Claude Agent SDK (hands-on), small tools built with AI coding assistants, Python automation"
+    }
+  ],
+  "certifications": [
+    "Agile - Cognizant",
+    "Climate-related Financial Disclosures - CDP",
+    "Climate Change & Sustainability - EY"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional (B2) | Hindi - Native"
+  ],
+  "footer": "Valid German work and residence permit | Based in Berlin, Germany | Available immediately"
+}

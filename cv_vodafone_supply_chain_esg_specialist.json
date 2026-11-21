@@ -1,0 +1,126 @@
+{
+  "contact": {
+    "location": "Berlin, Germany",
+    "phone": "+49 172 6568115",
+    "email": "nikkhilsehgal@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/nikkhil-sehgal-a68577146/"
+  },
+  "profile": "Supply chain and ESG specialist with over five years across supplier due diligence, ESG performance management and sustainability reporting in international matrix organisations. Combines supplier assessment and sustainability platform administration with KPI dashboards, data validation and audit-ready evidence. Implemented CSDDD and LkSG supplier due diligence on the osapiens platform across international group subsidiaries at a DAX-listed group, coordinating rollout and tracking completion entity by entity.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd.",
+      "location": "Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Develop, calculate and track ESG KPIs to audit-ready standard, and maintain ESG data systems and dashboards covering performance, coverage, risk indicators and reporting status",
+        "Manage ESG data collection, validation and consolidation across Scope 1, 2 and 3 on GHG Protocol methodology, identifying data gaps, risks and continuous improvement opportunities through trend tracking",
+        "Advise clients on EU product and supply chain regulation, including the Conflict Minerals Regulation, EUDR, REACH, PPWR and the Green Claims Directive",
+        "Produce guidance, templates and training materials on ESG KPIs and carbon methodologies, and coach client teams on ESG reporting requirements and data governance",
+        "Pilot new data collection processes with a single client or product line first, then extend them across the wider portfolio once the approach holds"
+      ]
+    },
+    {
+      "company": "TUI AG",
+      "location": "Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Implemented CSDDD and LkSG supplier due diligence on the osapiens platform, coordinating rollout with international group subsidiaries and tracking completion entity by entity",
+        "Ran supplier engagement and supply chain risk assessments, maintaining accurate supplier ESG data across EcoVadis, SAQ and Integrity Next questionnaires and responding to investor queries",
+        "Assessed supplier human rights risk and tracked remediation and improvement plans, and contributed to the group's published human rights and modern slavery disclosure",
+        "Coordinated with audit partners on assurance activities and due diligence processes, maintaining evidence packs and audit trails",
+        "Designed the sustainability internal control system, documenting processes, SOPs and roles and responsibilities across functions and entities",
+        "Compiled ESG reporting and external disclosures to CDP and TCFD, and aligned CSRD disclosure with ESRS E1 alongside the senior disclosure team",
+        "Built Power BI dashboards consolidating non-financial data from SAP across business units, and delivered ESG training modules through the SAP LMS"
+      ]
+    },
+    {
+      "company": "CDP Worldwide",
+      "location": "Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Acted as first point of contact for 150+ organisations globally, resolving disclosure, methodology and invoicing queries and escalating complex issues",
+        "Administered organisation onboarding onto the disclosure platform, maintaining records and logging interactions in HubSpot",
+        "Owned ESG data collection, validation and quality tracking, and monitored submission coverage across the user base"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd.",
+      "location": "Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Owned tender and RFQ responses end to end, pricing bids and setting the commercial terms behind each submission against client evaluation criteria",
+        "Assembled a reusable content library, proposal templates and pitch decks that held approved messaging consistent across contributors",
+        "Built data systems and validation rules in SQL for a GRI-aligned reporting platform, and automated data processing in Python, cutting manual effort by 40 percent"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative",
+      "location": "New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Chaired recurring ESG governance forums across a 53-member network spanning 5 countries, preparing agendas, facilitating between differing mandates and tracking actions to closure",
+        "Produced member newsletters and policy updates, and organised speaker-led learning sessions across the network"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations",
+      "location": "Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Coordinated specialist consultants and third-party suppliers into consolidated deliverables across 15+ projects worth over EUR 20M",
+        "Conducted risk assessments and compliance audits, and issued non-conformance reports and improvement actions tracked to closure"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universitaet Berlin, Germany",
+      "details": [
+        "Grade 1.6 (Distinction). Coursework in data analysis, statistical methods, SQL, environmental law, COSO and ISO 31000 risk frameworks"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (5-year professional degree)",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": [
+        "Contract management, construction technology, land use and urban planning"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Supply Chain ESG and Due Diligence",
+      "items": "Supplier ESG assessments and supplier engagement, ESG target setting, CSDDD and LkSG due diligence, supply chain risk assessment, climate transition pathways, supplier onboarding and sustainability platform administration, osapiens, EcoVadis, SAQ, Integrity Next, supplier human rights risk and remediation tracking, EU Conflict Minerals Regulation and EUDR advisory, REACH and substance declarations"
+    },
+    {
+      "category": "ESG Performance and Data",
+      "items": "ESG KPI and target setting, dashboards covering performance, coverage, risk indicators and reporting status, data collection, validation and consolidation, data gap and trend analysis, audit readiness, dashboards, trackers and reporting systems, Power BI, advanced Excel, SQL, SAP, Python"
+    },
+    {
+      "category": "Reporting, Disclosure and Assurance",
+      "items": "CSRD and ESRS, GRI, SASB, TCFD, CDP, EU Taxonomy, GHG Protocol Scope 1, 2 and 3, modern slavery and human rights disclosure, annual report contribution, third-party assurance, evidence packs and audit trails, non-financial internal controls"
+    },
+    {
+      "category": "Governance, Communications and Delivery",
+      "items": "ESG governance forums, agenda preparation and action tracking, process documentation and SOPs, roles and responsibilities, guidance and template development, training design and e-learning via SAP LMS, workshop facilitation, libraries of approved ESG definitions and key messages, supplier and stakeholder engagement, programme and project management, Microsoft Office and Microsoft 365"
+    }
+  ],
+  "certifications": [
+    "Climate-related Financial Disclosures - CDP",
+    "Climate Change & Sustainability - EY",
+    "Introduction to ESG - Corporate Finance Institute"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional (B2) | Hindi - Native"
+  ],
+  "footer": "German work and residence permit | Open to relocating to Luxembourg and obtaining local work authorisation | Available immediately"
+}

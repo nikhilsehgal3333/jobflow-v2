@@ -1,0 +1,121 @@
+{
+  "company": "carbmee",
+  "role": "(Senior) Consultant Sustainability Advisory",
+  "format": "preferred",
+  "language": "en",
+  "profile": "Sustainability consultant with 4+ years across advisory, ESG software and corporate roles, focused on carbon accounting (Scope 1/2/3), decarbonisation and EU climate regulation for industrial, automotive and building-materials clients. Scopes, prices and delivers billable advisory engagements, writes the proposals behind them and presents quantified results to Head-of and C-level stakeholders. At KarbonWise, cut Scope 3 data collection time by 10%+ through standard templates, supplier data requests and an Excel calculation model.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Write the storyline for client deliverables and present quantified CO2, cost and savings results to Head-of and C-level stakeholders",
+        "Scope decarbonisation projects, including electrification or fuel switching and low-carbon materials, with savings estimates and implementation plans that clients then carried out",
+        "Model clients' EPR fee and cost exposure market by market in Excel, quantifying the commercial implications of PPWR",
+        "Derive retrofit and operating measures with their CO2 and cost effect for 10+ real estate assets, and run CRREM analyses on 1.5 and 2 degree pathways",
+        "Map CBAM reporting duties against covered goods, assess EU ETS exposure and contribute to EUDR due diligence statements",
+        "Led a client's CSRD double materiality assessment through to management sign-off",
+        "Calculate BOM-based product carbon footprints (ISO 14067) for automotive, industrial and building-materials clients, including PCFs their own customers requested",
+        "Screen the 15 Scope 3 categories in client footprints and move key categories from spend-based estimates to supplier-specific and activity data",
+        "Spot expansion opportunities during delivery and pitch follow-on scope that clients bought, negotiating fees and scope directly",
+        "Productised recurring client questions into a priced package with fixed deliverables and duration, sold to multiple clients",
+        "Log billable hours against a utilisation target, and track engagements against budget or margin, flagging overruns",
+        "Direct 6+ analysts across client workstreams and quality-check their deliverables before release",
+        "Feed client needs back into product, turning ISO 14067 PCF logic, CSRD/ESRS datapoints and EU product regulation into module specs"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Aligned the group's CSRD disclosures with ESRS E1 alongside the disclosure team, assessed SBTi and TCFD statements and worked with external consultants",
+        "Compiled evidentiary documentation with the audit partners, and checked ESG figures in the annual report against financial figures",
+        "Compared 4 ESG rating methodologies (S&P, Sustainalytics, MSCI, ISS) against TUI's operations and regulatory requirements"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Ran the disclosure inbox for 150+ organisations worldwide as primary contact, cutting response times by 20%+"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Delivered 5+ tender and RFP responses end to end, writing the methodology sections and pricing each bid from cost and cash-flow models",
+        "Reviewed closed deals with sales in win/loss reviews and reset qualification and response tactics on the results",
+        "Built a content library, proposal templates and pitch decks that cut turnaround on repeat bids",
+        "Kept a pipeline of 20+ prospects from cold outreach and inbound leads, forecasting revenue weekly in Dynamics 365",
+        "Held account reviews and wrote growth plans for 5+ client accounts, handling renewals and upsell",
+        "Ran live and custom platform demos in sales calls, and trained client users after signing",
+        "Cut manual data processing by 40% through Python automation on a GRI-aligned reporting platform"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Presented the GRI Standards at 3 stock exchanges (Bombay, Colombo, Dhaka) and evaluated 53 consortium members' SDG engagement across 5 countries"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Architect",
+      "bullets": [
+        "Prepared pre-feasibility studies, financial evaluations and cost estimates as adviser on 15+ projects worth 20M+ euros"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universität Berlin, Germany",
+      "details": [
+        "Grade 1,6 (good). Coursework in accounting and IFRS, LCA, energy audits and data analysis",
+        "Thesis on the financial implications of CSRD in the construction industry, with survey design and regression analysis in Python"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), five-year professional degree",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": []
+    }
+  ],
+  "skills": [
+    {
+      "category": "Carbon Accounting and Decarbonisation",
+      "items": "GHG Protocol Scope 1/2/3, Scope 3 category screening, spend-based and activity-based methods, supplier data requests, corporate and product carbon footprints (ISO 14067, ISO 14040/14044), BOM-based PCF, OneClick LCA, EPD, SBTi, CRREM, decarbonisation levers (electrification or fuel switching, low-carbon materials)"
+    },
+    {
+      "category": "EU Regulation",
+      "items": "CBAM, EU ETS, CSRD and ESRS, double materiality, EUDR, EU Taxonomy, PPWR and EPR, ESPR and Digital Product Passport, IFRS S1 and S2"
+    },
+    {
+      "category": "Advisory and Commercial",
+      "items": "Engagement scoping, proposals and tender responses, bid pricing and commercial terms, productising recurring client questions into priced packages, deck storylines, pitch decks and deal narratives, client presentations and coaching, account plans, follow-on scope, CRM pipeline hygiene and forecasting, win/loss reviews, time tracking, engagement budget or margin tracking"
+    },
+    {
+      "category": "Tools",
+      "items": "PowerPoint, Google Slides, Excel and Google Sheets (cost and calculation models), Python, SQL, Dynamics 365, HubSpot, Jira, Confluence, SAP, AI tools in daily use (Claude)"
+    }
+  ],
+  "certifications": [
+    "Climate & Sustainability - Boston Consulting Group (BCG)",
+    "Climate Change & Sustainability - EY",
+    "Climate-related Financial Disclosures - CDP"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional (B2) | Hindi - Native"
+  ],
+  "footer": "Valid German work and residence permit | Berlin-based, open to relocation to Munich | Available immediately"
+}

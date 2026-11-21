@@ -1,0 +1,118 @@
+{
+  "profile": "Account and reporting specialist with six years across B2B client management, performance reporting and commercial operations, running multiple client accounts in parallel and owning their day-to-day operations end to end. Builds detailed Excel and dashboard reporting on pivot tables and lookups, converts the numbers into recommendations clients act on, and produces the newsletters and campaigns that keep partners engaged. Served as primary point of contact for 150+ organizations worldwide across a full cycle, and cut manual data processing 40 percent by automating the reporting pipeline behind a B2B SaaS platform.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd.",
+      "location": "Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Manage day-to-day operations for multiple B2B client accounts in parallel, acting as primary point of contact and holding each engagement to its own delivery schedule",
+        "Model market-by-market fee and cost exposure in Excel under EU producer responsibility regimes, building the pivot and lookup structures that show clients their commercial impact per market before an obligation lands",
+        "Track performance indicators across each account on client dashboards to audit-ready standard, and summarize the findings into recommendations clients act on",
+        "Coach client teams on methodology, data governance and reporting requirements, serving as their standing resource across incoming EU regulation and compliance pathways"
+      ]
+    },
+    {
+      "company": "TUI AG",
+      "location": "Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Built performance dashboards in Power BI at a publicly listed travel group, and set the annual targets, collection cycles and attainment tracking reported against them",
+        "Maintained the supply chain risk register and reported findings to senior management, running desk-based supplier assessments and tracking remediation through to verified closure",
+        "Steered a cross-functional project team across Compliance, Risk, Legal, IT and supply chain, setting deliverables, holding contributors to deadlines and flagging slippage before it hit the timeline"
+      ]
+    },
+    {
+      "company": "CDP Worldwide",
+      "location": "Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Served as primary point of contact for 150+ organizations worldwide, resolving methodology, deadline, invoice and payment queries across a full cycle with the inbound queue run unsupervised",
+        "Owned customer onboarding and support, logging every customer record and interaction in HubSpot so follow-up stayed accurate across a high-volume portfolio",
+        "Monitored submission coverage and data quality across the disclosing portfolio, and analyzed newly launched questionnaire modules for accurate data capture"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd.",
+      "location": "Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Carried a defined book of business against renewal, upsell and growth targets, forecasting pipeline weekly in Dynamics 365 and building the CRM reports that tracked account engagement",
+        "Built and sent email campaigns and marketing workflows out of the CRM, and produced the dashboards that showed which touches drove engagement",
+        "Owned tender and RFP responses end to end against hard client deadlines, prioritizing across concurrent submissions and flagging risks to timeline early",
+        "Cut manual data processing 40 percent by automating the reporting pipeline in Python, and wrote the SQL validation rules that kept the platform's data sets clean"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI)",
+      "location": "New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Produced member newsletters and policy updates for a 53-member consortium, writing the promotional and program-development content that kept members engaged",
+        "Ran a communications campaign end to end, setting the messaging, channels and timeline, and measured performance through tracking links and channel attribution to show what converted",
+        "Chaired recurring member meetings across corporates, government agencies and NGOs, and secured the annual renewals that kept participation active"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd.",
+      "location": "Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Selected and managed a team of 4, screening applications and running interviews, across 15+ projects worth 20M+ euros",
+        "Advised clients from proposal through internal approval to delivery, coordinating specialist consultants and external contractors into each submission"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration)",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universität Berlin, Germany",
+      "details": [
+        "Grade 1.6 (Distinction). Coursework in data analysis, statistical methods and SQL"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), five-year professional degree",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": []
+    }
+  ],
+  "skills": [
+    {
+      "category": "Reporting and Data Analysis",
+      "items": "Advanced Excel (pivot tables, v-lookups, formatting, cost and fee modeling), Power BI dashboards, SQL, Python automation, performance tracking and trend analysis, data quality and validation, translating reporting into actionable recommendations"
+    },
+    {
+      "category": "Account and Partner Management",
+      "items": "Multi-account portfolio management, primary point of contact ownership, customer onboarding and support, book of business, renewals and upsell, client and partner relationship building, affiliate, partner and referral program exposure"
+    },
+    {
+      "category": "Marketing and Communications",
+      "items": "Member and client newsletters, program updates and promotional content, end-to-end campaign execution across messaging, channels, timeline and measurement, tracking links, UTMs and channel attribution, email campaigns and CRM marketing workflows, HTML reading and editing"
+    },
+    {
+      "category": "Process, Risk and Compliance",
+      "items": "Task ownership to deadline with minimal supervision, prioritization across concurrent workstreams, process improvement and efficiency gains, SOPs and process documentation, risk register maintenance, compliance monitoring and remediation tracking"
+    },
+    {
+      "category": "Tools",
+      "items": "HubSpot, Dynamics 365, Excel, Power BI, Jira, Confluence, Microsoft 365, Google Workspace (Sheets and Slides), MS Teams"
+    }
+  ],
+  "certifications": [
+    "Agile - Cognizant",
+    "Climate & Sustainability - Boston Consulting Group"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional (B2) | Hindi - Native"
+  ],
+  "footer": "Valid German work and residence permit | Berlin-based, fully remote | Available immediately"
+}

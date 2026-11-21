@@ -1,0 +1,123 @@
+{
+  "company": "Tesla",
+  "role": "Team Project Coordinator",
+  "format": "preferred",
+  "language": "en",
+  "contact": {
+    "location": "Berlin, Germany",
+    "phone": "+49 172 6568115",
+    "email": "nikkhilsehgal@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/nikhil-sehgal-a68577146/"
+  },
+  "profile": "Project coordinator with six years across engineering, construction and technology delivery. Owns the operational side of technical teams: workplace and facilities coordination, recruiting and graduate intake, vendor and service agreements, travel, fleet and equipment scheduling, and the meeting and reporting cadence behind them. Aligned design, engineering and client teams across 15+ projects worth 20M+ euros, holding concurrent workstreams to deadline without direct authority.",
+  "experience": [
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Ran the day-to-day workplace experience and operations for a design studio and its project sites, allocating desks and seating, organising team events, acting as the main liaison with facilities and housekeeping, and taking team feedback surveys through to action",
+        "Provided business support to the practice principal covering diary and calendar management, inbox triage and correspondence, travel and leave coordination, and the scheduling behind executive, client and government authority visits",
+        "Coordinated recruiting with engineering and design hiring managers, screening applications, arranging interview panels across multiple diaries and running the interview loop through to selection",
+        "Built the graduate and early talent intake from scratch, selecting a team of 4 early-career architects and running their onboarding, training and review cycle until they worked independently",
+        "Allocated and scheduled the pool vehicle fleet between site teams and consultants, and maintained the equipment register with issue, return, servicing and certificate expiry dates chased to closure",
+        "Sequenced site logistics between subcontractors, plant and deliveries across concurrent projects, keeping access and programme workable for every trade on site",
+        "Negotiated supplier and service contracts on price, payment terms and risk coverage, onboarded new vendors onto the approved list and ran the performance reviews behind each renewal",
+        "Aligned design, engineering, environmental and client teams across 15+ projects worth 20M+ euros, tracking deliverables and deadlines across concurrent workstreams"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Manage delivery for automotive component suppliers, industrial manufacturers and building materials clients, holding several client workstreams to parallel deadlines as the single point of contact on each",
+        "Pilot new data collection and reporting processes with one client or product line first, then extend them across the wider portfolio once they hold"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Built and steered a cross-functional project team across Compliance, Risk, Legal, IT and supply chain, set its deliverables and held contributors to deadlines without direct authority",
+        "Presented analysis results and recommendations to senior leadership, and briefed international group subsidiaries on what each had to deliver and by when",
+        "Wrote the process documentation, work instructions and responsibility splits that defined who owned what across functions and entities",
+        "Ran stakeholder interviews, surveys and workshops, and turned the feedback into a prioritised set of actions tracked to closure"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Served as primary point of contact for 150+ organisations globally through a shared inbox, triaging queries on methodology, data quality and deadlines and resolving each to closure",
+        "Contributed to the CDP-hosted workshop in Warsaw, coordinating attendee logistics alongside the facilitators",
+        "Handled finance, invoice and payment queries for disclosing companies, and kept the records accurate through a full reporting cycle"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Drove sprint cycles for a B2B platform in Jira, writing user stories and acceptance criteria as tracked issues and reporting sprint progress against plan each week",
+        "Authored the requirement and specification pages in Confluence that engineers built against, and maintained project documentation, meeting notes and decision logs",
+        "Modelled costs and cash flow in Excel behind client submissions, and tracked the opportunity pipeline with weekly forecasting in the CRM"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Chaired the recurring meetings of a 53-member consortium, setting the agenda, facilitating between differing mandates and driving actions to closure",
+        "Organised speaker-led learning sessions and member events across 5 countries, produced the newsletters that went with them, and handled membership renewals"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universität Berlin, Germany",
+      "details": [
+        "Grade 1.6 (Distinction). Business administration with coursework in data analysis, statistical methods and project delivery"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), five-year professional degree",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": [
+        "Technical coursework: construction technology, building services, contract management"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Team and Workplace Coordination",
+      "items": "Day-to-day operations and workplace experience, seating and desk allocation, facilities and housekeeping liaison, team events and event management, employee pulse and feedback surveys tracked to action, weekly team meeting agendas, minutes and action tracking, travel, leave and PTO coordination, executive visits, diary, calendar and inbox management, non-technical workflows, service agreements and team administration"
+    },
+    {
+      "category": "Recruiting and Early Talent",
+      "items": "Recruiting coordination with engineering managers and hiring teams, graduate and early talent programmes, application screening, interview scheduling across multiple diaries, intern intake and onboarding, freelancer and contractor sourcing"
+    },
+    {
+      "category": "Program and Vendor Administration",
+      "items": "Program coordination and project management, multiple workstreams simultaneously, cross-functional steering without direct authority, deliverable and deadline tracking, vehicle fleet allocation and scheduling, equipment registers, site logistics, vendor onboarding and contract renewals, budget and cost estimating"
+    },
+    {
+      "category": "Systems and Communication",
+      "items": "Confluence, Jira, Excel, Microsoft 365, Outlook, PowerPoint, MS Teams, MS Project, Power BI, SAP, Google Workspace, senior leadership communication and reporting, written and verbal communication in English and German, factory and site stakeholder liaison, quick uptake of new in-house systems"
+    }
+  ],
+  "certifications": [
+    "Agile - Cognizant",
+    "Climate & Sustainability - Boston Consulting Group (BCG)"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional (B2) | Hindi - Native"
+  ],
+  "footer": "Berlin, Germany | Available for 100% onsite work at Berlin Köpenick | Immediately available | Valid German work and residence permit | Class B driving licence in progress"
+}

@@ -1,0 +1,122 @@
+{
+  "company": "Infineon",
+  "role": "Project Manager Supplier Sustainability",
+  "format": "preferred",
+  "language": "en",
+  "profile": "Sustainability professional with 4+ years across supplier due diligence, EU product regulation and ESG reporting. Experienced in CSDDD and LkSG due diligence on supply chain transparency platforms, responsible sourcing across multi-tier supply chains, Digital Product Passport readiness and recycled-content requirements. Rolled out a due diligence platform covering 500+ suppliers at a listed group.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Run multi-tier supply chain due diligence for a textile client, collecting supplier data and assessing risk at mills, dyehouses and tanneries",
+        "Prepare clients for the Digital Product Passport under ESPR, structuring product data on materials and recycled content",
+        "Apply circular design criteria and circularity KPIs, such as recycled-content share, to client products",
+        "Work with geolocation and deforestation-risk data behind clients' EUDR due diligence statements and risk assessments",
+        "Guide clients through the EU Conflict Minerals Regulation, Dodd-Frank 1502 and the Battery Regulation's due diligence and recycled-content duties",
+        "Deliver LCA and BOM-based carbon footprints for 4+ B2B clients, collecting material-level data from their suppliers",
+        "Pilot new data-collection processes with one client or product line before portfolio rollout"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Implemented osapiens for CSDDD and LkSG due diligence: gathered the group's requirements, configured the platform and loaded cleansed data for 500+ suppliers",
+        "Built and steered a 5-function project team across Compliance, Risk, Legal, IT and supply chain",
+        "Assessed suppliers against ESG criteria from questionnaires and documentation, and took part in on-site supplier audits",
+        "Ran supplier human rights risk assessments and tracked remediation and improvement actions to closure",
+        "Kept the supply chain risk register and reported its findings to senior management",
+        "Coordinated regulatory implementation and KPI collection across 5+ international group entities, tracking completion entity by entity",
+        "Presented analysis and recommendations to senior leadership and the sustainability steering committee, and tracked its decisions to closure",
+        "Supplied content for the group's published human rights and modern slavery disclosure"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Served as primary contact for 150+ organisations globally, owning their onboarding and support through the disclosure cycle",
+        "Validated disclosure data on the CDP platform, tracking submission coverage and data quality against deadlines"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Cut manual data processing by 40% through Python automation, and wrote the platform's SQL validation rules",
+        "Took new platform features from requirements gathering through UAT, with user stories in Jira",
+        "Answered enterprise customers' vendor due-diligence and security questionnaires"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Chaired recurring meetings of a 53-member consortium across 5 countries, facilitating between differing mandates",
+        "Represented GRI in an industry working group and built partnerships with corporates, governments and NGOs across South Asia",
+        "Designed training and delivered capacity building to companies and public bodies, including sessions at 3 stock exchanges"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Negotiated supplier contracts, onboarded vendors onto an approved supplier list, and handled renewals and exits",
+        "Advised on 15+ projects worth 20M+ euros, and selected and managed a team of 4 interns"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universität Berlin, Germany",
+      "details": [
+        "Grade 1,6 (good). Thesis on the financial implications of CSRD in the construction industry, using survey design and regression analysis in Python",
+        "Coursework: environmental law, ISO 31000 risk management, data analysis, statistical methods"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), five-year professional degree",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": [
+        "Coursework: building materials science, construction technology, contract management"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Supplier Sustainability and Responsible Sourcing",
+      "items": "CSDDD (Corporate Sustainability Due Diligence Directive), LkSG, sustainability regulations and due diligence requirements, supplier sustainability performance assessment, on-site supplier audits, human rights risk and remediation tracking, supply chain risk register, multi-tier supplier data collection, raw material due diligence (EUDR commodities, conflict minerals regulation), supplier contract negotiation and onboarding"
+    },
+    {
+      "category": "Circular Economy and Product Regulation",
+      "items": "EU Digital Product Passport and ESPR, recycled content and circularity KPIs, circular design criteria, EU Battery Regulation and battery passport, PPWR and EPR, REACH SVHC screening, BOM-based product carbon footprints, LCA and EPD"
+    },
+    {
+      "category": "Transparency Platforms, Data and Reporting",
+      "items": "Digital supply chain transparency platforms (osapiens configuration and supplier data loading, Integrity Next, EcoVadis), IT projects on sustainability data quality and availability, SAP, Power BI, SQL, Python, Excel, internal and external sustainability reporting (CSRD and ESRS, GRI, CDP), EU Taxonomy, GHG Protocol Scope 1, 2 and 3"
+    },
+    {
+      "category": "Project and Stakeholder Management",
+      "items": "Project management, cross-functional and international stakeholder coordination, translating complex information into actionable insights and recommendations for senior leadership, steering committee reporting, industry sustainability initiatives and multi-stakeholder working groups, capacity-building and training programmes, Agile delivery (Jira, Confluence)"
+    }
+  ],
+  "certifications": [
+    "ISO 27001 Lead Auditor / Lead Implementer",
+    "Climate & Sustainability - Boston Consulting Group (BCG)",
+    "Agile - Cognizant"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional (B2) | Hindi - Native"
+  ],
+  "footer": "Based in Berlin, open to relocation | Available immediately | Valid German work and residence permit"
+}

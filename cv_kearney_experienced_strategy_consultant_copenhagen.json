@@ -1,0 +1,132 @@
+{
+  "format": "workday",
+  "contact": {
+    "location": "Berlin, Germany",
+    "phone": "+49 172 6568115",
+    "email": "nikkhilsehgal@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/nikkhil-sehgal-a68577146/"
+  },
+  "profile": "Analyst and advisor, six years across commercial consulting, corporate strategy and multi-country research. Combines market sizing, competitor benchmarking and business model analysis with Excel and Python modelling, and turns the findings into recommendations clients act on. Sized a new market and mapped the competitive landscape behind a go/no-go decision, and carried tenders end to end from response strategy through pricing to submission.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd.",
+      "location": "Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Model client cost exposure market by market in Excel, converting regulatory obligation into the figures behind capital allocation decisions",
+        "Run scenario analyses on real estate portfolios at 1.5 and 2 degrees, and present the results as client decision material",
+        "Translate regulatory exposure into commercial pathways for building materials, industrial and automotive clients"
+      ]
+    },
+    {
+      "company": "TUI AG",
+      "location": "Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Benchmarked 5 investor rating methodologies including S&P CSA, Sustainalytics, MSCI and ISS, and set out where the group stood against peer practice",
+        "Built and steered a cross-functional project team across Compliance, Risk, Legal, IT and supply chain, setting deliverables and holding contributors to deadlines",
+        "Structured data and regulatory exposure for the team reviewing a corporate transaction",
+        "Conducted stakeholder interviews, surveys and workshops, then scored the results against severity, likelihood and financial magnitude thresholds",
+        "Presented analysis and recommendations to senior leadership"
+      ]
+    },
+    {
+      "company": "CDP Worldwide",
+      "location": "Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Served as primary point of contact for 150+ organisations globally through a full reporting cycle",
+        "Analysed new questionnaire modules across organisations of very different size, sector and data maturity"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd.",
+      "location": "Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Sized a new market and assessed the segment behind a go/no-go decision the client took",
+        "Mapped competitive landscapes and benchmarked peers across several markets",
+        "Analysed business models on pricing, margin and unit economics to locate where value was created",
+        "Carried tender and RFP responses end to end, from response strategy through pricing to submission",
+        "Ran win/loss reviews with sales, and reset qualification tactics on what the deal data showed",
+        "Cut manual data processing 40 percent by automating the pipeline in Python"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative",
+      "location": "New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Evaluated 53 organisations against 17 SDGs across 5 countries",
+        "Researched market and policy conditions across 3 South Asian markets, and synthesised the findings for decision makers",
+        "Identified new revenue opportunities for the regional chapter, sizing the markets behind them",
+        "Chaired the recurring member forum across competing mandates, carrying actions to closure",
+        "Presented to listed companies at 3 stock exchanges, in Bombay, Colombo and Dhaka"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations",
+      "location": "Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Delivered 15+ projects worth over EUR 20M across commercial, hospitality and institutional clients",
+        "Screened candidates, ran interviews and selected a team of 4, then managed them through to delivery",
+        "Produced pre-feasibility studies with the technical and financial evaluations and cost estimates behind them"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universitaet Berlin, Germany",
+      "details": [
+        "Grade 1.6. Coursework in data analysis, statistical methods, SQL, environmental law and risk management",
+        "Thesis on the financial implications of EU regulation on an industry, using survey design and regression analysis in Python"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (5-year professional degree)",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": []
+    }
+  ],
+  "skills": [
+    {
+      "category": "Strategy and Analysis",
+      "items": "Data gathering and analysis, market and competitor assessments, insight development, problem solving, market sizing, market entry analysis, competitive landscape mapping, peer benchmarking, business model analysis (pricing, margin, unit economics, value creation levers), scenario analysis, cohort and retention analysis, survey design, regression analysis, structured literature reviews, multi-country primary and secondary research"
+    },
+    {
+      "category": "Commercial and Business Development",
+      "items": "Business development, proposal development, thought leadership, tender and RFP ownership, bid pricing and commercial terms, PQQs, cost and cash-flow modelling, pipeline and revenue forecasting, win/loss reviews, account management, contract renewals and expansion, client relationship management"
+    },
+    {
+      "category": "Data and Tools",
+      "items": "Advanced Excel modelling, PowerPoint and pitch decks, Python, SQL, Power BI, Google Sheets and Slides, SAP, Dynamics 365, HubSpot, Jira, Confluence, MS Project, Microsoft 365"
+    },
+    {
+      "category": "Delivery and Firm Building",
+      "items": "Project workstreams and client recommendations, cross-functional team leadership, senior leadership communication, stakeholder interviews and workshops, firm-building initiatives, recruiting and candidate selection, training curriculum design and delivery, mentoring, sprint delivery, user stories and acceptance criteria, matrix organisations"
+    },
+    {
+      "category": "Sector Knowledge",
+      "items": "EU regulation and compliance strategy, sustainability and climate reporting, carbon accounting and life cycle assessment, real estate and built environment, industrial, automotive and building materials supply chains, travel and leisure"
+    }
+  ],
+  "certifications": [
+    "Climate & Sustainability - Boston Consulting Group",
+    "Introduction to ESG - Corporate Finance Institute",
+    "Agile - Cognizant"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional (B2) | Hindi - Native"
+  ],
+  "footer": "Berlin-based, open to relocation to Copenhagen | Valid German work and residence permit | Available immediately"
+}

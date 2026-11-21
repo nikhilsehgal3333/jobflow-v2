@@ -1,0 +1,33 @@
+{
+  "contact": {
+    "location": "Berlin, Deutschland",
+    "phone": "+49 172 6568115",
+    "email": "nikkhilsehgal@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/nikkhil-sehgal-a68577146/"
+  },
+  "recipientAddress": [
+    "KPMG Austria GmbH Wirtschaftsprüfungs- und Steuerberatungsgesellschaft",
+    "Kudlichstraße 41",
+    "4020 Linz",
+    "Österreich"
+  ],
+  "salutation": "Sehr geehrte Damen und Herren,",
+  "intro": "mit dem Nachhaltigkeitsberichtsgesetz wird die ESRS-Berichterstattung in Österreich 2026 zur Pflicht, und Ihre Studie \"Real-time ESRS 2026: Austria 40\" zeigt, dass die Berichte bereits besser werden. Ich kenne Nachhaltigkeitsberichte von der Seite der berichtenden Unternehmen, arbeite sorgfältig mit Zahlen und möchte als Associate in Ihrem Team in Linz lernen, Abschlüsse und Nachhaltigkeitsberichte zu prüfen.",
+  "experiences": "Ich habe einen MBA in Building Sustainability der TU Berlin (Note 1,6) mit Modulen zu Rechnungslegung und IFRS und über vier Jahre Erfahrung in der Nachhaltigkeitsberichterstattung in Konzern, Beratung und NGO. Bei der TUI AG habe ich das Disclosure-Team bei der Vorbereitung auf die CSRD unterstützt, heute erstelle ich bei KarbonWise GRI-Berichte für Kunden, und bei CDP war ich erste Ansprechperson für über 150 offenlegende Organisationen.",
+  "qualitiesLead": "In Ihr Team kann ich von Beginn an zwei Stärken einbringen:",
+  "skills": [
+    {
+      "name": "Prüfungsvorbereitung und Abgleich mit Finanzzahlen",
+      "body": "Wer Nachhaltigkeitsberichte prüft, muss wissen, wie Angaben und Nachweise im Unternehmen entstehen. Bei der TUI AG, einem börsennotierten Konzern, musste jede Angabe der CSRD-Berichterstattung für die Prüfung belegbar sein. Ich habe die Angaben an ESRS E1 ausgerichtet und die SBTi- und TCFD-Aussagen bewertet. Mit den Prüfungspartnern habe ich die Nachweisdokumentation zusammengestellt und ESG-Angaben im Geschäfts- und Lagebericht mit den Finanzzahlen abgeglichen. Dabei habe ich gelernt, welche Nachweise eine Prüfung verlangt und wie Nachhaltigkeits- und Finanzzahlen zusammenhängen."
+    },
+    {
+      "name": "Genaues Arbeiten mit Standards und Berichten",
+      "body": "Die Prüfung von Nachhaltigkeitsberichten verlangt, Angaben genau gegen Standards zu lesen. Bei KarbonWise prüfe ich Berichte und ESG-Bewertungen anderer Analysten, bevor sie an den Kunden gehen. Für 4+ Kundenberichte habe ich GRI-Angaben den ESRS-Datenpunkten zugeordnet und Lücken dokumentiert, und bei einem Kunden habe ich die doppelte Wesentlichkeitsanalyse bis zur Freigabe durch die Geschäftsleitung geleitet. Einblick in die Finanzbranche habe ich über ESG-Fragebögen für Private-Equity- und VC-Fonds gewonnen, für Recherche nutze ich regelmäßig Claude."
+    }
+  ],
+  "extraParagraphs": [
+    "Meine Erfahrung liegt bisher in der Nachhaltigkeitsberichterstattung, nicht in der Abschlussprüfung. Die Grundlagen der Rechnungslegung nach IFRS kenne ich aus dem MBA, und die Prüfung von Jahres- und Konzernabschlüssen nach UGB und IFRS möchte ich bei Ihnen von Grund auf lernen. Ich ziehe gerne nach Linz und kann sofort beginnen; die österreichische Bewilligung würde ich nach einer Zusage beantragen."
+  ],
+  "closing": "Gerne zeige ich Ihnen in einem persönlichen Gespräch, wie ich Ihr Team in Linz unterstützen kann.",
+  "signoff": "Mit freundlichen Grüßen"
+}

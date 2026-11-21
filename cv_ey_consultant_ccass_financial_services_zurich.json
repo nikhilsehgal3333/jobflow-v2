@@ -1,0 +1,126 @@
+{
+  "company": "EY",
+  "role": "Consultant CCaSS Financial Services",
+  "format": "preferred",
+  "language": "en",
+  "profile": "Sustainability consultant with 4+ years across ESG advisory, corporate reporting and research. Core strengths in CSRD, ESRS and EU Taxonomy reporting to assurance standard, climate risk and GHG accounting, and investor-facing ESG data including SFDR PAI and 6+ fund ESG questionnaires for private-markets clients. Readied a listed group's non-financial KPIs from 5+ entities for external assurance by building the working papers, evidence packs and audit trails the provider tested.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Run CRREM transition-risk analyses under 1.5 and 2 degree scenarios across 10+ assets for 4+ real-estate clients, including a fund",
+        "Assess physical climate risk for client sites and portfolios, and appraise adaptation measures and their cost",
+        "Check individual buildings against EU Taxonomy criteria and derive retrofit measures per asset with their CO2 and cost effect",
+        "Complete or review fund ESG questionnaires for private-markets clients",
+        "Led a client's CSRD double materiality assessment, scoring the IRO long list and taking the ESRS mapping to management sign-off",
+        "Prepare GRI-referenced sustainability reports through to sign-off and map GRI disclosures against ESRS datapoints",
+        "Deliver Scope 1-3 carbon footprints under the Greenhouse Gas (GHG) Protocol and product LCAs to ISO 14040/44 in OneClick LCA",
+        "Direct 6+ analysts across parallel client engagements and quality-check their deliverables before release"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Aligned group CSRD reporting with ESRS E1 alongside the senior disclosure team, and prepared TNFD and nature-related disclosure content",
+        "Prepared the working papers, evidence packs and audit trails tested in the group's external assurance engagement",
+        "Assessed EU Taxonomy eligibility and alignment and calculated turnover, CapEx and OpEx KPIs from finance data",
+        "Supplied SFDR principal adverse impact (PAI) data and answered investor and rating-agency queries",
+        "Compared 5 ESG rating methodologies, including S&P CSA, MSCI, Sustainalytics and ISS, and documented EcoVadis responses",
+        "Set annual ESG KPI targets and data-collection cycles, and contributed to the group's climate targets and transition plan with the senior team",
+        "Consolidated non-financial KPIs from 5+ group entities in SAP and Power BI",
+        "Scoped and drove an LLM assistant proof of concept for CSRD and ESRS queries, designing the prompts and retrieval"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Guided 150+ disclosing organisations worldwide through CDP's questionnaire as primary contact, escalating issues to closure",
+        "Validated disclosure data and tracked submission coverage and data quality across organisation types"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Cut manual data processing by 40% through Python automation",
+        "Built SQL queries and validation rules for a GRI-aligned sustainability reporting platform",
+        "Authored the methodology sections of 5+ tender and RFP responses, and priced the bids"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Evaluated 53 consortium members' engagement with 17 SDGs across 5 countries",
+        "Presented GRI Standards at the Bombay, Colombo and Dhaka stock exchanges, and documented the GRI-BRSR linkage under SEBI",
+        "Wrote policy briefs and technical summaries for non-specialist audiences from structured literature reviews"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Ran energy audits and LEED, WELL and GRIHA gap analyses for commercial buildings",
+        "Advised on 15+ projects worth 20M+ euros, preparing technical and financial evaluations and cost estimates"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universität Berlin, Germany",
+      "details": [
+        "Grade 1.6. Thesis on the financial implications of CSRD in the construction industry, built on survey design and regression analysis in Python; mapped IFRS S1 and S2 against GRI and drafted IFRS S1 and S2 disclosure content"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), five-year professional degree",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": [
+        "Coursework in energy systems, building physics and contract management"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Reporting and Assurance",
+      "items": "CSRD, ESRS, EU Taxonomy (eligibility, alignment, KPIs), GRI, TCFD, TNFD, ISSB (IFRS S1 and S2), double materiality, non-financial reporting, assurance readiness, limited and reasonable assurance, working papers and evidence packs, internal controls"
+    },
+    {
+      "category": "Sustainable Finance and Financial Services",
+      "items": "SFDR entity-level disclosures and PAI indicators, ESG ratings (MSCI, Sustainalytics, ISS, S&P CSA), fund ESG questionnaires for private equity or venture capital clients, investor queries, climate risk for a real-estate fund client, EU ETS exposure"
+    },
+    {
+      "category": "Climate and Carbon",
+      "items": "GHG Protocol Scope 1-3, carbon footprinting (PCF, CCF), Life Cycle Analysis (ISO 14040/44/67), SBTi, CRREM, physical and transition climate risk, scenario analysis, climate targets and transition plans, SDGs"
+    },
+    {
+      "category": "AI, Data and Tools",
+      "items": "Generative AI tools in daily consulting use, LLM prompt and retrieval design, data analytics, Python, SQL, Power BI, SAP, osapiens, Microsoft Excel and PowerPoint"
+    },
+    {
+      "category": "Consulting",
+      "items": "Parallel client deliverables, client workshops and management sign-off, thought leadership and policy briefs, multi-cultural and cross-functional teamwork, clear written and verbal communication"
+    }
+  ],
+  "certifications": [
+    "Climate Change & Sustainability - EY",
+    "Climate-related Financial Disclosures - CDP",
+    "Scenario Analysis - CDP"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional (B2) | Hindi - Native"
+  ],
+  "footer": "Berlin, Germany | Valid German work and residence permit; Swiss permit to be obtained on offer | Open to relocation to Zurich | Available immediately"
+}

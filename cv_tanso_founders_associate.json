@@ -1,0 +1,126 @@
+{
+  "contact": {
+    "location": "Berlin, Germany",
+    "phone": "+49 172 6568115",
+    "email": "nikkhilsehgal@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/nikkhil-sehgal-a68577146/"
+  },
+  "profile": "Consultant and product manager, five years, working the commercial edge of EU sustainability regulation: what a new obligation costs a manufacturer, market by market, before they commit capital. Launched a module on a B2B carbon platform from concept to first users, and owned the tenders and pricing behind it. Cut manual data handling 40 percent by automating the processing pipeline in Python.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd.",
+      "location": "Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Model per-market cost exposure for incoming EU regulation, so industrial clients can price an obligation before committing capital",
+        "Run carbon accounting on GHG Protocol for building materials, automotive supply and industrial manufacturing clients",
+        "Build product footprints from the bill of materials up, chasing supplier data down to material level",
+        "Pilot each new compliance process on a single product line first, then take it portfolio-wide"
+      ]
+    },
+    {
+      "company": "TUI AG",
+      "location": "Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Steered a cross-functional team across Compliance, Risk, Legal, IT and supply chain, setting deliverables and holding contributors to deadlines",
+        "Scoped and drove an LLM assistant for ESG queries to a working proof of concept, designing the prompts and the retrieval behind it",
+        "Consolidated group-wide KPIs out of SAP into Power BI dashboards management steered targets against",
+        "Benchmarked the group against five rating methodologies, and prepared the investor and board reporting inputs that answered the queries",
+        "Presented to senior leadership, then built the outcome into e-learning modules teams across the group completed"
+      ]
+    },
+    {
+      "company": "CDP Worldwide",
+      "location": "Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Handled the disclosure inbox for 150+ organisations globally as their primary point of contact",
+        "Built the data collection and validation controls that held across organisations of widely differing size and maturity"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd.",
+      "location": "Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Launched a new module on a B2B carbon platform, concept to first users, then handed it to the team that runs it",
+        "Cut manual data handling 40 percent by automating the processing pipeline in Python",
+        "Owned tender and RFP responses end to end, and set the pricing models and commercial terms behind each bid",
+        "Sized new markets and mapped the competitor landscape behind entry decisions",
+        "Ran cohort analysis on retention and churn to locate where growth concentrated",
+        "Carried a book of business against renewal and expansion targets, forecasting revenue weekly in Dynamics 365"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative",
+      "location": "New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Evaluated 53 consortium members against 17 SDGs across 5 countries",
+        "Researched market and policy developments across India, Sri Lanka and Bangladesh, and sized the opportunity behind them",
+        "Chaired the recurring member forum across competing mandates, and ran a communications campaign end to end from messaging to measurement",
+        "Presented GRI Standards to listed companies at the Bombay, Colombo and Dhaka stock exchanges"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations",
+      "location": "Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Selected and led a team of 4 across 15+ projects worth over EUR 20M",
+        "Prepared the pre-feasibility studies, cost estimates and financial evaluations behind client go-ahead"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universitaet Berlin, Germany",
+      "details": [
+        "Grade 1.6. Coursework in data analysis, statistical methods, SQL, environmental law and risk frameworks",
+        "Thesis on the financial implications of EU regulation for the construction industry, using survey design and regression analysis in Python"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (5-year professional degree)",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": []
+    }
+  ],
+  "skills": [
+    {
+      "category": "Analysis and Commercial Modelling",
+      "items": "Pricing models and commercial terms, cost and cash-flow modelling, market sizing, competitor deep-dives and landscape mapping, peer benchmarking, cohort, retention and churn analysis, revenue forecasting, unit economics and margin analysis, advanced Excel, SQL, Python, Power BI"
+    },
+    {
+      "category": "AI and Automation",
+      "items": "AI tools in daily use for research, analysis and drafting, prototyping with AI coding tools, prompt and retrieval design, Python scripting and data automation, process automation and internal enablement, training delivery and adoption"
+    },
+    {
+      "category": "Zero to One Delivery",
+      "items": "Product lifecycle from concept to launch, pilots and phased rollout, handover to permanent teams, sprint cycles, user stories and acceptance criteria, tender and proposal ownership, cross-functional coordination, Jira, Confluence, MS Project, Dynamics 365, HubSpot, SAP, Google Workspace, Microsoft 365"
+    },
+    {
+      "category": "Carbon Accounting and EU Regulation",
+      "items": "Carbon accounting on GHG Protocol Scope 1-3, product and corporate carbon footprints, ESG data management, CSRD and ESRS, EU Taxonomy, CSDDD and LkSG, CBAM, ESPR and Digital Product Passport, PPWR and EPR, EUDR, EU Battery Regulation, GRI, CDP, EcoVadis"
+    }
+  ],
+  "certifications": [
+    "Climate & Sustainability - Boston Consulting Group",
+    "Agile - Cognizant",
+    "Introduction to ESG - Corporate Finance Institute"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional (B2) | Hindi - Native"
+  ],
+  "footer": "Valid German work and residence permit | Open to relocating to Munich | Available immediately"
+}

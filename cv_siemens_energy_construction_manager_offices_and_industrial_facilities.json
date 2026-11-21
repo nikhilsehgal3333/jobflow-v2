@@ -1,0 +1,126 @@
+{
+  "company": "Siemens Energy",
+  "role": "Construction Manager Offices and Industrial Facilities",
+  "format": "preferred",
+  "language": "en",
+  "profile": "Architect and construction project professional with a five-year B.Arch and an MBA in Building Sustainability. Combines on-site contractor coordination, site inspections and QHSE standards with Primavera P6 scheduling, budget management, risk management and stakeholder communication, plus energy efficiency and green building certification expertise. Advised on 15+ construction projects worth over 20M euros from proposal to delivery.",
+  "experience": [
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Advised on 15+ construction projects worth over 20M euros across commercial, hospitality, institutional and residential buildings, from proposal to delivery",
+        "Directed contractor crews on site and monitored daily progress against the programme",
+        "Ran site inspections against drawings and quality standards, raising NCRs and driving corrective actions to verified closure",
+        "Chaired site progress meetings with contractors and consultants, and issued the minutes and actions",
+        "Tracked actual cost against project budgets and reported variances in regular progress updates, backed by cost estimates",
+        "Built project schedules in Primavera P6, with critical path, float and earned value (SPI/CPI) analysis",
+        "Ran site audits, toolbox talks and risk assessments, logging hazards, incidents and NCRs in a QHSE reporting system",
+        "Planned the annual audit schedule and hosted external auditors and certification bodies through third-party audits",
+        "Secured best price from subcontractors on tendered packages and negotiated supplier contracts on price, payment terms and risk",
+        "Maintained the permit register with conditions and deadlines, and briefed government authorities on a government hotel project",
+        "Conducted energy audits on office buildings and IT parks, and LEED, WELL and GRIHA gap analyses toward green building certification",
+        "Selected and managed a team of 4 interns and produced design documentation in Revit and AutoCAD"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Model decarbonisation pathways under 1.5 and 2 degree CRREM scenarios for Middle Eastern real estate clients",
+        "Advise real estate clients on EPBD, GEG and EU Taxonomy requirements, using metered consumption data in Predium",
+        "Run building and product assessments in OneClick LCA to ISO 14040, 14044 and 14067",
+        "Scope decarbonisation projects and track each measure by owner, status and achieved reduction",
+        "Assess physical climate risk for client sites and appraise the cost of adaptation and resilience measures"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Built and steered a cross-functional project team across 5 functions, holding contributors to deliverables and deadlines",
+        "Maintained the supply chain risk register and reported risk findings to senior management",
+        "Coordinated implementation with international subsidiaries and tracked completion entity by entity",
+        "Presented analysis results and regulatory developments to senior leadership with recommendations"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Served as first point of contact for 150+ organisations worldwide through the disclosure inbox"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Owned tender and RFP responses end to end and completed pre-qualification questionnaires against hard client deadlines",
+        "Automated data processing in Python and cut manual effort by 40%"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Assessed 53 consortium members across 5 countries and presented at 3 South Asian stock exchanges"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universitaet Berlin, Germany",
+      "details": [
+        "Grade 1,6 (good). Thesis on the financial implications of CSRD in the construction industry",
+        "Coursework: energy audits, GEG, EU building directives, ISO 50001, LCA, DGNB, COSO and ISO 31000 risk management"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), five-year professional degree",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": [
+        "Coursework: construction technology, building services, building physics, energy systems, environmental control systems and contract management"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Construction project management",
+      "items": "On-site contractor coordination, site inspections, NCRs and corrective actions, site progress meetings, construction contract management, subcontractor tendering and pricing, permit registers, HOAI service stages, German building regulations and permit procedures"
+    },
+    {
+      "category": "Project planning and control",
+      "items": "Primavera P6, MS Project, critical path and float analysis, look-ahead schedules, baseline maintenance, earned value, delay and change impact analysis, budget management and variance reporting, cost estimates, risk registers, progress reports"
+    },
+    {
+      "category": "QHSE and sustainability",
+      "items": "QHSE standards, site audits, toolbox talks, risk assessments, PPE management, QHSE reporting systems, annual audit schedule, energy efficiency measures, green building certifications, energy audits, LEED, WELL and GRIHA gap analysis, GEG, EPBD, ISO 50001, CRREM, OneClick LCA"
+    },
+    {
+      "category": "Stakeholder management",
+      "items": "Stakeholder communication with internal teams, external consultants, contractors and local authorities, site progress meetings, regular project updates, senior leadership reporting, international and cross-functional project teams"
+    },
+    {
+      "category": "Digital and design",
+      "items": "Revit (BIM), AutoCAD, SketchUp, Aconex, Bluebeam, Power BI, Python, Microsoft 365"
+    }
+  ],
+  "certifications": [
+    "Agile - Cognizant",
+    "Climate & Sustainability - Boston Consulting Group (BCG)",
+    "Climate Change & Sustainability - EY"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional working proficiency (B2) | Hindi - Native"
+  ],
+  "footer": "Berlin, Germany | Immediately available | Valid German work and residence permit"
+}

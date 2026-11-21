@@ -1,0 +1,135 @@
+{
+  "company": "ESMT Berlin",
+  "role": "Recruitment Manager Degree Programs",
+  "format": "preferred",
+  "language": "en",
+  "profile": "Client-facing professional with 5+ years across consulting, B2B sales, corporate and non-profit roles in Germany and India. Combines prospect outreach, lead qualification and CRM-based pipeline analysis with webinars, fairs and events, plus prospective-student engagement for the TU Berlin MBA. Served as primary contact for 150+ organisations at CDP and worked a 20+ prospect pipeline in Dynamics 365.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Negotiate fees and scope directly with clients, and pitch follow-on work that clients go on to buy",
+        "Coach client teams on sustainability methodologies, reporting requirements and data governance",
+        "Flag slipping deliverables early and agree recovery plans and revised timelines with clients",
+        "Direct a team of 6+ analysts and quality-check their deliverables before release"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Built and steered a 5-function project team across Compliance, Risk, Legal, IT and supply chain",
+        "Coordinated implementation directly with 5+ international subsidiaries, tracking completion entity by entity",
+        "Prepared, cleansed and loaded data on 500+ suppliers, and built Power BI dashboards on group-wide KPIs",
+        "Presented analysis to senior leadership and the steering committee, then tracked decisions to closure across functions"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Served as primary contact for 150+ organisations worldwide, owning their onboarding and support",
+        "Held feedback calls with disclosing and prospective organisations, logging each interaction in HubSpot",
+        "Drove sign-ups for CDP events against attendance targets and supported the CDP-hosted workshop in Warsaw"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Ran cold outreach to new prospects and qualified inbound leads through to a decision, across a 20+ prospect pipeline",
+        "Tracked funnel conversion stage by stage from lead to demo to deal, and reset outreach and qualification on what the data showed",
+        "Managed 5+ client accounts against renewal and growth targets, forecasting the pipeline weekly in Dynamics 365",
+        "Demoed the platform live to prospects, built custom demos for specific use cases and trained client users after signing",
+        "Staffed the company's fair booth and drove sign-ups for client or prospect events against attendance targets",
+        "Sized a new market segment for a go/no-go entry decision and mapped the competitive landscape behind it",
+        "Analysed cohorts, retention and churn across the customer base",
+        "Cut manual data processing by 40% through Python automation"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Presented the GRI Standards at 3 stock exchanges: Bombay, Colombo and Dhaka",
+        "Hosted a webinar and organised speaker-led learning sessions, driving sign-ups against attendance targets",
+        "Chaired recurring meetings of a 53-member consortium across 5 countries, and managed membership renewals",
+        "Steered a communications campaign end to end, setting the messaging, channels, timeline and measurement",
+        "Planned and posted content for the organisation's social channel, tracking performance in native analytics"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Screened applications, ran interviews and selected a team of 4 interns, then managed them from proposal to delivery",
+        "Advised on 15+ projects worth 20M+ euros, coordinating 20+ contractors and vendors across 6+ sites"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universität Berlin, Germany",
+      "details": [
+        "Grade 1,6 (good). Thesis on the financial implications of CSRD in the construction industry, using survey design and regression analysis in Python"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), five-year professional degree",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": [
+        "Coursework in urban planning, contract management and construction technology"
+      ]
+    }
+  ],
+  "extras": [
+    {
+      "label": "STUDENT RECRUITMENT",
+      "bullets": [
+        "Represented the TU Berlin MBA to prospective students, answering their questions on the programme",
+        "Advised individual applicants on choosing the programme and preparing their applications"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Recruitment and Consultative Sales",
+      "items": "Consultative selling, prospect outreach, lead qualification, pipeline development and weekly forecasting, stage-by-stage funnel conversion, live and custom demos, account management, renewals and follow-on sales, win/loss reviews"
+    },
+    {
+      "category": "CRM, Data and Analytics",
+      "items": "CRM systems (HubSpot, Dynamics 365), CRM reports and dashboards, email campaigns and marketing workflows, cohort and churn analysis, segmentation, large datasets, Excel, Power BI, SQL, Python"
+    },
+    {
+      "category": "Events and Communication",
+      "items": "Webinars, fairs, event promotion and registration, presentations to senior and international audiences, communications campaigns, social media content and SEO, newsletters"
+    },
+    {
+      "category": "Market Intelligence",
+      "items": "Market sizing, competitor insights and competitive landscape mapping, peer benchmarking, market entry analysis"
+    },
+    {
+      "category": "Data Protection",
+      "items": "Handling sensitive data under GDPR (records of processing, data mapping, data subject requests), ISO 27001 control documentation"
+    }
+  ],
+  "certifications": [
+    "Agile - Cognizant",
+    "Climate & Sustainability - Boston Consulting Group (BCG)",
+    "Climate Change & Sustainability - EY"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional (B2) | Hindi - Native"
+  ],
+  "footer": "Valid German work and residence permit | Based in Berlin | Available immediately"
+}

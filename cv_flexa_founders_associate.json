@@ -1,0 +1,121 @@
+{
+  "contact": {
+    "location": "Berlin, Germany",
+    "phone": "+49 172 6568115",
+    "email": "nikkhilsehgal@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/nikkhil-sehgal-a68577146/"
+  },
+  "profile": "Operator and builder, five years, working between the people running a manual process and the systems meant to serve them: map what the process actually does, then automate it. Python automation with tests and retry handling, prompt and retrieval design behind an internal LLM assistant, and hands-on use of an agent framework. Automated a manual data process end to end, cutting handling 40 percent.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd.",
+      "location": "Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Own regulatory data programmes end-to-end, turning vague requirements into a concrete spec, running it with one client first, then extending it across the portfolio",
+        "Rebuild manual client reporting into repeatable processes, coaching the teams who have to run them afterwards",
+        "Model what incoming regulation will cost a client per market, before they commit capital"
+      ]
+    },
+    {
+      "company": "TUI AG",
+      "location": "Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Scoped and drove an LLM assistant for internal queries to a working proof of concept, designing the prompts and the retrieval behind it",
+        "Steered a cross-functional team across Compliance, Risk, Legal, IT and supply chain, setting deliverables and holding contributors to deadlines",
+        "Rolled out a third-party compliance platform across international subsidiaries, tracking completion entity by entity",
+        "Documented the processes, SOPs and decision rights behind a regulatory requirement, then built the e-learning modules teams across the group completed",
+        "Consolidated group-wide KPIs out of SAP into Power BI dashboards management steered targets against"
+      ]
+    },
+    {
+      "company": "CDP Worldwide",
+      "location": "Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Rebuilt the support process for 150+ organisations globally into repeatable controls",
+        "Handled the disclosure inbox as primary point of contact, resolving methodology and data queries"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd.",
+      "location": "Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Automated a manual data process end to end in Python, cutting handling 40 percent",
+        "Wrote tests, retry and rate-limit handling into that automation so it ran unattended",
+        "Built internal tooling colleagues went on to use regularly",
+        "Built the data systems and SQL validation rules behind a B2B reporting platform",
+        "Launched a new module from concept to first users, then handed it to the team that runs it",
+        "Ran sprint cycles with engineers, writing user stories and acceptance criteria as tracked issues in Jira"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative",
+      "location": "New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Evaluated 53 member organisations across 5 countries, and briefed them on what changed and why"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations",
+      "location": "Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Led a team of 4 across 15+ projects worth over EUR 20M",
+        "Coordinated specialist consultants into consolidated submissions against scope, budget and schedule"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universitaet Berlin, Germany",
+      "details": [
+        "Grade 1.6. Coursework in data analysis, statistical methods and SQL",
+        "Thesis using survey design and regression analysis in Python"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (5-year professional degree)",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": []
+    }
+  ],
+  "skills": [
+    {
+      "category": "AI and Automation",
+      "items": "Internal AI automation, end-to-end; agent framework, hands-on; prompt engineering and retrieval design; LLM-driven workflow design; AI tools in daily use for analysis and drafting; prototyping with AI coding tools; process automation and getting it adopted"
+    },
+    {
+      "category": "Engineering",
+      "items": "Python for automation and data work, write tests on my own code, retry and rate-limit handling, error handling, cost and latency of model calls, SQL, data pipelines and validation rules, Power BI, SAP"
+    },
+    {
+      "category": "Operating Model and Delivery",
+      "items": "Process mapping and documentation, SOPs, decision rights and responsibility splits, zero-to-one launch, pilots and phased rollout, handover to permanent teams, sprint cycles, user stories and acceptance criteria, UAT, requirements gathering, Jira, Confluence"
+    },
+    {
+      "category": "Stakeholder Engagement",
+      "items": "Stakeholder interviews turned into a working spec, requirements and specifications, senior leadership presentation, investor and shareholder reporting inputs, cross-functional steering across Compliance, Risk, Legal and IT, client coaching and training delivery, conference and panel presentation, tender and proposal ownership"
+    }
+  ],
+  "certifications": [
+    "Agile - Cognizant",
+    "Climate & Sustainability - Boston Consulting Group"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional (B2) | Hindi - Native"
+  ],
+  "footer": "Open to relocating to Munich for an office-first role | Valid German work and residence permit | Available immediately"
+}

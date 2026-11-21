@@ -1,0 +1,126 @@
+{
+  "company": "ETH Zurich sus.lab",
+  "role": "Project Manager",
+  "format": "preferred",
+  "language": "en",
+  "profile": "Sustainability project manager with three years of applied net zero and circular economy work across consulting and research, plus two corporate work-study roles. Core strengths in circularity and end-of-life analysis for automotive and industrial materials, stakeholder interviews and workshops with decision-makers, and turning findings into reports and presentations. Ran a work package in an EU LIFE consortium, authoring its deliverables to the funder and coordinating partners across the consortium.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Ran a work package in an EU LIFE consortium, authoring the deliverables to the funder and coordinating partners",
+        "Track metal scrap volumes, treatment routes and turnaround with clients' recycling partners and waste contractors",
+        "Guide clients through End-of-Life Vehicles, WEEE and producer take-back obligations, and EU Battery Regulation recycled-content and passport rules",
+        "Deliver LCA, product footprint, EPD and circularity work for 4+ clients, including BOM-based footprints for automotive component suppliers",
+        "Derived retrofit and operating measures with their CO2 and cost effect for 10+ client buildings",
+        "Scoped 3+ decarbonisation projects that clients went on to implement, tracking each measure by owner and achieved reduction",
+        "Designed and moderated a client workshop and ran a client survey cycle from design to reporting",
+        "Build Excel models pricing clients' EPR fee and cost exposure per market",
+        "Direct 6+ analysts on client engagements, setting deliverables and reviewing their work",
+        "Present quantified findings on CO2, cost or savings to client Head-of and C-level counterparts"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Ran stakeholder interviews and condensed the findings into written analyses",
+        "Scoped and drove an LLM-based ESG assistant to a proof of concept, designing its prompts and retrieval",
+        "Compared 4 ESG rating methodologies (S&P, Sustainalytics, MSCI, ISS) against business operations and regulation",
+        "Steered a 5-function project team (Compliance, Risk, Legal, IT, supply chain) through a cross-functional action plan",
+        "Assessed SBTi and TCFD statements and aligned CSRD disclosures with ESRS E1"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Cut response times by 20%+ as first point of contact for 150+ disclosing organisations, and analysed newly launched questionnaire modules"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Interviewed customers and mapped how their teams worked to shape product features, testing new ones with a single customer before rollout",
+        "Sized markets and mapped competitive landscapes for a B2B ESG reporting platform",
+        "Cut manual data processing by 40% through Python automation"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Evaluated 53 consortium members' engagement with 17 SDGs across 5 countries, including gender and SDG 5 coverage",
+        "Wrote policy briefs and technical summaries for non-specialist audiences from structured literature reviews",
+        "Produced member newsletters and policy updates on UNFCCC, COP and NDC developments",
+        "Presented the GRI Standards at 3 stock exchanges (Bombay, Colombo, Dhaka) and hosted a webinar"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Architect",
+      "bullets": [
+        "Authored full environmental impact assessment reports for hotels and commercial buildings, consolidating air, noise, water and ecology studies",
+        "Delivered design and compliance work on 15+ projects worth over 20M euros, including energy audits for commercial buildings"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universität Berlin, Germany",
+      "details": [
+        "Grade 1.6. Thesis: Assessing the Financial Implications of CSRD in the Construction Industry (ESRS E1 to G1), with survey design and regression analysis in Python",
+        "Coursework included life cycle assessment, data analysis, statistical methods, environmental law and energy audits"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (5-year professional degree)",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": [
+        "Coursework in energy systems, building materials and construction technology"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Net Zero and Circular Economy",
+      "items": "Circularity and end-of-life analysis, closed loop recycling (metal scrap, plastics), End-of-Life Vehicles, WEEE, EU Battery Regulation, circular design criteria and KPIs, LCA (ISO 14040, 14044, 14067), EPD, BOM-based product carbon footprints, GHG Protocol Scope 1-3, SBTi, decarbonisation measures, CBAM, ESPR and Digital Product Passport, PPWR, voluntary carbon market project assessment (Gold Standard)"
+    },
+    {
+      "category": "Research Methods",
+      "items": "Stakeholder interviews, interviews in academic research, workshop design and moderation, survey design, structured literature reviews, policy briefs, value chain and supplier data analysis, market sizing, competitive landscape mapping, peer benchmarking, regression analysis, Excel cost models"
+    },
+    {
+      "category": "Project Management",
+      "items": "EU LIFE work package delivery, consortium partner coordination, cross-functional action plans, task owners and deadlines, team direction and review, event and workshop organisation, Jira, Confluence, MS Project"
+    },
+    {
+      "category": "AI and Data",
+      "items": "AI tools for research, analysis and drafting, AI applications for sustainability work (LLM-based ESG assistant), small working tools built with an AI coding assistant, LLM-based extraction of structured fields from documents, text classification, web scraping, Python, SQL, Power BI"
+    },
+    {
+      "category": "Policy and Reporting",
+      "items": "EU Green Deal regulation, CSRD and ESRS, EU Taxonomy, GRI, CDP, TCFD, UNFCCC, COP and NDC processes"
+    }
+  ],
+  "certifications": [
+    "Climate & Sustainability - BCG",
+    "Climate Change & Sustainability - EY",
+    "Scenario Analysis - CDP"
+  ],
+  "languages": [
+    "English - fluent (C1) | German - professional working proficiency (B2) | Hindi - native"
+  ],
+  "footer": "Valid German work and residence permit; Swiss permit to be obtained on offer | Open to relocation to Zurich | Available from January 2027"
+}

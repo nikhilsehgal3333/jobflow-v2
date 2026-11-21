@@ -1,0 +1,122 @@
+{
+  "company": "SP Global",
+  "role": "Sustainability Sales Specialist",
+  "format": "workday",
+  "language": "en",
+  "contact": {
+    "location": "Berlin, Germany",
+    "phone": "+49 172 6568115",
+    "email": "nikkhilsehgal@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/nikhil-sehgal-a68577146/"
+  },
+  "profile": "Commercial and sustainability professional with six years across B2B business development, account management and ESG advisory. Runs new business from first contact through commercial close, manages pipeline and weekly revenue forecasting in CRM, and translates regulatory and methodological detail into value propositions clients act on. Carried a book of business with renewal, upsell and growth targets while advising a listed group on CSRD, EU Taxonomy and five ESG rating methodologies.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Won new business for a B2B ESG platform, running client acquisition from first contact through commercial close against a defined book of business with renewal, upsell and growth targets",
+        "Built and maintained the opportunity pipeline in Dynamics 365, forecasting revenue weekly and keeping client records and interaction history current",
+        "Owned tender and RFP responses end to end, setting response strategy, section ownership and submission timelines against hard client deadlines",
+        "Priced proposals and set the commercial terms attached to them, with the Excel cost and cash-flow models behind each submission",
+        "Translated platform capability and reporting methodology into client-facing value propositions, authoring the technical and methodology sections of each proposal",
+        "Built a reusable content library, proposal templates and pitch decks that cut turnaround on repeat bids and held messaging consistent across contributors",
+        "Ran win/loss reviews with sales on closed deals, and reset qualification and response tactics on what the deal data showed"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Advise clients on EU sustainability regulation and the compliance pathways open to them, converting regulatory obligation into the decisions their business has to make",
+        "Model cost and fee exposure market by market in Excel, turning technical requirements into the commercial figures behind client decisions",
+        "Coach client teams on sustainability methodologies, reporting requirements and data governance"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Analysed and compared S&P CSA, Sustainalytics, MSCI ESG and ISS ESG rating methodologies, and handled investor queries and rating submissions for a listed group",
+        "Aligned group CSRD reporting with ESRS E1 and delivered EU Taxonomy eligibility and alignment assessments alongside the senior disclosure team",
+        "Documented EcoVadis, SAQ and Integrity Next questionnaires, answering customer and investor sustainability requirements",
+        "Presented analysis, regulatory developments and recommendations to senior leadership, and briefed international subsidiaries on what each had to deliver",
+        "Scoped and drove an LLM assistant to proof of concept, designing the prompts and retrieval so regulatory queries could be answered from the framework set"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Served as primary point of contact for 150+ organisations globally, owning customer onboarding and support through a full disclosure cycle",
+        "Led feedback calls with disclosing and prospective organisations, and handled finance, invoice and payment queries",
+        "Maintained customer records and logged client interactions in HubSpot",
+        "Analysed newly launched questionnaire modules and built repeatable processes across organisations of very different size and maturity"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Identified new revenue opportunities in the GRI South Asia chapter, and built partnerships with corporates, governments and NGOs across the region",
+        "Presented GRI Standards at the Bombay, Colombo and Dhaka stock exchanges, chaired a 53-member consortium, and produced the market sizing and competitive landscape analysis behind partnership decisions"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Advised on 15+ projects worth 20M+ euros, supporting lease negotiations with brokers and landlords and preparing the commercial evaluations behind client decisions"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universität Berlin, Germany",
+      "details": [
+        "Grade 1.6 (Distinction). Thesis on the financial implications of CSRD, evaluating ESRS E1 to G1 topics"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), five-year professional degree",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": []
+    }
+  ],
+  "skills": [
+    {
+      "category": "New Business and Client Relationships",
+      "items": "New business sales, pipeline creation and management across segments, client acquisition and prospecting, book of business measured against revenue targets covering renewal, upsell and growth, weekly revenue forecasting, CRM systems (HubSpot, Dynamics 365), detailed client records and interaction logging, cross-sell and go-to-market planning, tender and RFP ownership, proposal pricing and commercial terms, win/loss reviews, content libraries and pitch decks, market sizing and competitive landscape mapping"
+    },
+    {
+      "category": "Sustainability Solutions and Regulation",
+      "items": "EU regulatory reporting (CSRD, ESRS, EU Taxonomy), ESG scores and rating methodologies (S&P CSA, Sustainalytics, MSCI ESG, ISS ESG, EcoVadis), TNFD reporting, SFDR at entity level and principal adverse impact indicators, GRI, CDP, TCFD, GHG Protocol Scope 1-3, CSDDD and LkSG, climate scenario analysis and transition risk (CRREM 1.5 and 2 degree pathways), carbon and LCA methodologies"
+    },
+    {
+      "category": "Client Engagement and Communication",
+      "items": "Leading client meetings and feedback calls, product demos and UAT with client users, customer onboarding and support ownership, strategic planning sessions, senior leadership presentations, conference and stock exchange presentations, chairing multi-stakeholder meetings, translating technical concepts into business value propositions, training delivery, willingness to travel for client visits and industry events"
+    },
+    {
+      "category": "Data, Analytics and AI",
+      "items": "Excel cost and cash-flow modelling, Power BI dashboards, SQL, Python automation, LLM prompt and retrieval design and AI-assisted query handling, SAP, osapiens, Jira, Confluence, Microsoft 365, Google Workspace, English (C1) and German (B2)"
+    }
+  ],
+  "certifications": [
+    "Introduction to ESG - Corporate Finance Institute (CFI)",
+    "Climate-related Financial Disclosures - CDP",
+    "Climate & Sustainability - Boston Consulting Group (BCG)"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional (B2) | Hindi - Native"
+  ],
+  "footer": "Berlin, Germany | Willing to relocate to Amsterdam | Immediately available | Valid German work and residence permit"
+}

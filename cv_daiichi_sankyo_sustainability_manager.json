@@ -1,0 +1,129 @@
+{
+  "company": "Daiichi Sankyo",
+  "role": "Sustainability Manager",
+  "format": "preferred",
+  "language": "en",
+  "profile": "Sustainability professional with six years across sustainability and ESG management, environmental reporting and carbon accounting in corporate, consulting and non-profit roles. Manages environmental data collection and quality control for sustainability disclosure, Scope 3 calculation and the implementation of EU sustainability regulations. Calculated 4+ corporate carbon footprints including Scope 3, and cut Scope 3 data collection time by 10%+ through standard templates, supplier data requests and quality checks.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Calculate Scope 1, 2 and 3 corporate carbon footprints for B2B clients under the GHG Protocol, screening all 15 Scope 3 categories",
+        "Move Scope 3 categories from spend-based estimates to supplier-specific and activity data, selecting the emission factors for each",
+        "Cut Scope 3 data collection time by 10%+ with standard collection templates, supplier data requests, data quality checks and an Excel calculation model",
+        "Monitor which EU sustainability regulations apply to each client and turn them into implementation roadmaps, tracking deadlines and impact",
+        "Led a client's CSRD double materiality assessment, scoring the IRO long list and taking the ESRS mapping to management sign-off",
+        "Map GRI disclosures against ESRS datapoints for 4+ client reports, and prepare GRI-referenced reports through to sign-off",
+        "Scope decarbonization projects that clients went on to implement, tracking each reduction measure by owner, status and result",
+        "Direct 6+ analysts on client sustainability projects and quality-check their deliverables before release"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Consolidated and validated non-financial ESG data, including Scope 3 figures, from 5+ group entities in SAP and Power BI for sustainability disclosure",
+        "Aligned the group's climate reporting with CSRD and ESRS E1 alongside the senior disclosure team",
+        "Coordinated regulatory implementation with 5+ international subsidiaries, tracking completion entity by entity",
+        "Built and steered a 5-function team across Compliance, Risk, Legal, IT and supply chain to roll out LkSG due diligence for 500+ suppliers",
+        "Rolled out an employee sustainability awareness campaign and SAP LMS e-learnings on ISO 14001, CSDDD and human rights",
+        "Delivered sustainability content through the group's channels with Corporate Communications, and kept intranet pages current",
+        "Reported the group's employee volunteering and donation figures for sustainability reporting",
+        "Analyzed industry best practice by benchmarking peer disclosures and comparing the S&P CSA, Sustainalytics, MSCI and ISS rating methodologies",
+        "Presented regulatory developments to senior leadership and the steering committee, and got recommendations adopted into the group's reporting"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Served as primary contact for 150+ disclosing organizations worldwide, cutting response times by 20%+",
+        "Validated environmental disclosure data on the CDP platform, tracking submission coverage and data quality",
+        "Co-organized a CDP-hosted disclosure workshop in Warsaw with senior staff"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Cut manual data processing by 40% through Python automation on a GRI-aligned sustainability reporting platform",
+        "Wrote user stories for IFRS S1 and S2 gap-analysis modules and tested them through UAT",
+        "Normalized a pharmaceutical client's data for reporting on the platform"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Evaluated 53 consortium members' engagement with the 17 SDGs across 5 countries, including gender and SDG 5",
+        "Ran a communications campaign end to end, setting the messaging, channels, timeline and measurement",
+        "Presented the GRI Standards at 3 stock exchanges: Bombay, Colombo and Dhaka",
+        "Chaired recurring meetings of the 53-member consortium, facilitating between differing mandates"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Architect",
+      "bullets": [
+        "Authored full Environmental Impact Assessment reports, consolidating specialist inputs on air, noise, water and ecology",
+        "Performed energy audits and environmental compliance assessments for commercial buildings, and advised on 15+ projects worth 20M+ euros"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universität Berlin, Germany",
+      "details": [
+        "Grade 1,6 (good). Thesis on the financial implications of CSRD in the construction industry: mapped GRI against ESRS and IFRS S1 and S2 against GRI, and drafted IFRS S1 and S2 disclosure content"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), five-year professional degree",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": [
+        "Coursework in ecology and sustainable development, energy systems and environmental control systems"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Environmental Reporting and Carbon Accounting",
+      "items": "GHG Protocol Scope 1, 2 and 3, Scope 3 category screening, spend-based and activity-based methods, emission factors, supplier data requests, environmental reporting process improvement, corporate and product carbon footprints, sustainability data collection and quality control, CDP, SBTi"
+    },
+    {
+      "category": "Reporting Frameworks and Regulation",
+      "items": "GRI Standards and content index, CSRD and ESRS (E1, S1), double materiality assessment, IFRS S1 and S2, EU Taxonomy, TCFD, TNFD, CSDDD, LkSG, regulatory monitoring and implementation roadmaps"
+    },
+    {
+      "category": "Awareness, Communication and Social Engagement",
+      "items": "Sustainability awareness and communications activities, employee campaigns, e-learning modules (SAP LMS), internal communications and intranet content, green-claims guidelines, newsletters, workshop organization, volunteering and donation reporting"
+    },
+    {
+      "category": "Project and Stakeholder Management",
+      "items": "Independent project management, cross-functional collaboration, virtual and matrix organizations, international subsidiaries, steering committee and senior leadership reporting, peer and best-practice benchmarking"
+    },
+    {
+      "category": "Tools",
+      "items": "MS Office / Microsoft 365 (Excel, Word, PowerPoint, Teams), SAP, Power BI, Python, SQL, OneClick LCA, osapiens"
+    }
+  ],
+  "certifications": [
+    "Climate-related Financial Disclosures - CDP",
+    "Climate Change & Sustainability - EY",
+    "Climate & Sustainability - Boston Consulting Group (BCG)"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional (B2) | Hindi - Native"
+  ],
+  "footer": "Valid German work and residence permit | Berlin-based, open to relocation to Munich | Available immediately"
+}

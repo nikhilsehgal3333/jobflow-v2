@@ -1,0 +1,129 @@
+{
+  "contact": {
+    "location": "New Delhi, India",
+    "phone": "+91 7042509790",
+    "email": "nikkhilsehgal@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/nikkhil-sehgal-a68577146/"
+  },
+  "profile": "ESG and climate consultant with six years across regulatory disclosure, carbon accounting and advisory delivery for a DAX-listed group, an international reporting body and B2B clients. Covers ESG regulatory readiness and disclosure (CSRD and ESRS, EU Taxonomy, ISSB, TCFD, SEBI BRSR), GHG Protocol Scope 1, 2 and 3 accounting, physical and transition climate risk, and ESG ratings performance across five methodologies. Cut manual data processing 40 percent by automating a GRI-aligned reporting platform's data pipeline in Python.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd.",
+      "location": "Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Calculate corporate and product carbon footprints for B2B clients on GHG Protocol methodology, managing Scope 1, 2 and 3 data collection, validation and reporting",
+        "Assess physical and transition climate risk for Middle East real estate portfolios through CRREM analysis at 1.5 and 2 degrees, and set decarbonisation pathways against it",
+        "Model market-by-market regulatory fee exposure in Excel, so clients price the commercial impact of an incoming obligation before committing capital",
+        "Advise clients on sustainability regulation and compliance pathways, coach their teams on methodology and data governance, and track ESG KPIs to audit-ready standard on client dashboards"
+      ]
+    },
+    {
+      "company": "TUI AG",
+      "location": "Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Delivered EU Taxonomy eligibility and alignment assessments for a DAX-listed group, classifying economic activities and assembling the evidence behind each classification",
+        "Benchmarked S&P CSA, Sustainalytics, MSCI and ISS ESG methodologies, and answered investor queries and ESG ratings questionnaires across EcoVadis, SAQ and Integrity Next to lift scored performance",
+        "Aligned CSRD reporting with ESRS E1 next to the senior disclosure team, produced CDP and TCFD-aligned climate disclosures, and coordinated audit-partner evidence for third-party assurance",
+        "Scored impacts, risks and opportunities against severity, likelihood and financial-magnitude thresholds for the group double materiality assessment, contributing stakeholder interviews, surveys and ESRS datapoint mapping",
+        "Designed the sustainability internal control system, writing the process documentation and decision-rights splits that fixed who owned each regulatory requirement across functions and subsidiaries",
+        "Presented analysis results and regulatory developments to senior leadership with recommendations, and set annual ESG targets with the collection cycles and attainment tracking behind them"
+      ]
+    },
+    {
+      "company": "CDP Worldwide",
+      "location": "Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Served as primary point of contact for 150+ disclosing organisations globally, banks, insurers and asset managers among them, resolving methodology, reporting-requirement and deadline queries across a full disclosure cycle",
+        "Analysed newly launched integrated questionnaire modules for accurate data capture, and tracked submission coverage and data quality across organisations of very different size and sector",
+        "Ran feedback calls with disclosing organisations and supported the CDP-hosted disclosure workshop in Warsaw"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd.",
+      "location": "Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Owned tender and proposal responses end to end, setting response strategy and section ownership, and pricing bids on the cost and cash-flow models behind each submission",
+        "Built a reusable content library, proposal templates and pitch decks that cut turnaround on repeat bids and held messaging consistent across contributors",
+        "Automated data processing in Python for a GRI-aligned sustainability reporting platform, cutting manual effort 40 percent, and wrote the SQL queries and validation rules behind its data sets"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI)",
+      "location": "New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Documented GRI-BRSR linkages against SEBI requirements, mapping international reporting standards onto Indian regulatory disclosure obligations",
+        "Presented GRI Standards at the Bombay, Colombo and Dhaka stock exchanges to listed issuers, financial institutions and sector regulators",
+        "Researched sustainability reporting and market trends across India, Sri Lanka and Bangladesh, sizing the addressable market and identifying new revenue opportunities in the region",
+        "Chaired recurring meetings of a 53-member consortium spanning corporate, government and NGO mandates, and convened speaker-led learning sessions with industry associations and policymakers",
+        "Authored member newsletters and policy updates tracking regulatory developments across five countries, and evaluated 53 members' engagement with 17 SDGs"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd.",
+      "location": "Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Produced full environmental and social impact assessment reports for hotel, commercial and standalone energy projects, consolidating specialist air, noise, water and ecology inputs into single regulatory submissions",
+        "Prepared the cost and budget estimates behind investment cases and internal approval documents on 15+ projects worth 20M+ euros, and managed a team of 4"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universität Berlin, Germany",
+      "details": [
+        "Grade 1.6 (Distinction). Thesis on the financial implications of CSRD, with regression analysis in Python"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), five-year professional degree",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": []
+    }
+  ],
+  "skills": [
+    {
+      "category": "Reporting, Disclosure and Assurance",
+      "items": "CSRD and ESRS (E1, S1, G1), ISSB (IFRS S1 and S2), TCFD, GRI, CDP, SEBI BRSR, EU Taxonomy eligibility and alignment (EU sustainable finance framework), non-financial internal controls"
+    },
+    {
+      "category": "Climate Risk and Carbon",
+      "items": "GHG Protocol Scope 1, 2 and 3, physical and transition climate risk, climate risk frameworks (TCFD), CRREM climate scenario analysis, SBTi and decarbonisation target setting, net zero pathways"
+    },
+    {
+      "category": "ESG Ratings and Advisory",
+      "items": "S&P CSA and DJSI, MSCI ESG, Sustainalytics, ISS ESG, EcoVadis, SAQ, Integrity Next, investor and rating-agency queries, ESG governance structures and operating models, capacity building, stakeholder engagement"
+    },
+    {
+      "category": "Research, Analysis and Tools",
+      "items": "Market sizing (TAM/SAM/SOM), deep-dive sectoral assessments, investment landscape mapping, ESG risk assessment, Python (data automation, statistical analysis, regression), SQL, advanced Excel, PowerPoint, Power BI, SAP"
+    },
+    {
+      "category": "Business Development and Knowledge Management",
+      "items": "Tender and RFP ownership, proposal writing and pitch material, thought leadership articles, newsletters and policy updates, roundtables and speaker-led events"
+    }
+  ],
+  "certifications": [
+    "Climate-related Financial Disclosures - CDP",
+    "Climate Change & Sustainability - EY",
+    "Introduction to ESG - Corporate Finance Institute"
+  ],
+  "languages": [
+    "English - Fluent (C1) | Hindi - Native | German - Professional (B2)"
+  ],
+  "footer": "Indian national | Open to relocation to Mumbai | Available immediately"
+}

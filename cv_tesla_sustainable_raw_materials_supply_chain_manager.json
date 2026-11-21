@@ -1,0 +1,126 @@
+{
+  "company": "Tesla",
+  "role": "Sustainable Raw Materials Supply Chain Manager",
+  "format": "preferred",
+  "language": "en",
+  "profile": "Sustainability and supply chain professional with over five years across materials lifecycle consulting, supplier due diligence and construction project delivery. Core strengths in closed loop and end of life solutions for raw materials such as metals and plastics, supplier selection against green requirements and regulations, and sourcing steel, aluminium and polymer packages. Cut Scope 3 data collection time by 10%+ through standard templates, supplier data requests and data quality checks.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Track metal scrap volumes, treatment routes and turnaround with clients' recycling partners and waste contractors",
+        "Run closed loop work on plastics through recycling or recycled-content polymers",
+        "Guide clients through End-of-Life Vehicles, WEEE and producer take-back obligations, and EU Battery Regulation recycled-content and passport rules",
+        "Apply circular design criteria to client products and track sustainability KPIs such as recycled-content share and recyclability rate",
+        "Map CBAM reporting duties against clients' covered goods and the underlying declaration data",
+        "Calculate BOM-based product carbon footprints from supplier raw material data for automotive component and industrial clients and their customers",
+        "Build Excel models pricing clients' EPR fee and cost exposure per market",
+        "Deliver LCA, product footprint, EPD and circularity work for 4+ clients in OneClick LCA, using EPD programme and industry life cycle datasets",
+        "Direct 6+ analysts on client engagements, setting deliverables, reviewing their work and agreeing recovery plans when deadlines slip",
+        "Present quantified findings on CO2, cost or savings to client Head-of and C-level counterparts"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Architect",
+      "bullets": [
+        "Sourced steel, aluminium and polymer packages for construction projects, from RFQ or scope of work to side-by-side quote comparison",
+        "Negotiated supplier contracts on price, payment terms and risk coverage, and qualified new vendors onto the approved supplier list",
+        "Checked supplier risk before award and wrote green-building requirements into project specifications or tender documents",
+        "Tracked 20+ contractors and vendors across 6+ sites against SLAs and KPIs, handling renewals and the exit of non-performing suppliers",
+        "Analysed spend from invoices and cost reports and benchmarked contractor rates against the market",
+        "Delivered design and compliance work on 15+ projects worth over 20M euros, building Primavera P6 schedules and tracking cost against budget"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Steered a 5-function project team (Compliance, Risk, Legal, IT, supply chain) through a cross-functional action plan with task owners and deadlines",
+        "Configured osapiens for supplier risk management and responsible sourcing, loading 500+ suppliers' data through templates",
+        "Developed SAP LMS e-learning modules on ISO 14001, human rights, child protection and modern slavery",
+        "Assessed SBTi and TCFD statements and aligned CSRD disclosures with ESRS E1"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Cut response times by 20%+ as first point of contact for 150+ disclosing organisations, validating their disclosure data"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Ran market research for a B2B ESG reporting platform, sizing markets and mapping competitive landscapes",
+        "Priced 5+ tender and RFP responses, building the cost models and cash-flow scenarios behind each submission",
+        "Cut manual data processing by 40% through Python automation and wrote SQL validation rules"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Benchmarked 53 consortium members across 5 countries and researched reporting trends in South Asia"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universität Berlin, Germany",
+      "details": [
+        "Grade 1.6. Thesis: Assessing the Financial Implications of CSRD in the Construction Industry (ESRS E1 to G1), with survey design and regression analysis in Python",
+        "Coursework included life cycle assessment, data analysis, statistical methods, SQL, environmental law and ISO 31000 risk management"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (5-year professional degree)",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": [
+        "Coursework in building materials, construction technology and contract management"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Circularity and End of Life",
+      "items": "Closed loop recycling with recycling partners and waste contractors (metal scrap, plastics), End-of-Life Vehicles (ELV), WEEE, producer take-back schemes, EU Battery Regulation (recycled content, battery passport), circular design criteria, circularity KPIs, green and low-carbon materials (recycled content, material substitution), EU Ecolabel and product certification, EHS and waste management at operating sites"
+    },
+    {
+      "category": "Procurement and Supplier Management",
+      "items": "RFQs and scopes of work, side-by-side quote comparison, supplier long lists, supplier selection and risk checks before award, contract negotiation, vendor qualification and approved supplier lists, SLA and KPI tracking, corrective actions (NCRs), supplier renewals and exit, spend analysis, rate benchmarking, ESG obligations in customer contracts or supplier codes of conduct, SAP MM purchasing, responsible sourcing (osapiens)"
+    },
+    {
+      "category": "Green Materials Regulation",
+      "items": "CBAM, ESPR and ecodesign, Digital Product Passport, PPWR and EPR, REACH (SVHC screening), CE marking, CSDDD, LkSG, EU Taxonomy, CSRD and ESRS, regulatory tracking including Omnibus I"
+    },
+    {
+      "category": "Analytics and Data Modelling",
+      "items": "Market research, market assessment and sizing, competitive landscape mapping, industry and peer benchmarking, Excel pricing models, cost models and cash-flow scenarios, BOM-based product carbon footprints, LCA (ISO 14040, 14044, 14067), EPD (EN 15804), GHG Protocol Scope 1-3, ESG data management and quality checks, Python, SQL, Power BI"
+    },
+    {
+      "category": "Project Coordination and Delivery",
+      "items": "Cross-functional action plans, task owners and deadlines, action tracking to closure, Primavera P6, MS Project, cost tracking against budget, project risk lists, decision papers on cost, time and quality, Jira, Confluence"
+    }
+  ],
+  "certifications": [
+    "Climate & Sustainability - BCG",
+    "Climate Change & Sustainability - EY",
+    "Agile - Cognizant"
+  ],
+  "languages": [
+    "English - fluent (C1) | German - professional working proficiency (B2) | Hindi - native"
+  ],
+  "footer": "Valid German work and residence permit | Berlin-based, commutable to Grünheide | Available immediately"
+}

@@ -1,0 +1,117 @@
+{
+  "company": "Tesla",
+  "role": "Associate Logistics Analyst",
+  "format": "preferred",
+  "language": "en",
+  "profile": "Operations and logistics professional with six years across construction site supply, vendor management and data-driven sustainability consulting. Core strengths in inbound delivery planning with carriers, transport partner management against KPIs, and analysis in SQL and Excel. Kept active sites supplied by scheduling inbound deliveries and arranging freight with 6+ carriers, including ADR road shipments, from booking through transport documents to invoice checks.",
+  "experience": [
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Scheduled inbound material deliveries from suppliers to site and chased each one against the project programme",
+        "Arranged shipments with 6+ carriers and freight forwarders",
+        "Handled the legally required transport documents for site deliveries, including dangerous goods moved by road under ADR",
+        "Held 20+ contractors and vendors to agreed service levels and KPIs, renewing contracts that performed and exiting suppliers that did not",
+        "Onboarded new vendors through qualification and documentation onto the approved supplier list",
+        "Priced subcontract and supplier packages on bids, securing the best price on each tendered package",
+        "Checked vendor invoices against agreed work before approving them, and resolved billing discrepancies with the vendor",
+        "Sequenced deliveries, plant and subcontractor access on site so one activity did not block the next",
+        "Kept equipment, permit and hazardous substance registers current, with safety data sheets, classifications and certificate expiry tracked to closure",
+        "Advised on 15+ commercial, hospitality and residential projects worth 20M+ euros, and selected and led a team of 4 interns"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Calculate BOM-based product carbon footprints for 4+ clients, including automotive component suppliers, requesting material-level data from their suppliers",
+        "Coordinate recycling partners and waste contractors on collected volumes, treatment routes and turnaround for client compliance reporting",
+        "Model EPR fee and cost exposure per market in Excel for packaging clients"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Configured the osapiens supplier platform to the group's requirements and loaded cleansed data for 500+ suppliers through templates",
+        "Validated and consolidated KPIs from 5+ group companies in SAP and Power BI",
+        "Steered a cross-functional team across Compliance, Risk, Legal, IT and supply chain, holding contributors to deadlines"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Triaged and resolved queries from 150+ organisations worldwide as their primary point of contact, escalating to internal teams where needed",
+        "Resolved finance, invoice and payment queries for disclosing companies"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Wrote SQL queries and validation rules that caught incomplete and implausible entries before they reached reporting",
+        "Cut manual data processing by 40% through Python automation",
+        "Wrote user stories and acceptance criteria for new platform functions, ran UAT and took client-reported issues to engineering through to a fix"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Chaired recurring meetings of a 53-member consortium across 5 countries, setting agendas and driving actions to closure"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universität Berlin, Germany",
+      "details": [
+        "Grade 1.6. Coursework in data analysis, statistical methods, SQL, environmental law and ISO 31000 risk management"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), five-year professional degree",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": [
+        "Coursework in construction technology, building services and contract management"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Logistics and Transport",
+      "items": "Inbound logistics and transportation, transport planning for site materials, inbound delivery scheduling, domestic transportation, freight booking and freight forwarding, maintaining relationships with transport partners, carrier and vendor onboarding, transport partner KPIs, legally required transport documents, ADR road shipments, transport administration, billing issues and invoice discrepancies, tender support and bid pricing, delivery sequencing and site logistics, reverse logistics with recycling partners, direct materials and BOM data"
+    },
+    {
+      "category": "Data and Systems",
+      "items": "SQL queries and validation rules, Excel modelling, Python automation, Power BI, SAP, SAP MM purchasing, osapiens platform configuration, user stories, acceptance criteria and UAT, Jira, Confluence, Microsoft Office (Word, PowerPoint, Outlook, Teams)"
+    },
+    {
+      "category": "Stakeholders and Teams",
+      "items": "Prompt handling of stakeholder inquiries, problem resolution and escalation, contract negotiation, service levels and KPIs, international team and cross-functional work, fast-paced environment and hard deadlines"
+    },
+    {
+      "category": "EHS and Sustainability",
+      "items": "EMAS, ISO 14001, EHS site compliance, hazardous substance registers and safety data sheets, risk assessments, GHG Protocol Scope 1-3, product carbon footprints, continuous environmental improvement"
+    }
+  ],
+  "certifications": [
+    "Agile - Cognizant",
+    "Climate & Sustainability - Boston Consulting Group (BCG)"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional (B2) | Hindi - Native"
+  ],
+  "footer": "Berlin, Germany | Available for onsite work at Gigafactory Berlin-Brandenburg | Valid German work and residence permit | Available immediately"
+}

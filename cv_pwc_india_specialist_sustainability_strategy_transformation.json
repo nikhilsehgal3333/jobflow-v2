@@ -1,0 +1,138 @@
+{
+  "company": "PwC India",
+  "role": "Specialist Sustainability Strategy and Transformation",
+  "format": "workday",
+  "language": "en",
+  "contact": {
+    "location": "New Delhi, India",
+    "phone": "+91 7042509790",
+    "email": "nikkhilsehgal@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/nikkhil-sehgal-a68577146/"
+  },
+  "profile": "Sustainability consultant with 4+ years in GHG accounting, net-zero strategy and sustainability reporting for automotive, industrial and consumer products clients. Combines GHG reduction projects, decarbonization technologies, circular business models and carbon markets with business development. Quantified the CO2 and cost effect of retrofit measures across 10+ assets for 4+ real-estate clients.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Deliver Scope 1, 2 and 3 carbon footprints under the GHG Protocol for 4+ clients across automotive, industrials and consumer products",
+        "Scope decarbonization projects, from electrification or fuel switching to low-carbon materials, with savings estimates and implementation plans that clients then delivered",
+        "Track GHG reduction measures through implementation by owner, status and achieved reduction, alongside site energy use from metered data",
+        "Run CRREM 1.5 and 2 degree pathway analyses across 10+ assets for 4+ real-estate clients, deriving retrofit measures with their CO2 and cost effect",
+        "Assess client exposure under the EU ETS and India's Carbon Credit Trading Scheme (CCTS)",
+        "Apply circular design criteria to products and track circularity KPIs such as recycled content and recyclability rate",
+        "Model EPR fee and cost exposure market by market in Excel for packaging clients",
+        "Led a client's CSRD double materiality assessment, scoring the IRO long list and taking the ESRS mapping to management sign-off",
+        "Direct an analyst team on a client engagement and review juniors' deliverables before release"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Planned annual KPI targets and data-collection cycles against reduction pathways, and contributed to the group's climate targets with the senior team",
+        "Aligned group CSRD reporting with ESRS E1 climate disclosures alongside the senior disclosure team, and prepared CDP and TCFD-aligned climate reporting",
+        "Built and steered a 5-function project team to roll out osapiens for CSDDD and LkSG due diligence across 500+ suppliers",
+        "Consolidated and validated non-financial KPIs across 5+ group entities in SAP and Power BI",
+        "Assessed EU Taxonomy eligibility and alignment, and calculated the turnover, CapEx and OpEx KPIs from finance data",
+        "Presented analysis to senior leadership and the sustainability steering committee, then tracked its decisions to closure across functions"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Served as primary contact for 150+ disclosing organizations, owning their onboarding and support",
+        "Validated disclosure data on the CDP platform and supported the CDP-hosted workshop in Warsaw"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Carried 5+ client accounts against renewal, upsell and expansion targets, forecasting the pipeline weekly in Dynamics 365",
+        "Owned 5+ tender and RFP responses end to end, pricing each bid and setting its commercial terms",
+        "Demoed a B2B ESG reporting platform live to prospects and trained client users after signing",
+        "Sized a new market segment for a go/no-go entry decision, and ran win/loss reviews that reset bid qualification",
+        "Cut manual data processing by 40% through Python automation on a GRI-aligned platform"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Trained companies on the GRI Standards at 3 stock exchanges: Bombay, Colombo and Dhaka",
+        "Chaired recurring meetings of a 53-member consortium across 5 countries, benchmarking members' engagement with 17 SDGs",
+        "Built partnerships with corporates, governments and NGOs across South Asia, and identified new revenue opportunities for the chapter",
+        "Documented GRI and BRSR linkages to support alignment with SEBI's reporting requirements"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Selected and managed a team of 4 interns, and advised on 15+ projects worth 20M+ euros",
+        "Ran energy audits and compliance assessments for commercial buildings and IT parks"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universität Berlin, Germany",
+      "details": [
+        "Grade 1,6 (good). Thesis on the financial implications of CSRD in the construction industry, using survey design and regression analysis in Python"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), five-year professional degree",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": [
+        "Technical coursework: energy systems, building services, building physics, environmental control systems and construction technology"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "GHG Accounting and Net Zero",
+      "items": "Greenhouse gas accounting under the GHG Protocol (Scope 1, 2 and 3), corporate and product carbon footprints (CCF, PCF), net-zero and climate target setting, scoping and delivering GHG reductions, SBTi, decarbonization pathways and scenario analysis (CRREM), transition and physical climate risk, LCA (ISO 14040, 14044, 14067), OneClick LCA"
+    },
+    {
+      "category": "Decarbonization Technologies and Circularity",
+      "items": "Energy efficiency and building retrofits, electrification or fuel switching, low-carbon materials, CCUS and clinker substitution in cement, electric vehicles, circular design and circular business models, circularity KPIs, EPR and producer take-back schemes, PPWR, ESPR and Digital Product Passport"
+    },
+    {
+      "category": "Carbon Markets",
+      "items": "EU ETS, India Carbon Credit Trading Scheme (CCTS), voluntary carbon market (Gold Standard credit assessment, retirement documentation), CBAM reporting interface"
+    },
+    {
+      "category": "ESG (Environmental, Social and Governance) and Sustainability Reporting",
+      "items": "CSRD and ESRS (E1), double materiality, GRI, BRSR (SEBI), CDP, TCFD, ISSB, EU Taxonomy, ESG ratings (EcoVadis, MSCI, S&P CSA, Sustainalytics)"
+    },
+    {
+      "category": "Consulting, Leadership and Business Development",
+      "items": "Client management, business development, sales, tender and RFP responses, bid pricing, pipeline forecasting, market sizing, leading teams, team building and people skills, executive presence and communication skills, analytical thinking and problem solving, relationships across the sustainability ecosystem"
+    },
+    {
+      "category": "Tools",
+      "items": "Excel modelling, Python, SQL, Power BI, SAP, osapiens, Dynamics 365, HubSpot, Microsoft 365"
+    }
+  ],
+  "certifications": [
+    "Climate-related Financial Disclosures - CDP",
+    "Scenario Analysis - CDP",
+    "Climate & Sustainability - Boston Consulting Group (BCG)"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional (B2) | Hindi - Native"
+  ],
+  "footer": "Indian national | Open to relocation within India | Available immediately"
+}

@@ -1,0 +1,116 @@
+{
+  "company": "Webasto",
+  "role": "Strategy Project Manager Sustainability EU Taxonomy and ESG Data",
+  "format": "preferred",
+  "language": "en",
+  "profile": "Sustainability professional with over four years across EU Taxonomy assessments and CSRD reporting, ESG data management and cross-functional programme delivery in a listed group and in consulting. Delivers accurate, auditable and compliant disclosures, configures the systems and KPI structures the data comes from, and coordinates regulatory reporting requirements across functions, entities and regions. Consolidated non-financial KPIs group-wide from SAP and Power BI and prepared the working papers external assurance tested against.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Configure ESG data collection structures and KPI definitions in Sphera, and run the reporting exports feeding client disclosure cycles",
+        "Manage ESG data collection, validation and reporting across Scope 1, 2 and 3 to audit-ready standard, and build the KPI dashboards clients track performance against",
+        "Advise automotive component suppliers, manufacturing and building materials clients on EU sustainability regulation and the compliance pathway each product and market demands",
+        "Deliver product and corporate carbon footprints on GHG Protocol methodology and life cycle assessments to ISO 14040, 14044 and 14067",
+        "Coach client teams on sustainability methodology, reporting requirements and data governance, translating complex sustainability topics into decisions each function can act on"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Delivered EU Taxonomy assessments covering both eligibility and alignment, classifying economic activities and assembling the evidence and documentation behind each judgement",
+        "Aligned CSRD reporting with ESRS E1 alongside the senior disclosure team, improving the sustainability reporting processes and mapping each disclosure datapoint to its source",
+        "Consolidated non-financial KPIs group-wide from SAP and Power BI across multiple functions and subsidiaries, and reported progress through Power BI ESG dashboards",
+        "Set annual ESG targets and data collection cycles, and monitored strategic objectives and attainment against reduction pathways entity by entity",
+        "Built and steered a cross-functional project team across Compliance, Risk, Legal, IT and supply chain, driving implementation of regulatory reporting requirements with international group subsidiaries",
+        "Designed the sustainability internal control system, and documented the processes, SOPs and responsibility splits behind each regulatory requirement",
+        "Prepared the working papers, evidence packs and audit trails the external assurance provider tested against, and presented findings to senior leadership"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Served as primary point of contact for 150+ organisations globally, resolving disclosure, methodology and platform queries across a full reporting cycle",
+        "Collected, validated and tracked environmental data submissions on the CDP platform, and built the repeatable quality controls behind coverage reporting",
+        "Examined newly launched questionnaire modules for accurate data capture across diverse organisation types"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Built and improved the data systems behind a GRI-aligned sustainability reporting platform, writing the SQL queries and validation rules that held data quality",
+        "Automated data processing in Python, cutting manual handling 40% across the reporting workflow",
+        "Ran sprint cycles with engineers in Jira, wrote the user stories and acceptance criteria as tracked issues, and authored the specification pages in Confluence"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Evaluated 53 consortium members' engagement with 17 SDGs across five countries and benchmarked members against one another",
+        "Presented GRI Standards at the Bombay, Colombo and Dhaka stock exchanges, and chaired recurring member meetings to agreed actions"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Audited environmental compliance and energy performance across 15+ projects worth 20M+ euros, and managed a team of four"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universität Berlin, Germany",
+      "details": [
+        "Grade 1.6 (Distinction). Thesis on the financial implications of CSRD across ESRS E1 to G1 topics, using survey design, quantitative analysis and regression in Python",
+        "Coursework in environmental law, COSO and ISO 31000 risk frameworks, data analysis, statistical methods and SQL"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), five-year professional degree",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": []
+    }
+  ],
+  "skills": [
+    {
+      "category": "EU Taxonomy and Sustainability Disclosure",
+      "items": "EU Taxonomy eligibility and alignment assessment, activity classification and supporting evidence, CSRD and ESRS datapoint mapping, sustainability reporting processes, accurate and auditable disclosure, GRI, CDP, TCFD, TNFD, SFDR at entity level and principal adverse impact indicators, CSDDD and LkSG, double materiality, assurance working papers and audit trails"
+    },
+    {
+      "category": "ESG Data Management and Reporting Systems",
+      "items": "Sphera, osapiens, CDP and GRI reporting platforms, SAP, Power BI dashboards, SQL queries and validation rules, Python automation, ESG data management IT systems, data collection structure and KPI configuration, reporting exports, data quality processes, managing complex datasets across multiple entities"
+    },
+    {
+      "category": "Programme and Stakeholder Management",
+      "items": "Strong program management and stakeholder management, cross-functional initiatives across Compliance, Risk, Legal, IT and supply chain, implementation across global organisations, subsidiaries and regions, governance frameworks, internal control system design, process documentation, SOPs and responsibility splits, Jira and Confluence, agile delivery, senior leadership reporting"
+    },
+    {
+      "category": "Sustainability Performance and Analysis",
+      "items": "ESG KPI design, annual target setting and data collection planning, attainment tracking against reduction pathways, GHG Protocol Scope 1-3, life cycle assessment to ISO 14040, 14044 and 14067, CRREM scenario analysis, EcoVadis, S&P CSA, MSCI, ISS and Sustainalytics methodologies"
+    }
+  ],
+  "certifications": [
+    "Climate-related Financial Disclosures - CDP",
+    "Climate & Sustainability - Boston Consulting Group (BCG)",
+    "Climate Change & Sustainability - EY"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional (B2), including written reporting and disclosure text | Hindi - Native"
+  ],
+  "footer": "Berlin, Germany | Valid German work and residence permit | Open to relocation to Stockdorf | Immediately available"
+}

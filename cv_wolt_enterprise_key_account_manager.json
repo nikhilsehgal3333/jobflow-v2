@@ -1,0 +1,129 @@
+{
+  "company": "Wolt",
+  "role": "Enterprise Key Account Manager",
+  "format": "preferred",
+  "language": "en",
+  "profile": "Client-facing commercial and consulting professional with five years across B2B software, advisory and customer support. Strengths in commercial negotiations, a consultative approach to client management, portfolio performance analysis with SQL, Power BI and Excel, and data-driven business reviews with senior client stakeholders. Ran a EUR 100k+ book of 5+ B2B software accounts, securing renewals and upsell through usage tracking, client training and weekly CRM forecasting.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Run and present account and business reviews with clients, and write account growth plans",
+        "Pitched follow-on scope during delivery that the client bought; clients renewed or extended their engagements",
+        "Negotiate fees and scope directly with clients, including Head-of and C-level counterparts",
+        "Packaged a recurring service into a priced offer with fixed deliverables and duration, sold to multiple clients",
+        "Write the storyline for client decks and present quantified findings to client senior leadership",
+        "Check portfolio consumption data for 4+ real-estate clients for gaps, outliers and unit errors, and build client KPI dashboards",
+        "Produced sustainability content for a client's marketing materials with its marketing team",
+        "Direct 6+ analysts across client engagements and review their deliverables before release"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Compared 4 ESG rating methodologies (S&P, Sustainalytics, MSCI, ISS) and identified where they met TUI's business and regulatory requirements",
+        "Initiated an ESG chatbot for decision support and designed the prompts and retrieval behind it"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Served as first point of contact for 150+ organisations and cut response times by 20%+",
+        "Onboarded organisations, ran account reviews and feedback calls, and logged interactions in HubSpot",
+        "Escalated organisations' issues to internal teams and closed them out, including finance, invoice and payment queries"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Ran a EUR 100k+ book of 5+ mid-market and SME (SMB) client accounts, measured against financial targets for renewal, upsell and growth",
+        "Won contract renewals and upsell, including moving an existing client onto a paid add-on or higher plan",
+        "Tracked platform and feature usage per account, and raised usage through client training and walkthroughs",
+        "Forecast revenue weekly from a pipeline of 20+ prospects in the CRM and tracked conversion stage by stage",
+        "Built CRM reports and dashboards on engagement and pipeline, and ran cohort, retention and churn analysis on the client base",
+        "Delivered live and custom product demos in sales calls and pitches",
+        "Priced 5+ tender and RFP responses and set their commercial terms, with Excel cost and cash-flow models",
+        "Held win/loss reviews on closed deals and took client feedback to engineering, changing a feature after release",
+        "Built and sent CRM email campaigns and marketing workflows",
+        "Cut manual data processing by 40% through Python automation, and wrote SQL queries and validation rules"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Renewed memberships and chaired recurring meetings across a 53-member consortium in 5 countries",
+        "Sized markets and mapped competitive landscapes across 3 South Asian countries, and identified new revenue opportunities for the chapter"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Architect",
+      "bullets": [
+        "Advised clients on 15+ projects worth 20M+ euros, from cost and budget estimates to client go-ahead",
+        "Negotiated supplier contracts on price, payment terms and risk coverage"
+      ]
+    },
+    {
+      "company": "Oriental Garden | New Delhi, India",
+      "dates": "2016 - 2020",
+      "title": "Restaurant and Catering Team Member (Part-time)",
+      "bullets": [
+        "Served guests and prepared food in restaurant and catering operations, working under time pressure at peak hours"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universität Berlin, Germany",
+      "details": [
+        "Grade 1.6. Coursework: accounting and IFRS, data analysis, statistical methods, SQL; thesis with survey design and regression analysis in Python"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (5-year professional degree)",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": []
+    }
+  ],
+  "skills": [
+    {
+      "category": "Account Management and Sales",
+      "items": "Portfolio and key account management (mid-market and SME), consultative client management, data-driven consultancy, account and business reviews, account growth plans, renewals and upsell, commercial negotiations on fees and scope, pipeline management and weekly revenue forecasting, product demos, client onboarding and training, product adoption, win/loss reviews, priced service packages"
+    },
+    {
+      "category": "Data and Analytics",
+      "items": "Analytical dashboards (Power BI reports, CRM and client KPI dashboards), SQL, advanced Microsoft Excel and Google Sheets, dataset analysis and automation in Python, cohort, retention and churn analysis, usage tracking, product feedback loops, market sizing and competitive landscape mapping"
+    },
+    {
+      "category": "CRM, Marketing and Tools",
+      "items": "HubSpot, Dynamics 365, CRM email campaigns and marketing workflows, Google Workspace (Sheets, Slides), MS Office, Jira, Confluence, AI tools (Claude)"
+    },
+    {
+      "category": "Sector Knowledge",
+      "items": "B2B SaaS, sustainability and ESG advisory, restaurant and catering operations, food and beverage clients, hospitality and real-estate projects"
+    }
+  ],
+  "certifications": [
+    "Climate & Sustainability - Boston Consulting Group (BCG)",
+    "Agile - Cognizant",
+    "Introduction to ESG - Corporate Finance Institute (CFI)"
+  ],
+  "languages": [
+    "English - fluent (C1) | German - professional working proficiency (B2) | Hindi - native"
+  ],
+  "footer": "Valid German work and residence permit | Berlin-based | Available immediately"
+}

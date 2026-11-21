@@ -1,0 +1,120 @@
+{
+  "company": "Tesla",
+  "role": "Intern Quality Coordinator",
+  "format": "preferred",
+  "language": "en",
+  "profile": "Architecture and sustainability professional with over five years across construction projects, audits and ESG reporting. Core strengths in coordinating quality activities with contractors and project teams, site inspections and NCR tracking, ITP-based quality checkpoints, punch lists and handover documentation, and action trackers in Excel, SharePoint and Jira. Tracked 20+ contractors across 6+ sites and drove non-conformities and corrective actions to verified closure.",
+  "experience": [
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Architect",
+      "bullets": [
+        "Ran site inspections against drawings, specifications and national building codes, and raised NCRs where work fell short",
+        "Drove non-conformities and corrective and preventive actions (CAPA) to verified closure",
+        "Applied Inspection Test Plans (ITPs) on site, including hold and witness points",
+        "Ran punch and snag lists with contractors and chased each item to close-out",
+        "Compiled handover documentation and took part in final inspections and works acceptance with clients or authorities",
+        "Chaired site progress meetings with contractors and consultants, wrote the minutes and tracked actions as tickets to closure",
+        "Logged hazards, incidents, NCRs and audit findings in a QHSE reporting system and tracked them to closure",
+        "Worked within an ISO 9001 quality management system, planned the annual audit schedule and hosted external auditors",
+        "Kept inspection and test-interval registers with due dates and certificate expiry, and chased overdue items",
+        "Logged defect requests with contractors and chased each to a completed fix, tracking 20+ contractors across 6+ sites against SLAs and KPIs",
+        "Produced working drawing sets for site and integrated structural and MEP consultant drawings, resolving clashes before issue",
+        "Advised on 15+ projects worth 20M+ euros across commercial, hospitality, institutional and residential buildings"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Keep a regulatory compliance tracker for each client with status, deadlines and impact",
+        "Track client reduction measures through implementation by status, owner and achieved reduction",
+        "Review junior colleagues' deliverables and other analysts' reports for structure, logic and evidence before release",
+        "Flag slipping deliverables early and agree recovery plans and revised timelines with clients"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Compiled evidence documentation and audit trails with audit partners for external assurance",
+        "Collected and chased reporting data from group subsidiaries, then consolidated and validated it in SAP",
+        "Developed training modules on 4 topics, including ISO 14001, and contributed to the related guidelines"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Served as first point of contact for 150+ organisations and cut response times by 20%+",
+        "Validated disclosure data and tracked submission coverage and data quality on the CDP platform"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Tracked tickets to closure on Jira sprint boards, and kept meeting notes and decision logs in Confluence",
+        "Cut manual data processing by 40% through Python automation"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Chaired recurring meetings of a 53-member consortium, set the agendas and followed actions through to closure"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universität Berlin, Germany",
+      "details": [
+        "Grade 1.6. Coursework: energy audits, German building energy law (GEG), EU building directives, LCA, risk management (ISO 31000), data analysis"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (5-year professional degree)",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": [
+        "Coursework: construction technology, building materials, building services, building physics, contract management"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Quality Coordination",
+      "items": "Quality control (QC) site walks, on-site visits and inspections, quality standards and principles, NCRs and corrective actions (CAPA), Inspection Test Plans (ITPs) and quality checkpoints, punch and snag lists, handover documentation, final inspection and works acceptance, ISO 9001 quality management system, national building codes, audit schedules and audit hosting, QHSE reporting systems, inspection and test-interval registers"
+    },
+    {
+      "category": "Construction",
+      "items": "Construction processes from design to site execution, working drawing sets, structural and MEP drawing coordination, contractor coordination, HOAI work phases (involved), German building regulations and permit procedures, Oracle Primavera P6, MS Project, Revit, AutoCAD"
+    },
+    {
+      "category": "Digital Tools",
+      "items": "Microsoft Office (Word, Excel, Teams), SharePoint, Jira, Confluence, Power BI reports, SQL, Python"
+    },
+    {
+      "category": "Reporting and Collaboration",
+      "items": "Status reports, meeting minutes and action trackers in digital tools, follow-up on overdue actions, missing records and open quality issues, day-to-day stakeholder relationships with contractors and engineers, continuous improvement"
+    }
+  ],
+  "certifications": [
+    "Agile - Cognizant",
+    "Climate & Sustainability - Boston Consulting Group (BCG)",
+    "Climate Change & Sustainability - EY"
+  ],
+  "languages": [
+    "English - fluent (C1) | German - professional working proficiency (B2) | Hindi - native"
+  ],
+  "footer": "Valid German work and residence permit | Berlin-based, available for on-site work at Gigafactory Berlin-Brandenburg | Available immediately"
+}

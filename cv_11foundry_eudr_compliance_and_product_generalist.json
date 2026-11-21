@@ -1,0 +1,127 @@
+{
+  "company": "11Foundry",
+  "role": "EUDR Compliance and Product Generalist",
+  "format": "preferred",
+  "language": "en",
+  "profile": "Sustainability compliance and product generalist with four years across EU supply chain regulation, B2B ESG SaaS and client advisory. Advises clients on EUDR due diligence and risk assessment, implements supply chain due diligence on software platforms, and takes product from user stories and UAT through launch and customer onboarding. Cut manual ESG data processing by 40% by automating a reporting platform in Python.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Advise clients on EU Deforestation Regulation (EUDR) due diligence, including agricultural commodities such as cocoa, coffee, palm, soy and rubber",
+        "Work with geolocation and deforestation-risk data in client EUDR due diligence",
+        "Contribute to client EUDR due diligence statements and risk assessments",
+        "Run supply chain due diligence for an apparel client at tier 2 and beyond, collecting supplier data from mills, dyehouses and tanneries",
+        "Pilot new compliance and data-collection processes with one client before rolling them out across the portfolio",
+        "Request material and substance data from suppliers to support REACH screening and product carbon footprints",
+        "Commission external testing laboratories and follow up test reports as compliance evidence",
+        "Model packaging EPR fees and cost exposure market by market in Excel",
+        "Track deadlines, status and impact per client in a regulatory tracker across EU sustainability rules"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Implemented CSDDD and LkSG supply chain due diligence on the osapiens platform",
+        "Assessed suppliers against ESG criteria from questionnaires and documentation, and scored each outcome",
+        "Maintained the supply chain risk register for ongoing risk monitoring and tracked supplier human rights remediation to closure",
+        "Took part in on-site supplier audits alongside the responsible functions",
+        "Coordinated regulatory rollout with international group subsidiaries and tracked completion entity by entity",
+        "Built and steered a cross-functional project team across 5 functions, holding contributors to deadlines",
+        "Scoped and drove an LLM assistant proof of concept, designing the prompts and retrieval behind regulatory queries",
+        "Prepared the working papers and evidence packs the external assurance provider tested"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Onboarded and supported 150+ organisations worldwide as first point of contact through the disclosure inbox",
+        "Logged customer records and interactions in HubSpot and ran feedback calls with disclosing and prospective organisations",
+        "Designed repeatable data validation processes and controls across diverse organisation types"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Launched a new module of a B2B ESG SaaS platform from concept to first users, then handed it to the permanent team",
+        "Ran sprint cycles in Jira, writing user stories and acceptance criteria with engineers day to day",
+        "Ran requirements gathering and UAT, and wrote the Confluence specification pages engineers built against",
+        "Automated data processing in Python and cut manual effort by 40%",
+        "Owned tender and RFP responses end to end, from response strategy to submission against hard client deadlines",
+        "Managed a book of business against renewal, upsell and growth targets, with weekly revenue forecasting in Dynamics 365",
+        "Sized a new market segment for a go/no-go decision that turned on the analysis",
+        "Answered enterprise customer security questionnaires and contributed to the ISO 27001 ISMS"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Assessed 53 consortium members against 17 SDGs across 5 countries",
+        "Presented the GRI Standards at the Bombay, Colombo and Dhaka stock exchanges",
+        "Developed partnerships with corporates, governments and NGOs across South Asia"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Advised on 15+ projects worth over 20M euros and selected and managed a team of 4"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universitaet Berlin, Germany",
+      "details": [
+        "Grade 1,6 (good). Thesis on the financial implications of CSRD, using survey design, quantitative analysis and regression in Python",
+        "Coursework: environmental law, data analysis and statistical methods, SQL, COSO and ISO 31000"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), five-year professional degree",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": []
+    }
+  ],
+  "skills": [
+    {
+      "category": "Supply chain compliance",
+      "items": "EUDR due diligence and risk assessment, CSDDD, LkSG, supplier risk assessment and remediation tracking, supply chain risk register and risk monitoring, multi-tier supplier data collection, testing and certification documents, audit-ready reporting, EU Conflict Minerals Regulation (advisory), REACH, PPWR and EPR"
+    },
+    {
+      "category": "Product and customer",
+      "items": "Product lifecycle from concept to launch, sprint cycles, user stories and acceptance criteria, UAT, Jira, Confluence, customer onboarding and customer success, HubSpot, Dynamics 365, renewals and upsell, cohort analysis, compliance workflows and ticket-based action tracking, enterprise security questionnaires"
+    },
+    {
+      "category": "Data and AI",
+      "items": "Python, SQL, Power BI, Excel modelling, osapiens, prompt and retrieval design, AI tools for research and analysis, working prototypes built with AI coding tools"
+    },
+    {
+      "category": "Commercial",
+      "items": "Tenders and RFPs, market sizing and go/no-go analysis, competitive landscape mapping, pricing and business model analysis, partnerships"
+    }
+  ],
+  "certifications": [
+    "ISO/IEC 27001 Lead Auditor / Lead Implementer",
+    "Climate-related Financial Disclosures - CDP",
+    "Climate & Sustainability - Boston Consulting Group (BCG)"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional working proficiency (B2) | Hindi - Native"
+  ],
+  "footer": "Berlin, Germany | Open to remote work or relocation to Vienna | Immediately available | Valid German work and residence permit"
+}

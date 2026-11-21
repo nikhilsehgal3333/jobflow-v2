@@ -1,0 +1,128 @@
+{
+  "contact": {
+    "location": "Berlin, Germany",
+    "phone": "+49 172 6568115",
+    "email": "nikkhilsehgal@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/nikkhil-sehgal-a68577146/"
+  },
+  "profile": "Analyst and advisor with over five years across research, commercial consulting and corporate strategy support, combining market insights, business analysis and competitor benchmarking for industrial technology and manufacturing clients. Pairs quantitative analysis in Python, SQL and Excel with the ability to structure complex questions into practical, decision-ready recommendations for senior management. Modelled market-by-market regulatory cost exposure that let industrial clients price the commercial impact of incoming obligations before committing capital.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd.",
+      "location": "Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Model market-by-market regulatory cost exposure in Excel, so industrial clients can price the commercial impact of incoming obligations before committing capital",
+        "Advise clients across building materials, industrial manufacturing and automotive component supply on regulatory exposure, cost drivers and where compliance creates commercial value",
+        "Build decarbonisation scenarios for real estate portfolios at 1.5 and 2 degrees, quantifying transition risk against asset-level performance baselines",
+        "Structure and run client data programmes from the initial question through analysis to implementation support, piloting new approaches on one product line before wider rollout"
+      ]
+    },
+    {
+      "company": "TUI AG",
+      "location": "Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Benchmarked five rating methodologies including S&P CSA, Sustainalytics, MSCI and ISS in comparative analysis, and set out where the group stood against its peer set",
+        "Presented analysis and regulatory developments to senior leadership, with recommendations for action",
+        "Steered a cross-functional project team across Compliance, Risk, Legal, IT and supply chain, setting deliverables and holding contributors to deadlines",
+        "Supported M&A due diligence on a corporate transaction, structuring the target's regulatory exposure and performance data for the reviewing team",
+        "Consolidated group-wide performance data from SAP into Power BI, and reconciled it against consolidated figures for annual report disclosure"
+      ]
+    },
+    {
+      "company": "CDP Worldwide",
+      "location": "Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Served as primary point of contact for 150+ organisations globally, resolving methodology and data queries",
+        "Analysed newly launched questionnaire modules for accurate data capture, and tracked coverage and data quality across the user base"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd.",
+      "location": "Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Priced bids and set the commercial terms across tender responses, building the cost models and cash-flow scenarios behind each submission",
+        "Ran win/loss reviews with sales on closed deals, and reset qualification and response tactics on what the deal data showed",
+        "Managed the product lifecycle from concept to implementation for a B2B SaaS platform, running sprint cycles and translating requirements into specifications",
+        "Automated data processing in Python, cutting manual handling by 40 percent",
+        "Forecast revenue weekly against an opportunity pipeline, and tracked renewals and account expansion against growth targets"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative",
+      "location": "New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Researched market and regulatory developments across India, Sri Lanka and Bangladesh, mapping the competitive and policy landscape for a 53-member consortium",
+        "Evaluated 53 consortium members against 17 SDGs across 5 countries, benchmarking performance and maturity between organisations",
+        "Identified new revenue opportunities for the GRI South Asia chapter, and documented the regulatory linkage behind market adoption",
+        "Presented to listed companies at the Bombay, Colombo and Dhaka stock exchanges, and chaired recurring member forums"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations",
+      "location": "Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Led a team of 4 across 15+ commercial, hospitality and institutional projects worth over EUR 20M",
+        "Prepared pre-feasibility studies with the technical and financial evaluations, cost and budget estimates behind client go-ahead",
+        "Coordinated specialist consultants and third-party suppliers into consolidated deliverables against scope, budget and schedule"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universitaet Berlin, Germany",
+      "details": [
+        "Grade 1.6 (Distinction). Coursework in data analysis, statistical methods, SQL, environmental law, COSO and ISO 31000 risk frameworks",
+        "Thesis on the financial implications of EU regulation for the construction industry, using survey design and regression analysis in Python"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (5-year professional degree)",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": [
+        "Energy systems, construction technology, contract management, land use and urban planning"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Quantitative and Commercial Analysis",
+      "items": "Market and cost exposure modelling, pricing and cost structures, bid pricing, cash-flow scenarios, scenario analysis, regression and statistical methods in Python, SQL, advanced Excel modelling, Power BI"
+    },
+    {
+      "category": "Research and Insight",
+      "items": "Multi-country market and regulatory research, competitive landscape mapping, peer and competitor benchmarking, business model, value creation and commercial impact analysis, desk and secondary research, structured interviews, surveys and stakeholder workshops, trend analysis"
+    },
+    {
+      "category": "Strategy Support and Delivery",
+      "items": "Structured problem solving, practical and decision-ready recommendations for senior management, cross-functional and matrix project leadership, M&A and transaction due diligence support, growth and performance improvement, implementation support, process documentation and SOPs, Jira, Confluence, MS Project"
+    },
+    {
+      "category": "Sector Exposure",
+      "items": "Industrial technology and manufacturing, raw materials and building materials (cement, gypsum, insulation, plasterboard, facades), automotive component suppliers, real estate and construction, travel and tourism, textiles and apparel, B2B SaaS"
+    }
+  ],
+  "certifications": [
+    "Climate & Sustainability - Boston Consulting Group",
+    "Agile - Cognizant",
+    "Introduction to ESG - Corporate Finance Institute"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional (B2) | Hindi - Native"
+  ],
+  "footer": "Valid German work and residence permit | Open to relocating to Heidenheim | Available immediately"
+}

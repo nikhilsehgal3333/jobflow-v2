@@ -1,0 +1,133 @@
+{
+  "company": "DACHSER",
+  "role": "Professional Expert ESG Reporting",
+  "format": "preferred",
+  "language": "en",
+  "profile": "ESG reporting and carbon accounting professional with over four years across corporate sustainability at a listed multinational group, sustainability consulting and the CDP disclosure system. Core strengths in GHG Protocol carbon footprints (4+ corporate footprints including Scope 3), emissions data collection and validation for CSRD and ESRS reporting, and CDP and ESG rating responses. Cut Scope 3 data collection time by 10%+ through standard templates, supplier data requests and data quality checks.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Calculate and report corporate and product carbon footprints on the GHG Protocol, collecting and validating clients' Scope 1, 2 and 3 data",
+        "Screen the 15 Scope 3 categories in client footprints, selecting emission factors and moving key categories from spend-based estimates to activity data",
+        "Built an Excel calculation model and quality checks for client Scope 3 inventories",
+        "Answer product carbon footprint and ESG data requests from clients' customers, consolidating several customers' ESG requirements into one list",
+        "Drafted a client's CDP climate response",
+        "Map GRI disclosures against ESRS datapoints for 4+ client reports",
+        "Translate CSRD and ESRS datapoints and ISO 14067 footprint logic into specifications for reporting software modules",
+        "Track metered energy use and set reduction targets across 10+ client buildings and a client's warehouse",
+        "Present quantified findings to client senior leadership and maintain audit-ready ESG KPIs"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Consolidated GHG emissions and ESG data from group entities in SAP, including Scope 3 transport and travel figures",
+        "Drafted TUI's CDP climate response and answered ESG rating agency and investor questionnaires",
+        "Compared 4 ESG rating methodologies (S&P, Sustainalytics, MSCI, ISS) against business operations and regulatory requirements",
+        "Aligned the group's CSRD disclosures with ESRS E1 alongside the disclosure team and external consultants, and assessed SBTi and TCFD statements",
+        "Compiled working papers and audit trails for the external assurance provider, and checked ESG figures against the annual report's financials",
+        "Designed internal controls (IKS) for ESG reporting and wrote the process descriptions and work instructions behind them",
+        "Steered a project team across 5 functions (Compliance, Risk, Legal, IT, supply chain), defining task owners and holding contributors to deadlines",
+        "Gathered requirements and configured osapiens for supplier due diligence, loading 500+ suppliers' data through templates",
+        "Briefed the sustainability steering committee and senior leadership on analysis and regulatory updates, and tracked decisions to closure"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Cut response times by 20%+ as first point of contact for 150+ disclosing organisations",
+        "Validated disclosure data on the CDP platform and tracked submission coverage and data quality",
+        "Analysed newly launched integrated questionnaire modules for accurate data capture"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Built data structures and SQL validation rules for a GRI-aligned ESG reporting platform",
+        "Cut manual data processing by 40% through Python automation",
+        "Wrote user stories and acceptance criteria for the engineering team and ran user acceptance testing (UAT)"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Evaluated 53 consortium members' engagement with 17 SDGs across 5 countries",
+        "Presented the GRI Standards at 3 stock exchanges: Bombay, Colombo and Dhaka"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Architect",
+      "bullets": [
+        "Arranged inbound shipments with 6+ carriers and freight forwarders and handled the transport documents",
+        "Delivered design and environmental compliance work on 15+ projects worth over 20M euros"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universität Berlin, Germany",
+      "details": [
+        "Grade 1.6. Thesis: Assessing the Financial Implications of CSRD in the Construction Industry (ESRS E1 to G1), with survey design and regression analysis in Python",
+        "Coursework included data analysis, statistical methods, SQL, life cycle assessment, energy audits and COSO internal control"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (5-year professional degree)",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": [
+        "Coursework in energy systems, building services, building physics and construction technology"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Carbon Accounting",
+      "items": "GHG Protocol (Scope 1, 2 and 3), corporate and product carbon footprints (CCF, PCF), CO2 reporting, Scope 3 category screening, spend-based and activity-based methods, emission factor selection, Excel calculation models, ISO 14067, ISO 14040 and 14044, energy baselines and EnPIs, SBTi, carbon-accounting platforms"
+    },
+    {
+      "category": "ESG Reporting and Ratings",
+      "items": "CSRD, ESRS (E1, S1, G1), ESRS Set 2 and Omnibus I changes, CDP climate change questionnaire, ESG rating platforms (S&P CSA, MSCI, Sustainalytics, ISS), investor questionnaires, GRI, TCFD, EU Taxonomy, limited and reasonable assurance"
+    },
+    {
+      "category": "Sustainability Management and ESG Data",
+      "items": "ESG data management, emissions data collection, consolidation and validation, calculation and reporting processes, data flows from collection to reporting, plausibility and data quality checks, internal controls (IKS), process descriptions, work instructions and task owners"
+    },
+    {
+      "category": "Systems and Tools",
+      "items": "SAP, osapiens, SQL, Python, Power BI reports, advanced Excel, Jira, Confluence, user stories and UAT"
+    },
+    {
+      "category": "Transport and Logistics",
+      "items": "Transport and travel emissions in group Scope 3 data, customer carbon footprint and ESG data requests, inbound freight with carriers and forwarders, transport documents, warehouse energy tracking, electric vehicle advisory"
+    },
+    {
+      "category": "Collaboration",
+      "items": "Internal stakeholders and senior leadership, specialist departments, data owners and IT functions, project teams across Compliance, Risk, Legal, IT and supply chain, external consultants and assurance providers, client coaching"
+    }
+  ],
+  "certifications": [
+    "Climate-related Financial Disclosures - CDP",
+    "Scenario Analysis - CDP",
+    "Climate Change & Sustainability - EY"
+  ],
+  "languages": [
+    "English - fluent (C1) | German - professional working proficiency (B2) | Hindi - native"
+  ],
+  "footer": "Valid German work and residence permit | Berlin-based, open to relocation to Kempten | Available immediately"
+}

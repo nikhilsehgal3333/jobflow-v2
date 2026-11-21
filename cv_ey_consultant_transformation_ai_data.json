@@ -1,0 +1,133 @@
+{
+  "company": "EY",
+  "role": "Consultant Transformation AI & Data",
+  "format": "preferred",
+  "language": "de",
+  "contact": {
+    "location": "Berlin, Deutschland",
+    "phone": "+49 172 6568115",
+    "email": "nikkhilsehgal@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/nikkhil-sehgal-a68577146/"
+  },
+  "profile": "Nachhaltigkeitsberater mit über vier Jahren Erfahrung an der Schnittstelle von ESG, Daten und Technologie in Beratung, Konzern und SaaS. Schwerpunkte: ESG-Daten nutzbar machen (Erhebung, Validierung, KPI-Dashboards), GenAI- und Analytics-Anwendungen sowie Transformationsprojekte von der Analyse bis zur Umsetzung. Senkte den manuellen Aufwand der Datenverarbeitung auf einer ESG-Reporting-Plattform um 40 Prozent durch Python-Automatisierung und SQL-Validierungsregeln.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "Januar 2026 - heute",
+      "title": "LCA & Sustainability Consultant (freiberuflich)",
+      "bullets": [
+        "Analysiere Emissions- und Verbrauchsdaten von Hotels und Gebäuden in Python und setze KI-Werkzeuge in der Datenarbeit für Kunden ein",
+        "Verkürzte die Scope-3-Datenerhebung um über 10 Prozent mit neuen Vorlagen, Datenqualitätsprüfungen und einem Excel-Rechenmodell",
+        "Plausibilisiere Verbrauchsdaten von 10+ Kundengebäuden auf Lücken, Ausreißer und Einheitenfehler",
+        "Baue KPI-Dashboards für Kunden und verfolge prüfungssichere Nachhaltigkeits-KPIs über Scope 1 bis 3",
+        "Übersetze Anforderungen aus IFRS S1 und S2, ESRS und ISO 14067 in Produktlogik und Spezifikationen für Softwaremodule",
+        "Leitete die doppelte Wesentlichkeitsanalyse eines Kunden, bewertete die IRO-Longlist und brachte das ESRS-Mapping zur Freigabe durch die Kundenleitung",
+        "Konzipierte 3+ Dekarbonisierungsprojekte mit Einsparschätzung und Umsetzungsplan, die Kunden umgesetzt haben",
+        "Präsentiere CO2-, Kosten- bzw. Einsparergebnisse vor Head-of- und C-Level-Ansprechpartnern und schreibe die Storyline dazu",
+        "Erprobe neue Daten- und Compliance-Prozesse zuerst bei einem Kunden und rolle sie danach im Portfolio aus",
+        "Bündelte wiederkehrende Kundenanfragen zu einem bepreisten Paket mit festen Leistungen und Laufzeit, das mehrere Kunden kauften",
+        "Steuere 6+ Analysten in Kundenprojekten und prüfe ihre Ergebnisse vor der Abgabe"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Deutschland",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Werkstudium)",
+      "bullets": [
+        "Konzipierte und steuerte den Proof of Concept eines LLM-Assistenten für CSRD- und ESRS-Fragen und entwarf Prompts und Retrieval",
+        "Erfasste die Anforderungen des Konzerns an osapiens, konfigurierte die Plattform und lud Daten von 500+ Lieferanten über Vorlagen",
+        "Konsolidierte THG-Emissionen und ESG-Daten der Konzerngesellschaften in SAP",
+        "Berechnete die Taxonomie-KPIs zu Umsatz, CapEx und OpEx aus Finanzdaten",
+        "Ordnete die Angaben der Nachhaltigkeitserklärung in Excel den Elementen der ESRS-XBRL-Taxonomie zu",
+        "Steuerte ein Projektteam aus 5 Bereichen (Compliance, Risk, Legal, IT, Lieferkette) und hielt die Beteiligten an Fristen",
+        "Präsentierte Analysen und regulatorische Entwicklungen vor der Leitungsebene bzw. dem Nachhaltigkeits-Lenkungsausschuss",
+        "Verglich 4 ESG-Ratingmethoden (S&P, Sustainalytics, MSCI, ISS) mit Blick auf Geschäft und Regulatorik von TUI"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Deutschland",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Werkstudium)",
+      "bullets": [
+        "Betreute als erste Ansprechperson 150+ Organisationen weltweit und verkürzte die Antwortzeiten um über 20 Prozent",
+        "Validierte Offenlegungsdaten auf der CDP-Plattform und verfolgte Abdeckung und Datenqualität der Einreichungen"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "März 2023 - März 2024",
+      "title": "Product Manager / Sustainability Consultant (freiberuflich)",
+      "bullets": [
+        "Senkte den manuellen Aufwand der Datenverarbeitung um 40 Prozent durch Python-Automatisierung",
+        "Schrieb SQL-Abfragen und Validierungsregeln für eine GRI-konforme Reporting-Plattform",
+        "Begleitete eine B2B-ESG-Software von der Konzeption bis zur Umsetzung mit User Stories in Jira, Sprints und Abnahmetests",
+        "Betreute 5+ Kundenkonten mit über 100.000 EUR Jahresumsatz und gewann Neukunden über Ausschreibungen"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | Neu-Delhi, Indien",
+      "dates": "März 2022 - Februar 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Bewertete das Engagement von 53 Konsortiumsmitgliedern zu 17 SDGs in 5 Ländern",
+        "Stellte die GRI-Standards an 3 Börsen vor: Bombay, Colombo und Dhaka"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, Indien",
+      "dates": "Juni 2020 - Februar 2022",
+      "title": "Architect",
+      "bullets": [
+        "Beriet bei 15+ Projekten mit über 20 Mio. EUR Volumen mit technischen und wirtschaftlichen Bewertungen und Kostenschätzungen"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "Oktober 2023 - März 2025",
+      "institution": "Technische Universität Berlin, Deutschland",
+      "details": [
+        "Abschlussnote 1,6 (gut). Masterarbeit zu den finanziellen Folgen der CSRD in der Bauwirtschaft, mit Fragebogenerhebung und Regressionsanalyse in Python",
+        "Schwerpunkte: Datenanalyse, statistische Methoden, SQL, Ökobilanzierung"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (fünfjähriger Studiengang)",
+      "dates": "August 2016 - Juni 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, Neu-Delhi, Indien",
+      "details": []
+    }
+  ],
+  "skills": [
+    {
+      "category": "AI & Data (GenAI)",
+      "items": "Prompt- und Retrieval-Design, LLM-gestützte Extraktion strukturierter Daten aus Dokumenten, Textklassifikation und Embeddings, Agenten-Frameworks (praktisch), Prototypen mit KI-Coding-Assistenten, Web Scraping"
+    },
+    {
+      "category": "Daten und Analytics",
+      "items": "Python (Datenanalyse, Automatisierung, Tests), SQL, Power BI, Excel-Rechenmodelle, Datenvalidierung und Datenqualität, KPI-Dashboards, Regressionsanalyse, Netzwerkanalyse"
+    },
+    {
+      "category": "ESG-Daten und Regulatorik",
+      "items": "CSRD und ESRS, EU-Taxonomie, GRI, VSME, IFRS S1 und S2, GHG Protocol (Scope 1 bis 3), CCF und PCF, SBTi, CDP, TCFD, LkSG und CSDDD"
+    },
+    {
+      "category": "Plattformen und Tools",
+      "items": "SAP (Datenkonsolidierung, SAP MM, SAP LMS), osapiens, OneClick LCA, Jira, Confluence, Dynamics 365, HubSpot, MS Office, Google Workspace"
+    },
+    {
+      "category": "Beratung und Projekte",
+      "items": "Prozessanalyse, Prozessoptimierung und Prozessdokumentation, Pilotierung und Rollout, Anforderungsaufnahme, User Stories und Abnahmetests, Workshop-Moderation, Kundenpräsentationen, Stakeholder-Kommunikation, interdisziplinäre Teams, agile Arbeitsweise"
+    }
+  ],
+  "certifications": [
+    "Climate Change & Sustainability - EY",
+    "Agile - Cognizant",
+    "Climate-related Financial Disclosures - CDP"
+  ],
+  "languages": [
+    "Deutsch - gute Kenntnisse (B2) | Englisch - verhandlungssicher (C1) | Hindi - Muttersprache"
+  ],
+  "footer": "Gültige deutsche Arbeits- und Aufenthaltserlaubnis | Ab sofort verfügbar"
+}

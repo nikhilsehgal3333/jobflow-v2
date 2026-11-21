@@ -1,0 +1,129 @@
+{
+  "company": "Swiss Life Asset Managers",
+  "role": "ESG Specialist",
+  "format": "workday",
+  "language": "de",
+  "contact": {
+    "location": "Berlin, Deutschland",
+    "phone": "+49 172 6568115",
+    "email": "nikkhilsehgal@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/nikkhil-sehgal-a68577146/"
+  },
+  "profile": "ESG-Spezialist mit über vier Jahren Erfahrung in Immobilien-ESG, ESG-Daten und Reporting in Beratung, Konzern und NGO. Schwerpunkte sind ESG-Assessments auf Objekt- und Portfolioebene, die Plausibilisierung von Verbrauchsdaten und ESG-Kennzahlen für Reports. Bewertete 10+ Objekte von 4+ Immobilienkunden und leitete je Objekt Maßnahmen ab.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "Januar 2026 - heute",
+      "title": "LCA & Sustainability Consultant (freiberuflich)",
+      "bullets": [
+        "Bewerte 10+ Objekte von 4+ Immobilienkunden mit CRREM und Predium auf Dekarbonisierungspfade und Transitionsrisiken (1,5 und 2 Grad)",
+        "Plausibilisiere Verbrauchsdaten der Portfolios auf Lücken, Ausreißer und Einheitenfehler",
+        "Prüfe Gebäude gegen EU-Taxonomie-Kriterien wie Energieausweisklasse, NZEB und Top 15 %",
+        "Leite je Objekt Sanierungs- und Betriebsmaßnahmen mit CO2- und Kostenwirkung ab",
+        "Entwarf ESG-Leitlinien und Mindeststandards für Bau-, Sanierungs- oder Betriebsvorhaben",
+        "Verfolge Dekarbonisierungsmaßnahmen von Kunden bis zur Umsetzung nach Status, Verantwortlichen und erreichter Reduktion",
+        "Validiere ESG-Kennzahlen zu Scope 1 bis 3 bis zur Prüfungsreife und baue Kunden-Dashboards",
+        "Erstelle mit OneClick LCA Ökobilanzen für Bauprodukte und Gebäude von 4+ Kunden"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Deutschland",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Werkstudium)",
+      "bullets": [
+        "Erhob, validierte und konsolidierte nichtfinanzielle Kennzahlen aus mehreren Fachbereichen und 5+ Gesellschaften mit SAP und Power BI",
+        "Richtete die CSRD-Berichterstattung mit dem Senior-Disclosure-Team an ESRS E1 aus und ordnete die Angaben in Excel der ESRS-XBRL-Taxonomie zu",
+        "Bereitete Arbeitspapiere, Nachweise und Prüfpfade für die externe Prüfung vor",
+        "Gestaltete das Nachhaltigkeits-IKS mit Kontrollen, Prozessbeschreibungen und Zuständigkeiten",
+        "Verglich 5 ESG-Ratingmethodiken und beantwortete Anfragen von Investoren und Ratingagenturen",
+        "Konfigurierte osapiens und lud bereinigte Daten zu über 500 Lieferanten per Vorlage ein"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Deutschland",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Werkstudium)",
+      "bullets": [
+        "Beantwortete als erste Ansprechperson Fragen von über 150 Organisationen zur Klimaoffenlegung"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "März 2023 - März 2024",
+      "title": "Product Manager / Sustainability Consultant (freiberuflich)",
+      "bullets": [
+        "Senkte den manuellen Aufwand der Datenverarbeitung um 40 Prozent durch Python-Automatisierung und schrieb SQL-Validierungsregeln"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | Neu-Delhi, Indien",
+      "dates": "März 2022 - Februar 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Stellte die GRI-Standards an 3 Börsen vor: Bombay, Colombo und Dhaka"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, Indien",
+      "dates": "Juni 2020 - Februar 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Schrieb Green-Building-Anforderungen in Projektspezifikationen bzw. Ausschreibungen",
+        "Erstellte LEED-, WELL- und GRIHA-Gap-Analysen und Energieaudits für Gewerbegebäude",
+        "Überwachte Wasser-, Abwasser- und Abfalldaten an Betriebsstandorten und führte Abfallregister",
+        "Bündelte Fachgutachten zu Luft, Lärm, Wasser und Ökologie in Genehmigungsunterlagen",
+        "Wählte ein Team von 4 Praktikanten aus, führte es und beriet zu 15+ Projekten (20+ Mio. Euro)"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "Oktober 2023 - März 2025",
+      "institution": "Technische Universität Berlin, Deutschland",
+      "details": [
+        "Abschlussnote 1,6 (gut). Masterarbeit zu den finanziellen Folgen der CSRD in der Bauwirtschaft, mit Fragebogenerhebung und Regressionsanalyse in Python",
+        "Schwerpunkte: Energieaudits, GEG, EU-Gebäuderichtlinien, ISO 50001, Ökobilanzierung, DGNB, Datenanalyse"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (fünfjähriger Studiengang)",
+      "dates": "August 2016 - Juni 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, Neu-Delhi, Indien",
+      "details": [
+        "Schwerpunkte: Energiesysteme, Gebäudetechnik, Bauphysik, Baukonstruktion"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Immobilien-ESG",
+      "items": "ESG-Assessments auf Objekt- und Portfolioebene, CRREM, Predium, EU-Taxonomie für Immobilien, EPBD und GEG, Kriterienkataloge und Vorgaben für nachhaltiges Bauen, Sanieren und Betreiben, Sanierungs- und Betriebsmaßnahmen mit CO2- und Kostenwirkung, physische Klimarisiken, LEED-, WELL- und GRIHA-Gap-Analysen, Energieaudits, Ökobilanzen mit OneClick LCA"
+    },
+    {
+      "category": "ESG-Daten und Reporting",
+      "items": "Plausibilisierung von Energie-, Wärme-, Wasser- und Abfalldaten, Daten-Mapping, Validierungsprüfungen, Nachweisführung und Dokumentation, CSRD und ESRS, ESRS-XBRL-Taxonomie, EU-Taxonomie-KPIs, GHG Protocol Scope 1 bis 3, CDP, ESG-Ratings (S&P CSA, MSCI, Sustainalytics, ISS), SFDR-PAI-Indikatoren auf Unternehmensebene"
+    },
+    {
+      "category": "Datenmanagement und Kontrollen",
+      "items": "Datenanforderungen und Definitionen, Nachhaltigkeits-IKS, Prozessbeschreibungen, Zuständigkeiten (RACI), KPI-Zielwerte und Erhebungszyklen, SQL-Validierungsregeln, Python-Automatisierung"
+    },
+    {
+      "category": "Tools",
+      "items": "MS Excel mit Datenmodellen, Power BI, SAP, SQL, Python, Predium, osapiens, OneClick LCA, Jira, Confluence, MS Office"
+    },
+    {
+      "category": "Zusammenarbeit",
+      "items": "Koordination interner und externer Beteiligter (Fachgutachter, Auftragnehmer, Eigentümer, Makler), Schnittstellen zwischen ESG, Asset- und Portfoliomanagement, fachbereichsübergreifende Projektteams, Mitarbeit an Entscheidungsvorlagen für Investitionen und Freigaben, Auswertungen und Dashboards für die Leitungsebene"
+    }
+  ],
+  "certifications": [
+    "Climate-related Financial Disclosures - CDP",
+    "Scenario Analysis - CDP",
+    "Climate & Sustainability - Boston Consulting Group (BCG)"
+  ],
+  "languages": [
+    "Deutsch - gute Kenntnisse (B2) | Englisch - verhandlungssicher (C1) | Hindi - Muttersprache"
+  ],
+  "footer": "Gültige deutsche Arbeits- und Aufenthaltserlaubnis | Umzugsbereit nach Köln | Ab sofort verfügbar"
+}

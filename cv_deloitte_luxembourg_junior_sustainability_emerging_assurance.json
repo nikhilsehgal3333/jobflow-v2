@@ -1,0 +1,125 @@
+{
+  "contact": {
+    "location": "Berlin, Germany",
+    "phone": "+49 172 6568115",
+    "email": "nikkhilsehgal@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/nikkhil-sehgal-a68577146/"
+  },
+  "profile": "Sustainability reporting professional with over four years across CSRD and ESRS disclosure, EU Taxonomy and ESG assurance readiness for listed and international organisations. Combines working knowledge of European sustainability reporting regulation, including CSRD, ESRS, EU Taxonomy and SFDR, with the ESG data flows, internal controls and data quality work that assurance depends on. Delivered the double materiality assessment at a DAX-listed group alongside the senior disclosure team, covering impact and risk scoring, stakeholder engagement and ESRS datapoint mapping.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd.",
+      "location": "Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Develop, calculate and track key ESG indicators and sustainability KPIs to audit-ready standard, and build the client dashboards reporting against them",
+        "Manage ESG data collection, validation and consolidation across Scope 1, 2 and 3 on GHG Protocol methodology, resolving data gaps and inconsistencies before reporting",
+        "Advise clients on EU sustainability regulation and compliance pathways, monitoring developments across CSRD, ESPR, EUDR, PPWR and CBAM and translating them into client-specific requirements",
+        "Coach client teams on sustainability methodologies, reporting requirements and data governance, and produce the guidance and templates behind them"
+      ]
+    },
+    {
+      "company": "TUI AG",
+      "location": "Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Aligned CSRD reporting with ESRS E1 alongside the senior disclosure team, mapping datapoints and reconciling non-financial disclosure against consolidated group figures",
+        "Delivered the double materiality assessment alongside the senior disclosure team, scoring impacts, risks and opportunities against severity, likelihood and financial-magnitude thresholds and running stakeholder interviews, surveys and workshops",
+        "Completed EU Taxonomy eligibility and alignment assessments, documenting the evidence behind the classification of each economic activity",
+        "Designed the sustainability internal control system, documenting the ESG data flows, processes, SOPs and roles and responsibilities behind each reporting requirement",
+        "Prepared assurance working papers, evidence packs and audit trails for the external assurance provider, and coordinated with audit partners through the audit and assurance cycle",
+        "Compared five ESG rating methodologies including S&P CSA, Sustainalytics, MSCI and ISS, and documented EcoVadis, SAQ and Integrity Next submissions in response to investor queries",
+        "Consolidated non-financial KPIs group-wide from SAP into Power BI dashboards, drawing data from multiple business units and legal entities",
+        "Implemented CSDDD and LkSG due diligence on the osapiens platform, coordinating rollout with international group subsidiaries and tracking completion entity by entity",
+        "Presented analysis results and regulatory developments to senior leadership with recommendations for action"
+      ]
+    },
+    {
+      "company": "CDP Worldwide",
+      "location": "Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Served as primary point of contact for 150+ organisations globally on disclosure, methodology and data-capture queries",
+        "Analysed newly launched integrated questionnaire modules to confirm accurate data capture, and flagged inconsistencies back to the platform team",
+        "Owned ESG data collection, validation and quality tracking, and monitored submission coverage across the user base"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd.",
+      "location": "Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Authored the technical and methodology sections of proposals and tender responses, and maintained the reusable content library behind repeat submissions",
+        "Built data systems and SQL validation rules for a GRI-aligned reporting platform, and automated data processing in Python, cutting manual effort by 40 percent"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative",
+      "location": "New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Evaluated 53 consortium members' engagement with 17 SDGs across 5 countries, benchmarking members against one another and reporting findings back to the network",
+        "Researched sustainability reporting trends across India, Sri Lanka and Bangladesh, and documented GRI-BRSR linkage for SEBI alignment",
+        "Presented GRI Standards at the Bombay, Colombo and Dhaka stock exchanges, and chaired recurring member meetings across differing mandates"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations",
+      "location": "Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Conducted environmental compliance assessments and energy audits for commercial buildings across 15+ projects worth over EUR 20M"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universitaet Berlin, Germany",
+      "details": [
+        "Grade 1.6 (Distinction). Thesis: Assessing the Financial Implications of CSRD in the Construction Industry, Evaluating E1-G1 Topics. Survey design, quantitative analysis and regression in Python",
+        "Coursework in data analysis, statistical methods, SQL, environmental law, COSO and ISO 31000 risk frameworks, and LCA"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (5-year professional degree)",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": []
+    }
+  ],
+  "skills": [
+    {
+      "category": "Sustainability Reporting and ESG Assurance",
+      "items": "CSRD and ESRS (E1, S1, G1), double materiality and impact, risk and opportunity scoring, EU Taxonomy eligibility, alignment and disclosures, SFDR at entity level and principal adverse impact indicators, GRI, TCFD, TNFD, CDP, ISSB, SASB, GHG Protocol Scope 1, 2 and 3, DNK, EMAS, BRSR, UN SDGs, limited and reasonable assurance, assurance documentation, working papers, evidence packs and audit trails, ESG data flows and internal controls"
+    },
+    {
+      "category": "ESG Data and Analysis",
+      "items": "ESG data collection, validation and consolidation, data quality testing and gap analysis, KPI and target setting, quantitative and qualitative analysis, regression analysis, Power BI, SQL, advanced Excel, Python, SAP, Microsoft 365"
+    },
+    {
+      "category": "Regulatory Monitoring and Advisory",
+      "items": "Regulatory and market monitoring, gap assessments, ESG reporting tools and platform implementation across osapiens, the CDP platform and the GRI platform, CSDDD and LkSG due diligence, supplier ESG assessment, EcoVadis, S&P CSA, MSCI, ISS and Sustainalytics rating methodologies, EUDR, REACH, CBAM and PPWR, proposals and tender responses"
+    },
+    {
+      "category": "Delivery and Communication",
+      "items": "Client-facing reports, presentations and structured deliverables, senior leadership reporting and recommendations, cross-functional and multi-entity coordination, stakeholder interviews, surveys and workshops, training design and e-learning delivery, research and studies, project management"
+    }
+  ],
+  "certifications": [
+    "Climate Change & Sustainability - EY",
+    "Climate-related Financial Disclosures - CDP",
+    "Introduction to ESG - Corporate Finance Institute"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional (B2) | Hindi - Native"
+  ],
+  "footer": "Valid German work and residence permit | Open to relocating to Luxembourg and obtaining local work authorisation | Available immediately"
+}

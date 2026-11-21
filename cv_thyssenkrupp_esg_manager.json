@@ -1,0 +1,123 @@
+{
+  "company": "thyssenkrupp",
+  "role": "ESG Manager",
+  "format": "preferred",
+  "language": "en",
+  "contact": {
+    "location": "Berlin, Germany",
+    "phone": "+49 172 6568115",
+    "email": "nikkhilsehgal@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/nikhil-sehgal-a68577146/"
+  },
+  "profile": "ESG and sustainability professional with six years across corporate ESG, non-financial reporting and supply chain due diligence in matrix organisations. Coordinates ESG activity across functions, entities and sites, monitors targets and KPIs to an audit-ready standard, and maps and standardises the processes and governance behind each requirement. Answered customer and investor ESG requirements across EcoVadis, SAQ and five rating methodologies at a listed group.",
+  "experience": [
+    {
+      "company": "TUI AG | Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Acted as the primary ESG contact and adviser across Compliance, Risk, Legal, IT and supply chain, building and steering a cross-functional project team, setting its deliverables and holding contributors to deadlines without direct authority",
+        "Coordinated ESG activities and implementation between the central sustainability function and international group subsidiaries, advising each business unit on what it had to deliver and tracking completion site by site",
+        "Monitored ESG targets, KPIs and improvement measures against agreed reduction pathways, setting the annual targets and data-collection cycles behind them",
+        "Designed the sustainability internal control system and defined governance roles and responsibilities, setting decision rights and accountability across functions and entities",
+        "Mapped and standardised ESG processes into documented procedures, data-collection instructions and work instructions adopted across the group",
+        "Answered customer and investor ESG requirements through EcoVadis, SAQ and Integrity Next questionnaires, and handled rating agency queries across S&P CSA, Sustainalytics, MSCI and ISS methodologies",
+        "Maintained the supply chain risk register and reported ESG risks and audit findings to senior management, increasing transparency on exposure across the group",
+        "Aligned CSRD reporting with ESRS E1 alongside the senior disclosure team, consolidated non-financial KPIs group-wide from SAP and Power BI, and presented results and recommendations to senior leadership"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Act as primary sustainability advisor to automotive component suppliers, industrial manufacturers and building materials clients, and coach their teams on reporting requirements and data governance",
+        "Prepare GRI-referenced sustainability reports through to sign-off, and build the content index that maps each disclosure and tracks where the gaps sit",
+        "Manage ESG data collection, validation and reporting across Scope 1, 2 and 3, and develop and track sustainability KPIs to an audit-ready standard",
+        "Pilot new data-collection processes with one client or product line first, then extend them across the wider portfolio once they hold"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Served as primary point of contact for 150+ organisations globally, resolving methodology, data-quality and deadline queries",
+        "Owned ESG data collection, validation and management on the CDP platform, tracking submission coverage and data quality across a full reporting cycle",
+        "Built repeatable processes and controls across organisations of very different size and reporting maturity"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Developed the data systems behind a GRI-aligned sustainability reporting platform, writing the SQL queries and validation rules that caught incomplete and implausible entries",
+        "Automated data processing in Python, cutting manual handling by 40%",
+        "Managed the product lifecycle from concept to implementation, gathering requirements and running UAT, with sprints tracked in Jira and specifications documented in Confluence"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Chaired the recurring meetings of a 53-member consortium across 5 countries, setting agendas, facilitating between differing mandates and driving actions to closure",
+        "Benchmarked members against one another on SDG engagement, and presented GRI Standards at the Bombay, Colombo and Dhaka stock exchanges"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Ran environmental compliance and permitting for commercial and mixed-use developments, authored full environmental impact assessments and briefed government authorities",
+        "Coordinated 15+ projects worth 20M+ euros with a team of 4, running site audits, raising NCRs and driving corrective and preventive actions to verified closure"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universität Berlin, Germany",
+      "details": [
+        "Grade 1.6 (Distinction). Thesis on the financial implications of CSRD in industry, evaluating ESRS E1 to G1 topics",
+        "Coursework in data analysis and statistical methods, SQL, COSO and ISO 31000 risk management"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), five-year professional degree",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": []
+    }
+  ],
+  "skills": [
+    {
+      "category": "ESG Strategy, Governance and Compliance",
+      "items": "Implementing ESG strategy and sustainability objectives, company-wide ESG initiatives, alignment between business units and a central ESG organisation, governance frameworks and internal control design, roles, responsibilities and decision rights, ESG governance processes, assessments and management reviews, strengthening ESG performance and driving continuous improvement, transparency on ESG risks and opportunities, double materiality, CSDDD and LkSG due diligence, EU Taxonomy, EMAS, ISO 14001"
+    },
+    {
+      "category": "Reporting, KPIs and Data",
+      "items": "Sustainability reporting and ESG disclosure requirements, CSRD and ESRS, GRI Standards and content index, CDP, TCFD, TNFD, GHG Protocol Scope 1-3, ESG KPI target setting and data-collection cycles, performance tracking against reduction pathways, data validation and plausibility checks, reporting tools and platforms, SAP, Power BI, osapiens, SQL, Python, advanced Excel"
+    },
+    {
+      "category": "Customer, Rating and Stakeholder Engagement",
+      "items": "Supporting customer ESG requirements, sustainability inquiries and stakeholder engagement activities, EcoVadis, SAQ and Integrity Next questionnaires, S&P CSA, Sustainalytics, MSCI ESG and ISS ESG rating methodologies, investor queries, supplier assessments and on-site supplier audits, senior leadership communication, training delivery and e-learning"
+    },
+    {
+      "category": "Project and Process Management",
+      "items": "Project planning, coordination and milestone tracking, stakeholder alignment, matrix and cross-functional delivery in industrial and automotive settings, business unit and multi-site coordination, ownership to drive topics end to end, process mapping and standardisation, SOPs and work instructions, continuous improvement and piloting, MS Project, Jira, Confluence, MS Office and MS Teams, English (C1) and German (B2)"
+    }
+  ],
+  "certifications": [
+    "Climate-related Financial Disclosures - CDP",
+    "Climate Change & Sustainability - EY",
+    "Climate & Sustainability - Boston Consulting Group (BCG)"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional (B2) | Hindi - Native"
+  ],
+  "footer": "Berlin, Germany | Willing to relocate to Budapest | Immediately available | Valid German work and residence permit"
+}

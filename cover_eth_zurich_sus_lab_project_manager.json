@@ -1,0 +1,27 @@
+{
+  "recipientAddress": [
+    "ETH Zurich",
+    "sus.lab, Group for Sustainability and Technology (SusTec)",
+    "Department of Management, Technology, and Economics (D-MTEC)",
+    "Zürichbergstrasse 18",
+    "8092 Zürich, Switzerland"
+  ],
+  "salutation": "Dear Hiring Manager,",
+  "intro": "I am applying for the Project Manager position at sus.lab. The work you describe, from techno-economic assessments of recycling routes for automotive materials to interviews and workshops with decision-makers, is close to what I do for industrial clients today: analysing end-of-life obligations, recycled content and the value chains behind them.",
+  "experiences": "I hold an MBA in Building Sustainability from TU Berlin and a five-year Bachelor of Architecture. Since January 2026 I have worked as an LCA and sustainability consultant at KarbonWise, delivering life cycle assessments, product footprints and circularity work for industrial and automotive-supplier clients. I also ran a work package in an EU LIFE consortium. During my master's I supported climate reporting at TUI and the disclosure process at CDP. Before that I managed product development and sales for a B2B ESG reporting platform, researched sustainability reporting across South Asia for the Global Reporting Initiative, and worked as an architect in India.",
+  "skills": [
+    {
+      "name": "Circularity and end-of-life analysis for industry",
+      "body": "My KarbonWise clients include automotive component suppliers and industrial manufacturers facing the End-of-Life Vehicles rules, WEEE and the EU Battery Regulation. These rules require them to know what their products contain and where materials go at end of life. I calculate bill-of-materials-based product footprints from supplier data and track metal scrap volumes, treatment routes and turnaround with their recycling partners and waste contractors. I also translate the rules into circular design criteria and KPIs such as recycled-content share. The tracking feeds their compliance reporting, and three or more of the decarbonisation projects I scoped have since been implemented."
+    },
+    {
+      "name": "Stakeholder research and clear communication",
+      "body": "At the Global Reporting Initiative I worked with a consortium of 53 organisations across five countries, evaluating how each engaged with the 17 SDGs. I chaired the recurring member meetings, wrote the newsletters and policy updates, and presented the GRI Standards at the Bombay, Colombo and Dhaka stock exchanges. Since then I have run stakeholder interviews at TUI and designed and moderated a client workshop at KarbonWise, writing up each for decision-makers. The evaluation also identified new revenue opportunities for the South Asia chapter."
+    }
+  ],
+  "extraParagraphs": [
+    "At TUI I steered a project team across five functions, and at KarbonWise I direct analysts and coordinated partners in the LIFE consortium. I use AI tools daily for research and analysis, and scoped an LLM-based ESG assistant at TUI to a proof of concept. I speak English (C1) and German (B2), would move to Zurich and could start in January 2027."
+  ],
+  "closing": "I would welcome the chance to discuss how I could contribute to sus.lab's projects.",
+  "signoff": "Sincerely,"
+}

@@ -1,0 +1,130 @@
+{
+  "company": "DMG Infotech",
+  "role": "Project Manager",
+  "format": "preferred",
+  "language": "en",
+  "profile": "Project management professional with 6 years of delivery across B2B software, consulting engagements and multi-site projects. Runs scope, schedules, requirements, testing and stakeholder communication, and balances people and workstreams across several projects at once. Rolled out a supplier due diligence platform across 5+ subsidiaries of a listed group, from requirements and configuration to loaded data for 500+ suppliers.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Deliver 4+ client engagements in parallel, agreeing scope, fees and timelines directly with client managing directors",
+        "Allocate 6+ analysts across client projects and review their deliverables before release",
+        "Flag slipping deliverables early and agree recovery plans and revised timelines with the client",
+        "Pilot new processes with one client before rolling them out across the portfolio",
+        "Pitch follow-on scope during delivery that clients have bought, alongside renewals and extensions"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Implemented osapiens for supply chain due diligence: gathered the group's requirements, configured the platform and loaded cleansed data for 500+ suppliers",
+        "Built and steered a team across 5 functions, including IT, running its workstreams under one shared plan and holding contributors to deadlines",
+        "Coordinated implementation with 5+ international subsidiaries and tracked completion entity by entity",
+        "Scoped and drove an LLM assistant to proof of concept, designing its prompts and retrieval while engineering built it",
+        "Wrote process documentation, work instructions and RACI responsibility splits across functions and entities",
+        "Kept the supply chain risk register and reported risk findings to senior management",
+        "Developed compliance e-learnings in the SAP LMS and co-ran an employee awareness campaign",
+        "Presented analysis to the steering committee and senior leadership, and tracked decisions to closure across functions"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Onboarded and supported 150+ organisations as their primary contact, escalating issues to internal teams and closing them out",
+        "Set up repeatable processes and data quality controls on the CDP platform across organisation types"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Ran GDPR operations: records of processing, data mapping, data subject requests and DPA reviews",
+        "Ran sprint cycles with engineers in Jira, writing user stories and acceptance criteria and reporting sprint progress",
+        "Gathered client requirements and kept specifications, meeting notes and decision logs in Confluence",
+        "Tested releases with clients in UAT and took client-reported issues to engineering, tracking each one to a fix",
+        "Launched a new platform module from concept to first users, then handed it over to the permanent team",
+        "Trained client users after signing through walkthroughs and onboarding sessions",
+        "Cut manual data processing by 40% through Python automation and wrote SQL validation rules",
+        "Owned 5+ tender and RFP responses end to end, from section owners to submission deadlines",
+        "Carried 5+ client accounts in Dynamics 365, with weekly pipeline forecasts and CRM reports and dashboards"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Chaired recurring meetings of a 53-member consortium across 5 countries and drove agreed actions to closure"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Advised on 15+ commercial, hospitality and residential projects worth 20M+ euros, tracking actual cost against budget with variance reports",
+        "Created project schedules in Primavera P6 and MS Project, with critical path, resource loading and earned value tracking",
+        "Held 20+ contractors and vendors across 6+ sites to SLAs and KPIs, and chaired progress meetings with written minutes",
+        "Hosted external auditors and certification bodies, and drove non-conformities through corrective actions to verified closure"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universität Berlin, Germany",
+      "details": [
+        "Grade 1,6 (good). Thesis on the financial implications of CSRD in the construction industry, using survey design and regression analysis in Python",
+        "Coursework: data analysis, statistical methods, SQL, COSO and ISO 31000 risk frameworks"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), five-year professional degree",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": [
+        "Coursework: contract management, construction technology, building services"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Project Delivery",
+      "items": "Scope, schedule and stakeholder management, several projects under one plan, resource allocation across projects, requirements gathering, UAT, launch and handover to operations, delivery risk and recovery plans, steering committee presentations, piloting and rollout"
+    },
+    {
+      "category": "Risk and Compliance",
+      "items": "Risk registers and risk reporting, audit hosting, non-conformities and corrective actions (CAPA), GDPR operations (records of processing, data subject requests, DPA review), process documentation, SOPs and RACI"
+    },
+    {
+      "category": "Agile, Planning and Microsoft Tools",
+      "items": "Agile sprint delivery, user stories and acceptance criteria, Jira, Confluence, MS Project, Oracle Primavera P6, critical path and earned value, Dynamics 365 (pipeline, CRM reports and dashboards), Microsoft 365, MS Teams, Power BI, Excel"
+    },
+    {
+      "category": "Technology and Data",
+      "items": "SaaS platform implementation and configuration, template-based data loading, SQL, Python automation, SAP, osapiens, LLM prompt and retrieval design, HubSpot, Google Workspace"
+    },
+    {
+      "category": "Client and Commercial",
+      "items": "Client fee and scope negotiation, tender and RFP responses, bid pricing, renewals and follow-on scope, vendor contract negotiation, supplier SLAs and KPIs, client onboarding and training, senior stakeholder presentations"
+    }
+  ],
+  "certifications": [
+    "Agile - Cognizant",
+    "Climate & Sustainability - Boston Consulting Group (BCG)",
+    "Climate Change & Sustainability - EY"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional (B2) | Hindi - Native"
+  ],
+  "footer": "Based in Berlin | Available immediately | Valid German work and residence permit"
+}

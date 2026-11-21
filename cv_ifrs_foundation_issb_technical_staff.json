@@ -1,0 +1,127 @@
+{
+  "company": "IFRS Foundation",
+  "role": "ISSB Technical Staff",
+  "format": "preferred",
+  "language": "en",
+  "profile": "Sustainability reporting specialist with 4+ years across corporate disclosure, client advisory and evidence-based research at the Global Reporting Initiative, a global standard setter.",
+  "profileBullets": [
+    "Reporting landscape: CSRD and ESRS, GRI, TCFD, TNFD and CDP in practice, plus IFRS S1 and S2 through gap-analysis modules at KarbonWise and the MBA thesis",
+    "Research and analysis: climate, nature, human capital and human rights risks, including a 53-member, 5-country benchmarking study for GRI",
+    "Stakeholder engagement: companies, investors, regulators and capital markets audiences, including GRI Standards sessions at 3 stock exchanges",
+    "Drafting and review: disclosure content, policy briefs and technical summaries, and substantive review of colleagues' reports"
+  ],
+  "experience": [
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Map GRI disclosures against ESRS datapoints for 4+ client reports, recording overlaps, gaps and interoperability points between the frameworks",
+        "Develop IFRS S1 and S2 gap-analysis modules, mapping the disclosure requirements into gap-check logic",
+        "Assess transition risk for 10+ buildings across 4+ real-estate clients against CRREM 1.5 and 2 degree pathways, with each retrofit measure's CO2 and cost effect",
+        "Appraise physical climate risk at client sites and portfolios, and cost the adaptation and resilience measures that address it",
+        "Collect ESRS S1 workforce metrics and track client workforce health, safety and wellbeing indicators",
+        "Guide clients through biodiversity impacts across their operations and TNFD nature-related disclosure",
+        "Scope decarbonisation projects with savings estimates and implementation plans, which clients have gone on to implement",
+        "Direct 6+ analysts on client engagements and review colleagues' reports for structure, logic, evidence and conclusions"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Aligned the group's CSRD reporting with ESRS E1 alongside the senior disclosure team, including TCFD-aligned climate content",
+        "Delivered the double materiality assessment alongside the senior disclosure team, covering IRO scoring, stakeholder interviews and ESRS datapoint mapping",
+        "Prepared TNFD and nature-related disclosure content alongside the group's ESRS climate reporting",
+        "Contributed to the group's published human rights and modern slavery disclosure and its salient human rights issues assessment",
+        "Implemented CSDDD and LkSG due diligence on osapiens, loading cleansed data on 500+ suppliers through templates",
+        "Compared the methodologies of 5 ESG rating providers and answered investor and rating-agency queries",
+        "Calculated EU Taxonomy turnover, CapEx and OpEx KPIs from finance data, and checked management report disclosures against consolidated financial figures",
+        "Presented analysis and recommendations to senior leadership and the sustainability steering committee, getting recommendations adopted into the group's reporting",
+        "Steered a 5-function project team and rolled out regulatory requirements across 5+ subsidiaries, tracking completion by entity"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Answered disclosure queries as primary contact for 150+ organisations worldwide, cutting response times by 20%+",
+        "Analysed the newly launched integrated questionnaire modules, aligned with IFRS S2, for accurate data capture"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Wrote user stories for IFRS S1 and S2 gap-analysis modules and tested them through UAT",
+        "Authored the technical and methodology sections of 5+ tender and RFP responses, turning reporting logic into client-facing narrative"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Evaluated 53 consortium members' engagement with 17 SDGs across 5 countries, benchmarking members against one another",
+        "Researched sustainability reporting trends and regulation in India, Sri Lanka and Bangladesh through structured literature reviews",
+        "Facilitated the GRI-BRSR linkage documentation, aligning the GRI Standards with SEBI disclosure requirements",
+        "Presented the GRI Standards to capital markets audiences at 3 stock exchanges: Bombay, Colombo and Dhaka",
+        "Chaired recurring member meetings and carried actions to closure",
+        "Delivered capacity building to ministries and regulators, and briefed government delegates",
+        "Wrote policy briefs and technical summaries from scientific and technical literature for non-specialist audiences"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Architect",
+      "bullets": [
+        "Authored full EIA reports, consolidating air, noise, water and ecology specialist inputs into submissions to authorities"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universität Berlin, Germany",
+      "details": [
+        "Overall grade 1,6 (good); thesis graded 1,5 (very good)",
+        "Thesis: Assessing the Financial Implications of CSRD in the Construction Industry: Evaluating E1-G1 Topics. Survey design, quantitative analysis and regression in Python",
+        "Within the thesis, mapped IFRS S1 and S2 against GRI and GRI against ESRS, and drafted IFRS S1 and S2 disclosure content"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), five-year professional degree",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": []
+    }
+  ],
+  "skills": [
+    {
+      "category": "Sustainability and Financial Reporting",
+      "items": "IFRS Sustainability Disclosure Standards S1 and S2 (gap-analysis modules, thesis), CSRD and ESRS (E1, S1, G1), GRI (reports, content index, GRI 3 materiality), TCFD, TNFD, SASB, CDP, EU Taxonomy, SFDR (entity-level PAI), GHG Protocol, BRSR (SEBI)"
+    },
+    {
+      "category": "Analysis and Research",
+      "items": "Climate transition and physical risk, cost modelling, structured literature reviews, survey design, regression analysis, text-as-data (web scraping, LLM-based extraction)"
+    },
+    {
+      "category": "Delivery, Data and Design",
+      "items": "Project management, Python, SQL, Power BI, SAP, ESRS XBRL taxonomy mapping (Excel), osapiens, Word templates and InDesign report layout"
+    }
+  ],
+  "certifications": [
+    "Climate-related Financial Disclosures - CDP",
+    "Scenario Analysis - CDP",
+    "Introduction to ESG - Corporate Finance Institute"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional (B2) | Hindi - Native"
+  ],
+  "footer": "Berlin-based, open to relocation to Frankfurt | Valid German work and residence permit | Available immediately"
+}

@@ -1,0 +1,127 @@
+{
+  "company": "CEWE",
+  "role": "(Junior) Manager Nachhaltigkeitsreporting",
+  "format": "workday",
+  "language": "de",
+  "contact": {
+    "location": "Berlin, Deutschland",
+    "phone": "+49 172 6568115",
+    "email": "nikkhilsehgal@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/nikkhil-sehgal-a68577146/"
+  },
+  "profile": "Spezialist für Nachhaltigkeitsberichterstattung mit über vier Jahren Erfahrung in Konzern, Beratung und NGO. Schwerpunkte sind CSRD und ESRS, doppelte Wesentlichkeitsanalyse, EU-Taxonomie, Prüfungsbegleitung und die Abstimmung mit Tochtergesellschaften. Konsolidierte in einem börsennotierten Konzern Kennzahlen aus 5+ Gesellschaften und bereitete Prüfungsnachweise vor.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "Januar 2026 - heute",
+      "title": "LCA & Sustainability Consultant (freiberuflich)",
+      "bullets": [
+        "Leitete die doppelte Wesentlichkeitsanalyse eines Kunden nach CSRD: bewertete die IROs, ordnete sie ESRS-Datenpunkten zu und holte die Freigabe der Geschäftsleitung ein",
+        "Erstellte den GRI-Bericht eines Kunden bis zur Freigabe, baute den GRI-Inhaltsindex auf und koordinierte die Designagentur bis zur finalen Fassung",
+        "Führe für jeden Kunden einen Regulierungs-Tracker zu CSRD, ESRS und EU-Taxonomie und leite daraus den Handlungsbedarf ab",
+        "Erhebe und validiere ESG-Daten zu Scope 1, 2 und 3 und entwickle KPIs bis zur Prüfungsreife",
+        "Sammelte für einen Kunden Kennzahlen zur eigenen Belegschaft nach ESRS S1 und bildete S1 in der Wesentlichkeitsanalyse ab",
+        "Berechne Produkt- und Unternehmens-CO2-Fußabdrücke für 4+ B2B-Kunden nach GHG Protocol"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Deutschland",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Werkstudium)",
+      "bullets": [
+        "Richtete die CSRD-Berichterstattung des Konzerns gemeinsam mit dem Senior-Disclosure-Team an ESRS E1 aus und ordnete die Angaben in Excel der ESRS-XBRL-Taxonomie zu",
+        "Erarbeitete die doppelte Wesentlichkeitsanalyse des Konzerns mit dem Senior-Disclosure-Team, inklusive Stakeholder-Interviews, Umfragen und Workshops",
+        "Erhob, validierte und konsolidierte nichtfinanzielle Kennzahlen aus mehreren Fachbereichen und 5+ Gesellschaften mit SAP und Power BI",
+        "Steuerte ein Projektteam aus 5 Fachbereichen und stimmte die Umsetzung mit internationalen Tochtergesellschaften bis zum Abschluss ab",
+        "Bereitete Arbeitspapiere, Nachweise und Prüfpfade für die externe Prüfung vor und stimmte sie mit den Wirtschaftsprüfern ab",
+        "Gestaltete das Nachhaltigkeits-IKS mit Prozessbeschreibungen, Arbeitsanweisungen und klaren Zuständigkeiten über alle Fachbereiche",
+        "Prüfte EU-Taxonomiefähigkeit und -konformität, berechnete Umsatz-, CapEx- und OpEx-KPIs aus Finanzdaten und glich Lagebericht-Angaben mit Konzernzahlen ab",
+        "Konfigurierte osapiens für LkSG und CSDDD nach den Anforderungen des Konzerns und lud bereinigte Daten zu über 500 Lieferanten ein",
+        "Stellte der Leitungsebene und dem Nachhaltigkeits-Lenkungskreis regulatorische Entwicklungen mit Empfehlungen vor und verfolgte Beschlüsse bis zum Abschluss"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Deutschland",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Werkstudium)",
+      "bullets": [
+        "Beantwortete als erste Ansprechperson Fragen von über 150 Organisationen zur Offenlegung",
+        "Prüfte Offenlegungsdaten auf der CDP-Plattform und verfolgte Vollständigkeit und Datenqualität"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "März 2023 - März 2024",
+      "title": "Product Manager / Sustainability Consultant (freiberuflich)",
+      "bullets": [
+        "Senkte den manuellen Aufwand der Datenverarbeitung um 40 Prozent durch Python-Automatisierung und schrieb SQL-Validierungsregeln für eine GRI-orientierte Reporting-Plattform",
+        "Brachte neue Funktionen des Reporting-Tools von der Anforderung bis zum Abnahmetest (UAT)"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | Neu-Delhi, Indien",
+      "dates": "März 2022 - Februar 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Bewertete das SDG-Engagement von 53 Konsortiumsmitgliedern in 5 Ländern und analysierte Trends der Nachhaltigkeitsberichterstattung in Südasien",
+        "Stellte die GRI-Standards an 3 Börsen vor: Bombay, Colombo und Dhaka"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, Indien",
+      "dates": "Juni 2020 - Februar 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Wählte ein Team von 4 Praktikanten aus, führte es und beriet zu 15+ Projekten (20+ Mio. Euro)"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "Oktober 2023 - März 2025",
+      "institution": "Technische Universität Berlin, Deutschland",
+      "details": [
+        "Abschlussnote 1,6 (gut). Masterarbeit zu den finanziellen Folgen der CSRD in der Bauwirtschaft (Themen E1 bis G1), mit Fragebogenerhebung und Regressionsanalyse in Python",
+        "Schwerpunkte: Datenanalyse, statistische Methoden, SQL, Umweltrecht, Risikomanagement nach COSO und ISO 31000"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (fünfjähriger Studiengang)",
+      "dates": "August 2016 - Juni 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, Neu-Delhi, Indien",
+      "details": []
+    }
+  ],
+  "skills": [
+    {
+      "category": "Nachhaltigkeitsberichterstattung",
+      "items": "CSRD und ESRS (E1, S1, G1), Nachhaltigkeitserklärung, doppelte Wesentlichkeitsanalyse mit IRO-Bewertung und ESRS-Datenpunkten, EU-Taxonomie mit Umsatz-, CapEx- und OpEx-KPIs, ESRS-XBRL-Taxonomie, GRI-Bericht und GRI-Inhaltsindex, DNK, GHG Protocol Scope 1 bis 3, PCF und CCF, CDP, TCFD, TNFD"
+    },
+    {
+      "category": "Prüfung und interne Kontrollen",
+      "items": "Prüfungsbegleitung, Arbeitspapiere, Nachweise und Prüfpfade, begrenzte und hinreichende Prüfungssicherheit, Nachhaltigkeits-IKS, Prozessbeschreibungen und Arbeitsanweisungen, Zuständigkeiten (RACI), Abgleich von Lagebericht-Angaben mit Konzernzahlen"
+    },
+    {
+      "category": "Regulatorik und Steuerung",
+      "items": "Regulierungsmonitoring und Ableitung des Handlungsbedarfs, laufende Änderungen an CSRD und ESRS, CSDDD und LkSG, ESG-KPIs für die Unternehmenssteuerung mit Zielwerten und Erhebungszyklen, Berichte an Leitungsebene und Lenkungskreis"
+    },
+    {
+      "category": "Tools und Prozesse",
+      "items": "MS Office (Excel, PowerPoint, Word mit Formatvorlagen), SAP, Power BI, osapiens, SQL, Python, Jira, Confluence, Datenkonsolidierung und Validierung, Optimierung von Reporting-Prozessen, Pilotierung neuer Prozesse"
+    },
+    {
+      "category": "Zusammenarbeit",
+      "items": "Steuerung fachbereichsübergreifender Projektteams, Abstimmung mit Fachabteilungen wie Umwelt, HR und Einkauf, Abstimmung mit Tochtergesellschaften im In- und Ausland, Stakeholder-Interviews und Workshops, Schulungen und E-Learnings im SAP LMS, sorgfältige und eigenständige Arbeitsweise"
+    }
+  ],
+  "certifications": [
+    "Climate-related Financial Disclosures - CDP",
+    "Climate Change & Sustainability - EY",
+    "Introduction to ESG - Corporate Finance Institute (CFI)"
+  ],
+  "languages": [
+    "Deutsch - gute Kenntnisse (B2) | Englisch - verhandlungssicher (C1) | Hindi - Muttersprache"
+  ],
+  "footer": "Gültige deutsche Arbeits- und Aufenthaltserlaubnis | Umzugsbereit nach Oldenburg | Ab sofort verfügbar"
+}

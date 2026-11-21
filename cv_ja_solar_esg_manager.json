@@ -1,0 +1,122 @@
+{
+  "company": "JA Solar",
+  "role": "ESG Manager",
+  "format": "preferred",
+  "language": "en",
+  "profile": "ESG professional with over four years across corporate ESG, consulting and product compliance for industrial manufacturers. Core strengths in customer ESG requests, due diligence processes and evidence packages under evolving European regulations, and cross-functional ESG project delivery. Completed or reviewed 6+ fund ESG questionnaires and owned 5+ tender responses.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Answer customer ESG requests for manufacturing clients, supplying PCFs and ESG data and reviewing customer contracts and codes of conduct for ESG obligations",
+        "Monitor ESG legislation for clients and brief them on the EU Battery Regulation (carbon footprint, recycled content, battery passport), WEEE take-back and the Net-Zero Industry Act",
+        "Produce sustainability documentation (PCFs, LCAs, EPDs) for 4+ clients and assemble certification evidence packages for EU Ecolabel and CE Declarations of Conformity",
+        "Lead 6+ analysts on client ESG projects and workstreams, presenting quantified findings and recommendations to client management, including C-level",
+        "Run supply chain due diligence for an apparel client down to mills, dyehouses and tanneries, applying the UNGPs and OECD guidance"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Compiled the evidence documentation and audit trails that audit partners tested in external assurance of the group's CSRD disclosures",
+        "Answered ESG rating agency and investor questionnaires, and compared 4 rating methodologies (S&P, Sustainalytics, MSCI, ISS)",
+        "Steered a project team of cross-functional stakeholders from 5 functions (Compliance, Risk, Legal, IT, supply chain), holding them to deadlines for timely delivery",
+        "Turned ESG requirements into process descriptions, work instructions and task owners across functions and group entities",
+        "Developed training modules on human rights, modern slavery, child protection and ISO 14001, and contributed to updating the supplier risk management tool",
+        "Scoped and drove an AI-based ESG assistant giving internal stakeholders ESG support, designing its prompts and retrieval on CSRD and ESRS"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Resolved disclosure queries from 150+ organisations worldwide as first point of contact, cutting response times by 20%+",
+        "Validated disclosure data on the CDP platform, tracked submission coverage and data quality, and escalated issues to internal teams to closure"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Owned 5+ tender and RFP responses end to end, writing the technical sections and building reusable proposal templates for repeat bids",
+        "Priced bids, set commercial terms and negotiated fees and scope with clients, backed by cost models and cash-flow scenarios",
+        "Ran win/loss reviews with the sales team on closed deals and adjusted response tactics"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Turned research on sustainability reporting trends and regulation in 3 South Asian markets into structured market insights and competitive landscape maps",
+        "Chaired a 53-member consortium's meetings and issued newsletters and policy updates",
+        "Drafted replies to inquiries from public bodies and partnered with governments and NGOs"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Architect",
+      "bullets": [
+        "Hosted external auditors and certification bodies, raised non-conformities and drove corrective actions to verified closure",
+        "Advised on 15+ projects worth 20M+ euros, including commercial building energy audits"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universität Berlin, Germany",
+      "details": [
+        "Grade 1.6. Thesis on the financial impact of CSRD, with survey design and regression in Python",
+        "Coursework included environmental law, LCA and ISO 50001 energy management"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (5-year professional degree)",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": [
+        "Coursework included energy systems, building services and environmental control"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "EU ESG and Product Regulation",
+      "items": "EU Battery Regulation (2023/1542), WEEE, ESPR, Digital Product Passport, Net-Zero Industry Act, Critical Raw Materials Act, CSRD, ESRS, CSDDD, LkSG, EU Taxonomy"
+    },
+    {
+      "category": "Customer ESG and Due Diligence",
+      "items": "customer support on ESG requests, customer due diligence requirements, rating and investor questionnaires, ESG input to tenders and contract negotiations, evidence packages, UNGPs"
+    },
+    {
+      "category": "Product Sustainability and Frameworks",
+      "items": "PCF and CCF (GHG Protocol, ISO 14067), LCA (ISO 14040/14044), OneClick LCA, EPD, recycled content and circularity KPIs, EU Ecolabel, SBTi, CDP, GRI"
+    },
+    {
+      "category": "Project and Stakeholder Management",
+      "items": "ESG projects and workstreams, stakeholder management, cross-functional collaboration, commercial awareness, public affairs, Jira, Confluence"
+    },
+    {
+      "category": "Data and Tools",
+      "items": "SAP, Excel models, Power BI, SQL, Python, HubSpot, Microsoft 365"
+    }
+  ],
+  "certifications": [
+    "Climate-related Financial Disclosures - CDP",
+    "Introduction to ESG - Corporate Finance Institute (CFI)",
+    "Climate Change & Sustainability - EY"
+  ],
+  "languages": [
+    "English - fluent (C1) | German - professional working proficiency (B2) | Hindi - native"
+  ],
+  "footer": "German work and residence permit | Willing to relocate to Munich and travel within Europe | Available immediately"
+}

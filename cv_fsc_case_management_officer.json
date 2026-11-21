@@ -1,0 +1,130 @@
+{
+  "company": "FSC",
+  "role": "Case Management Officer",
+  "format": "preferred",
+  "language": "en",
+  "profile": "Sustainability and stakeholder engagement professional with over four years in CSR, due diligence and disclosure work across international settings. Handles cases and grievances through to closure, develops guidance and communication materials for diverse audiences, and coordinates cross-functional work on CRM-supported processes. Cut response times by 20%+ for 150+ disclosing organisations at CDP through repeatable handling processes and controls.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Apply geolocation and deforestation-risk data to EUDR due diligence statements and risk assessments",
+        "Track regulatory issues for clients by status, deadline and impact in a compliance tracker",
+        "Flag slipping client deliverables early and agree recovery plans and revised timelines with the client",
+        "Direct 6+ analysts across client engagements and quality-check their deliverables",
+        "Extract structured data from client documents through a self-built Claude workflow, cutting extraction time by 25%+"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Developed e-learning modules on human rights, child protection, modern slavery and ISO 14001, and contributed to the related guidelines",
+        "Steered a cross-functional project team across 5 functions (Compliance, Risk, Legal, IT, supply chain), holding contributors to deadlines",
+        "Wrote process descriptions behind reporting requirements and defined task owners across functions and group entities",
+        "Gathered requirements for the supplier risk platform, configured it and loaded data on 500+ suppliers through templates",
+        "Compiled evidentiary documentation with audit partners for the group's CSRD preparation"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Served as primary contact for 150+ disclosing organisations worldwide through the disclosure inbox, cutting response times by 20%+",
+        "Closed out grievances from disclosing organisations, escalating issues to internal teams where needed",
+        "Logged each case in HubSpot with status, owner and follow-up dates",
+        "Built repeatable processes and controls for data validation across diverse organisation types",
+        "Resolved finance, invoice and payment queries for disclosing companies"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Updated public website pages and wrote web copy that the communications team published",
+        "Kept client records and a 20+ prospect pipeline in Dynamics 365 and HubSpot, building CRM reports on engagement",
+        "Took client-reported platform issues to engineering and tracked each one to a fix",
+        "Cut manual data processing by 40% through Python automation on a GRI-aligned reporting platform"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Chaired recurring meetings of the 53-member consortium, setting agendas, facilitating between differing member mandates and closing out actions",
+        "Evaluated 53 members' engagement with 17 SDGs across 5 countries, designing the evaluation criteria",
+        "Ran a communications campaign end to end, setting the messaging, channels, timeline and measurement",
+        "Produced member newsletters, policy updates and policy briefs for non-specialist readers",
+        "Presented the GRI Standards at 3 stock exchanges and delivered capacity building to government stakeholders"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Architect",
+      "bullets": [
+        "Hosted external auditors and certification bodies through third-party audits, raising non-conformities and driving corrective actions to verified closure",
+        "Advised on 15+ projects worth 20M+ euros and authored full Environmental Impact Assessment reports for permit submissions",
+        "Briefed government authorities and took part in EIA consultation meetings with communities"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universität Berlin, Germany",
+      "details": [
+        "Grade 1,6 (good). Coursework in environmental law, risk management (COSO, ISO 31000), data analysis and statistical methods",
+        "Thesis on the financial implications of CSRD in the construction industry, using survey design and regression analysis in Python"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), five-year professional degree",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": []
+    }
+  ],
+  "skills": [
+    {
+      "category": "Case Management and Stakeholder Engagement",
+      "items": "Complaints and grievance handling, case logging and follow-up tracking, escalation to internal teams, written comments on complaints procedures or draft standards, meeting facilitation, consortium and partner coordination, engagement with corporates, governments, NGOs and communities"
+    },
+    {
+      "category": "Guidance and Communication",
+      "items": "Communication materials for diverse audiences, guidance materials and guidelines, process descriptions, training modules and e-learning, newsletters and policy briefs, public website and intranet content, communications campaigns, webinars and presentations"
+    },
+    {
+      "category": "Project Coordination",
+      "items": "Project coordination across parallel workstreams, cross-functional collaboration, progress and follow-up tracking, recovery plans and revised timelines, administrative support, Jira, Confluence, SharePoint"
+    },
+    {
+      "category": "Due Diligence and Screening",
+      "items": "UN Guiding Principles, OECD due diligence guidance, CSDDD and LkSG, human rights and modern slavery, EUDR deforestation-risk assessment, supplier risk assessment, evaluation criteria design, audit and assurance evidence"
+    },
+    {
+      "category": "Systems and Tools",
+      "items": "CRM systems (HubSpot, Microsoft Dynamics 365), CRM reports and dashboards, SAP, Google Workspace (Sheets, Slides, Sites), Microsoft 365, Power BI, Python, SQL, AI tools (Claude)"
+    },
+    {
+      "category": "Frameworks",
+      "items": "SDGs, GRI Standards, CSRD and ESRS, CDP, TNFD and biodiversity, ISO 14001, GHG Protocol"
+    }
+  ],
+  "certifications": [
+    "Climate-related Financial Disclosures - CDP",
+    "Climate & Sustainability - Boston Consulting Group (BCG)",
+    "Agile - Cognizant"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional (B2) | Hindi - Native"
+  ],
+  "footer": "Valid German work and residence permit | Open to relocation to Bonn | Available immediately"
+}

@@ -1,0 +1,132 @@
+{
+  "company": "Stadt Ulm",
+  "role": "Ingenieur Architekt Projektsteuerung Grossbauvorhaben",
+  "format": "preferred",
+  "language": "de",
+  "contact": {
+    "location": "Berlin, Deutschland",
+    "phone": "+49 172 6568115",
+    "email": "nikkhilsehgal@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/nikkhil-sehgal-a68577146/"
+  },
+  "profile": "Projektfachkraft im Hochbau mit über fünf Jahren Berufserfahrung in Bau-, Immobilien- und Nachhaltigkeitsprojekten, darunter Projektsteuerung auf Bauherrenseite. Schwerpunkte sind Kosten-, Termin- und Qualitätssteuerung, die Koordination von Planern, Fachplanern und Baufirmen sowie das frühe Erkennen von Projektrisiken. Begleitete 15+ Hochbauprojekte mit über 20 Mio. Euro Volumen mit Kostenverfolgung, Terminplänen in Primavera P6 und Entscheidungsvorlagen.",
+  "experience": [
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, Indien",
+      "dates": "Juni 2020 - Februar 2022",
+      "title": "Architect",
+      "bullets": [
+        "Beriet zu 15+ Gewerbe-, Hotel-, Wohn- und institutionellen Bauprojekten mit über 20 Mio. Euro Volumen, das größte mit über 5 Mio. Euro Baukosten",
+        "Vertrat als Teil des Projektsteuerungsteams private Bauherren bei 2+ Projekten gegenüber Planern, Fachplanern und ausführenden Firmen",
+        "Bereitete Entscheidungsvorlagen mit Varianten zu Kosten, Terminen und Qualität für Bauherren und Projektleitung vor",
+        "Führte und aktualisierte eine Projektrisikoliste mit Verantwortlichen und Gegenmaßnahmen",
+        "Bewertete Nachträge und Änderungen nach ihrer Kosten- und Terminwirkung",
+        "Stellte Ist-Kosten dem Budget gegenüber und berichtete Abweichungen in Fortschrittsberichten",
+        "Erstellte Kostenschätzungen und Machbarkeitsvorstudien und wirkte an Investitions- und Freigabeunterlagen der Bauherren mit",
+        "Plante Termine in Primavera P6 und MS Project mit kritischem Pfad und Earned Value",
+        "Leitete Baubesprechungen mit Fachplanern und Firmen und protokollierte offene Punkte",
+        "Integrierte Tragwerks- und TGA-Pläne in den Plansatz und löste Planungskollisionen",
+        "Prüfte die Ausführung gegen Pläne, Prüfpläne mit Halte- und Abnahmepunkten und nationale Bauvorschriften und hielt Mängel in NCRs fest",
+        "Verglich Angebote von Baufirmen im Preisspiegel und verhandelte Preise, Zahlungsbedingungen und Risikoabdeckung",
+        "Glich Rechnungen bzw. Abschlagsrechnungen von Nachunternehmern vor der Zahlung mit Aufmaßen und erbrachten Leistungen ab",
+        "Verfasste Genehmigungsunterlagen und unterrichtete Behörden zu einem staatlichen Hotelprojekt",
+        "Führte Mängellisten bis zur Beseitigung, stellte Übergabeunterlagen zusammen und nahm an Endabnahmen teil",
+        "Steuerte gleichzeitig 20+ Firmen und Dienstleister an 6+ Standorten",
+        "Wählte ein Team aus 4 Praktikanten aus, leitete es an und schulte es in CAD und BIM"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "Januar 2026 - heute",
+      "title": "LCA & Sustainability Consultant (freiberuflich)",
+      "bullets": [
+        "Ermittle für 10+ Gebäude von 4+ privaten und öffentlichen Eigentümern Sanierungsmaßnahmen mit CO2- und Kostenwirkung",
+        "Erkenne Verzug früh und vereinbare mit Kunden Gegenmaßnahmen und neue Termine",
+        "Verfolge Aufwand und Honorare gegen Budget bzw. Marge und melde Überschreitungen früh",
+        "Präsentiere CO2- und Kostenergebnisse vor der Bereichs- bzw. Geschäftsleitung der Kunden",
+        "Verhandle Honorare und Leistungsumfang direkt mit Kunden",
+        "Setze 6+ Analysten in Kundenprojekten ein und prüfe ihre Ergebnisse vor der Abgabe",
+        "Entwarf ESG-Mindeststandards für Bau-, Sanierungs- bzw. Betriebsvorhaben eines Kunden"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Deutschland",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Werkstudium)",
+      "bullets": [
+        "Steuerte ein Projektteam aus 5 Fachbereichen und hielt Beiträge und Fristen nach",
+        "Legte Zuständigkeiten über Fachbereiche und Konzerngesellschaften fest und schrieb Prozessbeschreibungen und Arbeitsanweisungen"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Deutschland",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Werkstudium)",
+      "bullets": [
+        "Verkürzte als erste Ansprechperson für 150+ Organisationen die Antwortzeiten um über 20 %"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "März 2023 - März 2024",
+      "title": "Product Manager / Sustainability Consultant (freiberuflich)",
+      "bullets": [
+        "Lieferte 5+ Angebote und Ausschreibungsantworten fristgerecht ab und legte Preise und Vertragsbedingungen fest",
+        "Senkte den manuellen Aufwand der Datenverarbeitung durch Python-Automatisierung um 40 %"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | Neu-Delhi, Indien",
+      "dates": "März 2022 - Februar 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Leitete regelmäßige Sitzungen von 53 Mitgliedsorganisationen und vermittelte zwischen unterschiedlichen Interessen bis zu gemeinsamen Maßnahmen"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Architecture (fünfjähriger Studiengang)",
+      "dates": "August 2016 - Juni 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, Neu-Delhi, Indien",
+      "details": [
+        "Schwerpunkte: Bautechnologie, Baustofflehre, Bauphysik, Gebäudetechnik, Stadtplanung, Vertragsmanagement. APS-Zertifikat liegt vor"
+      ]
+    },
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "Oktober 2023 - März 2025",
+      "institution": "Technische Universität Berlin, Deutschland",
+      "details": [
+        "Abschlussnote 1,6 (gut). Masterarbeit zu den finanziellen Folgen der CSRD in der Bauwirtschaft. Schwerpunkte: Energieaudits, GEG, EU-Gebäuderichtlinien, Ökobilanzierung, DGNB, Risikomanagement nach ISO 31000"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Projektsteuerung",
+      "items": "Kosten-, Termin- und Qualitätssteuerung, Koordination der Projektbeteiligten, Kostenschätzung und Kostenverfolgung, Entscheidungsvorlagen, Risikoliste mit Gegenmaßnahmen, Nachtragsprüfung, Angebotsvergleich, Baubesprechungen und Protokolle, Mängelmanagement und Abnahme"
+    },
+    {
+      "category": "Regelwerke",
+      "items": "AHO-Leistungsbild Projektsteuerung (Grundkenntnisse), HOAI-Leistungsphasen, VOB/B (Grundkenntnisse), deutsche Bauordnungen und Genehmigungsverfahren (Grundkenntnisse), ISO-9001-Qualitätsmanagement, GEG, EU-Gebäuderichtlinien"
+    },
+    {
+      "category": "Termine und Software",
+      "items": "Primavera P6, MS Project, kritischer Pfad, Earned Value, Revit (BIM), AutoCAD, Microsoft 365, MS Teams, SharePoint, Excel"
+    },
+    {
+      "category": "Nachhaltiges Bauen und Bestand",
+      "items": "Sanierungsmaßnahmen mit CO2- und Kostenwirkung, CRREM, Energieaudits, LEED, WELL, DGNB (Studium), Ökobilanzen und EPD"
+    }
+  ],
+  "certifications": [
+    "Agile - Cognizant",
+    "Climate & Sustainability - Boston Consulting Group (BCG)",
+    "Climate Change & Sustainability - EY"
+  ],
+  "languages": [
+    "Deutsch - gute Kenntnisse (B2) | Englisch - verhandlungssicher (C1) | Hindi - Muttersprache"
+  ],
+  "footer": "Gültige deutsche Arbeits- und Aufenthaltserlaubnis | Umzugsbereit nach Ulm | Ab sofort verfügbar"
+}

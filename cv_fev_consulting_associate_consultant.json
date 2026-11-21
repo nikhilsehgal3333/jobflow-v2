@@ -1,0 +1,122 @@
+{
+  "profile": "Analyst and advisor with six years across technical consulting, applied research and corporate strategy support in international and intercultural teams, now moving into technology-focused management consulting at entry grade. Handles the analysis and evaluation of complex issues, plans and runs expert interviews and workshops, and creates management-ready presentations of the results for senior audiences. Pairs a technical base in energy systems, energy efficiency and life cycle analysis with quantitative work in Python, SQL and Excel. Automated the data processing behind a B2B platform in Python, cutting manual handling by 40%.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Advise clients across building materials, industrial manufacturing and automotive component supply on technical exposure and the commercial pathways open to them",
+        "Model cost and fee exposure market by market in Excel, converting technical and regulatory obligation into the figures behind client capital-allocation decisions",
+        "Run scenario analyses on client portfolios against 1.5 and 2 degree pathways and present the results as management-ready decision material",
+        "Assess product and process life cycles to ISO 14040 and 14067, and translate the technical findings into product concepts clients can act on"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Planned and ran expert interviews, surveys and workshops across the group's business units, and scored the results against severity, likelihood and financial-magnitude thresholds",
+        "Benchmarked five investor rating methodologies including S&P CSA, Sustainalytics, MSCI and ISS, and set out where the group stood against peer practice",
+        "Presented analysis results and regulatory developments to senior leadership with the recommendations attached",
+        "Built and steered an interdisciplinary project team across Compliance, Risk, Legal, IT and supply chain, set its deliverables and held contributors to deadlines without direct authority",
+        "Scoped and drove an LLM-based assistant as a proof of concept, designing the prompts and retrieval that carried regulatory frameworks into query handling"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Served as primary point of contact for 150+ organisations globally, resolving methodology and data-quality questions through a full reporting cycle",
+        "Analysed newly launched questionnaire modules for accurate data capture across organisations of very different size, sector and maturity, and supported the CDP workshop in Warsaw"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Automated data processing in Python for a B2B platform, cutting manual handling by 40%",
+        "Sized target markets and mapped the competitive landscape behind commercial decisions on where the product should compete",
+        "Managed the product lifecycle from concept to implementation, running sprint cycles and resolving scope with engineers day to day",
+        "Priced client proposals and built the Excel cost and cash-flow models behind each bid"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Evaluated 53 consortium members and their engagement with 17 SDGs across 5 countries, and researched policy and market trends across India, Sri Lanka and Bangladesh",
+        "Chaired the consortium's recurring member meetings through to agreed actions, facilitating between differing mandates, and organised speaker-led learning sessions",
+        "Delivered standards sessions at the Bombay, Colombo and Dhaka stock exchanges to audiences spanning regulators, listed companies and investors"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Prepared pre-feasibility studies, technical and financial evaluations and cost estimates across 15+ projects worth 20M+ euros",
+        "Ran energy audits and efficiency assessments for commercial buildings and IT parks, and coordinated air, noise, water and ecology specialists into consolidated technical submissions",
+        "Managed and coached a team of 4 interns from proposal through delivery, transferring the technical skills the review cycle required"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universität Berlin, Germany",
+      "details": [
+        "Grade 1.6 (Distinction). Thesis on the financial implications of EU regulation for industry, built on survey design, quantitative analysis and regression in Python",
+        "Coursework: energy audits, ISO 50001 energy management, life cycle assessment, data analysis and statistical methods, SQL"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), five-year professional degree",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": [
+        "Technical coursework: energy systems, building services, building physics, environmental control systems and construction technology"
+      ]
+    }
+  ],
+  "extras": [
+    {
+      "label": "EXTRACURRICULAR ACTIVITIES",
+      "bullets": [
+        "Volunteer with non-profit organisations, and supported a family-run consumer-care brand on invoicing, distribution and inventory"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Analytical and Conceptual",
+      "items": "Structured problem solving on complex technical and commercial issues, analytical and conceptual thinking, regression and statistical methods in Python, cost and cash-flow modelling in Excel, scenario and sensitivity analysis, market sizing, competitive landscape mapping, peer and competitor benchmarking, business model analysis covering pricing, margin and unit economics"
+    },
+    {
+      "category": "Research, Interviews and Workshops",
+      "items": "Expert interviews, surveys and questionnaire design, stakeholder workshops, facilitation and chairing between differing mandates, multi-country market and regulatory research, desk and secondary research, trend analysis, findings written up as management-ready presentations and recommendations"
+    },
+    {
+      "category": "Technology and Energy",
+      "items": "Innovative products and emerging technologies, energy systems, energy audits and efficiency measures, ISO 50001, EPBD and GEG building regulation, life cycle assessment (ISO 14040, 14044, 14067), product carbon footprint, decarbonisation pathways, circular economy, AI-assisted query handling through prompt and retrieval design"
+    },
+    {
+      "category": "Delivery and Tools",
+      "items": "Interdisciplinary and cross-functional project leadership, agile delivery and sprint cycles, client advisory, communication to senior audiences, Python, SQL, Excel, Power BI, PowerPoint, SAP, Jira, Confluence, Microsoft 365, Google Workspace"
+    }
+  ],
+  "certifications": [
+    "Climate & Sustainability - Boston Consulting Group (BCG)",
+    "Introduction to ESG - Corporate Finance Institute (CFI)",
+    "Agile - Cognizant"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional (B2) | Hindi - Native"
+  ],
+  "footer": "Berlin, Germany | Willing to relocate to Aachen or Cologne | Immediately available | Valid German work and residence permit"
+}

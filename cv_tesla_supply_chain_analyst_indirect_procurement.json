@@ -1,0 +1,126 @@
+{
+  "company": "Tesla",
+  "role": "Supply Chain Analyst Indirect Procurement",
+  "format": "preferred",
+  "language": "en",
+  "profile": "Analyst with six years across architecture, consulting and corporate roles, including hands-on buying and vendor management. Core strengths in sourcing and quote evaluation, PO and invoice control, and reading spend data for exceptions. Raised 20+ requisitions or POs and checked 20+ vendor invoices a month, while moving repeat buys onto contracted suppliers and consolidating the vendor base.",
+  "experience": [
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Architect",
+      "bullets": [
+        "Raised purchase requisitions or POs and created and cleaned up vendor or material master records",
+        "Checked 20+ vendor invoices a month against POs or agreed work, approved them for payment and resolved discrepancies with the vendor",
+        "Wrote RFQs or scopes of work, built supplier long lists and compared quotes side by side before award",
+        "Checked supplier risk and onboarded new vendors through qualification and documentation onto the approved supplier list",
+        "Moved repeat and one-off purchases onto contracted vendors and consolidated spend onto fewer suppliers",
+        "Bought low-value one-off items from quote to order, including office supplies and consumables",
+        "Negotiated supplier and service contracts on price, payment terms and risk coverage",
+        "Held 20+ contractors and vendors across 6+ sites to SLAs and KPIs, renewing those that performed and exiting those that did not",
+        "Secured best pricing on tendered subcontract packages and benchmarked contractor day rates against the market",
+        "Analysed spend from invoices and cost reports and reported cost variances against budget",
+        "Scheduled inbound deliveries and arranged shipments with 6+ carriers, chasing delivery issues to closure",
+        "Advised on 15+ commercial, hospitality and residential projects worth 20M+ euros, and selected and led a team of 4 interns"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Validate metered energy and consumption data for 10+ buildings across 4+ real-estate clients, catching gaps, outliers and unit errors",
+        "Build client KPI dashboards and present quantified findings to Head-of or C-level counterparts",
+        "Track engagement hours or fees against budget or margin and flag overruns early"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Contributed to updates of the group's supplier risk management tool and supported colleagues in adopting it",
+        "Consolidated ESG data from group entities in SAP and chased missing inputs from subsidiaries",
+        "Compiled evidence documentation with the audit partners for the group's CSRD reporting",
+        "Developed training modules on 4 topics: ISO 14001, human rights, child protection and modern slavery"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Answered emails from 150+ organisations as first point of contact and cut response times by 20%+",
+        "Resolved invoice and payment queries for disclosing companies, escalating other issues to internal teams through to closure",
+        "Tracked submission coverage and data quality across disclosing organisations"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Cut manual data processing by 40% through Python automation",
+        "Wrote SQL queries and validation rules to catch data errors",
+        "Ran 5+ tender and RFP responses end to end on the supplier side, including bid pricing and commercial terms",
+        "Wrote user stories and tested new modules through UAT before rollout"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Chaired recurring meetings of a 53-member consortium across 5 countries, setting agendas and driving actions to closure"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universität Berlin, Germany",
+      "details": [
+        "Grade 1.6. Coursework in accounting and IFRS, data analysis, statistical methods, SQL and risk management (COSO, ISO 31000)"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), five-year professional degree",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": [
+        "Coursework in construction technology, building services and contract management"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Sourcing and Purchasing",
+      "items": "RFQs and scopes of work, supplier long lists, supplier data collection, quote comparison, supplier risk checks and documentation, vendor onboarding and qualification, approved supplier lists, contract negotiation, purchase requisitions and POs, contracted and preferred vendors, vendor base reduction, tail spend, rate benchmarking"
+    },
+    {
+      "category": "Indirect Categories",
+      "items": "Facility services and repairs, logistics and carriers, contractors and freelance specialists, office supplies and consumables"
+    },
+    {
+      "category": "Source to Pay (S2P)",
+      "items": "PO and invoice checks, invoice approval and discrepancy resolution, vendor or material master data, SLAs and KPIs, supplier scorecards and performance reviews, contract renewals and supplier exit, spend analysis, cost variance tracking, procurement documentation"
+    },
+    {
+      "category": "Data and Reporting",
+      "items": "Excel, SQL, Python, Power BI, KPI dashboards, data validation and exception reporting, written summaries of findings"
+    },
+    {
+      "category": "Tools and EHS&S",
+      "items": "SAP (incl. MM purchasing), Microsoft 365 (Excel, Word, PowerPoint, Outlook), Teams, SharePoint, Jira, Confluence, HubSpot, EMAS, ISO 14001, site EHS inspections and registers"
+    }
+  ],
+  "certifications": [
+    "Agile - Cognizant",
+    "Climate & Sustainability - Boston Consulting Group (BCG)"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional (B2) | Hindi - Native"
+  ],
+  "footer": "Berlin, Germany | Valid German work and residence permit | Available immediately"
+}

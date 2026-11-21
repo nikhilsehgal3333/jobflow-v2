@@ -1,0 +1,27 @@
+{
+  "date": "Berlin, 5 November 2026",
+  "recipientAddress": [
+    "2BPolicy B.V.",
+    "Kostverlorenstraat 19-B",
+    "1052 GT Amsterdam",
+    "The Netherlands"
+  ],
+  "subject": "Application for the position of Policy Analyst",
+  "salutation": "Dear Hiring Manager,",
+  "intro": "I am writing to apply for the Policy Analyst position at 2B Policy in Amsterdam. I advise companies on EU sustainability legislation, and two of the supply chain files this role leads, the EUDR and corporate sustainability due diligence, are part of my current client work. Your recent briefing on the EUDR simplification package and its narrower product scope for apparel and footwear is the kind of analysis I would like to contribute to.",
+  "experiences": "I hold an MBA in Building Sustainability from TU Berlin, where my coursework included environmental law, and I have worked in sustainability for over four years across consulting, corporate and non-profit roles. At KarbonWise I advise clients on the EUDR, ESPR, PPWR and the Empowering Consumers Directive. At TUI AG I developed training modules on human rights, child protection and modern slavery, and at the Global Reporting Initiative I worked with a 53-member consortium across five countries.",
+  "qualitiesLead": "I can bring two strengths to your team from the start:",
+  "skills": [
+    {
+      "name": "Turning legislation into practical guidance",
+      "body": "I analyse sustainability legislation and turn it into steps a company can act on. At KarbonWise I work through EU regulations and their delegated and implementing acts, from the ESRS and EU Taxonomy criteria to CBAM reporting duties. I contribute to EUDR due diligence statements and risk assessments, including for agricultural commodities, and I ran supply chain due diligence for an apparel brand down to its mills, dyehouses and tanneries. For each client I keep a tracker of status, deadlines and impact, so they can see in one place what applies to them and by when."
+    },
+    {
+      "name": "Facilitation and communication",
+      "body": "At the Global Reporting Initiative I chaired recurring meetings of the consortium, facilitating between members with differing mandates and carrying actions to closure. I produced its newsletters and policy updates, ran a communications campaign and a social channel, and organised speaker-led learning sessions and a webinar. I also presented the GRI Standards at the Bombay, Colombo and Dhaka stock exchanges."
+    }
+  ],
+  "closing": "I could start in January 2027 and would be pleased to discuss how I can contribute to your work for brands and industry coalitions.",
+  "signoff": "Sincerely,",
+  "enclosure": "Enclosure: CV"
+}

@@ -1,0 +1,118 @@
+{
+  "company": "SLR Consulting",
+  "role": "Associate ESG Advisory",
+  "format": "workday",
+  "language": "en",
+  "profile": "Sustainability and ESG professional with over four years across corporate reporting, carbon and life cycle assessment, EU regulatory advisory and transaction due diligence. Reviews publicly available information and primary-source documentation to build a rapid picture of a company's core operations, identifies material ESG issues and the capacity to mitigate them, and drafts findings into client-facing deliverables. Modelled EPR fee exposure market by market in Excel, giving clients the cost basis and the value creation case behind material decisions.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Advise B2B clients across manufacturing, building materials and automotive on EU sustainability regulation and the compliance pathway each product and market demands",
+        "Deliver product and corporate carbon footprints on GHG Protocol methodology and life cycle assessments to ISO 14040, 14044 and 14067, and produce the EPD evidence behind environmental claims",
+        "Model EPR fee and cost exposure market by market in Excel, quantifying the cost at stake and the value creation opportunities behind packaging and material decisions",
+        "Quantify transition-risk exposure and decarbonisation pathways through CRREM analysis under 1.5 and 2 degree scenarios",
+        "Manage ESG data collection, validation and reporting across Scope 1, 2 and 3, review updated ESG documentation for key changes, and prepare refreshed annual ESG reports and KPI dashboards"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Supported ESG due diligence on a corporate transaction, reviewing publicly available information and primary-source policies, contracts and compliance documentation to establish exposure to material ESG risks",
+        "Developed tailored questions put to key stakeholders and the management team on ESG risk exposure, risk mitigation practices and value creation opportunities, and took the notes from live calls led by more senior team members",
+        "Drafted and edited sections of the ESG due diligence deliverables, synthesising information from various sources into a cohesive narrative of current state and recommendations for tangible improvement",
+        "Scored impacts, risks and opportunities against severity, likelihood and financial magnitude thresholds through the double materiality assessment, and ran the stakeholder interviews and workshops behind it",
+        "Assessed suppliers against ESG criteria from questionnaires and documentation, maintained the supply chain risk register, and reported findings to senior management",
+        "Compared S&P CSA, Sustainalytics, MSCI and ISS rating methodologies, answered investor queries, and delivered EU Taxonomy eligibility and alignment assessments for CSRD reporting against ESRS E1"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Served as primary point of contact for 150+ organisations globally, supporting daily client communications and resolving disclosure, methodology and invoicing queries across a full reporting cycle",
+        "Collected, validated and tracked ESG data submissions from organisations of every size and sector, and built the repeatable quality controls behind coverage reporting"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Owned tender and proposal responses end to end, pricing bids and setting commercial terms against the cost models and cash-flow scenarios behind each submission",
+        "Sized markets, mapped competitive landscapes, and analysed pricing, margin and unit economics to establish where a client's product line created value",
+        "Automated data processing in Python across a GRI-aligned reporting platform, cutting manual handling 40%"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Evaluated 53 consortium members' engagement with 17 SDGs across five countries and benchmarked members against one another",
+        "Investigated sustainability reporting trends and regulatory developments across India, Sri Lanka and Bangladesh, and documented the GRI-BRSR linkage behind SEBI alignment",
+        "Presented GRI Standards at the Bombay, Colombo and Dhaka stock exchanges, and chaired recurring member meetings to agreed actions"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Authored full environmental impact assessments for hotels, commercial developments and a standalone energy project, and audited environmental compliance and site health and safety risk across 15+ projects worth 20M+ euros"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universität Berlin, Germany",
+      "details": [
+        "Grade 1.6 (Distinction). Thesis on the financial implications of CSRD in construction across ESRS E1 to G1 topics, using survey design, quantitative analysis and regression in Python"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), five-year professional degree",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": []
+    }
+  ],
+  "skills": [
+    {
+      "category": "Sustainability Reporting and Disclosure",
+      "items": "CSRD and ESRS, EU Taxonomy eligibility and alignment, GRI, CDP, TCFD, TNFD, SFDR at entity level and principal adverse impact indicators, CSDDD and LkSG, ISO 14001"
+    },
+    {
+      "category": "ESG Due Diligence and Risk Assessment",
+      "items": "ESG due diligence engagements and review, extensive primary-source document review in data rooms (policies, contracts, litigation, permits), identification of material ESG issues and risks, tailored questions for key stakeholders and management teams, due diligence deliverable drafting, double materiality and IRO scoring, third-party risk assessment"
+    },
+    {
+      "category": "Carbon, Life Cycle Assessment and EU Product Regulation",
+      "items": "Product and corporate carbon footprints, GHG Protocol Scope 1-3, life cycle assessment to ISO 14040, 14044 and 14067, OneClick LCA, EPD, CRREM scenario analysis, ESPR and Digital Product Passport, PPWR and EPR, EUDR, CBAM, REACH and CE marking"
+    },
+    {
+      "category": "Ratings, Commercial and Quantitative Analysis",
+      "items": "EcoVadis, S&P CSA, MSCI, ISS and Sustainalytics methodologies, peer benchmarking, financial modelling in advanced Excel across cost, fee exposure and cash flow, quantifiable value creation and value protection, pricing, margin and unit economics"
+    },
+    {
+      "category": "Delivery, Writing and Client Engagement",
+      "items": "Project management and organisation across concurrent engagements, strong writing and PowerPoint deliverables, presentation to senior leadership, qualitative and quantitative reasoning, business acumen, stakeholder interviews and workshops"
+    }
+  ],
+  "certifications": [
+    "Introduction to ESG - Corporate Finance Institute (CFI)",
+    "Climate-related Financial Disclosures - CDP",
+    "Climate & Sustainability - Boston Consulting Group (BCG)"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional (B2) | Hindi - Native"
+  ],
+  "footer": "Berlin, Germany | Valid German work and residence permit | Open to a Germany-based or European seat on the Responsible Finance team, and to relocation | Immediately available"
+}

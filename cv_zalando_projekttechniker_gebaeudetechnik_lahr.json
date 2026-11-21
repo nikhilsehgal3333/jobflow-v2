@@ -1,0 +1,121 @@
+{
+  "company": "Zalando SE",
+  "role": "Projekttechniker Gebaeudetechnik Lahr",
+  "format": "workday",
+  "language": "de",
+  "profile": "Sechs Jahre Erfahrung in der Koordination und Umsetzung von Bauprojekten, in der energetischen Bewertung von Bestandsgebäuden und in der technischen Dokumentation. Steuert Projekte von der Budgetierung bis zur Umsetzung, stimmt sich mit internen Fachabteilungen, externen Fachplanern und Lieferanten ab und erkennt Optimierungspotenziale in bestehenden Anlagen. Bewertete mehr als 15 Projekte mit über 20 Mio. Euro Volumen technisch und wirtschaftlich und erstellte die Kosten- und Budgetschätzungen für die Freigabe.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "Januar 2026 - heute",
+      "title": "LCA & Sustainability Consultant (Werkvertrag)",
+      "bullets": [
+        "Analysiere Dekarbonisierungspfade für Bestandsimmobilien nach CRREM und leite daraus Sanierungsprioritäten ab",
+        "Prüfe Verbrauchs- und Zählerdaten von Gebäuden, vergleiche sie mit Zielwerten und benenne Optimierungspotenziale",
+        "Erstelle Ökobilanzen für Bauprodukte und Gebäude nach ISO 14040, 14044 und 14067 und dokumentiere die Berechnungsgrundlagen",
+        "Berate Hersteller von Baustoffen wie Gips, Dämmstoffen, Zement und Fassadensystemen zu regulatorischen Anforderungen",
+        "Nutze Predium zur energetischen Bewertung von Gebäudeportfolios und leite daraus Maßnahmenpakete für Eigentümer ab"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Deutschland",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Werkstudium)",
+      "bullets": [
+        "Baute ein bereichsübergreifendes Projektteam aus Compliance, Risiko, Recht, IT und Lieferkette auf, legte die Arbeitspakete fest und hielt die Beteiligten an Termine",
+        "Dokumentierte Prozesse, Arbeitsanweisungen und Verfahrensbeschreibungen für regulatorische Anforderungen und legte die Zuständigkeiten je Fachbereich fest",
+        "Erhob und validierte Kennzahlen konzernweit aus mehreren Fachbereichen und Gesellschaften, gestützt auf SAP und Power BI",
+        "Entwickelte Schulungen und E-Learnings im SAP-Lernsystem und führte sie für Mitarbeitende weltweit ein",
+        "Stellte Analysen und regulatorische Entwicklungen der Leitungsebene vor und legte Empfehlungen dazu vor"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Deutschland",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Werkstudium)",
+      "bullets": [
+        "Betreute über 150 Organisationen weltweit als erste Ansprechperson und klärte Fragen zu Methodik, Datenqualität und Fristen",
+        "Vereinheitlichte wiederkehrende Prozesse und Kontrollen für Organisationen sehr unterschiedlicher Größe und Reife"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "März 2023 - März 2024",
+      "title": "Product Manager / Sustainability Consultant (Werkvertrag)",
+      "bullets": [
+        "Kalkulierte Angebote und erstellte die Kosten- und Liquiditätsmodelle in Excel dazu",
+        "Führte Angebots- und Ausschreibungsprozesse von der Anfrage bis zur Abgabe und hielt die Fristen ein",
+        "Automatisierte die Datenverarbeitung mit Python und senkte den manuellen Aufwand um 40 %",
+        "Normalisierte und validierte Kundendatensätze und schrieb die SQL-Abfragen und Prüfregeln dafür"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | Neu-Delhi, Indien",
+      "dates": "März 2022 - Februar 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Untersuchte das Engagement von 53 Mitgliedsorganisationen in fünf Ländern und fasste die Ergebnisse für das Regionalbüro zusammen",
+        "Leitete wiederkehrende Mitgliederrunden, moderierte zwischen unterschiedlichen Interessen und führte Maßnahmen zum Abschluss"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, Indien",
+      "dates": "Juni 2020 - Februar 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Führte Energieaudits für Gewerbegebäude und IT-Parks durch und benannte Maßnahmen zur Senkung des Energiebedarfs",
+        "Koordinierte Fachplaner für Luft, Lärm, Wasser und Ökologie und führte deren Beiträge zu vollständigen Genehmigungsunterlagen zusammen",
+        "Erstellte Vorplanungen, technische und wirtschaftliche Bewertungen sowie Kosten- und Budgetschätzungen für über 15 Projekte mit mehr als 20 Mio. Euro Volumen",
+        "Begleitete Baustellenbegehungen, Sicherheitsgespräche und Gefährdungsbeurteilungen und dokumentierte Mängel und Vorfälle",
+        "Wirkte an HOAI-Leistungsphasen mit und unterstützte das Vertragsmanagement",
+        "Erarbeitete vollständige Umweltprüfberichte für Hotels, Gewerbebauten und ein Energieprojekt und stimmte sich dazu mit Behörden ab",
+        "Leitete ein Team von 4 Personen von der Angebotsphase bis zur Übergabe und prüfte deren technische Ergebnisse"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "Oktober 2023 - März 2025",
+      "institution": "Technische Universität Berlin, Deutschland",
+      "details": [
+        "Note 1,6 (mit Auszeichnung). Schwerpunkte: Energieaudits, GEG-Regulatorik, EU-Gebäuderichtlinien, ISO 50001, Ökobilanzierung, Datenanalyse und Statistik",
+        "Masterarbeit zu den finanziellen Auswirkungen der EU-Nachhaltigkeitsregulierung in der Bauwirtschaft"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), fünfjähriges technisches Vollzeitstudium",
+      "dates": "August 2016 - Juni 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, Neu-Delhi, Indien",
+      "details": [
+        "Schwerpunkte: Gebäudetechnik, Bauphysik, gebäudetechnische Anlagen, Energiesysteme, Baukonstruktion, Baustofflehre"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Projektsteuerung",
+      "items": "Projektleitung und -koordination, Budgetierung und Kostenschätzung, Terminplanung und Nachverfolgung, Koordination externer Dienstleister und Fachplaner, Vertragsmanagement, Baustellenbegehungen, Mängelverfolgung, Mitwirkung an HOAI-Leistungsphasen, Arbeiten in Matrixorganisationen"
+    },
+    {
+      "category": "Gebäude und Energie",
+      "items": "Energieaudits, GEG-Regulatorik, EU-Gebäuderichtlinie (EPBD), Analyse von Verbrauchs- und Zählerdaten, CRREM-Dekarbonisierungspfade, Ökobilanzierung nach ISO 14040/14044/14067, EPD nach EN 15804, graue Energie, Gebäudehülle, Baustofflehre, LEED/WELL/GRIHA, DGNB und Grundlagen der Gebäudetechnik aus dem Studium"
+    },
+    {
+      "category": "Technische Dokumentation und Analyse",
+      "items": "Technische Standards, Arbeitsanweisungen und Prozessbeschreibungen, Best Practices, Gefährdungsbeurteilungen, Mängel- und Vorfallberichte, KPI-Dashboards, Datenvalidierung, Berichtswesen für die Leitungsebene"
+    },
+    {
+      "category": "Software",
+      "items": "Revit (BIM), AutoCAD, SketchUp, OneClick LCA, Predium, Power BI, SAP, Excel, Microsoft 365, Google Workspace, Python, SQL"
+    }
+  ],
+  "certifications": [
+    "Agile Methodology - Cognizant",
+    "Climate & Sustainability - Boston Consulting Group (BCG)"
+  ],
+  "languages": [
+    "Englisch - Fließend (C1) | Deutsch - Gute Kenntnisse (B2) | Hindi - Muttersprache"
+  ],
+  "footer": "Berlin, Deutschland | Umzug nach Lahr möglich | Sofort verfügbar | Gültige deutsche Arbeits- und Aufenthaltserlaubnis"
+}

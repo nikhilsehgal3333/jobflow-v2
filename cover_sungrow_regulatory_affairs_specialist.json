@@ -1,0 +1,26 @@
+{
+  "recipientAddress": [
+    "Sungrow Deutschland GmbH",
+    "Balanstraße 55-59",
+    "81541 München",
+    "Germany"
+  ],
+  "salutation": "Dear Hiring Manager,",
+  "intro": "Sungrow's decision to build its first European production facility in Wałbrzych, a 230 million euro investment in inverter and battery storage capacity, moves a substantial part of the company's European footprint inside the EU's own manufacturing and product-regulation perimeter. That is the kind of shift a regulatory affairs function exists to see coming, and it is why the Regulatory Affairs Specialist role in Berlin interests me. My work sits where new European legislation meets operational reality: reading a regulation early, establishing what it changes and costs for the business, and getting the resulting obligations into the procedures of the functions that carry them.",
+  "experiences": "Over six years I have moved from environmental permitting into corporate regulatory work inside international organisations. At the Global Reporting Initiative I researched policy and reporting requirements across five South Asian markets and chaired a 53-member consortium spanning corporate, government and NGO mandates. At TUI AG, a DAX-listed group, I implemented supply chain due diligence obligations across international subsidiaries and designed the internal control system behind them. I now advise industrial and manufacturing clients on EUDR, PPWR, ESPR, REACH and the Empowering Consumers directive, and follow EU trade and industrial policy developments including the Net-Zero Industry Act and the Critical Raw Materials Act.",
+  "skills": [
+    {
+      "name": "Regulatory Impact Assessment and Business Translation",
+      "body": "The mission describes evaluating the business, operational and compliance impact of regulatory developments and translating them into practical recommendations, which is the substance of my current work. Several of my clients place physical products into multiple European markets, where the Packaging and Packaging Waste Regulation and the national Extended Producer Responsibility schemes beneath it create different obligations and materially different costs in each one. I mapped those obligations market by market and modelled the resulting EPR fee exposure per market in Excel. The findings went to the client as a regulatory impact assessment with an implementation roadmap, in which every obligation carried the function that owned it and the date it fell due. Management could then decide on packaging design and market presence against actual figures rather than an estimate, and the compliance actions were assigned to named owners instead of remaining open questions."
+    },
+    {
+      "name": "Independent Ownership and Cross-functional Implementation",
+      "body": "The role calls for managing regulatory topics independently and coordinating their implementation across Legal, Supply Chain, Quality, Product and other functions, which is what the CSDDD and LkSG workstream at TUI AG demanded. The obligations landed at once on procurement, legal, risk and IT, across international subsidiaries operating under different local practice and at different levels of readiness. I built and steered a cross-functional project team across those functions, set the deliverables and held contributors to their deadlines without line authority over any of them. I wrote the internal procedures and work instructions that carried the requirements into daily operations, implemented the due diligence process on the osapiens compliance platform, and maintained the trackers behind entity-by-entity completion. The obligations became routine steps inside existing processes rather than a parallel compliance exercise, progress stayed visible to senior management entity by entity, and the supporting documentation held up when audit partners reviewed it as assurance evidence."
+    }
+  ],
+  "extraParagraphs": [
+    "While my regulatory work has centred on product, supply chain and environmental compliance across manufacturing and building materials rather than on energy technology, the frameworks, the impact-assessment method and the implementation practice transfer directly, and the sector-specific knowledge is what I would build alongside them."
+  ],
+  "closing": "While my CV gives a summary of my experience, I would welcome the opportunity to discuss how that background could add value to Sungrow's Regulatory Affairs team as it grows across Europe.",
+  "signoff": "Sincerely,"
+}

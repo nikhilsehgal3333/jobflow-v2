@@ -1,0 +1,120 @@
+{
+  "company": "2B Policy",
+  "role": "Sustainability Manager",
+  "format": "preferred",
+  "language": "en",
+  "profile": "Sustainability consultant with over four years in environmental footprinting, EU environmental legislation and multi-stakeholder facilitation. Calculates product and corporate carbon footprints to GHG Protocol and ISO 14040 methodology, produces Environmental Product Declarations, and translates EU product legislation into practical requirements for clients and their suppliers. Chaired a 53-member industry consortium across five countries, facilitating between differing member mandates and carrying agreed actions through to closure.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Calculate product and corporate carbon footprints for B2B clients on GHG Protocol methodology across Scope 1, 2 and 3, spanning building materials, industrial and automotive component manufacturers",
+        "Run life cycle assessments in OneClick LCA to ISO 14040, 14044 and 14067, and produce the Environmental Product Declarations built on EN 15804 and ISO 14025 datasets",
+        "Model bill-of-materials footprints on manufactured goods, defining the supplier data requests and the evidence each material-level input has to carry",
+        "Interpret EU environmental legislation across ESPR, PPWR, EUDR, EmpCo and CBAM, and translate each obligation into practical requirements for client products, packaging and suppliers",
+        "Substantiate product environmental claims with life cycle and EPD evidence under the Empowering Consumers directive, assessing greenwashing exposure before claims reach the market",
+        "Lead client engagements from scoping and methodology through to delivery against agreed deadlines, and coach client teams on footprinting methodology and data governance",
+        "Pilot new footprinting and data-collection methods on a single client and product line, then extend them across the wider portfolio once the approach holds"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Facilitated stakeholder interviews, surveys and workshops for the double materiality assessment alongside the senior disclosure team, and mapped the outcomes onto ESRS datapoints",
+        "Completed EU Taxonomy eligibility and alignment assessments and aligned CSRD reporting with ESRS E1, documenting the evidence behind each classification",
+        "Steered a cross-functional project team across Compliance, Risk, Legal, IT and supply chain, setting deliverables and holding contributors to deadlines without direct authority",
+        "Presented regulatory developments and analysis to senior leadership with recommendations, and delivered group-wide training as e-learning modules"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Served as primary point of contact for 150+ organisations globally, resolving methodology, data-quality and deadline queries through a full disclosure cycle",
+        "Supported the CDP-hosted workshop in Warsaw and ran feedback calls with disclosing and prospective organisations"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Managed client accounts end-to-end, owning tender and RFP responses, renewals and the commercial terms attached to each proposal",
+        "Automated reporting workflows in Python, cutting manual data processing by 40%, on a GRI-aligned sustainability reporting platform"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Chaired recurring meetings of a 53-member industry consortium, setting agendas, facilitating between differing member mandates and carrying agreed actions through to closure",
+        "Evaluated the 53 members' engagement with 17 SDGs across 5 countries and turned the findings into guidance members could act on",
+        "Presented GRI Standards at the Bombay, Colombo and Dhaka stock exchanges to audiences of regulators, listed companies and investors",
+        "Documented GRI-BRSR linkage against SEBI requirements, mapping a global reporting standard onto national regulation",
+        "Produced member newsletters and policy updates, and organised speaker-led learning sessions across the South Asia network",
+        "Built partnerships with corporates, governments and NGOs, and ran membership renewals across the consortium"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Authored full environmental impact assessments for hotels, commercial buildings and a standalone energy project, consolidating air, noise, water and ecology specialist inputs into single submissions",
+        "Briefed government authorities on a public-sector project while managing a team of 4 across 15+ projects worth 20M+ euros"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universität Berlin, Germany",
+      "details": [
+        "Grade 1.6 (Distinction). Thesis on the financial implications of CSRD, built on survey design, quantitative analysis and regression in Python",
+        "Coursework: life cycle assessment, environmental law, EU building directives, data analysis and statistical methods"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), five-year professional degree",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": [
+        "Coursework: environmental control systems, building physics, energy systems, materials science and land use planning"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Environmental Footprinting and LCA",
+      "items": "Product and corporate carbon footprints, GHG Protocol Scope 1-3, ISO 14040, 14044 and 14067, EPD to EN 15804 and ISO 14025, OneClick LCA, bill-of-materials footprints, supplier data collection and primary data requests, environmental impact assessment, product claim substantiation, CRREM decarbonisation scenarios, technical sustainability topics"
+    },
+    {
+      "category": "EU Environmental Legislation",
+      "items": "ESPR and Ecodesign, PPWR and EPR, Digital Product Passport, EUDR, EmpCo green claims, CBAM (importer interface), REACH, CE marking, GPSR, CSRD and ESRS, EU Taxonomy, Green Deal and circularity, Member State implementation, regulatory impact analysis, translating complex legislation into actionable guidance"
+    },
+    {
+      "category": "Facilitation and Stakeholder Engagement",
+      "items": "Workshop design and group facilitation, chairing multi-stakeholder working groups, industry coalitions, consortia and multi-stakeholder initiatives, stakeholder coordination in international and multi-cultural settings, public speaking and conference presentations, newsletters, policy updates and thought-leadership writing, social media and website updates, training delivery, engagement with regulators, corporates, governments and NGOs"
+    },
+    {
+      "category": "Client Delivery and Tools",
+      "items": "End-to-end client account management, project scoping, budgets and deadlines, business development and tender responses, Microsoft Office (Word, PowerPoint, Excel), Power BI, SQL, Python, SAP, Google Workspace"
+    }
+  ],
+  "certifications": [
+    "Climate & Sustainability - Boston Consulting Group (BCG)",
+    "Climate-related Financial Disclosures - CDP",
+    "Introduction to ESG - Corporate Finance Institute (CFI)"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional (B2) | Hindi - Native"
+  ],
+  "footer": "Berlin, Germany | Immediately available | Valid German work and residence permit"
+}

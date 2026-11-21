@@ -1,0 +1,124 @@
+{
+  "company": "DPD",
+  "role": "Project Manager Operations ESG Partner Sustainability",
+  "format": "preferred",
+  "language": "en",
+  "profile": "ESG and social sustainability professional with 4+ years across corporate, consulting and research roles. Core strengths in human rights due diligence and partner and supplier engagement, cross-functional coordination across business units, and survey design with performance reporting to management. Brought 500+ suppliers of a listed group under CSDDD and LkSG due diligence by configuring the supplier platform, steering a five-function team and tracking remediation to closure.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Track a client's workforce health, safety and wellbeing indicators under ESRS S1, and run its wellbeing, diversity and inclusion initiatives",
+        "Design and run client surveys end to end, from questionnaire to consolidated analysis and reporting",
+        "Run supplier due diligence down a client's textile chain to mills, dyehouses and tanneries, applying the UNGPs and OECD due diligence guidance",
+        "Scope decarbonisation projects that clients implement, then track each measure by status, owner and achieved reduction",
+        "Record status, deadlines and impact per client in a compliance tracker covering CSRD, ESRS and the EU Taxonomy",
+        "Direct 6+ analysts across client projects and quality-check their deliverables before release",
+        "Flag slipping deliverables early and agree recovery plans and revised timelines with clients"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Implemented CSDDD and LkSG due diligence for 500+ suppliers on osapiens, configuring the platform and loading cleansed supplier data",
+        "Assessed supplier human rights risk, took part in on-site supplier audits and tracked remediation and improvement plans through to closure",
+        "Steered a cross-functional team across Compliance, Risk, Legal, IT and supply chain under one shared plan, managing dependencies and deadlines",
+        "Rolled out the due diligence process with 5+ international group companies, tracking completion by entity and sharing what worked between them",
+        "Ran a stakeholder survey end to end, from questionnaire design and send-out to data consolidation, analysis and reporting",
+        "Consolidated non-financial KPIs from 5+ group entities in SAP and Power BI, setting annual targets and tracking attainment against them",
+        "Presented to the sustainability steering committee and followed its decisions and actions to closure across functions",
+        "Kept the supply chain risk register and reported emerging risks to senior management",
+        "Took individual grievances from intake to resolution, and contributed to the group's salient human rights assessment",
+        "Built e-learning modules on CSDDD, human rights and child protection in the SAP LMS, and rolled out an employee awareness campaign"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Answered queries from 150+ disclosing organisations worldwide as primary contact, escalating issues to internal teams and closing them out"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Cut manual data processing by 40% through Python automation",
+        "Priced 5+ bids from Excel cost models and cash-flow scenarios, and built the PowerPoint pitch decks behind them"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Evaluated 53 consortium members' engagement with 17 SDGs across 5 countries, including gender and SDG 5 coverage",
+        "Chaired recurring meetings of the 53-member consortium, facilitating between differing mandates and driving actions to closure",
+        "Turned research into policy briefs for non-specialist audiences, and presented GRI Standards at 3 stock exchanges"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Held 20+ contractors and vendors across 6+ sites to agreed SLAs and KPIs",
+        "Checked site subcontractors' compliance with labour rules, raising non-conformities and driving corrective actions to verified closure",
+        "Tracked site health and safety figures over time as KPIs, alongside toolbox talks, risk assessments and incident reports",
+        "Onboarded new vendors through qualification and documentation, and exited non-performing suppliers",
+        "Scheduled inbound material deliveries and arranged shipments with 6+ carriers and freight forwarders"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universität Berlin, Germany",
+      "details": [
+        "Grade 1.6. Thesis on the financial implications of CSRD in the construction industry, built on survey design and regression analysis in Python"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), five-year professional degree",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": [
+        "Coursework in construction technology, land use and urban planning, and contract management"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Social Sustainability",
+      "items": "Human rights due diligence (UNGPs, OECD due diligence guidance), CSDDD, LkSG, responsible working practices, subcontractor labour compliance, supplier risk assessment and remediation, grievance handling, diversity and inclusion, health, safety and wellbeing indicators, ESRS S1 own workforce"
+    },
+    {
+      "category": "Partner and Programme Coordination",
+      "items": "Partner, contractor and supplier engagement, SLAs and KPIs, ESG programme coordination, cross-functional coordination in matrix organisations, stakeholder alignment across business units and countries, best-practice sharing, guidance and awareness activities, remediation actions with owners and deadlines, escalation, risk register, clear written and verbal communication"
+    },
+    {
+      "category": "Surveys, Data and Reporting",
+      "items": "Survey design, deployment, data consolidation and analysis, KPI target setting, performance data analysis, management reports, steering committee reporting, ESG reporting (CSRD, ESRS, GRI), regression analysis"
+    },
+    {
+      "category": "Tools",
+      "items": "Microsoft Excel and PowerPoint, Power BI, SAP, SAP LMS, osapiens, Jira, Confluence, MS Project, Python, Microsoft 365"
+    }
+  ],
+  "certifications": [
+    "Introduction to ESG - Corporate Finance Institute (CFI)",
+    "Agile - Cognizant",
+    "Climate & Sustainability - Boston Consulting Group (BCG)"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional (B2) | Hindi - Native"
+  ],
+  "footer": "Berlin, Germany | Valid German work and residence permit | Open to relocation to Aschaffenburg | Available immediately"
+}

@@ -1,0 +1,122 @@
+{
+  "company": "MSCI",
+  "role": "Sustainability and Climate Sales Specialist",
+  "format": "preferred",
+  "language": "en",
+  "profile": "Sustainability and climate specialist with 4+ years across ESG advisory, B2B software sales and corporate disclosure. Builds trusted relationships with prospective and existing clients, turns ESG ratings, climate scenarios and EU regulation into client presentations, and adapts sales approaches to client needs using pipeline and win/loss data. Primary contact for 150+ organisations through a CDP disclosure cycle.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Assess transition-risk exposure and decarbonisation pathways for Middle Eastern real estate clients through CRREM 1.5 and 2 degree scenarios",
+        "Assess physical climate risk against client sites, and appraise adaptation measures and their cost",
+        "Deliver Scope 1, 2 and 3 carbon accounting under the GHG Protocol, with LCA and footprint work for 4+ B2B clients",
+        "Guide clients through TNFD and nature-related disclosure and their biodiversity impacts",
+        "Keep a regulatory tracker on CSRD, ESRS and EU Taxonomy with deadlines and impact per client"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Compared 5 ESG rating methodologies, including MSCI ESG, S&P CSA, Sustainalytics and ISS ESG, for a listed group",
+        "Answered investor queries and documented EcoVadis, SAQ and Integrity Next questionnaires",
+        "Prepared CDP and TCFD-aligned climate reporting, and aligned group CSRD reporting with ESRS E1 alongside the senior disclosure team",
+        "Assessed EU Taxonomy eligibility and alignment, then calculated the turnover, CapEx and OpEx KPIs from finance data",
+        "Consolidated and validated non-financial KPIs across 5+ group entities in SAP and Power BI",
+        "Presented regulatory analysis to senior leadership and the sustainability steering committee",
+        "Built and steered a 5-function project team across Compliance, Risk, Legal, IT and supply chain"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Served as primary contact for 150+ organisations globally, owning their onboarding and support through the disclosure cycle",
+        "Held feedback calls with disclosing and prospective organisations and logged them in HubSpot"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Carried 5+ client accounts against renewal, upsell and expansion targets, with weekly pipeline forecasts in Dynamics 365",
+        "Won new clients for a B2B ESG reporting platform through live and custom demos, then trained their users at onboarding",
+        "Authored the technical and methodology sections of 5+ tender, RFP and proposal responses, and priced each bid with its commercial terms",
+        "Ran win/loss reviews on closed deals, then reset qualification and response tactics",
+        "Tracked sales activity and pipeline through CRM reports and dashboards on client engagement",
+        "Sized markets and mapped competitor offerings to position the platform against rival ESG tools",
+        "Built a reusable content library, proposal templates and pitch decks that cut bid turnaround",
+        "Cut manual data processing by 40% through Python automation"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Trained companies on the GRI Standards at 3 stock exchanges: Bombay, Colombo and Dhaka",
+        "Researched reporting trends across India, Sri Lanka and Bangladesh, and identified new revenue opportunities for GRI South Asia",
+        "Chaired recurring meetings of a 53-member consortium across 5 countries",
+        "Developed partnerships with corporates, governments and NGOs across South Asia"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Advised clients on 15+ projects worth 20M+ euros, and selected and managed a team of 4 interns"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universität Berlin, Germany",
+      "details": [
+        "Grade 1,6 (good). Thesis on the financial implications of CSRD in the construction industry, using survey design and regression analysis in Python",
+        "Coursework: data analysis, statistical methods, SQL, ISO 31000 risk management"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), five-year professional degree",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": []
+    }
+  ],
+  "skills": [
+    {
+      "category": "Sales and Relationship Management",
+      "items": "End-to-end sales process from prospecting to closing, new business development, pipeline management, account management and renewals, upsell and expansion, client onboarding, proposals aligned with client priorities, RFP responses and bid pricing, win/loss reviews and deal qualification, sales activity and key metrics tracking in CRM (Dynamics 365, HubSpot), live and custom demos"
+    },
+    {
+      "category": "Sustainability and Climate",
+      "items": "ESG rating methodologies (MSCI ESG, S&P CSA, Sustainalytics, ISS ESG), climate-related risks and opportunities, climate scenario analysis and transition risk (CRREM), physical climate risk, TCFD, CDP, ISSB, CSRD and ESRS, EU Taxonomy alignment and KPIs, SFDR at entity level and principal adverse impact indicators, TNFD and biodiversity, SBTi, GHG Protocol Scope 1, 2 and 3, LkSG, DNK"
+    },
+    {
+      "category": "Market Analysis and Client Education",
+      "items": "Market analysis and sizing, competitive positioning and landscape mapping, peer benchmarking, market trends research, monitoring of industry developments and regulatory changes, sales presentations and pitch decks, client education materials and training design, stock exchange and conference presentations"
+    },
+    {
+      "category": "Collaboration and Tools",
+      "items": "Product management for a B2B ESG platform, translating client needs into product requirements, internal stakeholder management, Excel cost and cash-flow models, Power BI, SQL, Python, SAP, CDP platform, osapiens, OneClick LCA, AI tools for research and analysis, Microsoft 365, Google Workspace"
+    }
+  ],
+  "certifications": [
+    "Climate-related Financial Disclosures - CDP",
+    "Scenario Analysis - CDP",
+    "Introduction to ESG - Corporate Finance Institute (CFI)"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional (B2) | Hindi - Native"
+  ],
+  "footer": "Based in Berlin, open to the Frankfurt office (hybrid) | Available immediately | Valid German work and residence permit"
+}

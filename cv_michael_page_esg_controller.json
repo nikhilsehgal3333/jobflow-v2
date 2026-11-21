@@ -1,0 +1,133 @@
+{
+  "company": "Michael Page",
+  "role": "ESG Controller",
+  "format": "preferred",
+  "language": "de",
+  "contact": {
+    "location": "Berlin, Deutschland",
+    "phone": "+49 172 6568115",
+    "email": "nikkhilsehgal@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/nikkhil-sehgal-a68577146/"
+  },
+  "profile": "ESG- und Nachhaltigkeitsspezialist mit über vier Jahren Erfahrung in Konzern, Beratung und NGO. Schwerpunkte sind die CSRD-Berichterstattung nach ESRS, die doppelte Wesentlichkeitsanalyse, die EU-Taxonomie und Treibhausgasbilanzen nach GHG Protocol. Konsolidierte in einem börsennotierten Konzern ESG-Kennzahlen aus 5+ Gesellschaften und berechnete die Taxonomie-KPIs zu Umsatz, CapEx und OpEx aus Finanzdaten.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "Januar 2026 - heute",
+      "title": "LCA & Sustainability Consultant (freiberuflich)",
+      "bullets": [
+        "Erstelle Treibhausgasbilanzen nach GHG Protocol über Scope 1 bis 3 auf Unternehmens- und Produktebene für 4+ Kunden",
+        "Leitete die doppelte Wesentlichkeitsanalyse eines Kunden, bewertete die IRO-Longlist nach Schwere, Wahrscheinlichkeit und finanzieller Tragweite und holte die Freigabe der Geschäftsleitung ein",
+        "Ordne GRI-Angaben den ESRS-Datenpunkten zu und dokumentiere Überschneidungen und Lücken für Kundenberichte",
+        "Bewerte physische Klimarisiken für Standorte und Portfolios von Kunden und leite Anpassungsmaßnahmen mit ihren Kosten ab",
+        "Prüfe für 4+ Immobilienkunden 10+ Objekte gegen Kriterien der EU-Taxonomie und analysiere Transitionsrisiken mit CRREM in 1,5- und 2-Grad-Szenarien",
+        "Erhebe und validiere ESG-Daten über Scope 1 bis 3 und berichte Nachhaltigkeits-KPIs prüffähig in Kunden-Dashboards",
+        "Führe je Kunde einen Regulierungs-Tracker zu CSRD, ESRS und EU-Taxonomie mit Status, Fristen und Auswirkungen",
+        "Plane Dekarbonisierungsmaßnahmen mit Einsparschätzung und verfolge sie nach Status, Verantwortlichen und erreichter Reduktion",
+        "Steuere 6+ Analysten in Kundenprojekten und prüfe ihre Ergebnisse vor der Abgabe"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Deutschland",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Werkstudium)",
+      "bullets": [
+        "Richtete mit dem Senior-Team die CSRD-Berichterstattung an ESRS E1 aus und ordnete die Angaben den ESRS-Datenpunkten zu",
+        "Erhob, validierte und konsolidierte ESG-Kennzahlen aus 5+ Gesellschaften mit SAP und Power BI",
+        "Plante mit dem Senior-Team Zielwerte und Erhebungszyklen für ESG-KPIs und arbeitete an den Klimazielen des Konzerns mit",
+        "Wirkte an der doppelten Wesentlichkeitsanalyse mit, bewertete Auswirkungen, Risiken und Chancen und führte Stakeholder-Interviews, Umfragen und Workshops durch",
+        "Prüfte Wirtschaftstätigkeiten auf Taxonomiefähigkeit und -konformität, dokumentierte die Nachweise und berechnete die KPIs zu Umsatz, CapEx und OpEx aus Finanzdaten",
+        "Bereitete Arbeitspapiere, Nachweise und Prüfpfade für die externe Prüfung vor",
+        "Schrieb Prozessbeschreibungen und Arbeitsanweisungen für das Nachhaltigkeits-IKS und legte Zuständigkeiten je Fachbereich fest",
+        "Entwickelte E-Learnings zu ISO 14001, CSDDD und Menschenrechten im SAP LMS und führte eine Awareness-Kampagne für Mitarbeitende mit durch",
+        "Stellte Analysen dem Nachhaltigkeits-Lenkungskreis vor und verfolgte dessen Beschlüsse bereichsübergreifend bis zum Abschluss",
+        "Steuerte ein Projektteam aus 5 Fachbereichen und stimmte die Umsetzung mit internationalen Tochtergesellschaften ab"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Deutschland",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Werkstudium)",
+      "bullets": [
+        "Betreute als erste Ansprechperson über 150 Organisationen und klärte Fragen zu Methodik, Datenqualität und Fristen",
+        "Prüfte Klimadaten auf der CDP-Plattform auf Vollständigkeit und Qualität und baute wiederholbare Kontrollen auf"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "März 2023 - März 2024",
+      "title": "Product Manager / Sustainability Consultant (freiberuflich)",
+      "bullets": [
+        "Senkte den manuellen Aufwand der Datenverarbeitung durch Python-Automatisierung um 40 Prozent",
+        "Baute die Datensysteme einer GRI-konformen Reporting-Plattform aus und schrieb SQL-Abfragen und Validierungsregeln"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | Neu-Delhi, Indien",
+      "dates": "März 2022 - Februar 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Bewertete das SDG-Engagement von 53 Konsortiumsmitgliedern in 5 Ländern und verglich sie untereinander",
+        "Präsentierte die GRI-Standards an 3 Börsen in Bombay, Colombo und Dhaka"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, Indien",
+      "dates": "Juni 2020 - Februar 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Erarbeitete technische und wirtschaftliche Bewertungen sowie Kosten- und Budgetschätzungen für 15+ Projekte mit über 20 Mio. Euro Volumen",
+        "Führte Energieaudits und Umwelt-Compliance-Prüfungen für Gewerbebauten durch"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "Oktober 2023 - März 2025",
+      "institution": "Technische Universität Berlin, Deutschland",
+      "details": [
+        "Abschlussnote 1,6 (gut). Masterarbeit zu den finanziellen Folgen der CSRD in der Bauwirtschaft mit Umfragedesign und Regressionsanalyse in Python. Schwerpunkte: Umweltrecht, Datenanalyse, COSO und ISO 31000"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (fünfjähriger Studiengang)",
+      "dates": "August 2016 - Juni 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, Neu-Delhi, Indien",
+      "details": [
+        "Schwerpunkte: Energiesysteme, Gebäudetechnik, Vertragsmanagement"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Nachhaltigkeitsberichterstattung",
+      "items": "CSRD und ESRS (E1, S1), doppelte Wesentlichkeitsanalyse, IRO-Bewertung, ESRS-Datenpunkte, Mapping auf die ESRS-XBRL-Taxonomie, GRI, CDP, TCFD, Angaben im Lagebericht"
+    },
+    {
+      "category": "EU-Taxonomie und Klima",
+      "items": "EU-Taxonomie (Fähigkeit, Konformität, KPIs zu Umsatz, CapEx und OpEx), GHG Protocol Scope 1-3, Corporate und Product Carbon Footprint, physische Klimarisiken und Anpassung, CRREM-Transitionsrisiken, SBTi, Klimaziele und Reduktionspfade"
+    },
+    {
+      "category": "ESG-Daten und Kontrollen",
+      "items": "Erhebung, Validierung und Konsolidierung von ESG-Kennzahlen, Plausibilitätsprüfung, Zielwert- und Erhebungsplanung, Nachhaltigkeits-IKS, Prozessdokumentation, Prüfungsvorbereitung mit begrenzter und hinreichender Sicherheit"
+    },
+    {
+      "category": "Tools",
+      "items": "MS Office (Excel, PowerPoint, Word), SAP, SAP LMS, Power BI, osapiens, CDP-Plattform, Predium, OneClick LCA, SQL, Python"
+    },
+    {
+      "category": "Arbeitsweise",
+      "items": "Schulungen, E-Learnings und Awareness-Maßnahmen, Präsentationen vor Leitungsebene und Lenkungskreis, bereichsübergreifende Projektsteuerung, analytische und strukturierte Arbeitsweise, Eigeninitiative"
+    }
+  ],
+  "certifications": [
+    "Climate-related Financial Disclosures - CDP",
+    "Scenario Analysis - CDP",
+    "Climate Change & Sustainability - EY"
+  ],
+  "languages": [
+    "Deutsch - gute Kenntnisse (B2) | Englisch - verhandlungssicher (C1) | Hindi - Muttersprache"
+  ],
+  "footer": "Gültige deutsche Arbeits- und Aufenthaltserlaubnis | Ab sofort verfügbar | Remote aus Berlin"
+}

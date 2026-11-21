@@ -1,0 +1,127 @@
+{
+  "company": "PreZero",
+  "role": "Program Manager Internal Accounts Data Impact",
+  "format": "preferred",
+  "language": "de",
+  "contact": {
+    "location": "Berlin, Deutschland",
+    "phone": "+49 172 6568115",
+    "email": "nikkhilsehgal@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/nikkhil-sehgal-a68577146/"
+  },
+  "profile": "Nachhaltigkeitsspezialist mit über vier Jahren Erfahrung in Strategieumsetzung, Stakeholdermanagement und Kommunikation zu Klima und Kreislaufwirtschaft, in Konzern, Beratung und NGO. Schwerpunkte sind die Abstimmung mit internationalen Gesellschaften, Nachhaltigkeitsberichte nach GRI und CSRD sowie digitale Plattformen und KI-Tools. Stimmte in einem börsennotierten Konzern die Umsetzung mit 5+ Gesellschaften ab und brachte über 500 Lieferanten auf eine digitale Plattform.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "Januar 2026 - heute",
+      "title": "LCA & Sustainability Consultant (freiberuflich)",
+      "bullets": [
+        "Erstelle GRI-Nachhaltigkeitsberichte für Kunden von Inhalt und Daten bis zur Freigabe und baue den GRI-Inhaltsindex",
+        "Stimme Berichtslayout und Korrekturen mit der Designagentur ab",
+        "Berate Kunden zu PPWR und EPR und modelliere die EPR-Gebühren je Markt in Excel",
+        "Kläre mit Recyclingpartnern und Entsorgern Mengen, Behandlungswege und Durchlaufzeiten für das Compliance-Reporting",
+        "Wende Designprinzipien für Zirkularität auf Produkte an und verfolge Zirkularitäts-KPIs wie Rezyklatanteil und Recyclingfähigkeit",
+        "Berechne CO2-Fußabdrücke von Unternehmen und Produkten nach GHG Protocol, Scope 1 bis 3, für 4+ B2B-Kunden",
+        "Erprobe neue Prozesse zuerst mit einem Kunden und rolle sie dann auf das ganze Portfolio aus",
+        "Verhandle Honorare und Leistungsumfang direkt mit Kunden"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Deutschland",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Werkstudium)",
+      "bullets": [
+        "Wirkte mit dem Senior-Team an den Klimazielen des Konzerns mit und plante Zielwerte und Erhebungszyklen für ESG-KPIs",
+        "Stimmte die Umsetzung regulatorischer Anforderungen mit 5+ internationalen Gesellschaften ab und verfolgte den Stand je Gesellschaft",
+        "Richtete die CSRD-Berichterstattung mit dem Senior-Disclosure-Team an ESRS E1 aus und konsolidierte Kennzahlen mit SAP und Power BI",
+        "Konfigurierte osapiens nach den Anforderungen des Konzerns und lud bereinigte Daten zu über 500 Lieferanten ein",
+        "Steuerte das Proof of Concept eines LLM-Assistenten für CSRD-Anfragen und entwarf Prompts und Retrieval",
+        "Legte Rollen und Zuständigkeiten über Fachbereiche und Gesellschaften fest und schrieb Prozessbeschreibungen und Arbeitsanweisungen",
+        "Setzte eine Nachhaltigkeitskampagne für Mitarbeitende mit um",
+        "Stellte Analysen und regulatorische Entwicklungen mit Empfehlungen der Leitungsebene und dem Nachhaltigkeits-Steuerungskreis vor"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Deutschland",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Werkstudium)",
+      "bullets": [
+        "Betreute als erste Ansprechperson über 150 Organisationen weltweit bei Fragen zur Offenlegung",
+        "Führte Feedbackgespräche mit Organisationen und gab ihre Anliegen bis zur Lösung an interne Teams weiter"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "März 2023 - März 2024",
+      "title": "Product Manager / Sustainability Consultant (freiberuflich)",
+      "bullets": [
+        "Brachte ein neues Modul einer ESG-Reporting-Plattform vom Konzept bis zu den ersten Nutzern und übergab es an das Betriebsteam",
+        "Baute eine Bibliothek aus Vorlagen und Pitch-Decks auf, die Botschaften über alle Beitragenden einheitlich hielt",
+        "Senkte den manuellen Aufwand der Datenverarbeitung um 40 Prozent durch Python-Automatisierung"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | Neu-Delhi, Indien",
+      "dates": "März 2022 - Februar 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Leitete regelmäßige Sitzungen eines Konsortiums mit 53 Mitgliedern in 5 Ländern und vermittelte zwischen unterschiedlichen Mandaten",
+        "Plante und steuerte eine Kommunikationskampagne mit Botschaften, Kanälen, Zeitplan und Erfolgsmessung",
+        "Erstellte Newsletter und Policy-Updates für die Mitglieder",
+        "Schulte Unternehmen an 3 Börsen in Bombay, Colombo und Dhaka zu den GRI-Standards"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, Indien",
+      "dates": "Juni 2020 - Februar 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Organisierte Abfallströme, Entsorgungswege und Entsorger an Standorten und führte Abfallregister",
+        "Beriet zu 15+ Projekten mit über 20 Mio. Euro Volumen zu Umwelt-Compliance und Kosten"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "Oktober 2023 - März 2025",
+      "institution": "Technische Universität Berlin, Deutschland",
+      "details": [
+        "Abschlussnote 1,6 (gut). Masterarbeit zu den finanziellen Folgen der CSRD in der Bauwirtschaft. Schwerpunkte: Umweltrecht, Datenanalyse, Risikomanagement nach ISO 31000"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (fünfjähriger Studiengang)",
+      "dates": "August 2016 - Juni 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, Neu-Delhi, Indien",
+      "details": []
+    }
+  ],
+  "skills": [
+    {
+      "category": "Strategie, Klima und Kreislaufwirtschaft",
+      "items": "Mitarbeit an Klimastrategie und Klimazielen, Ressourcen und Kreislaufwirtschaft, Strategieumsetzung mit internationalen Gesellschaften, PPWR und EPR, Recycling und Entsorgung, Designprinzipien für Zirkularität, Zirkularitäts-KPIs, GHG Protocol Scope 1 bis 3, PCF und CCF, SBTi, ESG-KPIs mit Zielwerten und Erhebungszyklen"
+    },
+    {
+      "category": "Berichterstattung, Kommunikation und Stakeholder",
+      "items": "Content Reporting für Nachhaltigkeitsberichte, GRI-Standards und GRI-Inhaltsindex, CSRD und ESRS, Berichtserstellung bis zum fertigen Layout, Kommunikationskampagnen, Newsletter, Präsentationen für die Leitungsebene, Moderation von Mitgliedersitzungen, Stakeholdermanagement, Verhandlung mit Kunden"
+    },
+    {
+      "category": "Digitale Plattformen und KI",
+      "items": "Google Workspace (Sheets, Slides, Sites), osapiens, SAP, Power BI, CDP- und GRI-Plattformen, LLM-Assistenten (Prompts und Retrieval), KI-Tools im Arbeitsalltag, Python, SQL, Jira, Confluence, MS Office"
+    },
+    {
+      "category": "Governance und Arbeitsweise",
+      "items": "Rollen und Zuständigkeiten, Prozessbeschreibungen und Arbeitsanweisungen, Nachhaltigkeits-IKS, Projektsteuerung über Fachbereiche, Pilotierung und Rollout, strukturierte und verbindliche Arbeitsweise"
+    }
+  ],
+  "certifications": [
+    "Climate & Sustainability - Boston Consulting Group (BCG)",
+    "Climate Change & Sustainability - EY",
+    "Scenario Analysis - CDP"
+  ],
+  "languages": [
+    "Deutsch - gute Kenntnisse (B2) | Englisch - verhandlungssicher (C1) | Hindi - Muttersprache"
+  ],
+  "footer": "Gültige deutsche Arbeits- und Aufenthaltserlaubnis | Umzugsbereit nach Heilbronn | Ab sofort verfügbar"
+}

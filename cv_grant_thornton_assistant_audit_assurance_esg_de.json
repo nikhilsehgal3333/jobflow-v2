@@ -1,0 +1,120 @@
+{
+  "profile": "Nachhaltigkeitsexperte mit sechs Jahren Erfahrung in der Nachhaltigkeitsberichterstattung, im ESG-Datenmanagement und in der regulatorischen Beratung. Arbeitet an der Schnittstelle von Finanz- und Nachhaltigkeitsberichterstattung: CSRD und ESRS, EU-Taxonomie sowie die Aufbereitung von Nachweisen für die externe Prüfung. Erhob bei einem DAX-Konzern nichtfinanzielle Kennzahlen aus mehreren Fachbereichen und Gesellschaften, validierte und konsolidierte sie und glich sie mit den konsolidierten Finanzzahlen ab.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd.",
+      "location": "Remote",
+      "dates": "Januar 2026 - heute",
+      "title": "LCA- und Nachhaltigkeitsberater (Freiberuflich)",
+      "bullets": [
+        "Berate Unternehmen zur EU-Nachhaltigkeitsregulatorik und zu den passenden Compliance-Wegen, unter anderem zur EU-Taxonomie und zu den Berichtspflichten",
+        "Betreue die Erhebung, Validierung und Berichterstattung von ESG-Daten über Scope 1, 2 und 3 nach GHG Protocol",
+        "Entwickle Nachhaltigkeitskennzahlen bis zu einem prüfungssicheren Standard und baue Dashboards, die den Zielerreichungsgrad zeigen",
+        "Schule Kundenteams zu Methodik, Berichtspflichten und Daten-Governance und begleite sie bei der Einführung von Nachhaltigkeitsprozessen"
+      ]
+    },
+    {
+      "company": "TUI AG",
+      "location": "Berlin, Deutschland",
+      "dates": "November 2024 - September 2025",
+      "title": "Nachhaltigkeitsstrategie und Stakeholderdialog (Werkstudium)",
+      "bullets": [
+        "Bewertete die Taxonomiefähigkeit und die Taxonomiekonformität der Wirtschaftstätigkeiten und dokumentierte die Nachweise hinter jeder Einstufung",
+        "Richtete die CSRD-Berichterstattung gemeinsam mit dem Fachteam Offenlegung an ESRS E1 aus",
+        "Bereitete gemeinsam mit den Wirtschaftsprüfern die Nachweise für die externe Prüfung auf und dokumentierte sie nachvollziehbar",
+        "Erhob, validierte und konsolidierte nichtfinanzielle Kennzahlen konzernweit aus mehreren Fachbereichen und Gesellschaften, gestützt auf SAP und Power BI",
+        "Glich die Angaben im Lagebericht mit den konsolidierten Finanzzahlen ab und unterstützte die Konzernberichterstattung",
+        "Gestaltete das Nachhaltigkeits-IKS mit und setzte die Sorgfaltspflichten nach CSDDD und LkSG in osapiens um",
+        "Begleitete die doppelte Wesentlichkeitsanalyse gemeinsam mit dem Fachteam, bewertete IROs nach Schweregrad, Eintrittswahrscheinlichkeit und finanzieller Tragweite und ordnete die ESRS-Datenpunkte zu"
+      ]
+    },
+    {
+      "company": "CDP Worldwide",
+      "location": "Berlin, Deutschland",
+      "dates": "April 2024 - September 2024",
+      "title": "Offenlegung (Werkstudium)",
+      "bullets": [
+        "Beantwortete als erste Ansprechperson die Anfragen von mehr als 150 Organisationen weltweit zu THG-Bilanzierung, Offenlegung und Datenqualität",
+        "Verantwortete die Erhebung, Validierung und Verwaltung von ESG-Daten auf der CDP-Plattform und verfolgte Abdeckung und Datenqualität über einen globalen Offenlegungszyklus",
+        "Analysierte die neu eingeführten Fragebogenmodule daraufhin, ob die Daten an der Quelle korrekt erfasst wurden"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd.",
+      "location": "Remote",
+      "dates": "März 2023 - März 2024",
+      "title": "Produktmanager / Nachhaltigkeitsberater (Freiberuflich)",
+      "bullets": [
+        "Baute die Datensysteme hinter einer GRI-konformen Reporting-Plattform auf und schrieb SQL-Abfragen und Validierungsregeln, die Fehler vor dem Kundenbericht abfingen",
+        "Automatisierte Reporting-Abläufe in Python und senkte den manuellen Aufwand in der Datenverarbeitung um 40 Prozent",
+        "Erstellte Excel-Cashflow-Modelle und bereinigte Kundendaten für wiederholbare Auswertungen"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI)",
+      "location": "Neu-Delhi, Indien",
+      "dates": "März 2022 - Februar 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Bewertete 53 Konsortiumsmitglieder anhand der 17 UN-Nachhaltigkeitsziele in fünf Ländern und leitete die wiederkehrenden Mitgliedertreffen",
+        "Stellte die GRI-Standards an den Börsen in Bombay, Colombo und Dhaka vor"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd.",
+      "location": "Noida, Indien",
+      "dates": "Juni 2020 - Februar 2022",
+      "title": "Junior-Architekt",
+      "bullets": [
+        "Führte technische und wirtschaftliche Bewertungen sowie Kostenschätzungen für mehr als 15 Projekte mit über 20 Millionen Euro Volumen durch",
+        "Leitete ein Team aus vier Personen und begleitete Umweltprüfungen sowie das Vertragsmanagement"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "Oktober 2023 - März 2025",
+      "institution": "Technische Universität Berlin, Deutschland",
+      "details": [
+        "Note 1,6 (mit Auszeichnung). Masterarbeit zu den finanziellen Auswirkungen der CSRD in der Bauwirtschaft entlang der Themen E1 bis G1",
+        "Schwerpunkte: Nachhaltigkeitsberichterstattung, COSO, ISO 31000, Umweltrecht, Datenanalyse und statistische Methoden"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), fünfjähriger berufsqualifizierender Studiengang",
+      "dates": "August 2016 - Juni 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, Neu-Delhi, Indien",
+      "details": [
+        "Schwerpunkte: Baustofflehre, Bauphysik, Bautechnik, Vertragsmanagement, Standort- und Quartiersentwicklung"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Nachhaltigkeitsberichterstattung und Regulatorik",
+      "items": "CSRD, ESRS (E1, S1, G1), EU-Taxonomie (Taxonomiefähigkeit und Taxonomiekonformität), doppelte Wesentlichkeitsanalyse, CSDDD, LkSG, GRI-Standards, DNK, CDP, TCFD, GHG Protocol (Scope 1 bis 3), ISSB, SBTi"
+    },
+    {
+      "category": "Prüfung, Kontrollen und Rechnungslegung",
+      "items": "Aufbereitung von Nachweisen für die externe Prüfung, prüfungssichere Dokumentation, Nachhaltigkeits-IKS, COSO, ISO 31000, Lagebericht und Konzernberichterstattung (unterstützend), Abstimmung mit konsolidierten Finanzzahlen, Risikobewertung"
+    },
+    {
+      "category": "Daten und Analyse",
+      "items": "ESG-Datenerhebung, -validierung und -konsolidierung, Datenqualitätskontrollen, SQL, Python, Power BI, SAP, Excel-Modellierung, KPI-Definition und Zielwertplanung, osapiens, EcoVadis, S&P CSA / MSCI / ISS / Sustainalytics"
+    },
+    {
+      "category": "Beratung und Zusammenarbeit",
+      "items": "Mandantenberatung, Schulungen und E-Learnings, Zusammenarbeit mit Compliance, Risiko, Recht und IT, Kommunikation auf Leitungsebene, strukturierte und eigenständige Arbeitsweise, Microsoft 365 (Excel, Word, PowerPoint)"
+    }
+  ],
+  "certifications": [
+    "Understanding Climate-related Financial Disclosures - CDP",
+    "Introduction to ESG - Corporate Finance Institute (CFI)",
+    "Climate Change and Sustainability - EY"
+  ],
+  "languages": [
+    "Deutsch - Berufliche Kenntnisse (B2) | Englisch - Verhandlungssicher (C1) | Hindi - Muttersprache"
+  ],
+  "footer": "Berlin | Umzug nach Düsseldorf möglich | Sofort verfügbar | Gültige deutsche Arbeits- und Aufenthaltserlaubnis"
+}

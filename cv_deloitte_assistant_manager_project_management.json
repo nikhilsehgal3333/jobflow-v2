@@ -1,0 +1,120 @@
+{
+  "company": "Deloitte",
+  "role": "Assistant Manager Project Management",
+  "format": "preferred",
+  "language": "en",
+  "contact": {
+    "location": "New Delhi, India",
+    "phone": "+91 7042509790",
+    "email": "nikkhilsehgal@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/nikkhil-sehgal-a68577146/"
+  },
+  "profile": "Project delivery professional with six years managing end-to-end execution across B2B software product cycles, regulatory implementation programmes and multi-site capital projects. Runs requirement gathering, sprint planning and roadmap delivery as the communication bridge between client stakeholders and engineering teams, and holds cross-functional contributors to scope, schedule, budget and quality expectations. Automated data processing on a B2B SaaS platform in Python, cutting manual effort by 40 percent across the client reporting cycle.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Deliver client engagements end to end across building materials, industrial and automotive portfolios, agreeing scope and schedule with client sponsors and tracking each deliverable against quality criteria",
+        "Develop and track project KPIs and delivery metrics to audit-ready standard, and build the client dashboards and status reports that carry progress, data quality and open issues back to sponsors",
+        "Coach client business users on methodology and data governance, converting regulatory obligations into the process changes their systems and process owners have to carry"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Built and steered a cross-functional project team spanning Compliance, Risk, Legal, IT and supply chain, setting the deliverables, running the work agile and holding contributors to deadline",
+        "Coordinated implementation in German and English with German-speaking business users and international group subsidiaries, tracking completion entity by entity and escalating blocked dependencies",
+        "Scoped and drove an LLM assistant to completion as a proof of concept, designing the prompts and retrieval behind it and resolving scope questions with the engineering team in flight",
+        "Designed the sustainability internal control system, documenting the process descriptions, work instructions and decision rights that fixed who owned each requirement across functions and entities",
+        "Presented analysis results and regulatory developments with recommendations to senior leadership, and reported group KPI performance through Power BI dashboards"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Served as primary point of contact for 150+ customer organisations worldwide, resolving platform and methodology queries and tracking submission coverage and data quality across a full disclosure cycle"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Managed the full product lifecycle from concept to implementation for a B2B ESG SaaS platform, gathering requirements from customers and business users and running UAT ahead of each release",
+        "Ran sprint cycles with the engineering team in Jira from planning through review, wrote the user stories and acceptance criteria as tracked issues, and reported sprint progress against plan",
+        "Acted as the bridge between customer business users and the development team, translating business requirements into actionable technical requirements documented as Confluence specification pages",
+        "Automated data processing in Python, cutting manual effort 40 percent, and wrote the SQL queries and validation rules behind the platform data systems",
+        "Owned tender and proposal responses end to end, holding section owners to hard customer submission deadlines and pricing bids against the cost and cash-flow models behind each"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Chaired recurring meetings of a 53-member consortium spanning corporate, government and NGO mandates, setting agendas, facilitating between differing positions and driving agreed actions to closure",
+        "Evaluated 53 consortium members against 17 SDGs across five countries, and produced the member newsletters and policy updates that reported status back to stakeholders",
+        "Presented to listed issuers, financial institutions and sector regulators at the Bombay, Colombo and Dhaka stock exchanges"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Directed a project team of 4 across 15+ commercial, hospitality and institutional projects worth 20M+ euros, from proposal through delivery",
+        "Prepared the pre-feasibility studies, implementation plans and cost and budget estimates behind client investment approval, and reported progress against budget and schedule",
+        "Ran site risk assessments and non-conformity reporting, and coordinated specialist consultant inputs into consolidated submissions against fixed regulatory deadlines"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universität Berlin, Germany",
+      "details": [
+        "Grade 1.6 (Distinction). Coursework in data analysis, statistical methods, SQL, COSO and ISO 31000 risk management"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), five-year professional degree",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": []
+    }
+  ],
+  "skills": [
+    {
+      "category": "Project Management",
+      "items": "End-to-end project delivery management, project planning, roadmap creation, release plans, scope, schedule and budget control, requirement gathering, managing risks, issues and dependencies, risk registers, escalation, project governance and quality standards, status reports, meeting minutes, tracking project KPIs and delivery metrics"
+    },
+    {
+      "category": "Agile and Product Delivery",
+      "items": "Agile/Scrum project management, leading agile ceremonies, sprint planning and review, sprint boards and sprint plans, user stories and acceptance criteria, software development lifecycle (SDLC), product lifecycle concept to implementation, UAT and QA cycles, translating business requirements into actionable technical requirements, product ownership practices"
+    },
+    {
+      "category": "Stakeholder and Customer Management",
+      "items": "Stakeholder management, customer management, business user management, cross-functional team leadership, executive presentations, stakeholder presentations, senior leadership reporting, multi-entity and matrix coordination, problem-solving"
+    },
+    {
+      "category": "Tools and Technical",
+      "items": "Jira, Confluence, MS Project, MS Teams, Microsoft 365, advanced Excel, Power BI dashboards, SQL, Python, Dynamics 365, SAP, Google Workspace; basic understanding of AI/ML, data engineering and cloud technologies; CSRD and ESRS, GRI, CDP, GHG Protocol, internal control system design, third-party assurance coordination"
+    }
+  ],
+  "certifications": [
+    "Agile - Cognizant",
+    "Climate Change & Sustainability - EY",
+    "Introduction to ESG - Corporate Finance Institute"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional (B2) | Hindi - Native"
+  ],
+  "footer": "Indian national | Available immediately"
+}

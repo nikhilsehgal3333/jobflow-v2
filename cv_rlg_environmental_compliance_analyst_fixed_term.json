@@ -1,0 +1,118 @@
+{
+  "company": "RLG",
+  "role": "Environmental Compliance Analyst Fixed Term",
+  "format": "preferred",
+  "language": "en",
+  "profile": "Environmental compliance and data specialist focused on Extended Producer Responsibility and EU product regulation. Models EPR fees and cost exposure per market in Excel, and turns product, packaging and put-to-market volume data into accurate compliance reports for international customers across industrial, automotive, building materials and textile value chains. Tracks changes in EU environmental legislation and assesses what each one means for affected products and markets. Managed ESG data collection, validation and quality control for 150+ organisations at CDP.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Model Extended Producer Responsibility (EPR) fees and cost exposure per market in Excel, quantifying obligations across packaging materials and product categories",
+        "Advise manufacturers on EPR and product regulation including the PPWR, the Ecodesign Regulation (ESPR) and the EU Deforestation Regulation, and assess which obligations attach to which products and markets",
+        "Compile product and put-to-market volume data from client systems and supplier requests, covering material composition, recycled content and packaging attributes",
+        "Track changes in EU environmental legislation through consultation and adoption, then translate each change into the practical steps affected customers have to take",
+        "Pilot each new compliance and data-collection process with a single client or product line, then extend it across the wider portfolio once it holds",
+        "Prepare Digital Product Passport readiness assessments and structure product data against forthcoming disclosure requirements"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Served as primary point of contact for 150+ organisations globally, resolving data-related queries on their submissions through a full reporting cycle",
+        "Owned data collection, validation and quality control on the CDP platform, building repeatable checks that held across organisations of very different size and maturity",
+        "Analysed newly launched questionnaire modules to confirm accurate data capture and flagged issues to the platform team",
+        "Resolved finance, invoice and payment queries for disclosing companies"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Ran supply chain risk assessments on the osapiens platform, working through supplier data across a listed group's international operations",
+        "Collected, validated and consolidated non-financial data group-wide from multiple functions and entities using SAP and Power BI",
+        "Wrote the process documentation, standard operating procedures and work instructions behind each regulatory requirement, and defined who owned what across functions",
+        "Explained regulatory requirements in plain terms to non-specialist teams across Compliance, Risk, Legal and IT"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Built and improved the data systems behind a GRI-aligned reporting platform, writing the SQL queries and validation rules underneath",
+        "Automated reporting workflows in Python, cutting manual data processing by 40%",
+        "Normalised client datasets arriving in inconsistent source formats into a single reporting structure",
+        "Extended the service portfolio through client proposals and pricing, building the cost models behind each one"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Evaluated 53 consortium members' engagement with 17 SDGs across five countries",
+        "Researched reporting practice across India, Sri Lanka and Bangladesh and documented the linkage between national regulation and global standards",
+        "Delivered standards sessions at the Bombay, Colombo and Dhaka stock exchanges"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Assessed material selection and environmental compliance across 15+ projects worth 20M+ euros",
+        "Prepared environmental monitoring reports against permit conditions and tracked non-conformities to closure"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universität Berlin, Germany",
+      "details": [
+        "Grade 1.6 (Distinction). Coursework in data analysis and statistical methods, SQL, environmental law and life cycle assessment"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), five-year professional degree",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": [
+        "Coursework in building materials, construction technology and environmental control systems"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "EPR and Product Compliance",
+      "items": "Extended Producer Responsibility (EPR) compliance, EPR obligations and fee modelling per market, packaging regulation (PPWR), put-to-market volume data, Ecodesign Regulation (ESPR), Digital Product Passport, EU Deforestation Regulation (EUDR), REACH and SVHC screening, CE marking and declarations of conformity, GPSR, green claims and substantiation, CBAM at the importer interface, circular economy and recyclability"
+    },
+    {
+      "category": "Data Analysis and Reporting",
+      "items": "Large datasets in Microsoft Excel, cost and fee exposure modelling, data collection, validation and quality control, dataset normalisation from inconsistent source formats, SQL queries and validation rules, Python automation, Power BI and KPI dashboards, SAP, compliance and disclosure reporting"
+    },
+    {
+      "category": "Regulatory Monitoring and Advisory",
+      "items": "Tracking EU environmental legislation from consultation to adoption, assessing implications by product and market, translating requirements into client-side data solutions, process documentation, standard operating procedures and work instructions, piloting new compliance processes before portfolio rollout"
+    },
+    {
+      "category": "Client and Stakeholder Communication",
+      "items": "Primary contact for 150+ organisations globally, explaining complex information clearly to internal and external stakeholders, client coaching on methodology and data governance, cross-functional collaboration across Compliance, Risk, Legal and IT, international and multi-market delivery"
+    }
+  ],
+  "certifications": [
+    "Introduction to ESG - Corporate Finance Institute (CFI)",
+    "Climate & Sustainability - Boston Consulting Group (BCG)"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional (B2) | Hindi - Native"
+  ],
+  "footer": "Berlin, Germany | Relocating to Munich | Immediately available | Valid German work and residence permit"
+}

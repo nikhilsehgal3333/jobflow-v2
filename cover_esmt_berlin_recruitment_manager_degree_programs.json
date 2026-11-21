@@ -1,0 +1,26 @@
+{
+  "recipientAddress": [
+    "ESMT European School of Management and Technology GmbH",
+    "Schlossplatz 1",
+    "10178 Berlin",
+    "Germany"
+  ],
+  "salutation": "Dear Hiring Manager,",
+  "intro": "Last week I attended the Berlin Global Dialogue on ESMT's campus and saw the school a prospective student is weighing up: international, connected to business and policy, and at the centre of Berlin. Helping the right candidates choose it would draw on three things my work has involved: consultative conversations with prospects, pipeline work in a CRM, and representing an organisation to international audiences.",
+  "experiences": "I hold an MBA from TU Berlin and bring 5+ years across consulting, B2B sales, corporate and non-profit roles in Germany and India. At KarbonWise I ran cold outreach, qualified inbound leads and tracked conversion across a pipeline of 20+ prospects in Dynamics 365. At CDP Worldwide I was the primary contact for more than 150 organisations. During my MBA I represented the TU Berlin programme to prospective students and advised individual applicants on their applications, which showed me your candidates' decision from their side.",
+  "skills": [
+    {
+      "name": "Consultative Engagement and Funnel Conversion",
+      "body": "Consultative engagement backed by conversion data is how I worked at KarbonWise, selling a B2B reporting platform to mid-market and SME companies from a pipeline of 20+ prospects. I qualified inbound enquiries and leads from my own cold outreach before investing time, then built custom demos around each prospect's use case. In Dynamics 365 I tracked conversion from first contact to demo to deal and forecast the pipeline weekly. When the stage data showed where prospects stalled, we reset our qualification and outreach on that evidence, and I carried 5+ client accounts through renewal and expansion conversations."
+    },
+    {
+      "name": "Representing an Organisation to Diverse Audiences",
+      "body": "Representing ESMT at webinars, fairs and events requires presenting one offer credibly to very different audiences, a large part of my role at the Global Reporting Initiative. I supported a consortium of 53 member organisations across five countries, and much of my work was keeping that membership engaged. I presented the GRI Standards at the Bombay, Colombo and Dhaka stock exchanges, hosted a webinar, and organised speaker-led learning sessions, driving sign-ups against attendance targets. I also chaired the recurring member meetings and managed membership renewals. I have used the same approach since when staffing a fair booth for KarbonWise."
+    }
+  ],
+  "extraParagraphs": [
+    "My experience so far has been in B2B sales and client work rather than admissions, but the core is the same: understanding what a prospect needs, being clear about fit and following up until a decision is made. I work comfortably with large datasets and have handled personal data under GDPR. I am based in Berlin with a valid German work and residence permit, speak fluent English and B2 German, and can start immediately. My salary expectation is [EUR __,000] gross per year."
+  ],
+  "closing": "I would welcome the chance to discuss how I could support ESMT's degree recruitment.",
+  "signoff": "Sincerely,"
+}

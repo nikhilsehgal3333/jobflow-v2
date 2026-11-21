@@ -1,0 +1,134 @@
+{
+  "contact": {
+    "location": "Berlin, Germany",
+    "phone": "+49 172 6568115",
+    "email": "nikkhilsehgal@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/nikkhil-sehgal-a68577146/"
+  },
+  "profile": "Climate and EU policy advisor, six years across urban and economic development, public sector research and commercial delivery. Combines EU policy and funding analysis with climate action and adaptation planning, and carries consultancy projects from proposal through to client relationship. Evaluated 53 consortium members against 17 SDGs across 5 countries, and chaired the member forum behind it.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd.",
+      "location": "Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Run a work package on a LIFE-funded project, authoring the deliverables that go to the funder and coordinating partners across the consortium",
+        "Assess physical climate risk across client portfolios, then cost the adaptation and resilience measures that answer it",
+        "Build decarbonisation pathways and climate action plans at 1.5 and 2 degrees, testing climate transition risk with CRREM",
+        "Model what incoming EU climate regulation will cost a client per market, before they commit capital",
+        "Translate EU climate and product regulation into compliance pathways for public sector, industrial and building-materials clients"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative",
+      "location": "New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Evaluated 53 consortium members against 17 SDGs across 5 countries",
+        "Researched climate and economic policy across 3 South Asian markets, and turned the evidence into briefs for government audiences",
+        "Briefed government delegates on UNFCCC outcomes, COP processes and national NDC commitments",
+        "Chaired the recurring member forum across competing mandates, carrying actions to closure",
+        "Formed partnerships with regional authorities, economic development agencies, innovation hubs and NGOs across South Asia",
+        "Identified new revenue growth opportunities for the South Asia chapter, sizing the markets and mapping the competitive landscape",
+        "Presented GRI Standards to listed companies at 3 stock exchanges, in Bombay, Colombo and Dhaka"
+      ]
+    },
+    {
+      "company": "TUI AG",
+      "location": "Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Monitored EU and national policy developments, then translated what they meant into recommendations for senior leadership",
+        "Delivered CSRD and ESRS E1 climate reporting alongside the senior disclosure team, and compared 5 rating methodologies for the group",
+        "Steered a cross-functional team across Compliance, Risk, Legal, IT and supply chain, holding contributors to deadlines"
+      ]
+    },
+    {
+      "company": "CDP Worldwide",
+      "location": "Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Fielded the disclosure inbox for 150+ organisations globally as their primary point of contact",
+        "Tracked submission coverage and data quality across the disclosing user base, and joined the CDP-hosted workshop in Warsaw"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd.",
+      "location": "Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Drove tender and RFP responses end to end, from response strategy to submission against hard client deadlines",
+        "Priced bids and set the commercial terms behind them, with the cost and cash-flow models to support each submission",
+        "Carried a book of business against renewal and growth targets, forecasting the pipeline weekly",
+        "Cut manual data handling 40 percent by automating the processing pipeline in Python"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations",
+      "location": "Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Shaped 15+ urban development projects worth over EUR 20M, from masterplanning through to site delivery",
+        "Took projects through municipal and regional planning authorities, and briefed government officials on a state hotel scheme",
+        "Authored full environmental impact assessments start to finish, pulling air, noise, water and ecology specialists into one submission",
+        "Selected and led a team of 4 across residential and commercial schemes"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universitaet Berlin, Germany",
+      "details": [
+        "Grade 1.6. Coursework in energy systems, EU building directives, environmental law, data analysis and statistical methods",
+        "Thesis on the financial implications of EU climate regulation, using survey design and regression analysis in Python"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (5-year professional degree)",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": [
+        "Land use and urban planning, Standort- und Quartiersentwicklung, energy systems and building services"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Climate Action and Adaptation",
+      "items": "Net-zero and decarbonisation pathways, 1.5 and 2 degree scenarios, climate action plans, physical climate risk and vulnerability assessment, climate adaptation and resilience measures, transition risk (CRREM), TCFD, SBTi, GHG Protocol Scope 1-3, energy audits, ISO 50001, EPBD and GEG, metered consumption data"
+    },
+    {
+      "category": "EU Policy and Funding",
+      "items": "EU funding instruments and landscape, LIFE programme delivery, work package and consortium coordination, EU Green Deal, CSRD and ESRS, EU Taxonomy, CSDDD, CBAM, ESPR and Ecodesign, EUDR, PPWR, climate transition mechanisms, UNFCCC and COP processes, NDCs, national policy alignment, policy monitoring, strategic research and policy analysis, policy briefs and technical summaries"
+    },
+    {
+      "category": "Public Sector, Regional Development and Innovation Ecosystems",
+      "items": "Public sector clients, municipalities and regional planning authorities, regional and economic development agencies, ministries and regulators, innovation ecosystems, innovation hubs and accelerators, smart city and urban innovation, multi-stakeholder policy environments, consortium chairing, capacity building for government stakeholders, workshop design and delivery, senior leadership briefing"
+    },
+    {
+      "category": "Commercial and Project Delivery",
+      "items": "Full-cycle project acquisition and delivery, tender and RFP ownership, PQQs, bid pricing and commercial terms, proposal development, revenue growth and opportunity identification, cost and cash-flow modelling, project budgets and timelines, pipeline forecasting, win/loss reviews, client relationship management, market sizing, competitive landscape mapping"
+    },
+    {
+      "category": "Analysis and Tools",
+      "items": "MS Office, advanced Excel modelling, PowerPoint and pitch decks, Power BI, SQL, Python, structured literature reviews, survey design and regression analysis, AI tools and prototyping, digital transformation, Jira, Confluence, MS Project"
+    }
+  ],
+  "certifications": [
+    "Climate-related Financial Disclosures - CDP",
+    "Scenario Analysis - CDP",
+    "Climate & Sustainability - Boston Consulting Group"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional (B2) | Hindi - Native"
+  ],
+  "footer": "Valid German work and residence permit | Berlin-based, available to travel across Northern Europe | Available immediately"
+}

@@ -1,0 +1,131 @@
+{
+  "company": "TKMS",
+  "role": "Sustainability Manager",
+  "format": "preferred",
+  "language": "de",
+  "contact": {
+    "location": "Berlin, Deutschland",
+    "phone": "+49 172 6568115",
+    "email": "nikkhilsehgal@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/nikkhil-sehgal-a68577146/"
+  },
+  "profile": "Nachhaltigkeitsberater mit über vier Jahren Erfahrung in ESG-Berichterstattung, GHG-Bilanzierung und der Umsetzung von ESG-Strategien in Beratung, Konzern und NGO, zuletzt für Kunden aus Industrie, Automobilzulieferung und Baustoffen. Schwerpunkte sind CSRD und ESRS, Datenerhebung mit Fachabteilungen, Dekarbonisierungspläne, Klimarisikoanalysen und ESG-Schulungen. Verbesserte bei KarbonWise den Scope-3-Datenprozess und verkürzte die Erhebung um über 10 Prozent durch Erhebungsvorlagen, Lieferantenabfragen, Datenqualitätsprüfungen und ein Excel-Rechenmodell.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "Januar 2026 - heute",
+      "title": "LCA & Sustainability Consultant (freiberuflich)",
+      "bullets": [
+        "Erstelle GHG-Bilanzen nach GHG Protocol (Scope 1 bis 3) und Produkt-CO2-Fußabdrücke nach ISO 14067 für Kunden aus Industrie, Automobilzulieferung und Baustoffen",
+        "Prüfe die 15 Scope-3-Kategorien und stelle wesentliche Kategorien von Ausgabenschätzungen auf Lieferanten- und Aktivitätsdaten um",
+        "Erarbeite Dekarbonisierungspläne mit Reduktionsoptionen, Einsparschätzungen und Umsetzungsschritten und verfolge die Maßnahmen nach Status, Verantwortlichen und erreichter Reduktion",
+        "Bewerte physische Klimarisiken für Standorte bzw. Portfolios von Kunden sowie Transitionsrisiken mit CRREM-Pfaden für 1,5 und 2 Grad",
+        "Verfolge regulatorische Entwicklungen für jeden Kunden in einem Tracker zu CSRD, ESRS und EU-Taxonomie mit Status, Fristen und Auswirkungen",
+        "Steuerte die doppelte Wesentlichkeitsanalyse eines Kunden nach CSRD von der IRO-Bewertung bis zur Freigabe durch die Geschäftsleitung",
+        "Entwickle Module zur Lückenanalyse nach IFRS S1 und S2 und wirke an EUDR-Sorgfaltserklärungen und Risikobewertungen mit",
+        "Erstelle GRI-Berichte für Kunden bis zur Freigabe und ordne für 4+ Kundenberichte GRI-Angaben den ESRS-Datenpunkten zu",
+        "Leite 6+ Analysten in Kundenprojekten fachlich an und prüfe ihre Ergebnisse vor der Abgabe",
+        "Schule Kundenteams zu Nachhaltigkeitsmethoden, Berichtspflichten und Data Governance",
+        "Präsentiere quantifizierte CO2-, Kosten- und Einsparergebnisse vor Bereichsleitungen und Geschäftsführungen der Kunden"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Deutschland",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Werkstudium)",
+      "bullets": [
+        "Leitete Fachabteilungen bzw. Konzerngesellschaften bei der ESG-Datensammlung an, mit Vorlagen, Fristen und Nachverfolgung",
+        "Konsolidierte die ESG-Daten der Konzerngesellschaften in SAP für die Berichterstattung",
+        "Baute ein bereichsübergreifendes Projektteam aus Compliance, Risikomanagement, Recht, IT und Lieferkette auf und steuerte es",
+        "Bereitete mit dem Disclosure-Team und externen Beratern die CSRD-Berichterstattung vor, richtete die Angaben an ESRS E1 aus und bewertete SBTi- und TCFD-Aussagen",
+        "Verfasste englischsprachige Textabschnitte für die Konzernberichterstattung und glich ESG-Angaben im Geschäftsbericht mit den Finanzzahlen ab",
+        "Stellte mit den Prüfungspartnern die Nachweisdokumentation für die Nachhaltigkeitsberichterstattung nach CSRD zusammen",
+        "Entwickelte Schulungsmodule zu ISO 14001, Menschenrechten, Kinderschutz und moderner Sklaverei und wirkte an den zugehörigen Leitlinien mit",
+        "Wirkte an der Weiterentwicklung des Tools für das Lieferantenrisikomanagement mit",
+        "Verglich 4 ESG-Ratingmethoden (S&P, Sustainalytics, MSCI, ISS)"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Deutschland",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Werkstudium)",
+      "bullets": [
+        "Beantwortete als erste Ansprechperson Anfragen von 150+ Organisationen und verkürzte die Antwortzeiten um über 20 Prozent",
+        "Prüfte Offenlegungsdaten auf der CDP-Plattform auf Vollständigkeit und Datenqualität"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "März 2023 - März 2024",
+      "title": "Product Manager / Sustainability Consultant (freiberuflich)",
+      "bullets": [
+        "Senkte den manuellen Aufwand der Datenverarbeitung um 40 Prozent durch Python-Automatisierung und schrieb SQL-Validierungsregeln",
+        "Erstellte Schulungsunterlagen und schulte Kunden in der Anwendung einer ESG-Reporting-Plattform"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | Neu-Delhi, Indien",
+      "dates": "März 2022 - Februar 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Bewertete das SDG-Engagement von 53 Konsortiumsmitgliedern in 5 Ländern",
+        "Entwarf Schulungskonzepte, baute Kompetenzen bei Unternehmen und Behörden auf und stellte die GRI-Standards an 3 Börsen vor"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, Indien",
+      "dates": "Juni 2020 - Februar 2022",
+      "title": "Architect",
+      "bullets": [
+        "Wählte ein Team von 4 Praktikanten aus, leitete es fachlich an und beriet zu 15+ Projekten mit über 20 Mio. Euro Volumen",
+        "Verfasste vollständige UVP-Berichte für Genehmigungsverfahren und führte Energieaudits für Gewerbebauten durch"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "Oktober 2023 - März 2025",
+      "institution": "Technische Universität Berlin, Deutschland",
+      "details": [
+        "Abschlussnote 1,6 (gut). Masterarbeit zu den finanziellen Folgen der CSRD in der Bauwirtschaft, mit Abgleich von IFRS S1 und S2 mit GRI und Regressionsanalyse in Python",
+        "Module zu Rechnungslegung und IFRS, Ökobilanz (LCA), Energieaudits, Umweltrecht und Risikomanagement nach COSO und ISO 31000"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (fünfjähriger Studiengang)",
+      "dates": "August 2016 - Juni 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, Neu-Delhi, Indien",
+      "details": [
+        "Module zu Bauphysik, Energiesystemen, Gebäudetechnik und Bautechnik"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Nachhaltigkeitsmanagement und -berichterstattung",
+      "items": "CSRD und ESRS (E1, S1), doppelte Wesentlichkeitsanalyse, Nachhaltigkeitsdaten und -kennzahlen (ESRS-Datenpunkte), IFRS S1 und S2, TCFD, SASB (Rahmenwerk), EUDR, EU-Taxonomie, GRI, SBTi, Monitoring von ESG-Trends und Regulatorik"
+    },
+    {
+      "category": "Klima und Umwelt",
+      "items": "GHG Protocol Scope 1 bis 3, Unternehmens- und Produkt-CO2-Bilanzen (ISO 14067), Analyse von Umweltauswirkungen (Ökobilanz nach ISO 14040/14044, UVP), OneClick LCA, Dekarbonisierungshebel (Elektrifizierung bzw. Brennstoffwechsel, CO2-arme Materialien), Klimarisikoanalysen (physisch und transitorisch, CRREM), ESG-Risikomanagement für Klima- und Lieferantenrisiken"
+    },
+    {
+      "category": "Projekte, Schulung und Führung",
+      "items": "Projektmanagement mit bereichsübergreifenden Teams, Datenabfrage und Datenqualität auf Konzernebene, Konzeption von Schulungs- und Kompetenzaufbauprogrammen, fachliche Anleitung von Mitarbeitenden, Präsentation vor Geschäftsführung, Beratungs- und Umsetzungskompetenz"
+    },
+    {
+      "category": "Tools",
+      "items": "MS Office (Excel, PowerPoint, Word), SAP, OneClick LCA, Python, SQL, MS Project, Jira, Confluence, KI-Tools (Claude)"
+    }
+  ],
+  "certifications": [
+    "Climate-related Financial Disclosures - CDP",
+    "Scenario Analysis - CDP",
+    "Climate Change & Sustainability - EY"
+  ],
+  "languages": [
+    "Deutsch - gute Kenntnisse (B2) | Englisch - verhandlungssicher (C1) | Hindi - Muttersprache"
+  ],
+  "footer": "Gültige deutsche Arbeits- und Aufenthaltserlaubnis | Umzugsbereit nach Kiel | Ab sofort verfügbar"
+}

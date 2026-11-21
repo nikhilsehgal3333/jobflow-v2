@@ -1,0 +1,124 @@
+{
+  "company": "ALDI SOUTH Group",
+  "role": "Non-Financial Reporting",
+  "format": "preferred",
+  "language": "en",
+  "contact": {
+    "location": "Berlin, Germany",
+    "phone": "+49 172 6568115",
+    "email": "nikkhilsehgal@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/nikhil-sehgal-a68577146/"
+  },
+  "profile": "Non-financial reporting (NFR) specialist with four years across CSRD and ESRS implementation, EU Taxonomy assessment and non-financial data consolidation at a listed group. Delivers Taxonomy eligibility and alignment assessments, group-wide KPI collection and validation on SAP and Power BI, and the data quality management, manuals and process documentation a reporting system runs on. Consolidated non-financial figures across divisions and legal entities, and advised international subsidiaries on their reporting obligations entity by entity.",
+  "experience": [
+    {
+      "company": "TUI AG | Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Aligned group CSRD reporting with ESRS E1 alongside the senior disclosure team, and mapped ESRS datapoints across the disclosure set",
+        "Delivered EU Taxonomy eligibility and alignment assessments, including the evidence and documentation behind classifying each economic activity",
+        "Collected, validated and consolidated non-financial KPIs group-wide across several divisions and legal entities, working from SAP and Power BI",
+        "Advised international group subsidiaries on what each had to report and by when, and tracked completion entity by entity against fixed deadlines",
+        "Checked non-financial disclosures for consistency against consolidated financial figures for the Lagebericht, and prepared the working papers and evidence packs the external assurance provider tested against",
+        "Implemented CSDDD and LkSG due diligence on the osapiens platform, specifying the process and data requirements behind the rollout and the internal control design around it",
+        "Wrote the process documentation, data-collection procedures and work instructions behind each reporting requirement, and defined who owned what across functions and entities",
+        "Benchmarked group performance against S&P CSA, Sustainalytics, MSCI and ISS methodologies, and presented the analysis and recommendations to senior leadership"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Prepare a client's GRI-referenced sustainability report, taking content and data through to sign-off, and build the GRI content index that maps each disclosure and tracks where the gaps sit",
+        "Run materiality assessments to GRI 3 and translate the outcome into the disclosure set each report has to carry",
+        "Manage ESG data collection, validation and reporting across Scope 1, 2 and 3, and develop and track sustainability KPIs to an audit-ready standard",
+        "Advise clients on EU sustainability regulation and the compliance pathways open to them, and coach their teams on reporting requirements and data governance"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Owned ESG data collection, validation and management on the CDP platform, tracking submission coverage and data quality across a full reporting cycle",
+        "Served as primary point of contact for 150+ organisations globally, resolving methodology, data-quality and deadline queries",
+        "Analysed newly launched integrated questionnaire modules to confirm each captured disclosure data accurately",
+        "Built repeatable processes and controls across organisations of very different size and reporting maturity"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Built and improved the data systems behind a GRI-aligned sustainability reporting platform, writing the SQL queries and validation rules that caught incomplete and implausible entries",
+        "Managed the product lifecycle from concept to implementation for a B2B ESG reporting platform, gathering requirements and running UAT with client users",
+        "Automated data processing in Python, cutting manual handling by 40%",
+        "Drove sprint cycles in Jira and authored the requirement and specification pages in Confluence that engineers built against"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Evaluated 53 consortium members' engagement with 17 SDGs across 5 countries, benchmarking members against one another and against reporting trends in the region",
+        "Documented GRI-BRSR linkage for SEBI alignment, and presented GRI Standards at the Bombay, Colombo and Dhaka stock exchanges"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Advised on 15+ commercial, hospitality and institutional projects worth 20M+ euros, covering environmental compliance, contract management and cost and budget estimates"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universität Berlin, Germany",
+      "details": [
+        "Grade 1.6 (Distinction). Thesis on the financial implications of CSRD in the construction industry, evaluating ESRS E1 to G1 topics",
+        "Coursework in data analysis and statistical methods, SQL, COSO, ISO 31000 and environmental law"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), five-year professional degree",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": []
+    }
+  ],
+  "skills": [
+    {
+      "category": "Non-Financial Reporting and Regulation",
+      "items": "CSRD (Corporate Sustainability Reporting Directive), ESRS (E1, S1, G1), ESRS datapoint mapping, EU Taxonomy eligibility and alignment, double materiality, GRI Standards and GRI content index, consolidated non-financial reports, NFR report design and formulation, Lagebericht disclosures, NFR manuals, process documentation and work instructions, CSDDD, LkSG, TCFD, CDP, DNK, GHG Protocol Scope 1-3"
+    },
+    {
+      "category": "Data Quality and Reporting Systems",
+      "items": "Data quality management, country-specific and plausibility checks, group-wide data collection, validation and consolidation, SQL validation rules, KPI target setting and data-collection cycles, design, implementation and continuous improvement of reporting systems, SAP, Power BI dashboards, osapiens, CDP and GRI reporting platforms, Python automation, MS Office and advanced Excel, Jira, Confluence"
+    },
+    {
+      "category": "Project Delivery and Stakeholder Management",
+      "items": "Project management in an international and cross-functional team, cross-functional steering without direct authority, international subsidiary and country coordination, requirements gathering, UAT and sprint delivery, IT system rollout support, assurance working papers and audit coordination, internal control design for sustainability data, senior leadership reporting, training delivery and e-learning"
+    },
+    {
+      "category": "Benchmarking and Analysis",
+      "items": "NFR benchmarking, peer and competitor benchmarking, S&P CSA, Sustainalytics, MSCI ESG, ISS ESG, EcoVadis, gap analysis against reporting frameworks, analytical and solution-oriented working style, international teams"
+    }
+  ],
+  "certifications": [
+    "Climate-related Financial Disclosures - CDP",
+    "Introduction to ESG - Corporate Finance Institute (CFI)",
+    "Climate Change & Sustainability - EY"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional (B2) | Hindi - Native"
+  ],
+  "footer": "Berlin, Germany | Willing to relocate to Salzburg | Immediately available | Valid German work and residence permit"
+}

@@ -1,0 +1,124 @@
+{
+  "company": "Tesla",
+  "role": "Associate Buyer Indirect Purchasing",
+  "format": "preferred",
+  "language": "en",
+  "contact": {
+    "location": "Berlin, Germany",
+    "phone": "+49 172 6568115",
+    "email": "nikkhilsehgal@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/nikhil-sehgal-a68577146/"
+  },
+  "profile": "Commercial and supply chain professional with six years across indirect purchasing, supplier negotiation, RFX processes and procurement analytics. Handles vendor sourcing, qualification and onboarding, supplier scorecards, renewals and rate benchmarking, and analyses supplier proposals through Excel cost and cash-flow models against risk and value. Automated data processing in Python to cut manual handling by 40%, and scoped an LLM assistant to proof of concept for regulatory query handling.",
+  "experience": [
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Negotiated subcontractor and consultant contracts on price, payment terms and risk coverage across 15+ projects worth 20M+ euros, securing best price on tendered packages",
+        "Onboarded new vendors through qualification and documentation onto an approved supplier list, and handled renewals, terminations and the exit of non-performing suppliers",
+        "Built supplier scorecards and ran formal performance reviews, tracking delivery, quality and cost against the terms agreed",
+        "Benchmarked contractor and day rates against the market, and maintained a resource database of competencies, certifications, availability and rate cards",
+        "Sourced freelancers and specialist contractors for project packages, scoping the technical and commercial requirement with delivery teams before going to market",
+        "Prepared the cost and budget estimates and technical and financial evaluations that set the commercial baseline for each package",
+        "Ran the annual audit schedule and maintained QHSE, permit and hazardous substance registers, tracking findings and corrective actions to verified closure"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Model cost and fee exposure market by market in Excel for building materials, industrial and automotive component clients, converting obligation into the figures behind commercial decisions",
+        "Coordinate with recycling partners and waste contractors on collected volumes, treatment routes and turnaround"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Ran desk-based supplier assessments against defined criteria from questionnaires and supporting documentation, and scored the outcome for the responsible functions",
+        "Took part in on-site supplier audits alongside the responsible functions, and maintained the supply chain risk register with findings reported to senior management",
+        "Implemented supply chain due diligence on the osapiens platform, digitising and standardising a manual process across international group subsidiaries",
+        "Scoped and drove an LLM assistant to proof of concept, designing the prompts and retrieval behind it so regulatory queries could be answered from the framework set",
+        "Built and steered a cross-functional project team across Compliance, Risk, Legal, IT and supply chain, set its deliverables and held contributors to deadlines without direct authority",
+        "Collected, validated and consolidated non-financial data group-wide from SAP and Power BI, and reported results to senior leadership through dashboards"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Served as primary point of contact for 150+ organisations globally, resolving methodology, data-quality and deadline queries",
+        "Handled finance, invoice and payment queries for disclosing companies, and built repeatable processes and controls across organisations of very different size and maturity"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Owned tender, RFP and RFQ responses end to end from the supplier side, setting response strategy, section ownership and submission timelines against hard client deadlines",
+        "Priced bids and set the commercial terms attached to them, with the Excel cost and cash-flow models and scenarios behind each submission",
+        "Automated data processing in Python, cutting manual handling by 40%",
+        "Wrote SQL queries and validation rules for a B2B reporting platform, ran sprint cycles in Jira and documented requirements in Confluence"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Evaluated 53 consortium members across 5 countries, and produced the market sizing and competitive landscape mapping behind partnership decisions"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universität Berlin, Germany",
+      "details": [
+        "Grade 1.6 (Distinction). Coursework in data analysis and statistical methods, SQL, COSO and ISO 31000 risk management"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), five-year professional degree",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": [
+        "Technical coursework: construction technology, building services, contract management"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Indirect Procurement and Sourcing",
+      "items": "Indirect purchasing of services, consultants and subcontract packages, procurement processes from sourcing through contracting to contract execution, supplier mapping, RFX, RFP and RFQ processes, scoping technical and commercial requirements with business stakeholders, supplier qualification and onboarding, approved supplier lists, contract negotiation on price, payment terms and risk coverage, renewals, termination and supplier exit, supplier scorecards and performance reviews, supplier audits, supply chain risk register"
+    },
+    {
+      "category": "Commercial and Data Analysis",
+      "items": "Supplier proposal analysis, cost modelling, cash-flow scenarios and value assessment, risk evaluation, cost, rate and spend analysis, day rate and market benchmarking, cost and budget estimating, pricing and commercial terms, business model analysis covering pricing, margin and unit economics, market sizing and competitive landscape mapping, advanced Excel, SQL, Power BI dashboards"
+    },
+    {
+      "category": "Automation, AI and Systems",
+      "items": "AI workflows and AI-assisted query handling, LLM prompt and retrieval design, Python automation, automation tools and data analytics, digitisation and standardisation of procurement workflows, SOPs and work instructions, SAP and SAP MM purchasing, osapiens, HubSpot and Dynamics 365 CRM, Jira, Confluence, MS Office, MS Teams"
+    },
+    {
+      "category": "Stakeholder and Sustainability",
+      "items": "Cross-functional collaboration and steering without direct authority, business stakeholder engagement, stakeholder reviews and milestone meetings, senior leadership reporting, EMAS, ISO 14001, environmental, health and safety (EHS) and permit registers, annual audit schedules, corrective and preventive actions, continuous environmental improvement, CSDDD and LkSG supply chain due diligence"
+    }
+  ],
+  "certifications": [
+    "Agile - Cognizant",
+    "Introduction to ESG - Corporate Finance Institute (CFI)",
+    "Climate & Sustainability - Boston Consulting Group (BCG)"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional (B2) | Hindi - Native"
+  ],
+  "footer": "Berlin, Germany | Available for onsite work at Gigafactory Berlin-Brandenburg | Immediately available | Valid German work and residence permit | Class B driving licence in progress"
+}

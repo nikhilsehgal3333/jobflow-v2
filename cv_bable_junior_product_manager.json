@@ -1,0 +1,127 @@
+{
+  "company": "BABLE Smart Cities",
+  "role": "(Junior) Product Manager",
+  "format": "preferred",
+  "language": "en",
+  "profile": "Product manager and sustainability consultant with 4+ years across B2B SaaS, environmental data and urban development. Core strengths in product roadmaps and agile product development, translating user research into clear product requirements, and AI-assisted workflows built with Claude. Cut manual data processing by 40% through Python automation on a GRI-aligned B2B ESG reporting platform.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Built a reusable Claude workflow that extracts structured data from client documents, cutting extraction time by 25%+",
+        "Develop IFRS S1 and S2 gap-analysis modules, mapping the disclosure requirements into gap-check logic",
+        "Turn ISO 14067 PCF logic, CSRD/ESRS datapoints and EU product regulation requirements into specs for product modules",
+        "Analyse client datasets in Python and track client KPIs in dashboards to audit-ready standard",
+        "Pilot new data-collection processes with one client before rolling them out across a 4+ client portfolio",
+        "Track metered energy data across 10+ client buildings and set reduction targets",
+        "Direct 6+ analysts at a time and review their deliverables before they reach the client"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Wrote and maintained the product roadmap for a GRI-aligned B2B ESG reporting platform",
+        "Ran 5+ customer interviews and mapped how client teams worked to understand user needs before shaping features",
+        "Translated user needs into clear product requirements, user stories and acceptance criteria in Jira, plus Confluence specs",
+        "Ran sprint cycles with engineers, resolving scope questions in flight and testing releases through UAT",
+        "Took a new product module from concept to first users, then handed it to the permanent team",
+        "Piloted new features with one customer before wider rollout",
+        "Defined product adoption KPIs and tracked feature usage across 5+ client accounts",
+        "Proposed priorities from usage and customer data, and reworked features after release on that feedback",
+        "Cut manual data processing by 40% through Python automation, backed by SQL queries and validation rules",
+        "Raised client usage through training and walkthroughs, and moved one client onto a paid add-on or higher plan",
+        "Took client-reported platform issues to engineering and tracked each one to a fix",
+        "Sized markets and mapped competitive landscapes for the platform"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Scoped and drove an ESG chatbot proof of concept, designing the prompts and retrieval behind it",
+        "Gathered requirements for and configured the osapiens supply-chain platform, loading 500+ suppliers through templates",
+        "Steered a project team across 5 functions (Compliance, Risk, Legal, IT, supply chain), holding contributors to deadlines"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Cut response times by 20%+ as first point of contact for 150+ organisations worldwide",
+        "Validated ESG data on the CDP platform and tracked submission coverage and data quality",
+        "Analysed newly launched questionnaire modules to check that data was captured accurately"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Evaluated 53 consortium members' engagement with the 17 SDGs across 5 countries",
+        "Built partnerships with corporates, governments and NGOs across South Asia"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Architect",
+      "bullets": [
+        "Advised clients across 15+ commercial, hospitality, institutional and residential projects worth over 20M euros",
+        "Led a team of 4 interns on residential projects, from proposal to delivery",
+        "Prepared environmental permit submissions for commercial, retail and mixed-use developments and briefed government authorities"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universität Berlin, Germany",
+      "details": [
+        "Grade 1.6. Thesis: Assessing the Financial Implications of CSRD in the Construction Industry, with survey design and regression analysis in Python",
+        "Coursework included data analysis, statistical methods, SQL and EU building directives"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (5-year professional degree)",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": [
+        "Coursework in land use and urban planning, site and neighbourhood development, and building services"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Product Management",
+      "items": "Digital products and SaaS platforms, product roadmap, agile product development (Scrum), user research and customer interviews, user stories and acceptance criteria, user testing and UAT, product validation pilots, product adoption tracking, continuous improvement after release, stakeholder management, Jira, Confluence"
+    },
+    {
+      "category": "AI Tools and Automation",
+      "items": "Claude in daily use for research, analysis and drafting, AI-assisted workflows (reusable Claude workflows for document data extraction), Claude Agent SDK (hands-on), LLM-based extraction, prompt and retrieval design, small tools built with AI coding assistants, Python process automation"
+    },
+    {
+      "category": "Data and Databases",
+      "items": "SQL queries and validation rules, Python dataset analysis with tests, data quality checks, Excel models, Power BI, CRM reports and dashboards (HubSpot, Dynamics 365)"
+    },
+    {
+      "category": "Domain and Stakeholders",
+      "items": "B2B SaaS, ESG and sustainability data platforms, smart-building and real estate data, urban development and masterplanning, public sector counterparts (municipalities, regional authorities), innovation ecosystem stakeholders (accelerators, innovation hubs), corporates, NGOs and partners, technical and non-technical teams"
+    }
+  ],
+  "certifications": [
+    "Agile - Cognizant",
+    "Climate & Sustainability - Boston Consulting Group (BCG)",
+    "Climate Change & Sustainability - EY"
+  ],
+  "languages": [
+    "English - fluent (C1) | German - professional working proficiency (B2) | Hindi - native"
+  ],
+  "footer": "Valid German work and residence permit | Based in Berlin, open to relocation to Stuttgart | Available immediately"
+}

@@ -1,0 +1,26 @@
+{
+  "recipientAddress": [
+    "A.T. Kearney P/S",
+    "Sankt Annæ Plads 13",
+    "1250 København K",
+    "Denmark"
+  ],
+  "salutation": "Dear Hiring Manager,",
+  "intro": "Kearney's Nordic practice carries a depth in procurement and supply chain that few strategy houses can match, built out through the acquisition of Prokura. That is the part of the firm my own work runs closest to. For the last four years I have advised clients in building materials, industrial and automotive sectors on the commercial consequences of regulatory and supply chain change, sizing what a shift costs them market by market and putting the recommendation in front of the people who decide.",
+  "experiences": "My consulting has come from an advisory practice focused on regulation and its commercial consequences rather than from a strategy house, and the substance has been analytical throughout. At KarbonWise I size markets, map competitive landscapes and model client cost exposure market by market, and I have carried tender and RFP responses end to end from response strategy through pricing to submission. At the Global Reporting Initiative I evaluated 53 organisations against 17 SDGs across five countries and chaired the member forum that ran alongside it. At CDP Worldwide I was the primary point of contact for more than 150 organisations through a full reporting cycle.",
+  "skills": [
+    {
+      "name": "Market and Competitor Assessment",
+      "body": "The first responsibility in the posting is conducting market and competitor assessments and developing insights, which is the core of what I did at KarbonWise. A client was weighing entry into a segment it had not operated in, and the internal view was split, with no sizing of the opportunity and no picture of who already held the space. I sized the market and the addressable segment within it, mapped the competitive landscape and benchmarked the incumbents on positioning and pricing, then worked through the business models underneath to establish where value was created rather than where revenue appeared. The go/no-go decision turned on that analysis, and the client had a defensible basis for the call instead of a divided room."
+    },
+    {
+      "name": "Turning Analysis into Recommendations Decision Makers Act On",
+      "body": "Supporting workstreams through to client recommendations depends on the analysis surviving contact with the people who act on it, which was my position at TUI AG. The group was being assessed by several investor rating agencies at once, each with its own methodology and evidence expectations, and senior leadership was receiving scores without an account of what drove them. I benchmarked five methodologies, including S&P CSA, Sustainalytics, MSCI and ISS, and set out where the group sat against peer practice on each, then steered a cross-functional team across Compliance, Risk, Legal, IT and supply chain without line authority over any of them. Leadership received the analysis with the recommendations attached and could see which gaps were worth closing first."
+    }
+  ],
+  "extraParagraphs": [
+    "On the one point where my profile differs from the brief: my consulting years have been spent in an advisory practice rather than at a strategy firm, which has meant narrower industry exposure than a Kearney consultant of the same tenure would have. It has not meant different work. Sizing markets, assessing competitors, modelling what a decision costs, structuring recommendations for people senior to me and owning the proposal that won the engagement have been the substance of my last four years. I am Berlin-based with a valid German work and residence permit and open to relocating to Copenhagen. My CV and academic transcripts are attached."
+  ],
+  "closing": "I would welcome the chance to discuss how this background could contribute to the Copenhagen team.",
+  "signoff": "Sincerely,"
+}

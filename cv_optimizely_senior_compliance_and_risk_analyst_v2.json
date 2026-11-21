@@ -1,0 +1,123 @@
+{
+  "company": "Optimizely",
+  "role": "Senior Compliance and Risk Analyst",
+  "format": "preferred",
+  "language": "en",
+  "profile": "Sustainability and compliance professional with over four years in ESG reporting, ESG ratings and regulatory compliance across a listed tourism group, a B2B SaaS platform and consultancy clients. Covers CSRD, CDP and GRI disclosure, rating agency and customer ESG questionnaires, internal controls and assurance evidence, and GDPR operations including RoPA, DSARs and DPA review. Cut Scope 3 data collection time by 10%+ by building collection templates, supplier data requests and data quality checks.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Prepare GRI-referenced sustainability reports for clients, building the content index and taking content and data through to sign-off",
+        "Answer customer and retail-partner ESG questionnaires, supplying the product footprints and ESG data clients' customers request",
+        "Drafted a client's CDP climate response",
+        "Keep a regulatory tracker on CSRD, ESRS and EU Taxonomy by status, deadline and client impact, now covering Omnibus I and ESRS Set 2",
+        "Update Records of Processing Activities and data maps, process DSARs and review data processing agreements under GDPR",
+        "Developed a sustainability strategy and target system with a client's management team",
+        "Calculate Scope 1, 2 and 3 corporate carbon footprints on GHG Protocol methodology, directing 6+ analysts across engagements"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Aligned disclosures with ESRS E1 for the group's CSRD preparation, assessing SBTi and TCFD statements with the disclosure team",
+        "Answered rating agency and investor ESG questionnaires and drafted the group's CDP climate response",
+        "Compared 4 ESG rating methodologies (S&P, Sustainalytics, MSCI, ISS) against the group's operations and regulatory requirements",
+        "Consolidated GHG emissions and ESG data from group entities in SAP and calculated EU Taxonomy turnover, CapEx and OpEx KPIs from finance data",
+        "Designed internal controls for sustainability reporting and prepared the assurance working papers the external provider tested",
+        "Steered a cross-functional project team across 5 functions (Compliance, Risk, Legal, IT, supply chain), holding contributors to deadlines",
+        "Presented regulatory developments and recommendations to senior leadership and the sustainability steering committee"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Served as primary contact for 150+ disclosing organisations worldwide, cutting response times by 20%+",
+        "Validated ESG data on the CDP platform and tracked submission coverage and data quality"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Wrote privacy and data-protection requirements into user stories and specifications for engineers",
+        "Ran sprint cycles in Jira and took client-reported platform issues to engineering, tracking each to a fix",
+        "Cut manual data processing by 40% through Python automation and SQL validation rules on a B2B ESG SaaS platform"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Evaluated 53 consortium members' engagement with 17 SDGs across 5 countries",
+        "Presented the GRI Standards at 3 stock exchanges (Bombay, Colombo, Dhaka)"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Architect",
+      "bullets": [
+        "Hosted external auditors and certification bodies through third-party audits, driving corrective and preventive actions to verified closure",
+        "Planned the annual audit schedule and tracked QHSE findings to closure in an online reporting system",
+        "Kept a project risk list with owners and countermeasures, working within an ISO 9001 quality management system"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universität Berlin, Germany",
+      "details": [
+        "Grade 1,6 (good). Coursework in risk management (COSO, ISO 31000), environmental law, IFRS and accounting, data analysis",
+        "Thesis on the financial implications of CSRD in the construction industry, using survey design and regression analysis in Python"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), five-year professional degree",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": []
+    }
+  ],
+  "skills": [
+    {
+      "category": "ESG Reporting and Ratings",
+      "items": "CSRD and ESRS (incl. Omnibus I and ESRS Set 2), GRI Standards, CDP, TCFD, SBTi, EU Taxonomy, VSME, GHG Protocol Scope 1-3, ESG rating methodologies (S&P CSA, MSCI, Sustainalytics, ISS), customer ESG questionnaires, ESG programme roadmaps and target systems, ESRS S1 workforce metrics"
+    },
+    {
+      "category": "Compliance, Risk and Audit",
+      "items": "Internal controls for reporting, assurance evidence and working papers, external auditor and certification body liaison, internal audit participation (ISO 14001), corrective action tracking, risk registers, regulatory monitoring, process documentation"
+    },
+    {
+      "category": "Data Privacy",
+      "items": "GDPR, Records of Processing Activities (RoPA), data mapping and personal data inventories, DSAR handling, DPA review, privacy requirements in product specifications"
+    },
+    {
+      "category": "Systems and Tools",
+      "items": "SAP, osapiens, Jira, Confluence, SharePoint, Power BI, SQL, Python, HubSpot, Microsoft Dynamics 365, Microsoft 365, AI tools (Claude)"
+    },
+    {
+      "category": "Ways of Working",
+      "items": "Cross-functional work with product, engineering, legal, finance and HR, SaaS product delivery (sprints, user stories, UAT), multiple concurrent workstreams, senior leadership communication"
+    }
+  ],
+  "certifications": [
+    "Climate-related Financial Disclosures - CDP",
+    "Climate Change & Sustainability - EY",
+    "Agile - Cognizant"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional (B2) | Hindi - Native"
+  ],
+  "footer": "Valid German work and residence permit | Based in Berlin, Germany | Available immediately"
+}

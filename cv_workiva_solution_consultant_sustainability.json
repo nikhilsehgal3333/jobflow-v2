@@ -1,0 +1,126 @@
+{
+  "company": "Workiva",
+  "role": "Solution Consultant - Sustainability",
+  "format": "workday",
+  "language": "en",
+  "profile": "Sustainability consultant with 4+ years across ESG reporting advisory, B2B software pre-sales and platform implementation. Pairs solution discovery, live demos and priced proposals with hands-on CSRD/ESRS reporting, EU Taxonomy KPIs, internal controls and Scope 1-3 carbon accounting. Cut manual data processing on a GRI-aligned reporting platform by 40% through Python automation.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Led a client's CSRD double materiality assessment through ESRS datapoint mapping to management sign-off",
+        "Deliver carbon accounting across Scope 1, 2 and 3 under the GHG Protocol, with LCA and footprint work for 4+ B2B clients",
+        "Pilot new data-collection processes with one client or product line before portfolio rollout",
+        "Coach client teams on reporting requirements, methodologies and data governance",
+        "Model EPR fee and cost exposure market by market in Excel for packaging clients"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Implemented osapiens for CSDDD and LkSG due diligence: gathered the group's requirements, configured the platform and loaded cleansed data for 500+ suppliers",
+        "Built and steered a 5-function project team across Compliance, Risk, Legal, IT and supply chain",
+        "Assessed EU Taxonomy eligibility and alignment, then calculated the turnover, CapEx and OpEx KPIs from finance data",
+        "Aligned group CSRD reporting with ESRS E1 alongside the senior disclosure team, and mapped disclosures to the ESRS XBRL taxonomy in Excel",
+        "Consolidated and validated non-financial KPIs across 5+ group entities in SAP and Power BI",
+        "Designed internal controls over sustainability reporting, and prepared the working papers and audit trails the external assurance provider tested",
+        "Scoped and drove an LLM assistant for CSRD and ESRS queries to proof of concept, designing its prompts and retrieval",
+        "Presented regulatory analysis to senior leadership and the sustainability steering committee"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Served as primary contact for 150+ organisations globally, owning their onboarding and support",
+        "Validated disclosure data on the CDP platform, tracking submission coverage and data quality against deadlines",
+        "Held feedback calls with disclosing and prospective organisations and logged them in HubSpot"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Demoed a B2B ESG reporting platform live to prospects, built custom demos for specific use cases, and trained client users after signing",
+        "Authored the technical and methodology sections of 5+ tender, RFP and proposal responses, turning platform capability into client-facing narrative",
+        "Priced bids and set their commercial terms, with Excel cost models and cash-flow scenarios behind each submission",
+        "Carried 5+ client accounts against renewal, upsell and expansion targets, with weekly pipeline forecasts in Dynamics 365",
+        "Ran win/loss reviews on closed deals, then reset qualification and response tactics",
+        "Answered enterprise security and vendor due-diligence questionnaires, and contributed to the ISO 27001 ISMS behind them",
+        "Took new platform features from requirements gathering through UAT, with user stories in Jira",
+        "Cut manual data processing by 40% through Python automation, and wrote the platform's SQL validation rules"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Trained companies on the GRI Standards at 3 stock exchanges: Bombay, Colombo and Dhaka",
+        "Chaired recurring meetings of a 53-member consortium across 5 countries, and identified new revenue opportunities for GRI South Asia"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Selected and managed a team of 4 interns, and advised on 15+ projects worth 20M+ euros"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universität Berlin, Germany",
+      "details": [
+        "Grade 1,6 (good). Thesis on the financial implications of CSRD in the construction industry, using survey design and regression analysis in Python",
+        "Coursework: data analysis, statistical methods, SQL, COSO and ISO 31000 risk frameworks"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), five-year professional degree",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": []
+    }
+  ],
+  "skills": [
+    {
+      "category": "ESG Reporting Frameworks and Carbon Accounting",
+      "items": "CSRD and ESRS (E1, S1, G1), double materiality, ESRS XBRL taxonomy mapping, EU Taxonomy eligibility, alignment and KPIs, GRI report preparation and content index, ISSB, TCFD, CDP, GHG Protocol Scope 1, 2 and 3, PCF and CCF, CSDDD and LkSG, SBTi"
+    },
+    {
+      "category": "Pre-Sales and Solution Delivery",
+      "items": "Solution discovery, customer technical requirements, value presentations, live and custom software demos, tender, RFP and proposal responses, bid pricing and commercial terms, cost and cash-flow models, pipeline development and forecasting, account and relationship management, renewals, upsell and expansion opportunities, win/loss reviews and deal qualification, market sizing, pitch decks"
+    },
+    {
+      "category": "Platforms, Data and AI",
+      "items": "osapiens configuration and supplier data loading, SAP, business intelligence (Power BI), SQL, automated workflows and data curation with Python and SQL validation rules, ESG data management, Excel, Dynamics 365, HubSpot, Jira, Confluence, OneClick LCA, practical AI applications (LLM prompt and retrieval design, AI tools for analysis and prototyping), Microsoft 365, Google Workspace"
+    },
+    {
+      "category": "Governance, Risk and Compliance (GRC)",
+      "items": "Internal controls over sustainability reporting, SOPs and RACI, assurance working papers and audit trails, limited and reasonable assurance, management report checks against consolidated figures, supply chain risk register, ISO 27001 ISMS, OneTrust, Conveyor"
+    },
+    {
+      "category": "Client Engagement",
+      "items": "Senior stakeholder and client-facing presentations, distilling complex technical topics into business value, domain knowledge training for internal and external audiences, customer onboarding, cross-functional project leadership, project and time management, Agile delivery"
+    }
+  ],
+  "certifications": [
+    "ISO 27001 Lead Auditor / Lead Implementer",
+    "Climate-related Financial Disclosures - CDP",
+    "Introduction to ESG - Corporate Finance Institute (CFI)"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional (B2) | Hindi - Native"
+  ],
+  "footer": "Based in Berlin | Open to up to 30% travel | Available immediately | Valid German work and residence permit"
+}

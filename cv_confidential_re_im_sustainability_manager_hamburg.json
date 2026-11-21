@@ -1,0 +1,124 @@
+{
+  "profile": "Sustainability professional with six years across real estate, the built environment and corporate ESG, covering asset-level performance, operational decarbonisation and European regulatory compliance. Combines CRREM stranding and transition-risk analysis, EPBD and GEG compliance and metered consumption data with commercial energy audits and LEED and WELL gap analysis. Delivered EU Taxonomy alignment and CSRD reporting at a DAX-listed group, consolidating non-financial data across multiple functions and legal entities to a standard that held under third-party assurance.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd.",
+      "location": "Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Run CRREM analyses across Middle Eastern real estate portfolios against 1.5 and 2 degree pathways, and set out the decarbonisation route each asset needs to stay aligned",
+        "Assess asset energy performance against EPBD and GEG requirements using Predium and metered consumption data, then specify the retrofit and operational measures that close the gap",
+        "Advise clients on EU sustainability regulation and the compliance pathways behind it, including EU Taxonomy criteria applied to real estate activities",
+        "Manage ESG data collection, validation and reporting across Scope 1, 2 and 3 on GHG Protocol methodology, and produce corporate and product carbon footprints for gypsum, insulation, cement and facade manufacturers",
+        "Track sustainability KPIs to an audit-ready standard and build the client dashboards that show performance against target",
+        "Coach client teams on sustainability methodology, reporting obligations and data governance so technical output reaches the people making asset decisions"
+      ]
+    },
+    {
+      "company": "TUI AG",
+      "location": "Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Delivered EU Taxonomy eligibility and alignment assessments across group activities, with the evidence and documentation behind each economic-activity classification",
+        "Collected, validated and consolidated non-financial metrics group wide across multiple functions and legal entities in SAP and Power BI, and built the ESG dashboards senior teams reviewed",
+        "Aligned CSRD reporting with ESRS E1 alongside the senior disclosure team, and coordinated with audit partners on the evidentiary documentation behind third-party assurance",
+        "Set annual ESG targets and data collection cycles, tracked attainment against reduction pathways, and prepared CDP and TCFD-aligned climate disclosure",
+        "Supported ESG due diligence on a corporate transaction and structured the sustainability data and regulatory exposure the reviewing team worked from",
+        "Implemented CSDDD and LkSG human rights due diligence on osapiens, and delivered the supporting ISO 14001 and human rights e-learning modules through the SAP LMS",
+        "Presented analysis and regulatory developments to senior leadership, and answered investor and rating agency questionnaires across five methodologies including S&P CSA, Sustainalytics, MSCI and ISS"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd.",
+      "location": "Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Conducted energy audits and environmental compliance assessments on commercial buildings and IT parks, covering HVAC systems, building envelope and metered consumption",
+        "Mapped project designs against LEED, WELL and GRIHA credit requirements through structured gap analysis, and set out what each certification route demanded",
+        "Prepared the technical and financial evaluations and cost estimates behind client go-ahead on 15+ commercial, hospitality, institutional and residential projects worth over 20 million euros",
+        "Supported site acquisition and leasing on commercial and retail schemes, coordinated with brokers, landlords and property owners, and tracked lease terms, renewals and key dates",
+        "Directed a team of four through masterplanning and Quartiersentwicklung on new-build and redevelopment schemes, and contributed to the investment cases and internal approval documents behind them"
+      ]
+    },
+    {
+      "company": "CDP Worldwide",
+      "location": "Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Served as primary point of contact for more than 150 organisations globally, resolving GHG accounting, disclosure and platform queries",
+        "Owned ESG data collection, validation and management on the CDP platform, and tracked submission coverage and data quality across a global disclosure cycle",
+        "Established repeatable data processes and controls that held across organisations of widely differing size, sector and reporting maturity"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd.",
+      "location": "Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Built the data systems behind a GRI-aligned sustainability reporting platform, writing SQL queries and validation rules that caught errors before they reached client reports",
+        "Automated reporting workflows in Python, cutting manual data processing by 40 percent"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI)",
+      "location": "New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Evaluated 53 consortium members against the 17 Sustainable Development Goals across five countries, and chaired the recurring member meetings that turned findings into agreed actions",
+        "Presented GRI Standards at the Bombay, Colombo and Dhaka stock exchanges"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master's Degree), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universitat Berlin, Germany",
+      "details": [
+        "Grade 1.6 (Distinction). Thesis on the financial implications of CSRD in the construction industry",
+        "Coursework: energy audits, GEG regulation, EU building directives (EPBD), ISO 50001, Life Cycle Assessment, DGNB, environmental law, data analysis"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), 5-year professional degree",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": [
+        "Coursework: energy systems, building services, building physics, environmental control systems, construction technology, land use and urban planning, contract management"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Real Estate and Building Performance",
+      "items": "CRREM stranding and transition risk, EPBD and GEG compliance, energy audits, metered consumption data, Predium, HVAC and building envelope, retrofit and decarbonisation roadmaps, embodied carbon, EU Taxonomy for real estate, LEED / WELL / GRIHA gap analysis, DGNB (MBA coursework), masterplanning and Quartiersentwicklung, leasing and site acquisition support, Revit, AutoCAD"
+    },
+    {
+      "category": "Carbon Accounting and Climate Risk",
+      "items": "GHG Protocol Scopes 1, 2 and 3, corporate and product carbon footprints, Life Cycle Assessment (ISO 14040 / 14044 / 14067), EN 15804 and ISO 14025 EPD, OneClick LCA, CRREM 1.5 and 2 degree scenarios, transition risk, net zero and decarbonisation pathways, TCFD, CDP, SBTi"
+    },
+    {
+      "category": "Regulation, Reporting and Assurance",
+      "items": "CSRD and ESRS, EU Taxonomy, CSDDD and LkSG human rights due diligence, GRI Standards, ISO 14001 and 50001, third-party assurance evidence, internal control systems, annual sustainability reporting, EPR and PPWR waste regulation, SFDR (regulatory monitoring)"
+    },
+    {
+      "category": "Data, Systems and Stakeholders",
+      "items": "ESG data collection, validation and governance, SQL, Python, Power BI dashboards, SAP, Excel modelling, KPI definition and target setting, osapiens, EcoVadis, S&P CSA / MSCI / ISS / Sustainalytics, senior leadership and investor communication, multi-jurisdiction and cross-functional delivery, client advisory and training"
+    }
+  ],
+  "certifications": [
+    "Understanding Climate-related Financial Disclosures - CDP",
+    "Introduction to Scenario Analysis - CDP",
+    "Climate Change and Sustainability - EY"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional (B2) | Hindi - Native"
+  ],
+  "footer": "Berlin, Germany | Open to relocating to Hamburg and travelling to sites across Europe | Available immediately | Valid German work and residence permit"
+}

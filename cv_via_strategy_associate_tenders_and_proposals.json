@@ -1,0 +1,119 @@
+{
+  "company": "Via",
+  "role": "Strategy Associate Tenders and Proposals",
+  "format": "preferred",
+  "language": "en",
+  "profile": "Proposal and project specialist with six years across consulting, corporate strategy and B2B commercial teams, including end-to-end ownership of tender and RFP submissions for public-sector and enterprise buyers. Screens incoming opportunities, convenes the cross-functional review behind each pursue-or-pass decision, and keeps documentation, approvals and signatures on track to the submission deadline. Established the reusable content library and proposal templates behind a B2B platform's bids, cutting turnaround on repeat responses and holding messaging consistent across every contributor.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Advise enterprise clients on EU regulatory obligations and the compliance pathways behind them",
+        "Model EPR fee and packaging cost exposure by market in Excel, and convert regulatory obligation into figures a management team can decide on",
+        "Document the data-collection procedures and work instructions that keep delivery repeatable, and pilot each new process on one client before extending it across the portfolio"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Built and steered a cross-functional project team across Compliance, Risk, Legal, IT and supply chain, setting the deliverables and holding contributors to agreed deadlines",
+        "Coordinated regulatory implementation directly with international group subsidiaries, chased outstanding input across markets and tracked completion entity by entity",
+        "Designed the process documentation, SOPs and work instructions behind group reporting requirements, and defined who owned what across functions and entities",
+        "Presented analysis and regulatory developments to senior leadership and produced the decision papers carrying the recommendations",
+        "Collected, validated and consolidated non-financial metrics group-wide from multiple functions and entities using SAP and Power BI"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Served as primary point of contact for 150+ organisations globally, resolving methodology, data-quality, deadline and invoicing queries through a full disclosure cycle",
+        "Standardised repeatable processes and controls that held across organisations of very different size, sector and data maturity",
+        "Logged customer records and interactions in HubSpot, and ran feedback calls with disclosing and prospective organisations"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Owned end-to-end proposal submissions for public-sector and enterprise buyers, led proposal kickoffs, aligned stakeholders on section ownership and kept every workstream on track through submission",
+        "Scouted tender opportunities against capability, commercial fit and deadline feasibility, then screened and qualified which ones to pursue",
+        "Convened the internal review process behind each pursue-or-pass decision, gathered commercial, technical and delivery input, and presented the case to decision makers",
+        "Drafted and distributed responses to bidder questions during live bidding windows, with the technical input each clarification required",
+        "Pulled together documentation, approvals and authorised signatures every submission depended on, and tracked each against a fixed deadline",
+        "Established a reusable content library, proposal templates and pitch decks that cut turnaround on repeat bids, and ensured critical documents remained current and accessible for every contributor",
+        "Authored the technical and methodology sections of proposals and recast platform capability as client-facing narrative",
+        "Maintained a live overview of the opportunity pipeline, partnerships and project history in Dynamics 365, and forecast revenue weekly against renewal and growth targets"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Chaired recurring meetings of a 53-member consortium, facilitated between differing mandates and drove agreed actions to closure",
+        "Delivered GRI Standards sessions at the Bombay, Colombo and Dhaka stock exchanges, and built partnerships with corporates, government bodies and NGOs across five countries"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Led a team of 4 across 15+ projects worth 20M+ euros from proposal through delivery, and consolidated specialist consultant inputs into single client submissions",
+        "Briefed government authorities on a public-sector development and prepared the technical and financial evaluations behind client approval"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universität Berlin, Germany",
+      "details": [
+        "Grade 1.6 (Distinction). Thesis on the financial implications of EU regulation in the construction industry, built on survey design and quantitative analysis",
+        "Coursework: data analysis and statistical methods, contract management, environmental law"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), five-year professional degree",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": [
+        "Coursework: contract management, land use and urban planning, construction technology"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Tender and Proposal Management",
+      "items": "End-to-end ownership of the tender, RFP and proposal lifecycle, opportunity scouting and qualification, internal review and pursue-or-pass decisions, proposal kickoffs and stakeholder alignment, response strategy, section ownership, submission timelines and compliance checks, bidder questions and clarifications, approvals and authorised signatures, administrative document library, reusable content library, proposal templates and pitch decks, win/loss reviews, bid pricing and commercial terms, public-sector and enterprise tenders, RFQ responses"
+    },
+    {
+      "category": "Project and Stakeholder Coordination",
+      "items": "End-to-end project management, multiple concurrent workstreams and deadlines, bringing structure to complex multi-party processes, cross-functional teams across Legal, Finance, IT, Risk and Compliance, deadline management across entities and geographies, escalation and persistent follow-up, senior stakeholder and executive communication, matrix organisations, agile delivery and sprint cycles"
+    },
+    {
+      "category": "Documentation and Process Control",
+      "items": "Document library ownership and version control, critical document tracking, process documentation, SOPs and work instructions, roles and responsibilities definition, internal control design, audit-ready evidence, training and e-learning rollout"
+    },
+    {
+      "category": "Systems and Analysis",
+      "items": "Dynamics 365, HubSpot, SAP, Power BI, Microsoft 365, Google Workspace (Sheets and Slides), Excel cost and cash-flow modelling, pipeline and revenue forecasting, SQL, Python, KPI dashboards"
+    }
+  ],
+  "certifications": [
+    "Agile Methodology - Cognizant",
+    "Climate & Sustainability - Boston Consulting Group (BCG)"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional (B2) | Hindi - Native"
+  ],
+  "footer": "Berlin, Germany | Immediately available | Valid German work and residence permit"
+}

@@ -1,0 +1,122 @@
+{
+  "company": "Tesla",
+  "role": "Associate Logistics Engineer",
+  "format": "preferred",
+  "language": "en",
+  "contact": {
+    "location": "Berlin, Germany",
+    "phone": "+49 172 6568115",
+    "email": "nikkhilsehgal@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/nikhil-sehgal-a68577146/"
+  },
+  "profile": "Project delivery professional with six years planning material flow, layouts and logistics across active industrial and construction sites. Draws layouts in AutoCAD and Revit, sets storage, staging and the routing materials take from gate to work face, and manages multiple projects, budgets and timelines in Primavera P6 and MS Project alongside interfacing departments and external vendors. Optimised an existing data process through Python automation, cutting manual handling by 40%.",
+  "experience": [
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Planned material flow concepts across active sites and drew the layouts in AutoCAD and Revit, setting storage and staging areas, circulation, access routes and service distribution across 15+ projects worth 20M+ euros",
+        "Set the routes materials took from gate to work face and between trades, and sequenced deliveries, plant and subcontractor access so one activity did not block the next",
+        "Optimised recurring site processes by moving audit findings, NCRs and compliance actions off paper and onto a QHSE reporting system as tracked workflows, each driven to verified closure",
+        "Managed project budgets and timelines, building and maintaining the programmes in Primavera P6 and MS Project with work breakdown, activity logic and milestones, and tracking earned value against planned progress",
+        "Ran critical path and what-if analysis on live programmes, revised forecasts against reported progress and issued short-term look-ahead schedules to site teams",
+        "Conceptualised and specified building services and equipment requirements with specialist suppliers, and maintained the equipment register with servicing, test intervals and certificate expiry tracked to closure",
+        "Implemented plans with all interfacing disciplines and external vendors, bringing civil, structural, MEP and specialist consultants into consolidated technical submissions",
+        "Loaded manpower and equipment resources into programmes, validated durations and productivity assumptions against cost estimates, and managed a team of 4 across concurrent projects"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Coordinate reverse logistics with recycling partners and waste contractors, tracking collected volumes, treatment routes and turnaround against the data behind each movement",
+        "Advise automotive component suppliers and industrial manufacturers on product and process requirements across their manufacturing footprint"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Prepared and validated master data group-wide, consolidating figures from SAP across several divisions and legal entities into a single reporting structure",
+        "Implemented a group platform rollout across international subsidiaries, standardising a manual process and specifying the data structures behind it",
+        "Built and steered a cross-functional project team across Compliance, Risk, Legal, IT and supply chain, set its deliverables and held contributors to deadlines without direct authority",
+        "Wrote the process documentation, data-collection procedures and work instructions behind each requirement, and reported progress through Power BI dashboards"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Optimised an existing data process by automating it in Python, cutting manual handling by 40%",
+        "Wrote SQL queries and validation rules for a B2B platform, catching incomplete and implausible entries before they reached reporting",
+        "Managed the product lifecycle from concept to implementation, gathering requirements from users, running UAT and driving sprint cycles in Jira",
+        "Priced and delivered project packages against hard client deadlines, with the Excel cost and cash-flow models behind each"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Served as primary point of contact for 150+ organisations globally, resolving methodology, data-quality and deadline queries",
+        "Built repeatable processes and controls across organisations of very different size and operating maturity"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Evaluated 53 consortium members across 5 countries, producing the market sizing and competitive landscape analysis behind partnership decisions"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universität Berlin, Germany",
+      "details": [
+        "Grade 1.6 (Distinction). Coursework in data analysis and statistical methods, SQL, energy systems and ISO 31000 risk management"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), five-year professional degree",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": [
+        "Technical coursework: construction technology, building services, building physics, land use and site planning, contract management"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Layout and Facility Planning",
+      "items": "AutoCAD, Revit, SketchUp, Bluebeam, material flow concepts, routing and layouts, layouts and general arrangement drawings, circulation, access and service routing, laydown, storage and staging area planning, equipment planning and specification, site and masterplanning, space planning, 3D modelling and visualisation, Rhino and Grasshopper"
+    },
+    {
+      "category": "Logistics and Project Delivery",
+      "items": "Site logistics and delivery sequencing, project management in a logistics and site delivery environment, managing multiple projects and priorities at once, plant and equipment coordination, project budgets and timelines, Primavera P6, MS Project, CPM and critical path analysis, what-if scenarios, look-ahead schedules, baseline maintenance, resource and manpower loading, earned value, implementation with interfacing departments and external vendors, Aconex and Oracle Unifier"
+    },
+    {
+      "category": "Process, Data and Systems",
+      "items": "Process optimisation and standardisation, continuous improvement, SOPs and work instructions, master data preparation and validation, SQL validation rules, Python automation, Power BI dashboards, SAP and SAP MM purchasing, advanced Excel, Jira, Confluence, MS Office, MS Teams"
+    },
+    {
+      "category": "Site Operations and Compliance",
+      "items": "Site audits, toolbox talks and risk assessments, NCRs and corrective and preventive actions, equipment registers with test intervals and certificate expiry, permit and hazardous substance registers, PPE management, EMAS, ISO 14001, English (C1) and German (B2)"
+    }
+  ],
+  "certifications": [
+    "Agile - Cognizant",
+    "Climate & Sustainability - Boston Consulting Group (BCG)"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional (B2) | Hindi - Native"
+  ],
+  "footer": "Berlin, Germany | Available for onsite work at Gigafactory Berlin-Brandenburg | Immediately available | Valid German work and residence permit | Class B driving licence in progress"
+}

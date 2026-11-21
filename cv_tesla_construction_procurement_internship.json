@@ -1,0 +1,122 @@
+{
+  "company": "Tesla",
+  "role": "Construction Procurement Internship",
+  "format": "preferred",
+  "language": "en",
+  "profile": "Architecture and sustainability professional with over five years across construction projects, supplier management and data analysis. Core strengths in buyer-side construction procurement from sourcing to contracting, supplier proposal and spend analysis, and process automation with Python, Power BI and AI tools. Reduced manual data processing by 40% by automating a B2B reporting platform's data handling in Python.",
+  "experience": [
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Architect",
+      "bullets": [
+        "Drafted tender documents for subcontract and consultant packages, writing the scope and green-building requirements into the specifications",
+        "Built supplier long lists for packages, then qualified and onboarded new vendors onto the approved supplier list",
+        "Compared contractor and supplier quotes side by side and checked supplier risk before award to secure best price on tendered packages",
+        "Negotiated supplier contracts on price, payment terms and risk coverage, and handled renewals and the exit of non-performing suppliers",
+        "Analysed spend from invoices and cost reports, and tracked actual cost against project budgets with variance reporting",
+        "Checked vendor invoices against agreed work, approved them for payment and resolved discrepancies with vendors",
+        "Tracked 20+ contractors and vendors across 6+ sites against SLAs and KPIs",
+        "Scheduled inbound material deliveries to site and arranged shipments with 6+ carriers and freight forwarders",
+        "Prepared cost and budget estimates and technical and financial evaluations for 15+ projects worth 20M+ euros, and supported the investment cases behind client approval"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Model EPR fee and cost exposure market by market in Excel, turning packaging obligations into figures for client decisions",
+        "Cut Scope 3 data collection time by 10%+ with new templates, supplier data requests, data quality checks and an Excel calculation model",
+        "Request material-level data from suppliers to build BOM-based product carbon footprints for manufactured goods",
+        "Write the storyline for client decks and present quantified findings to client senior leadership",
+        "Plan the work of 6+ analysts across client projects and track hours and fees against budget, and flag overruns early",
+        "Pilot new data-collection processes with one client before rolling them out across the portfolio"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Improved and updated the group's supplier risk management tool with the responsible team",
+        "Initiated an ESG chatbot for decision support and designed the prompts and retrieval behind it",
+        "Consolidated and validated ESG data from group entities in SAP"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Served as first point of contact for 150+ organisations and cut response times by 20%+",
+        "Resolved finance, invoice and payment queries for disclosing companies"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Cut manual data handling by 40% through Python automation, and wrote SQL queries and validation rules",
+        "Gathered requirements from users and business stakeholders, wrote specifications and user stories in Confluence and Jira, and tested releases through UAT",
+        "Ran 5+ tender and RFP responses from the supplier side, pricing each bid with Excel cost and cash-flow models"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Sized markets and mapped competitive landscapes across 3 South Asian countries",
+        "Evaluated 53 consortium members' engagement with 17 SDGs across 5 countries"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universität Berlin, Germany",
+      "details": [
+        "Grade 1.6. Thesis on the financial implications of CSRD in the construction industry, with survey design and regression analysis in Python",
+        "Coursework: accounting and IFRS, data analysis, statistical methods, SQL, risk management (COSO, ISO 31000)"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (5-year professional degree)",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": [
+        "Coursework: construction technology, building materials, building services, contract management"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Procurement and Sourcing",
+      "items": "Procurement processes (sourcing, contracting, P2P invoice checks), RFX process from supplier mapping to contract award, RFQ and scope-of-work preparation, supplier long lists, vendor qualification and onboarding, bid comparison, supplier risk checks, contract negotiation (price, payment terms, risk coverage), renewals and supplier exit, invoice checks against agreed work, SLA and KPI tracking, contractor and day-rate benchmarking, supplier-side RFPs and PQQs"
+    },
+    {
+      "category": "Commercial and Data Analysis",
+      "items": "Spend analysis, cost modelling and cash-flow scenarios in Excel, cost and budget estimates, budget-versus-actual and variance tracking, market sizing and competitive benchmarking, SQL, Power BI reports"
+    },
+    {
+      "category": "Automation and AI",
+      "items": "AI workflows and AI-enabled tools (Claude in daily use, small working tools built with AI coding assistants), LLM prompt and retrieval design, Python automation and data processing, process piloting and standardisation, cross-functional collaboration, Jira, Confluence"
+    },
+    {
+      "category": "Construction and Systems",
+      "items": "Working drawing sets, structural and MEP drawing coordination, Revit, AutoCAD, Oracle Primavera P6, MS Project, SAP, SAP MM purchasing, MS Office, site EHS (toolbox talks, risk assessments, NCRs), EMAS"
+    }
+  ],
+  "certifications": [
+    "Agile - Cognizant",
+    "Climate & Sustainability - Boston Consulting Group (BCG)",
+    "Climate Change & Sustainability - EY"
+  ],
+  "languages": [
+    "English - fluent (C1) | German - professional working proficiency (B2) | Hindi - native"
+  ],
+  "footer": "Valid German work and residence permit | Berlin-based, available for onsite work at Gigafactory Berlin-Brandenburg | Available immediately"
+}

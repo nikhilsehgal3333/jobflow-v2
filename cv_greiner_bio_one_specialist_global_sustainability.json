@@ -1,0 +1,120 @@
+{
+  "company": "Greiner Bio-One",
+  "role": "Specialist Global Sustainability",
+  "format": "preferred",
+  "language": "en",
+  "profile": "Sustainability professional with 4+ years across corporate ESG reporting, LCA and sustainability steering in group and consulting settings. Coordinates sustainability data, KPIs and initiatives between corporate functions and group entities, communicates sustainability priorities to senior management, and runs product LCAs in OneClick LCA. Consolidated KPIs and coordinated regulatory implementation across 5+ entities of a listed group.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Run product and building LCAs in OneClick LCA to ISO 14040, 14044 and 14067, drawing on EPD programme and industry datasets",
+        "Deliver BOM-based carbon footprints for 4+ B2B clients, requesting material-level data from their suppliers",
+        "Led a client's CSRD double materiality assessment, scoring impacts, risks and opportunities on 3 criteria and taking the result to management sign-off",
+        "Scope decarbonisation projects with clients and track each reduction measure by status, owner and achieved reduction",
+        "Prepared a client's GRI report to sign-off, assembled the document and coordinated the design agency",
+        "Coach client teams on reporting requirements, methodologies and data governance",
+        "Model EPR fee and cost exposure market by market in Excel"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Coordinated KPI collection and regulatory implementation between group headquarters and 5+ subsidiaries, tracking completion entity by entity",
+        "Consolidated and validated non-financial KPIs group-wide in SAP, and built Power BI ESG dashboards",
+        "Set annual ESG KPI targets and data-collection cycles, and tracked attainment against reduction pathways",
+        "Aligned group CSRD reporting with ESRS E1 alongside the senior disclosure team, and assessed EU Taxonomy eligibility and alignment",
+        "Designed internal controls over sustainability reporting, with the SOPs and RACI-style responsibilities behind them",
+        "Presented analysis and recommendations to senior leadership and the sustainability steering committee, and tracked its decisions to closure",
+        "Built and steered a 5-function project team across Compliance, Risk, Legal, IT and supply chain",
+        "Compared 5 ESG rating methodologies and documented EcoVadis, SAQ and Integrity Next questionnaires",
+        "Rolled out an employee sustainability awareness campaign and built e-learnings on ISO 14001 and CSDDD in the SAP LMS"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Served as primary contact for 150+ organisations globally, owning their onboarding and support through the disclosure cycle",
+        "Validated disclosure data on the CDP platform, tracking submission coverage and data quality against deadlines"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Cut manual data processing by 40% through Python automation, and wrote the platform's SQL validation rules",
+        "Took new platform features from requirements gathering through UAT, with user stories in Jira",
+        "Built Excel cost and cash-flow models behind priced bids"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Ran a communications campaign end to end, setting the messaging, channels, timeline and measurement",
+        "Presented the GRI Standards at 3 stock exchanges and represented GRI in an industry working group",
+        "Chaired recurring meetings of a 53-member consortium across 5 countries and produced member newsletters"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Advised on 15+ projects worth 20M+ euros, and selected and managed a team of 4 interns"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universität Berlin, Germany",
+      "details": [
+        "Grade 1,6 (good). Thesis on the financial implications of CSRD in the construction industry, using survey design and regression analysis in Python",
+        "Coursework: life cycle assessment, environmental law, data analysis, statistical methods, SQL"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), five-year professional degree",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": []
+    }
+  ],
+  "skills": [
+    {
+      "category": "Sustainability Management, Reporting and Steering",
+      "items": "CSRD and ESRS (E1, S1, G1), double materiality, GRI, EU Taxonomy, CDP, TCFD, GHG Protocol Scope 1, 2 and 3, ESG KPI targets and data-collection planning, sustainability data interpretation, governance and internal controls, EcoVadis, SBTi, ISO 14001"
+    },
+    {
+      "category": "LCA and Product Sustainability",
+      "items": "LCA tools (OneClick LCA), ISO 14040, 14044 and 14067, EPD (EN 15804), EPD programme and industry datasets, BOM-based product carbon footprints, circular design criteria and recycled content, CE marking, GPSR, REACH, EU Ecolabel"
+    },
+    {
+      "category": "Tools and Data",
+      "items": "Advanced Excel (cost, fee and cash-flow models), SAP (reporting and SAP MM purchasing modules), SAP LMS, Power BI dashboards, SQL, Python, osapiens, Jira, Confluence, Microsoft 365"
+    },
+    {
+      "category": "Collaboration and Communication",
+      "items": "Sustainability coordination between Corporate Center and divisions or subsidiaries, sustainability initiatives and projects, project management, senior management and steering committee reporting, global matrix organization, analytical and structured way of working, sustainability communication and campaigns, newsletters, internal and external sustainability meetings and events"
+    }
+  ],
+  "certifications": [
+    "Climate-related Financial Disclosures - CDP",
+    "Climate & Sustainability - Boston Consulting Group (BCG)",
+    "Climate Change & Sustainability - EY"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional (B2) | Hindi - Native"
+  ],
+  "footer": "Based in Berlin, open to relocating to Kremsmünster | Available immediately | German work authorisation held; would obtain Austrian authorisation on offer"
+}

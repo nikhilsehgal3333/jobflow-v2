@@ -1,0 +1,35 @@
+{
+  "candidate": {
+    "name": "Nikhil Sehgal",
+    "contact": {
+      "location": "Berlin, Germany",
+      "phone": "+49 172 6568115",
+      "email": "nikkhilsehgal@gmail.com",
+      "linkedin": "https://www.linkedin.com/in/nikkhil-sehgal-a68577146/"
+    },
+    "contactIndia": {
+      "location": "New Delhi, India",
+      "phone": "+91 7042509790",
+      "email": "nikkhilsehgal@gmail.com",
+      "linkedin": "https://www.linkedin.com/in/nikkhil-sehgal-a68577146/"
+    },
+    "nationality": "Indian",
+    "workAuthorisation": "Valid German work and residence permit",
+    "workAuthorisationNote": "Corrected 23 July 2026. NOT a Job Seeker Visa - he is already authorised to work in Germany. Exact designation (Blue Card / Section 18b / Niederlassungserlaubnis) and expiry still unknown; ask once before writing a precise line."
+  },
+  "paths": {
+    "profile": "PROFILE.md",
+    "rules": "RULES.md",
+    "sideJobsProfile": "SIDE-JOBS.md",
+    "cvGenerator": "../cv-generator.cjs",
+    "coverLetterTemplate": "../Wonsulting Cover Letter Template.docx",
+    "outputRoot": "../Agent Response",
+    "sideJobsSourceCv": "../Agent Response/Side jobs/Lebenslauf.docx",
+    "sideJobsOutputRoot": "../Agent Response/Side jobs"
+  },
+  "defaults": {
+    "language": "en",
+    "format": "preferred"
+  },
+  "notes": "JobFlow v2. Facts live in PROFILE.md, rules in RULES.md - they are kept separate on purpose, because v1 mixed them and the facts went stale inside the rulebook. Scripts resolve every path from this file's own directory, so cvGenerator and outputRoot are shared with v1 rather than duplicated. Use contactIndia for India-based roles."
+}

@@ -1,0 +1,121 @@
+{
+  "profile": "Sustainability and compliance specialist with six years across regulatory implementation, governance design and cross-functional delivery in international organisations. Interprets sustainability regulations - CSRD, LkSG, EUDR and PPWR - into operational business requirements, governance frameworks and process controls embedded in day-to-day business processes. Designed the sustainability internal control system at a DAX-listed group and implemented supply chain due diligence across international subsidiaries, aligning Compliance, Risk, Legal, IT and procurement without direct authority.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd.",
+      "location": "Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Interpret sustainability regulations for enterprise clients across EUDR, PPWR, ESPR and the Empowering Consumers directive, translating each obligation into operational business requirements for products, suppliers and packaging",
+        "Assess regulatory impact on product portfolios and supply chains, modelling EPR fee and packaging cost exposure per market in Excel so management teams can decide against quantified figures",
+        "Define the data collection processes, documentation requirements and supplier data requests behind BOM-based product carbon footprints, specifying the evidence each material-level input must carry",
+        "Pilot new compliance processes on a single client and product line alongside subject matter experts, then extend them across the wider portfolio once validated",
+        "Screen product compliance across REACH, CE marking and GPSR, commissioning external test reports as conformity evidence and tracking non-conformities to closure",
+        "Advise on CBAM reporting duties at the importer and customs interface, mapping covered goods against the underlying declaration data"
+      ]
+    },
+    {
+      "company": "TUI AG",
+      "location": "Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Implemented CSDDD and LkSG due diligence requirements on osapiens, coordinating rollout directly with international group subsidiaries and tracking completion entity by entity",
+        "Designed the sustainability internal control system with subject matter experts across the business, defining process controls, documentation requirements and the roles and responsibilities behind each control",
+        "Wrote the process documentation, business rules and work instructions that carried regulatory requirements into end-to-end business processes and day-to-day operations",
+        "Aligned CSRD reporting with ESRS E1 alongside the senior disclosure team and coordinated with audit partners on evidentiary documentation for third-party assurance",
+        "Built and steered a cross-functional project team across Compliance, Risk, Legal, IT and supply chain, driving alignment across business functions without direct authority",
+        "Ran supply chain risk assessments and supplier questionnaire documentation across EcoVadis, SAQ and Integrity Next, identifying implementation gaps and compliance risks and setting mitigation actions",
+        "Delivered ISO 14001, CSDDD and human rights training as e-learning modules through the SAP LMS, and facilitated the stakeholder workshops behind the double materiality assessment",
+        "Prepared regulatory assessments and management briefings for senior leadership, and issued the implementation guidelines behind agreed decisions"
+      ]
+    },
+    {
+      "company": "CDP Worldwide",
+      "location": "Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Served as primary point of contact for 150+ organisations globally, resolving methodology, data-quality and deadline queries through a full disclosure cycle",
+        "Standardised repeatable processes and controls that held across organisations of very different size, sector and data maturity"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd.",
+      "location": "Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Scoped and drove an LLM-based ESG assistant as a proof of concept, designing the prompts and retrieval that integrated CSRD and ESRS frameworks into query handling",
+        "Automated reporting workflows in Python, cutting manual data processing by 40%, and built the SQL validation rules behind a GRI-aligned reporting platform"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI)",
+      "location": "New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Evaluated 53 consortium members' engagement with 17 SDGs across 5 countries and chaired the recurring member meetings through to decisions and actions",
+        "Documented GRI-BRSR linkage for SEBI alignment and presented GRI Standards at the Bombay, Colombo and Dhaka stock exchanges"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd.",
+      "location": "Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Managed a team of 4 across 15+ projects worth 20M+ euros, coordinating specialist consultant inputs into consolidated regulatory submissions",
+        "Authored environmental impact assessments and monitoring reports against permit conditions, and briefed government authorities on a public-sector project"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universität Berlin, Germany",
+      "details": [
+        "Grade 1.6 (Distinction). Thesis on the financial implications of CSRD in the construction industry, built on survey design, quantitative analysis and regression in Python",
+        "Coursework: environmental law, COSO internal control, ISO 31000 risk management, data analysis and statistical methods"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), five-year professional degree",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": [
+        "Coursework: contract management, construction technology, building services, land use and urban planning"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Sustainability Regulation",
+      "items": "LkSG, CSDDD, CSRD and ESRS, EUDR, PPWR and EPR, EU Taxonomy, ESPR and Ökodesign, Digital Product Passport, EmpCo green claims, CBAM (importer interface), REACH, CE marking, GPSR, GHG Protocol Scope 1-3, ISO 14001"
+    },
+    {
+      "category": "Governance, Controls and Risk",
+      "items": "Sustainability governance frameworks, internal control system design, process design and operational business requirements, business rules and process controls, roles, responsibilities and decision rights, SOPs and work instructions, regulatory impact assessment, regulatory implementation roadmaps, implementation guidelines and management briefings, risk assessment and mitigation, corporate governance standards, audit readiness and evidentiary documentation, COSO, ISO 31000"
+    },
+    {
+      "category": "Implementation and Systems",
+      "items": "osapiens, SAP, SAP LMS, Power BI, EcoVadis, SAQ, Integrity Next, CDP and GRI platforms, supplier data collection and traceability mechanisms, KPI target setting and data collection planning, SQL, Python, Microsoft 365"
+    },
+    {
+      "category": "Stakeholder Management and Enablement",
+      "items": "Cross-functional alignment across business functions and business stakeholders without direct authority, matrix and multi-entity organisations, subject matter expert collaboration, workshop facilitation, guidance and training materials, e-learning development, pilot projects, global rollout and continuous improvement, organisational change support"
+    }
+  ],
+  "certifications": [
+    "Climate Change & Sustainability - EY",
+    "Climate-related Financial Disclosures - CDP",
+    "Introduction to ESG - Corporate Finance Institute (CFI)"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional (B2) | Hindi - Native"
+  ],
+  "footer": "Berlin, Germany | Immediately available | Valid German work and residence permit"
+}

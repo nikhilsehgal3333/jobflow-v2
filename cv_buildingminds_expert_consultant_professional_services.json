@@ -1,0 +1,124 @@
+{
+  "company": "BuildingMinds",
+  "role": "Expert Consultant Professional Services",
+  "format": "preferred",
+  "language": "en",
+  "profile": "Sustainability consultant with 4+ years across ESG advisory, software onboarding and client project management, focused on real-estate ESG data. Guides property owners and funds through CSRD and ESRS, CRREM and the EU Taxonomy, and has completed or reviewed 6+ fund ESG questionnaires for private-markets clients. Configured an ESG platform to a listed group's requirements and loaded cleansed data for 500+ suppliers into it.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Deliver real-estate ESG engagements for 4+ property owners, funds and portfolio holders, covering 10+ buildings",
+        "Design data collection with clients, then gather metered energy and consumption data across their portfolios and check it for gaps, outliers and unit errors",
+        "Screen buildings in Predium against EU Taxonomy criteria and model CRREM transition risk under 1.5 and 2 degree pathways",
+        "Derive retrofit and operating measures per asset with their CO2 and cost effect, then track them by owner, status and achieved reduction",
+        "Led a client's CSRD double materiality assessment from the IRO long list to ESRS datapoint mapping and management sign-off",
+        "Pilot new data-collection processes with one client before rolling them out across the portfolio",
+        "Negotiate fees and scope with clients' managing directors and heads of sustainability, and pitch follow-on scope that existing clients have bought",
+        "Flag slipping deliverables early and agree recovery plans and revised timelines with the client",
+        "Direct 6+ analysts on client engagements and quality-check their deliverables before release"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Implemented osapiens for CSDDD and LkSG due diligence: gathered the group's requirements, configured the platform and loaded cleansed data for 500+ suppliers",
+        "Built and steered a project team across 5 functions, including IT, and coordinated implementation with 5+ international subsidiaries",
+        "Consolidated and validated ESG KPIs from 5+ group entities in SAP and Power BI",
+        "Assessed EU Taxonomy eligibility and alignment and calculated the turnover, CapEx and OpEx KPIs from finance data",
+        "Ran stakeholder interviews, surveys and workshops for the CSRD double materiality assessment alongside the senior disclosure team"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Onboarded and supported 150+ organisations as their primary contact through a full disclosure cycle",
+        "Checked disclosure data on the CDP platform for completeness and quality, and built repeatable data quality controls across organisation types"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Trained new client users on a B2B ESG SaaS platform after signing, through walkthroughs and onboarding sessions",
+        "Normalised a pharmaceutical client's data for the platform and wrote the SQL validation rules behind its quality checks",
+        "Cut manual data processing by 40% through Python automation",
+        "Turned client requirements into Jira user stories and acceptance criteria and ran UAT with engineers",
+        "Took client-reported platform issues to engineering and tracked each one to a fix",
+        "Demoed the platform live to prospects, including custom demos for specific use cases",
+        "Authored the technical and methodology sections of 5+ tender, RFP and proposal responses",
+        "Carried 5+ client accounts through renewals and upsell, with weekly pipeline forecasts in Dynamics 365"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Trained companies on the GRI Standards at 3 stock exchanges: Bombay, Colombo and Dhaka"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Advised on 15+ commercial, hospitality and residential projects worth 20M+ euros, with cost estimates and budget-versus-actual tracking",
+        "Tracked 20+ contractors and vendors across 6+ sites against SLAs and KPIs, as the contact for building management"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universität Berlin, Germany",
+      "details": [
+        "Grade 1,6 (good). Thesis on the financial implications of CSRD in the construction industry, using survey design and regression analysis in Python",
+        "Coursework: EU building directives (EPBD), GEG, energy audits, DGNB, data analysis, SQL"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), five-year professional degree",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": [
+        "Coursework: building services, building physics, energy systems, construction technology"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Professional Services and Presales",
+      "items": "Client onboarding and delivery (scope, plan, execute, close), several client projects in parallel, defining requirements with clients, data collection design, platform configuration, data onboarding through templates, user training, UAT, client workshops, live and custom demos, RFP and proposal responses, issue escalation to engineering, renewals and upsell, client presentations"
+    },
+    {
+      "category": "Real Estate ESG and Climate",
+      "items": "CRREM transition risk (1.5 and 2 degree pathways), EU Taxonomy for real estate (energy certificate class, NZEB, top 15%), physical climate risk and adaptation measures, retrofit planning with CO2 and cost effects, EPBD and GEG, Predium, metered energy and consumption data, plausibility checks, energy audits, LEED, WELL and GRIHA gap analysis"
+    },
+    {
+      "category": "ESG Reporting Frameworks",
+      "items": "CSRD and ESRS, double materiality, EU Taxonomy KPIs (turnover, CapEx, OpEx), SFDR (entity level and PAI indicators), fund ESG questionnaires for private-markets clients, GRI, CDP, TCFD, GHG Protocol Scope 1-3"
+    },
+    {
+      "category": "Data and Tools",
+      "items": "Excel (cost and cash-flow models, market-by-market fee modelling), SQL validation rules, Python automation, Power BI, SAP, osapiens, Predium, OneClick LCA, Jira, Confluence, Dynamics 365, HubSpot, Microsoft 365, Google Workspace"
+    }
+  ],
+  "certifications": [
+    "Climate-related Financial Disclosures - CDP",
+    "Scenario Analysis - CDP",
+    "Agile - Cognizant"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional (B2) | Hindi - Native"
+  ],
+  "footer": "Based in Berlin | Available from 1 January 2027 or earlier | Valid German work and residence permit"
+}

@@ -1,0 +1,124 @@
+{
+  "company": "2B Policy",
+  "role": "Policy Analyst",
+  "format": "preferred",
+  "language": "en",
+  "profile": "Sustainability policy consultant with over four years across consulting, corporate and non-profit roles, advising companies on EU sustainability legislation and global supply chain due diligence. Translates complex legislation such as the EUDR, ESPR and green-claims rules into practical guidance for clients, monitors regulatory change and facilitates multi-stakeholder coalitions. At GRI, chaired a 53-member consortium across 5 countries and produced its newsletters and policy updates.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Translate EU sustainability legislation into compliance pathways for food, packaging, building-materials and industrial clients, covering the EUDR, ESPR, PPWR and EmpCo",
+        "Analyse sustainability legislation and its delegated and implementing acts for clients, from ESRS and EU Taxonomy criteria to CBAM reporting duties",
+        "Contribute to EU Deforestation Regulation due diligence statements and risk assessments, including agricultural commodities, using geolocation and deforestation-risk data",
+        "Run supply chain due diligence down an apparel brand's textile chain, assessing supplier risk at cut-make-trim units, mills, dyehouses and tanneries",
+        "Monitor legislative developments for each client, tracking status, deadlines and impact across CSRD, ESRS, EU Taxonomy and related rules",
+        "Substantiate product environmental claims with LCA and EPD evidence, and brief clients on greenwashing risk under EmpCo",
+        "Author the deliverables for an EU LIFE project work package and align the consortium partners contributing to them",
+        "Map GRI disclosures against ESRS datapoints for 4+ client reports, recording the overlaps and gaps",
+        "Direct 6+ analysts on client engagements and quality-check their deliverables before release"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Developed training modules on human rights, child protection, modern slavery and ISO 14001, and contributed to the related group guidelines",
+        "Aligned disclosures with ESRS E1 for the group's CSRD preparation, assessing SBTi and TCFD statements alongside the disclosure team",
+        "Compared 4 ESG rating methodologies (S&P, Sustainalytics, MSCI, ISS), identifying where they intersect with TUI's operations and regulatory requirements",
+        "Conceptualised an ESG chatbot to support strategic decisions, integrating CSRD and ESRS frameworks into AI-based query handling"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Served as primary contact for 150+ disclosing organisations worldwide, cutting response times by 20%+",
+        "Co-organised a CDP-hosted disclosure workshop in Warsaw with senior staff"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Delivered 5+ tender and RFP responses end to end, authoring the methodology sections and pricing each bid",
+        "Cut manual data processing by 40% through Python automation on a GRI-aligned reporting platform"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Chaired recurring meetings of a 53-member consortium across 5 countries, facilitating between differing member mandates and closing out actions",
+        "Produced the consortium's newsletters, policy updates and communication materials, and wrote policy briefs for non-specialist readers",
+        "Researched sustainability reporting in 3 countries (India, Sri Lanka, Bangladesh) and documented how the GRI Standards link to SEBI's BRSR rules",
+        "Presented the GRI Standards at 3 stock exchanges: Bombay, Colombo and Dhaka",
+        "Ran an external communications campaign end to end and an organisational social channel, optimising web content for search",
+        "Organised speaker-led learning sessions and hosted a webinar for external audiences",
+        "Built partnerships with corporates, governments and NGOs across South Asia, including capacity building for government stakeholders"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Architect",
+      "bullets": [
+        "Authored full Environmental Impact Assessment reports for permitting, and advised on 15+ projects worth 20M+ euros"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universität Berlin, Germany",
+      "details": [
+        "Grade 1,6 (good). Coursework in environmental law, EU building directives and risk management (COSO, ISO 31000)",
+        "Thesis on the financial implications of CSRD in the construction industry; presented the results in a guest lecture at TU Berlin"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), five-year professional degree",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": []
+    }
+  ],
+  "skills": [
+    {
+      "category": "EU Sustainability Legislation",
+      "items": "Corporate Sustainability Due Diligence Directive (CSDDD), EU Deforestation Regulation (EUDR), CSRD and ESRS, EU Taxonomy, ESPR and Digital Product Passport, PPWR and EPR, Empowering Consumers Directive (green claims), CBAM, EU Battery Regulation, REACH, delegated and implementing acts"
+    },
+    {
+      "category": "Supply Chain Due Diligence",
+      "items": "UN Guiding Principles, OECD due diligence guidance, supplier risk assessment, textile supply chain due diligence, modern slavery and child protection training, geolocation and deforestation-risk data"
+    },
+    {
+      "category": "Policy Analysis and Communication",
+      "items": "Legislative monitoring across geographies (EU, India, South Asia), regulatory tracking, policy briefs, newsletters and policy updates, practical client guidance, communication materials, social media content, SEO, external communications campaigns, events, workshops and webinars, multi-stakeholder facilitation, business development and tenders"
+    },
+    {
+      "category": "Reporting Frameworks",
+      "items": "GRI Standards, ESRS, IFRS S1 and S2, GHG Protocol, SBTi, TCFD, TNFD, SEBI BRSR, SDGs"
+    },
+    {
+      "category": "Tools",
+      "items": "Microsoft Office (Word, PowerPoint, Excel), Excel cost modelling, Google Workspace, Python, SQL, HubSpot, OneClick LCA"
+    }
+  ],
+  "certifications": [
+    "Climate-related Financial Disclosures - CDP",
+    "Climate Change & Sustainability - EY",
+    "Climate & Sustainability - Boston Consulting Group (BCG)"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional (B2) | Hindi - Native"
+  ],
+  "footer": "Valid German work and residence permit | Based in Berlin, Germany | Available immediately"
+}

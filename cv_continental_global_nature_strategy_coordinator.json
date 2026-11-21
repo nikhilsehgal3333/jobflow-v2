@@ -1,0 +1,130 @@
+{
+  "contact": {
+    "location": "Berlin, Germany",
+    "phone": "+49 172 6568115",
+    "email": "nikkhilsehgal@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/nikkhil-sehgal-a68577146/"
+  },
+  "profile": "Sustainability and life cycle assessment consultant, five years, working across LCA and product carbon footprinting, greenhouse gas accounting, environmental impact assessment and nature-related disclosure for manufacturing, automotive supply and building materials clients. Delivers against ISO 14040, 14044 and 14067 and the GHG Protocol, and took CSRD and ESRS E1 reporting through to disclosure at a listed group. Steered a cross-functional team across five functions to land regulatory implementation entity by entity.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd.",
+      "location": "Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Run product and building life cycle assessments in OneClick LCA against ISO 14040, 14044 and 14067",
+        "Deliver product carbon footprints (PCF) built from bills of materials, with material-level inputs requested from client suppliers",
+        "Produce Environmental Product Declarations on EN 15804 datasets, and the LCA evidence each one rests on",
+        "Model decarbonisation pathways and transition risk exposure for real estate portfolios at 1.5 and 2 degrees",
+        "Map client product lines against EUDR commodity scope, rubber and timber included, ahead of the compliance deadline",
+        "Guide clients through TNFD and nature-related disclosure, and through biodiversity impacts across their operations"
+      ]
+    },
+    {
+      "company": "TUI AG",
+      "location": "Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Delivered CSRD reporting against ESRS E1 alongside the senior disclosure team at a listed group",
+        "Built and steered a cross-functional team spanning five functions: Compliance, Risk, Legal, IT and supply chain",
+        "Assessed climate risk and scenario exposure against TCFD, and prepared the group's CDP climate disclosure",
+        "Prepared TNFD and nature-related disclosure content alongside the group's ESRS climate reporting",
+        "Scored suppliers against ESG criteria from questionnaire evidence, and kept the supply chain risk register current",
+        "Set annual ESG targets, tracked attainment against reduction pathways, and reported progress to senior leadership"
+      ]
+    },
+    {
+      "company": "CDP Worldwide",
+      "location": "Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Fielded disclosure queries from 150+ organisations globally as their primary point of contact",
+        "Tracked submission coverage and data quality across the user base, and supported the CDP workshop in Warsaw"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd.",
+      "location": "Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Cut manual data handling 40 percent by automating the processing pipeline in Python",
+        "Wrote SQL validation rules for a GRI-aligned reporting platform, catching data errors before submission"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative",
+      "location": "New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Evaluated 53 consortium members against 17 SDGs across 5 countries",
+        "Chaired the recurring member forum across competing mandates, carrying actions to closure",
+        "Presented GRI Standards to listed companies at three South Asian stock exchanges"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations",
+      "location": "Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Authored full environmental impact assessments for hotel, commercial and energy projects, start to finish",
+        "Integrated air, noise, water and ecology specialist inputs into consolidated submissions, and briefed permitting authorities",
+        "Monitored water discharge, effluent and permitted air emissions at operating sites against permit conditions",
+        "Classified industrial waste streams and disposal routes, and kept the permit register current",
+        "Advised on 15+ projects worth over EUR 20M across commercial, hospitality and residential schemes",
+        "Selected and led a team of 4 from proposal through to delivery"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universitaet Berlin, Germany",
+      "details": [
+        "Grade 1.6. Coursework in life cycle assessment, environmental law, energy audits, data analysis and statistical methods",
+        "Thesis on the financial implications of EU climate regulation, using survey design and regression analysis in Python"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (5-year professional degree)",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": [
+        "Coursework in environmental control systems, building physics, energy systems and land use planning"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Life Cycle Assessment and Carbon",
+      "items": "LCA for products and buildings, OneClick LCA software, ISO 14040/14044, ISO 14067, EPD (EN 15804 / ISO 14025), Product Carbon Footprint and Corporate Carbon Footprint, bill-of-materials footprinting, GHG Protocol Scope 1-3, greenhouse gas accounting, SBTi, CRREM, decarbonisation pathways and scenario analysis, climate impact assessment"
+    },
+    {
+      "category": "Nature and Environmental Assessment",
+      "items": "TNFD and SBTN, nature-related frameworks, nature-related disclosure, biodiversity impacts, environmental impacts, environmental management, environmental assessment methodologies, sustainability assessment approaches, sustainability assessment methodologies and methods, environmental impact assessment (full report authorship), screening, scoping and constraints mapping, ecology, air, noise and water specialist coordination, water and wastewater discharge and effluent monitoring, permitted air emissions, industrial waste classification and disposal routes, permit and hazardous substance registers, environmental monitoring against permit conditions"
+    },
+    {
+      "category": "Reporting and Regulation",
+      "items": "Sustainability reporting and sustainability regulations, related legislative frameworks, CSRD, ESRS (E1, S1, G1), double materiality, CSDDD, LkSG, EU Taxonomy, GRI, CDP, TCFD, ESPR and Oekodesign, Digital Product Passport, EUDR, PPWR and EPR, REACH, CE marking, EU Battery Regulation, end-of-life vehicles and WEEE"
+    },
+    {
+      "category": "Value Chain, Stakeholders and Systems",
+      "items": "Sustainable value chain and supplier strategies, supplier ESG assessment and scoring, on-site supplier audits, supply chain risk register, sustainable material alternatives and recycled content, project management, internal and external stakeholder management, cross-functional collaboration in a global matrix organisation, management reports for executive leadership, ESG KPI target setting and progress monitoring against strategic targets, Power BI, SAP, Excel modelling, Python, SQL"
+    }
+  ],
+  "certifications": [
+    "Scenario Analysis - CDP",
+    "Climate-related Financial Disclosures - CDP",
+    "Climate & Sustainability - Boston Consulting Group"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional (B2) | Hindi - Native"
+  ],
+  "footer": "Valid German work and residence permit | Berlin-based, available to travel internationally | Available immediately"
+}

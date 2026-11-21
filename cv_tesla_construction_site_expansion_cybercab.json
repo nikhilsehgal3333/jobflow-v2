@@ -1,0 +1,132 @@
+{
+  "company": "Tesla",
+  "role": "Construction Site Expansion Cybercab",
+  "format": "preferred",
+  "language": "en",
+  "profile": "Construction and project delivery professional with over five years across 15+ construction projects worth over 20M euros, sustainability consulting and corporate project work. Core strengths in day-to-day site and contractor coordination, Primavera P6 scheduling and cost control, and construction quality and EHS through to handover. Coordinated 20+ contractors and vendors at a time across 6+ sites on facilities repairs and planned services, tracking each against SLAs and KPIs.",
+  "experience": [
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Architect",
+      "bullets": [
+        "Delivered design and compliance work on 15+ projects worth over 20M euros, the largest over EUR 5M in construction cost",
+        "Ran day-to-day site coordination under the senior project lead, directing contractor crews and following daily progress",
+        "Joined the project teams for a warehouse and logistics hall build and for works inside a building kept in operation",
+        "Built and updated Primavera P6 schedules with critical path, look-ahead and delay analysis, loading manpower against each",
+        "Chaired site progress meetings with contractors and consultants and wrote the minutes",
+        "Inspected site work against drawings, national building codes and ITP hold and witness points, raising NCRs and driving corrective actions to closure",
+        "Held toolbox talks, site audits and risk assessments, logging incidents and NCRs in a QHSE system and tracking safety figures as KPIs",
+        "Chased punch-list items to close-out, compiled handover documentation and joined final inspections with clients or authorities",
+        "Tracked actual cost against budget and checked subcontractor quantities and progress claims before payment",
+        "Assessed contractor change orders for cost and time impact and kept the project risk list current, with owners and countermeasures",
+        "Integrated structural and MEP consultant drawings into the architectural set, resolved clashes and issued construction drawings to site",
+        "Sourced steel, aluminium and polymer packages through RFQs or scopes of work and quote comparison, and scheduled site deliveries with 6+ carriers",
+        "Prepared decision papers on cost, time and quality options for private developers on 2+ owner-side projects",
+        "Selected, managed and trained a team of 4 interns on residential projects from proposal to delivery, including on CAD and BIM tools"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Direct 6+ analysts on client engagements, setting deliverables, reviewing their work and agreeing recovery plans when deadlines slip",
+        "Scoped 3+ decarbonisation projects that clients went on to implement, tracking each measure by owner, status and achieved reduction",
+        "Drafted ESG minimum standards for a client's construction, refurbishment or operation projects"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Steered a 5-function project team (Compliance, Risk, Legal, IT, supply chain) through a cross-functional action plan with task owners and deadlines",
+        "Developed SAP LMS e-learning modules on ISO 14001, human rights, child protection and modern slavery"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Cut response times by 20%+ as first point of contact for 150+ disclosing organisations"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Ran sprint boards in Jira and kept specifications and decision logs in Confluence for the engineering team",
+        "Cut manual data processing by 40% through Python automation"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Chaired recurring meetings for a 53-member consortium across 5 countries, taking actions through to closure"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universität Berlin, Germany",
+      "details": [
+        "Grade 1.6. Thesis: Assessing the Financial Implications of CSRD in the Construction Industry, with survey design and regression analysis in Python",
+        "Coursework included energy audits, German building energy law (GEG), EU building directives, life cycle assessment and DGNB"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (5-year professional degree)",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": [
+        "Coursework in construction technology, building services, building physics, building materials and contract management"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Construction Delivery",
+      "items": "Site coordination with contractors, consultants and other external partners, progress meetings and minutes, change-order assessment, project risk lists, decision papers, subcontractor quantity and progress-claim checks, punch lists and close-out, handover documentation, final inspections, works in operating buildings, prefabricated and modular building elements"
+    },
+    {
+      "category": "Planning and Cost Control",
+      "items": "Primavera P6 (authoring and updating), MS Project, critical path and float analysis, look-ahead schedules, baseline and forecast updates, delay and change impact analysis, manpower loading, earned value (SPI, CPI, S-curves), cost tracking against budget with variance reporting, cost and budget estimates"
+    },
+    {
+      "category": "Quality and EHS",
+      "items": "ISO 9001 quality procedures, Inspection Test Plans, NCRs and corrective actions, national building codes, toolbox talks, site audits and risk assessments, QHSE reporting systems, PPE management, permit and inspection-interval registers, contractor labour compliance checks, health and safety KPIs, ISO 14001"
+    },
+    {
+      "category": "Design and Technical",
+      "items": "Revit (BIM), AutoCAD, SketchUp, construction drawing sets, structural and MEP drawing integration and clash resolution, building services and HVAC, building automation and HVAC controls (coordinated on projects), energy audits, LEED, WELL and GRIHA gap analysis"
+    },
+    {
+      "category": "Procurement and Site Logistics",
+      "items": "RFQs and scopes of work, quote comparison, supplier risk checks before award, contract negotiation, vendor onboarding, inbound delivery scheduling, carriers and freight forwarders, transport documents"
+    },
+    {
+      "category": "German Construction Framework",
+      "items": "HOAI service phases, VOB/B (basics), German building regulations and permit procedures, AHO project-steering service profile (known)"
+    },
+    {
+      "category": "Systems",
+      "items": "Jira, Confluence, SharePoint, Microsoft 365, Power BI, Python, SQL"
+    }
+  ],
+  "certifications": [
+    "Agile - Cognizant",
+    "Climate & Sustainability - BCG",
+    "Climate Change & Sustainability - EY"
+  ],
+  "languages": [
+    "English - fluent (C1) | German - professional working proficiency (B2) | Hindi - native"
+  ],
+  "footer": "Valid German work and residence permit | Berlin-based, commutable to Grünheide | Available immediately"
+}

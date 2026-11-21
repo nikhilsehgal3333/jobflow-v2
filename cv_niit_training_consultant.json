@@ -1,0 +1,121 @@
+{
+  "company": "NIIT",
+  "role": "Training Consultant",
+  "format": "preferred",
+  "language": "en",
+  "profile": "Consultant with six years across advisory and corporate programme delivery, including the design and rollout of compliance and technical learning solutions at a DAX-listed group. Identifies the training needs behind a business requirement, builds the content and work instructions that close the gap, and delivers to audiences from site teams to senior leadership. Designed ISO 14001, due diligence and human rights modules as e-learnings in the SAP Learning Management System and rolled them out to employees worldwide, tracking completion entity by entity across international subsidiaries.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Coach client teams on methodology, reporting requirements and data governance across building materials, industrial and automotive accounts",
+        "Document the data-collection procedures and work instructions clients follow, and pilot each new process with one team before extending it across the portfolio",
+        "Advise clients on EU regulatory requirements and translate them into the steps their operating teams have to take"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Designed and delivered ISO 14001, supply chain due diligence and human rights training as e-learning modules in the SAP Learning Management System, and rolled them out to employees worldwide",
+        "Tracked module completion entity by entity across international group subsidiaries and followed up with the functions that fell behind",
+        "Wrote the process documentation, standard operating procedures and work instructions sitting behind each training topic",
+        "Built and steered a cross-functional project team across Compliance, Risk, Legal, IT and supply chain, setting the deliverables and holding contributors to deadlines",
+        "Presented analysis and regulatory developments to senior leadership and produced the decision papers carrying the recommendations",
+        "Collected and validated non-financial data group-wide from multiple functions and entities using SAP and Power BI, and reported progress against targets"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Served as primary point of contact for 150+ organisations globally, resolving methodology, data-quality and deadline queries through a full reporting cycle",
+        "Ran feedback calls with disclosing and prospective organisations and supported the CDP-hosted workshop in Warsaw",
+        "Analysed newly launched questionnaire modules and built repeatable processes that held across organisations of very different size and maturity"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Produced training materials and risk assessments for the client base of a B2B reporting platform",
+        "Gathered user requirements and ran acceptance testing with client teams ahead of each release",
+        "Automated reporting workflows in Python, cutting manual data processing by 40%"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Delivered GRI Standards sessions in person at the Bombay, Colombo and Dhaka stock exchanges",
+        "Organised speaker-led learning sessions for a 53-member consortium and chaired the recurring member meetings",
+        "Produced member newsletters and policy updates that kept 53 organisations current on regulatory change",
+        "Researched reporting practice across India, Sri Lanka and Bangladesh and turned the findings into member-facing guidance"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Managed and coached a team of 4 through projects from proposal to delivery, and reviewed their technical output",
+        "Ran toolbox talks and safety briefings on site, and documented the risk assessments behind them",
+        "Prepared technical and financial evaluations across 15+ projects worth 20M+ euros"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universität Berlin, Germany",
+      "details": [
+        "Grade 1.6 (Distinction). Coursework in data analysis and statistical methods, SQL and environmental law"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), five-year professional degree",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": [
+        "Five-year full-time technical degree"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Learning Design and Delivery",
+      "items": "Identifying training needs from business requirements, designing and implementing learning solutions and training strategies, e-learning module design, classroom, virtual and blended learning programmes, workshop facilitation, creating and maintaining training content and learning materials, job aids, standard operating procedures and work instructions, knowledge resources, coaching and skills transfer, onboarding, upskilling, process and compliance training, learning objectives aligned to organisational goals"
+    },
+    {
+      "category": "Learning Operations and Reporting",
+      "items": "Learning delivery operations, LMS platforms including the SAP Learning Management System, digital learning tools, module rollout across international entities, completion tracking entity by entity, progress reporting against targets, KPI dashboards in Power BI, data validation, continuous improvement of training delivery and learning processes, quality standards and documentation control"
+    },
+    {
+      "category": "Consulting and Stakeholder Management",
+      "items": "Business requirement analysis, cross-functional programme leadership across Compliance, Risk, Legal, IT and supply chain, senior leadership communication, client advisory and account support, 150+ organisations supported globally, multi-country delivery, matrix organisations, facilitation between competing mandates"
+    },
+    {
+      "category": "Subject Matter Depth for Technical Training",
+      "items": "ISO 14001, supply chain due diligence and human rights, GRI Standards, EU sustainability and product regulation, GHG accounting and carbon footprints, life cycle assessment (ISO 14040/14044/14067), energy audits, ESG reporting and data governance"
+    },
+    {
+      "category": "Tools",
+      "items": "SAP and SAP LMS, Power BI, HubSpot, Dynamics 365, Microsoft 365, Google Workspace (Sheets and Slides), Excel, SQL, Python"
+    }
+  ],
+  "certifications": [
+    "Agile Methodology - Cognizant",
+    "Climate & Sustainability - Boston Consulting Group (BCG)"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional (B2) | Hindi - Native"
+  ],
+  "footer": "Berlin, Germany | Open to relocation within Germany | Immediately available | Valid German work and residence permit"
+}

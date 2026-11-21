@@ -1,0 +1,118 @@
+{
+  "company": "ewimed",
+  "role": "Sustainability Specialist",
+  "format": "preferred",
+  "language": "de",
+  "profile": "Vier Jahre Erfahrung im Nachhaltigkeitsmanagement, im gruppenweiten Nachhaltigkeitsreporting nach GRI und in der Beratung von Fachbereichen zu regulatorischen Anforderungen. Steuert das Reporting von der Wesentlichkeitsanalyse über den GRI-Inhaltsindex bis zum fertigen Bericht, koordiniert Nachhaltigkeitsbewertungen wie EcoVadis und wertet ESG-Kennzahlen aus. Setzt Impulse für nachhaltigere Materialien, Produkte und Verpackungen entlang der EU-Produktregulierung. Erhob und konsolidierte nichtfinanzielle Kennzahlen konzernweit bei einem börsennotierten Konzern.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "Januar 2026 - heute",
+      "title": "LCA & Sustainability Consultant (Werkvertrag)",
+      "bullets": [
+        "Erstelle Nachhaltigkeitsberichte nach GRI, baue den GRI-Inhaltsindex auf und führe die Wesentlichkeitsanalyse nach GRI 3 durch",
+        "Berate Kunden aus Bauprodukten, Industrie und Automobilzulieferung zu nachhaltigeren Materialien, Produkten, Verpackungen und Prozessen entlang von ESPR, PPWR und EPR",
+        "Modelliere EPR-Gebühren und Kostenrisiken je Markt in Excel und mache regulatorische Pflichten für die Geschäftsleitung entscheidbar",
+        "Berechne Ökobilanzen und EPD nach ISO 14040, 14044 und 14067 und belege damit Produktaussagen gegenüber Kunden und Prüfstellen",
+        "Begleite Kunden bei CE-Kennzeichnung, Konformitätserklärungen und technischen Unterlagen, beauftrage externe Prüflabore und verfolge Produktsicherheitsthemen nach GPSR",
+        "Schule Kunden zu Methodik, Berichtspflichten und Datenqualität und halte dazu Präsentationen"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Deutschland",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Werkstudium)",
+      "bullets": [
+        "Koordinierte Nachhaltigkeitsbewertungen und ESG-Fragebögen von Ratingagenturen und Geschäftskunden, darunter EcoVadis, SAQ, Integrity Next und CDP",
+        "Verglich fünf Ratingmethodiken, darunter S&P CSA, Sustainalytics, MSCI und ISS, und zeigte die Position des Konzerns gegenüber dem Wettbewerb auf",
+        "Erhob, validierte und konsolidierte nichtfinanzielle Kennzahlen konzernweit aus mehreren Fachbereichen und Gesellschaften, gestützt auf SAP und Power BI",
+        "Entwickelte ESG-Kennzahlen mit Zielwerten und Erhebungsplanung und verfolgte die Zielerreichung entlang der Reduktionspfade",
+        "Beriet die Fachbereiche als zentrale Ansprechperson zu Nachhaltigkeitsfragen, arbeitete an der Weiterentwicklung der Nachhaltigkeitsstrategie mit und baute dafür ein bereichsübergreifendes Projektteam aus Compliance, Risiko, Recht, IT und Einkauf auf",
+        "Beobachtete gesetzliche Entwicklungen, setzte die CSRD-Berichterstattung entlang ESRS gemeinsam mit dem Senior-Team um und prüfte die EU-Taxonomie auf Fähigkeit und Konformität",
+        "Führte Schulungen zu ISO 14001, CSDDD und Menschenrechten als E-Learnings über das SAP LMS durch und stellte Analysen der Leitungsebene vor"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | Neu-Delhi, Indien",
+      "dates": "März 2022 - Februar 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Stellte die GRI-Standards an den Börsen in Bombay, Colombo und Dhaka vor Regulierungsbehörden, gelisteten Unternehmen und Investoren vor",
+        "Bewertete 53 Konsortiumsmitglieder und deren Beitrag zu 17 SDGs in 5 Ländern und verglich sie untereinander",
+        "Dokumentierte die Verknüpfung von GRI und BRSR für die indische Wertpapieraufsicht und recherchierte Berichtstrends in Indien, Sri Lanka und Bangladesch"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Deutschland",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Werkstudium)",
+      "bullets": [
+        "Betreute über 150 Organisationen weltweit als erste Ansprechperson und klärte Fragen zu Methodik, Datenqualität und Fristen",
+        "Verantwortete Datenerhebung, Validierung und Qualitätssicherung auf der CDP-Plattform und baute wiederholbare Kontrollen dafür auf"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "März 2023 - März 2024",
+      "title": "Product Manager / Sustainability Consultant (Werkvertrag)",
+      "bullets": [
+        "Baute die Datensysteme einer GRI-konformen Berichtsplattform auf und schrieb die SQL-Validierungsregeln dafür",
+        "Automatisierte die Datenverarbeitung in Python und senkte den manuellen Aufwand um 40%"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, Indien",
+      "dates": "Juni 2020 - Februar 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Erstellte Umweltverträglichkeitsprüfungen und Genehmigungsunterlagen für gewerbliche Bauvorhaben und führte Energieaudits durch"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "Oktober 2023 - März 2025",
+      "institution": "Technische Universität Berlin, Deutschland",
+      "details": [
+        "Note 1,6 (mit Auszeichnung). Masterarbeit zu den finanziellen Auswirkungen der EU-Regulatorik auf die Industrie, gestützt auf Fragebogendesign, quantitative Auswertung und Regression in Python",
+        "Betriebswirtschaftliches Masterprogramm (BWL) mit technischem Schwerpunkt. Schwerpunkte: Ökobilanzierung, Kreislaufwirtschaft, Umweltmanagement, Energieaudits, ISO 50001, Datenanalyse und statistische Methoden"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), fünfjähriger berufsqualifizierender Abschluss",
+      "dates": "August 2016 - Juni 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, Neu-Delhi, Indien",
+      "details": [
+        "Schwerpunkte: Baustofflehre, Gebäudetechnik, Bauphysik, Umwelttechnik und Vertragsmanagement"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Nachhaltigkeitsberichterstattung",
+      "items": "GRI-Standards, GRI-Inhaltsindex, Wesentlichkeitsanalyse nach GRI 3, CSRD und ESRS, doppelte Wesentlichkeit, EU-Taxonomie, DNK, VSME, TCFD, CDP, GHG Protocol Scope 1-3, konzernweite Konsolidierung nichtfinanzieller Kennzahlen, Aufbereitung prüffähiger Nachweise, Nachhaltigkeits-IKS"
+    },
+    {
+      "category": "ESG-Bewertungen und Kennzahlen",
+      "items": "EcoVadis, S&P CSA, MSCI ESG, ISS ESG, Sustainalytics, SAQ, Integrity Next, CDP-Plattform, osapiens, ESG-Kennzahlen mit Zielwert- und Erhebungsplanung, KPI-Dashboards, Datenvalidierung, Wettbewerbs- und Peer-Benchmarking, Beobachtung von Markttrends"
+    },
+    {
+      "category": "Produkte, Materialien und Verpackungen",
+      "items": "ESPR und Ökodesign, PPWR und EPR, digitaler Produktpass, EPD nach EN 15804, Ökobilanzierung nach ISO 14040, 14044 und 14067, Produkt-CO2-Bilanzen auf Stücklistenbasis, Rezyklatanteil, REACH und SVHC, CE-Kennzeichnung und Konformitätserklärungen, GPSR, externe Prüflabore, Kreislaufwirtschaft"
+    },
+    {
+      "category": "Regulatorik, Beratung und Software",
+      "items": "CSDDD und LkSG, EUDR, CBAM an der Importeursschnittstelle, EU Green Deal, Umweltmanagement nach ISO 14001 und EMAS, Beratung von Fachbereichen in Schnittstellenfunktion, Schulungen und Präsentationen, Berichterstattung an die Leitungsebene, Projekte eigenverantwortlich und analytisch steuern, Prozessbeschreibungen und Arbeitsanweisungen, Matrixorganisationen, SAP und SAP LMS, Power BI, Excel, SQL, Python, OneClick LCA, Jira, Confluence, Microsoft 365"
+    }
+  ],
+  "certifications": [
+    "Klimabezogene Finanzberichterstattung - CDP",
+    "Szenarioanalyse - CDP",
+    "Climate & Sustainability - Boston Consulting Group (BCG)"
+  ],
+  "languages": [
+    "Englisch - Fließend (C1) | Deutsch - Gute Kenntnisse (B2) | Hindi - Muttersprache"
+  ],
+  "footer": "Berlin, Deutschland | Umzug nach Hechingen möglich | Sofort verfügbar | Gültige deutsche Arbeits- und Aufenthaltserlaubnis"
+}

@@ -1,0 +1,127 @@
+{
+  "profile": "Commercial and client-facing professional with six years across B2B business development, account management and client advisory, including a year carrying a defined book of business at a B2B SaaS platform. Prospects net-new accounts through cold email sequences, cold calls and LinkedIn Sales Navigator, forecasts pipeline weekly in CRM, and uses AI tools to research target accounts and draft first-touch outreach. Served as primary point of contact for 150+ organizations worldwide across a full cycle, resolving methodology, deadline and billing queries at volume.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd.",
+      "location": "Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Prospected net-new B2B accounts from scratch, researching territories in LinkedIn Sales Navigator, identifying the decision makers inside each target account and using AI tools to research accounts and draft first-touch outreach",
+        "Executed multi-touch cold email sequences and cold calls into net-new accounts, qualifying the opportunities that senior colleagues took forward to close",
+        "Carried a defined book of business against renewal, upsell and growth targets, and closed contract renewals and expansion across the existing client base",
+        "Forecast revenue weekly against an opportunity pipeline in Dynamics 365, and built the CRM reports and dashboards that tracked engagement and pipeline health",
+        "Owned tender and RFP responses end to end against hard client deadlines, pricing each bid and authoring the technical sections, and built the reusable content library and templates that cut turnaround on repeat submissions",
+        "Ran win/loss reviews on closed deals, sized target markets and mapped the competitive landscape behind account prioritization, and reset qualification and response tactics on what the deal data showed",
+        "Cut manual data processing 40 percent by automating the reporting pipeline in Python, and moved the product from concept through requirements and UAT to release"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd.",
+      "location": "Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Advise B2B clients across building materials, industrial and automotive sectors on incoming EU regulation, acting as their primary point of contact through the engagement",
+        "Coach client teams on methodology, data governance and reporting requirements, and track the performance indicators behind each account on client dashboards"
+      ]
+    },
+    {
+      "company": "TUI AG",
+      "location": "Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Scoped and drove an AI assistant to completion at a publicly listed travel group, designing the prompts and retrieval behind it so colleagues could query regulatory frameworks in plain language",
+        "Built and steered a cross-functional project team across Compliance, Risk, Legal, IT and supply chain, setting the deliverables and holding contributors to agreed deadlines",
+        "Presented analysis and recommendations to senior leadership, and answered investor and rating agency queries on the group's published disclosures"
+      ]
+    },
+    {
+      "company": "CDP Worldwide",
+      "location": "Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Served as primary point of contact for 150+ organizations worldwide, owning the inbound queue and resolving methodology, deadline, invoice and payment queries across a full cycle",
+        "Owned customer onboarding and support, logging every customer record and interaction in HubSpot so follow-up stayed accurate across a high-volume portfolio",
+        "Conducted feedback calls with existing and prospective organizations, and supported the CDP-hosted workshop in Warsaw"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI)",
+      "location": "New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Chaired recurring meetings of a 53-member consortium of corporates, government agencies and NGOs, and secured the annual membership renewals that kept the group active",
+        "Identified new revenue opportunities for the South Asia chapter from research across India, Sri Lanka and Bangladesh, and presented at the Bombay, Colombo and Dhaka stock exchanges",
+        "Evaluated 53 members against 17 SDGs across 5 countries, covering the gender and girls' rights programming the consortium ran under SDG 5"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd.",
+      "location": "Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Selected and managed a team of 4, screening applications and running interviews, across 15+ projects worth 20M+ euros",
+        "Advised clients from proposal through internal approval to delivery, coordinating directly with brokers, landlords and property owners during site acquisition and leasing"
+      ]
+    }
+  ],
+  "extras": [
+    {
+      "label": "ADDITIONAL EXPERIENCE",
+      "bullets": [
+        "Family consumer-care business, feminine hygiene brand (2019 - 2022) - handled invoicing, distribution and inventory for a women's health product line sold through retail and wholesale channels"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration)",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universität Berlin, Germany",
+      "details": [
+        "Grade 1.6 (Distinction)"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), five-year professional degree",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": []
+    }
+  ],
+  "skills": [
+    {
+      "category": "Prospecting and Outbound",
+      "items": "Target account research and territory mapping, cold email sequences, cold calling, LinkedIn Sales Navigator, decision-maker and stakeholder identification, opportunity qualification and handover, AI-assisted account research and outreach drafting"
+    },
+    {
+      "category": "Pipeline and CRM",
+      "items": "HubSpot, Dynamics 365, opportunity pipeline management, weekly revenue forecasting, CRM reports and dashboards, email campaigns and marketing workflows, book of business ownership, renewals, upsell and expansion"
+    },
+    {
+      "category": "Deals and Proposals",
+      "items": "Tender and RFP ownership, bid pricing and commercial terms, proposal templates and reusable content libraries, win/loss review, market sizing and competitive landscape mapping, account prioritization"
+    },
+    {
+      "category": "Client Management and Communication",
+      "items": "Customer onboarding and support ownership, high-volume inbound query resolution, feedback and discovery calls, client coaching and training delivery, senior stakeholder presentation, public speaking at national and international venues"
+    },
+    {
+      "category": "Tools and Analysis",
+      "items": "Excel, Python automation, SQL, Power BI, Microsoft 365, Google Workspace, Jira, Confluence, MS Teams"
+    }
+  ],
+  "certifications": [
+    "Climate & Sustainability - Boston Consulting Group",
+    "Agile - Cognizant"
+  ],
+  "languages": [
+    "English - Fluent (C1) | Hindi - Native | German - Professional (B2)"
+  ],
+  "footer": "Indian national | Berlin-based | US work authorization would require sponsorship | Available immediately"
+}

@@ -1,0 +1,112 @@
+{
+  "profile": "Real estate and infrastructure professional with two years in site acquisition, leasing and development delivery, and four further years coordinating multi-market projects and stakeholders. Runs location search and site evaluation on commercial, retail and mixed-use property, prepares investment cases and approval packages for leadership decision, and tracks lease terms, addendums and renewals across an active portfolio. Advised on 15+ projects worth 20M+ euros spanning commercial, retail, hospitality and institutional property.",
+  "experience": [
+    {
+      "company": "Holistics Urban Innovations",
+      "dates": "June 2020 - February 2022",
+      "title": "Junior Architect, Noida, India",
+      "bullets": [
+        "Drove location search and site evaluation for commercial, retail and mixed-use developments, through to signed acquisition",
+        "Worked directly with brokers, landlords and owners through acquisition and leasing, and joined negotiations alongside legal advisors",
+        "Reviewed an active portfolio of leases, addendums and renewals, tracking every term and key date against its deadline",
+        "Built investment cases and real estate packages for leadership approval, with the cost and budget estimates behind them",
+        "Produced pre-feasibility studies and technical and financial evaluations across 15+ projects worth 20M+ euros",
+        "Selected a team of 4 interns and ran it from proposal through delivery, holding drawing and review deadlines",
+        "Cleared environmental permitting and authority approvals for commercial and retail sites, and briefed government authorities directly",
+        "Bridged design, engineering, environmental and client teams to keep concurrent projects on programme",
+        "Sequenced construction programmes in Primavera P6 and MS Project against critical path, float and baseline"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd.",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Run CRREM transition-risk analyses on Middle Eastern real estate portfolios against 1.5 and 2 degree pathways",
+        "Model cost and fee exposure market by market in Excel, turning regulatory obligation into the figures behind client decisions",
+        "Guide real estate clients through EPBD and national energy performance rules, and the refurbishment routes open to each asset"
+      ]
+    },
+    {
+      "company": "TUI AG",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Steered a project team across 5 functions - Compliance, Risk, Legal, IT and supply chain - to fixed deliverables and deadlines",
+        "Drove regulatory implementation across international group subsidiaries and tracked completion entity by entity against fixed deadlines",
+        "Presented analysis and recommendations to senior leadership and built the Power BI dashboards that carried them"
+      ]
+    },
+    {
+      "company": "CDP Worldwide",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Fielded queries from 150+ organisations globally across time zones through a full reporting cycle"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd.",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager, Sustainability Consultant (Contract)",
+      "bullets": [
+        "Automated data processing in Python and cut manual effort by 40%",
+        "Built internal tooling that colleagues went on to use regularly, replacing a manual process end to end"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant, New Delhi, India",
+      "bullets": [
+        "Chaired a 53-member consortium's recurring meetings across 5 countries and drove agreed actions to closure",
+        "Researched market and policy conditions across 3 South Asian markets for corporate and government partners"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universität Berlin, Germany",
+      "details": [
+        "Grade 1.6 (gut). Thesis on the financial implications of CSRD in the construction industry, built on survey design, quantitative analysis and regression in Python"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), five-year professional degree",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": [
+        "Coursework: land use and urban planning, Standort- und Quartiersentwicklung, construction technology, building services, contract management"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Real Estate and Site Acquisition",
+      "items": "Location search and site evaluation, shortlisting and site selection, broker, landlord and developer coordination, leases, addendums and renewals, lease term and key-date tracking, negotiation support alongside legal advisors, retail, commercial and mixed-use property, office and warehouse requirements, site visits, portfolio review"
+    },
+    {
+      "category": "Approval Packages and Commercial Analysis",
+      "items": "Investment cases and internal approval documents, pre-feasibility studies, technical and financial evaluation, cost and budget estimating, Excel cost and cash-flow modelling, market sizing, competitive landscape mapping, subcontractor and package pricing"
+    },
+    {
+      "category": "Infrastructure and Development",
+      "items": "Permitting and authority approvals, environmental impact assessment, Quartiersentwicklung and Masterplanung, HOAI Leistungsphasen, Primavera P6 and MS Project, critical path and float analysis, Aconex and Oracle Unifier, building services, EPBD and GEG, CRREM, Predium"
+    },
+    {
+      "category": "Coordination and Tools",
+      "items": "Multi-market and cross-border stakeholder coordination, operations and infrastructure support, managing competing priorities to deadline, vendor onboarding and supplier scorecards, contract renewals, Excel, PowerPoint, Word, Outlook and Teams across Microsoft 365, Power BI, SQL, Python, Jira, Confluence, AutoCAD, Revit, SketchUp, SAP"
+    }
+  ],
+  "certifications": [
+    "Climate & Sustainability - Boston Consulting Group (BCG)",
+    "Introduction to ESG - Corporate Finance Institute (CFI)",
+    "Agile - Cognizant"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional (B2) | Hindi - Native"
+  ],
+  "footer": "Berlin, Germany | Available full-time from October 2026 for a minimum of six months | Ready to travel across Central Europe | Valid German work and residence permit"
+}

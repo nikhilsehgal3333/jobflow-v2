@@ -1,0 +1,120 @@
+{
+  "company": "WSP",
+  "role": "Assistant Analyst",
+  "format": "preferred",
+  "language": "en",
+  "contact": {
+    "location": "New Delhi, India",
+    "phone": "+91 7042509790",
+    "email": "nikkhilsehgal@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/nikkhil-sehgal-a68577146/"
+  },
+  "profile": "Corporate ESG and reporting professional with six years collecting, validating and evaluating ESG data for a listed group, an international reporting body and B2B client portfolios. Comfortable working with quantitative and qualitative data across a corporate sustainability reporting cycle, from accurate GHG inventory maintenance under the GHG Protocol to Power BI dashboards and written insight for senior stakeholders. Cut manual data processing 40 percent by automating the data pipeline behind a GRI-aligned reporting platform in Python.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Maintain a robust and accurate GHG inventory for corporate clients on GHG Protocol methodology, managing Scope 1, 2 and 3 emissions data collection, validation and evaluation across successive reporting cycles",
+        "Interpret ESG data for client stakeholders and communicate insights through KPI dashboards carrying progress, data quality and open issues, resolving data gaps with source owners before reporting",
+        "Model market-by-market regulatory fee exposure in Excel with pivot tables and lookup-driven scenarios, so clients can price the commercial impact of an obligation before committing capital",
+        "Execute technical research on changing European sustainability standards and regulation, advising clients on compliance pathways across CSRD, EU Taxonomy, ESPR, PPWR, EUDR and CBAM"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Collected, organised and consolidated non-financial and emissions data group-wide across multiple functions and subsidiaries at a listed group, working from SAP system exports and reporting through Power BI",
+        "Aligned CSRD reporting with ESRS E1 alongside the senior disclosure team and completed EU Taxonomy eligibility and alignment assessments, documenting the evidence behind each classification",
+        "Communicated analysis findings and regulatory developments with recommendations to senior stakeholders, and set annual ESG targets with the data-collection cycles and attainment tracking behind them",
+        "Coordinated implementation globally with international group subsidiaries, tracking completion entity by entity and holding a cross-functional team across Compliance, Risk, Legal, IT and supply chain to deadline",
+        "Set up new team processes and documented them as work instructions and data-collection procedures inside the sustainability internal control system, fixing who owned each requirement"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Served as primary point of contact for 150+ disclosing organisations globally, resolving methodology, platform and reporting queries with a consistent customer service approach",
+        "Owned environmental data collection, validation and management on the CDP platform, tracking submission coverage and data quality to promote continual improvement over the disclosure cycle",
+        "Handled information requests, finance and invoice queries and feedback calls, and analysed newly launched questionnaire modules for accurate data capture"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Automated data processing in Python for a GRI-aligned reporting platform, cutting manual effort 40 percent, and wrote the SQL queries and validation rules behind its data integrity checks",
+        "Normalised and reconciled client data sets drawn from inconsistent source systems, and built the Excel cost and cash-flow models behind commercial decisions",
+        "Maintained a reusable knowledge library of proposal templates, methodology content and pitch decks, cutting turnaround on repeat bids and holding messaging consistent across contributors",
+        "Owned bid responses and tender submissions end to end, setting response strategy and section ownership against hard client deadlines under commercially confidential conditions"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Evaluated 53 consortium members against 17 SDGs across five countries, benchmarking members and reporting findings to corporate, government and NGO stakeholders",
+        "Researched sustainability reporting trends and regulatory developments across India, Sri Lanka and Bangladesh, issuing member newsletters and policy updates on changing standards and best practice",
+        "Mapped GRI-BRSR linkage for SEBI alignment, chaired recurring member meetings to agreed actions, and presented the GRI Standards at the Bombay, Colombo and Dhaka stock exchanges"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Ran energy audits and environmental compliance assessments on commercial buildings and IT parks, analysing office energy data and metered consumption to identify efficiency measures"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universität Berlin, Germany",
+      "details": [
+        "Grade 1.6 (Distinction). Thesis on the financial implications of CSRD in construction: survey design, quantitative analysis and regression in Python. Coursework in data analysis, statistical methods and SQL"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), five-year professional degree",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": []
+    }
+  ],
+  "skills": [
+    {
+      "category": "Data Management and Analysis",
+      "items": "Collect, organise and evaluate ESG data; data validation, quality assurance and gap remediation; data integrity and governance; reporting-cycle management and continual improvement; quantitative and qualitative analysis; strong data analytical skills; survey design, statistical methods and regression; benchmarking; business data and analytics"
+    },
+    {
+      "category": "Reporting Tools and Systems",
+      "items": "Advanced user of Excel (pivot tables, INDEX/MATCH and lookup formulas, nested logic, cost and cash-flow models); Power BI dashboards; SQL; Python; SAP system exports; Microsoft Office programs including Word, Teams and SharePoint; Jira and Confluence; CDP, GRI, osapiens and Predium platforms"
+    },
+    {
+      "category": "ESG Frameworks and Reporting",
+      "items": "GHG inventory and GHG Protocol Scope 1, 2 and 3; corporate and product carbon footprinting; CSRD and ESRS; EU Taxonomy; GRI; CDP; TCFD; ISSB; SBTi; BRSR (SEBI); ISO 14001 and 50001; third-party assurance support; EcoVadis, MSCI and Sustainalytics"
+    },
+    {
+      "category": "Working Practices",
+      "items": "Clear communicator with peers and senior stakeholders, with written and verbal communication abilities in English; excellent customer service approach; knowledge management of corporate sustainability resources; bid responses and bid development support; internal engagement; global coordination across regions and entities; handle multiple projects to time-sensitive, commercially and strategically confidential workloads; organised and detail-oriented"
+    }
+  ],
+  "certifications": [
+    "Climate-related Financial Disclosures - CDP",
+    "Climate Change & Sustainability - EY",
+    "Introduction to ESG - Corporate Finance Institute"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional (B2) | Hindi - Native"
+  ],
+  "footer": "Indian national | Available immediately"
+}

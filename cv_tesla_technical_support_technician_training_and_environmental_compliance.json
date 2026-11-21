@@ -1,0 +1,110 @@
+{
+  "profile": "Technical and environmental compliance specialist with six years across construction sites, manufacturing-facing advisory and corporate EHS support. Prepares and follows up technical training, maintains substance and permit databases, and tracks environmental measures and inspection actions through to closure. Services and documents respiratory protection and personal protective equipment against inspection intervals. Ran environmental compliance and permitting across 15+ projects worth 20M+ euros.",
+  "experience": [
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Authored full environmental impact assessments end to end for hotels, commercial buildings and a standalone energy project, and brought air, noise, water and ecology specialists into consolidated submissions",
+        "Maintained the permit database for commercial, retail and mixed-use developments, tracking conditions, deadlines and compliance status, and produced environmental monitoring reports against those conditions",
+        "Tracked environmental measures and corrective actions to closure across 15+ projects worth 20M+ euros, and kept project stakeholders informed of status and deadlines",
+        "Kept the hazardous substance register current with safety data sheets, classifications and material documentation",
+        "Organised and carried out maintenance, servicing, fit testing and inspection-interval tracking for respiratory protection and personal protective equipment, and kept safety equipment ready for site use",
+        "Ran site audits, toolbox talks and risk assessments, and raised NCRs and incident reports through to resolution",
+        "Briefed government authorities on a government hotel project, and prepared the compliance documentation behind inspections and approvals",
+        "Conducted energy audits and environmental compliance assessments for commercial buildings and IT parks"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Screen substances against REACH SVHC obligations, compile substance declarations and material composition from supplier data, and keep the documentation audit-ready",
+        "Commission and follow up external testing laboratories, and file the resulting test reports as compliance evidence",
+        "Advise clients on CE marking technical files, Declarations of Conformity, and GPSR product safety and non-conformity handling"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Delivered ISO 14001, CSDDD and human rights training as e-learnings through the SAP LMS, and prepared the materials and documentation behind each module",
+        "Prepared assurance working papers, evidence packs and audit trails for the external assurance provider, and supported third-party audits and on-site supplier inspections",
+        "Maintained the supply chain risk register, tracked remediation through to closure, and reported findings to senior management",
+        "Collected, validated and consolidated environmental and non-financial data group-wide in SAP and Excel, and built the Power BI dashboards reporting it"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Served as primary point of contact for 150+ organisations globally, tracking submission coverage and data quality, and built the repeatable processes and continuous improvements behind a full reporting cycle"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Managed sprint boards in Jira, writing tickets and acceptance criteria as tracked issues and reporting progress to closure",
+        "Built training materials and risk assessments for platform users, and automated data processing in Python, cutting manual handling by 40%"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Organised speaker-led learning sessions for a 53-member consortium, and delivered standards training at the Bombay, Colombo and Dhaka stock exchanges"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universität Berlin, Germany",
+      "details": [
+        "Grade 1.6 (Distinction). Coursework in energy audits, ISO 50001, life cycle assessment, data analysis and statistical methods, SQL"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), five-year professional degree",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": [
+        "Technical coursework: construction technology, building services, environmental control systems, building physics, Baustofflehre, contract management"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Training Preparation and Delivery",
+      "items": "Training preparation and follow-up, training rooms, equipment and safety equipment setup, training materials and documentation, e-learning delivery through SAP LMS, in-person sessions and workshops, post-training administration and records, speaker-led learning sessions, participant coordination"
+    },
+    {
+      "category": "Environmental Compliance and Permitting",
+      "items": "Environmental permitting and permit databases, permit condition and deadline tracking, environmental impact assessment, environmental monitoring reports, compliance documentation, measure and action tracking to closure, audit and inspection support, NCRs and incident reporting, risk assessments, risk tracking and risk registers, continuous improvement activities, ISO 14001, EMAS, occupational health and safety awareness"
+    },
+    {
+      "category": "Substance Data and Equipment",
+      "items": "Hazardous substance registers, safety data sheets and classification, REACH SVHC screening and substance declarations, material composition data, CE marking and Declarations of Conformity, GPSR, respiratory protection and PPE servicing, fit testing, inspection and test-interval tracking, external testing laboratories"
+    },
+    {
+      "category": "Databases, Tools and Reporting",
+      "items": "MS Office and Excel (advanced modelling, analysis and reporting), Power BI dashboards, SQL, SAP and SAP LMS, Jira ticket and action tracking, Confluence, osapiens, AutoCAD, Revit, Python automation, Microsoft 365"
+    }
+  ],
+  "certifications": [
+    "Agile - Cognizant",
+    "Climate & Sustainability - Boston Consulting Group (BCG)"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional (B2) | Hindi - Native"
+  ],
+  "footer": "Berlin, Germany | Open to Grünheide (Mark), Brandenburg | Immediately available | Valid German work and residence permit"
+}

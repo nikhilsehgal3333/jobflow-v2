@@ -1,0 +1,121 @@
+{
+  "profile": "Sustainability data specialist with five years of experience turning packaging, product and emissions datasets into analytical outputs that are accurate, auditable and defensible. Combines Extended Producer Responsibility and PPWR compliance advisory with data collection, cleansing, validation and quality assurance across large multi-entity datasets, developing the robust methodologies, assumptions and audit trails behind client reporting. Performs the complex calculations behind EPR fee and cost exposure modelling per market, and acted as primary data contact for more than 150 organisations on the leading global environmental disclosure platform.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd.",
+      "location": "Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Advise manufacturing clients on Extended Producer Responsibility and the Packaging and Packaging Waste Regulation, performing the complex calculations behind EPR fee and cost exposure per market in Excel",
+        "Structure product, material composition and recycled content data for Digital Product Passport and ESPR readiness, defining the data requirements clients collect against and the gaps they must close",
+        "Calculate bill-of-materials Product Carbon Footprints for building materials, industrial and automotive clients, running supplier data requests for material-level inputs and documenting assumptions where returns are incomplete",
+        "Develop Environmental Product Declarations and lifecycle assessments to ISO 14040, 14044 and 14067 using EN 15804 and ISO 14025 datasets, maintaining transparent calculation logic and audit trails behind every published figure",
+        "Act as trusted advisor on data governance and reporting obligations, translating analytical outputs into decisions clients can act on and tracking sustainability KPIs to an audit ready standard"
+      ]
+    },
+    {
+      "company": "TUI AG",
+      "location": "Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Collected, cleansed, validated and consolidated non-financial metrics group wide across multiple functions and legal entities, reconciling inconsistent source data in SAP and Power BI into a single reported figure",
+        "Built ESG dashboards in Power BI and set annual KPI targets and data collection cycles, tracking attainment against reduction pathways",
+        "Benchmarked five ESG rating methodologies including S&P Global CSA, Sustainalytics, MSCI and ISS, identifying where methodological differences changed the reported outcome",
+        "Coordinated with audit partners to assemble evidentiary documentation for third-party assurance, supporting the internal control system governing how reported data is produced",
+        "Presented analysis results and regulatory developments at senior leadership level to technical and non-technical audiences, deriving the resulting recommendations"
+      ]
+    },
+    {
+      "company": "CDP Worldwide",
+      "location": "Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Owned ESG data collection, validation and management on the CDP platform, applying quality assurance controls and tracking submission coverage across a global disclosure cycle",
+        "Served as primary point of contact for more than 150 organisations, resolving GHG accounting, data and platform queries",
+        "Analysed newly launched integrated questionnaire modules to verify that reported data was captured accurately at source",
+        "Established repeatable reporting processes and controls that held across organisations of widely differing size, sector and data maturity"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd.",
+      "location": "Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Built the data systems behind a GRI aligned sustainability reporting platform, writing SQL queries and robust validation rules that caught errors before they reached client reports",
+        "Automated reporting workflows in Python, cutting manual data processing time by 40 percent",
+        "Normalised and reconciled client datasets including pharmaceutical sector data, resolving inconsistencies and structuring inputs for repeatable analysis",
+        "Contributed technical input to proposals and tender responses, managing a book of client accounts against renewal and growth targets"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI)",
+      "location": "New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Evaluated 53 consortium members against the 17 Sustainable Development Goals across five countries, building the structured dataset behind the region's reporting analysis",
+        "Chaired recurring member meetings and produced newsletters and policy updates, translating regulatory developments into guidance members could act on"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd.",
+      "location": "Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Directed a team of four, reviewing their output and setting the standards applied across project delivery",
+        "Prepared technical and financial evaluations and cost estimates informing client decisions on 15+ projects worth over 20 million euros"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master's Degree), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universitat Berlin, Germany",
+      "details": [
+        "Grade 1.6 (Distinction). Thesis used survey design, quantitative analysis and regression in Python",
+        "Coursework: data analysis, statistical methods, SQL, Life Cycle Assessment, COSO risk framework, ISO 31000"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), 5-year professional degree",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": [
+        "Coursework: building materials science, construction technology, building physics, contract management"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Sustainability Data and Analysis",
+      "items": "Large and complex dataset analysis, data collection, cleansing, validation and transformation, data governance, data quality management, analytical quality assurance, gap and limitation assessment, assumption documentation, audit trails, calculation logic, methodology development, benchmarking, KPI definition and tracking"
+    },
+    {
+      "category": "Packaging, Product and Circularity Regulation",
+      "items": "Extended Producer Responsibility (EPR), Packaging and Packaging Waste Regulation (PPWR), ESPR and Ecodesign, Digital Product Passport (DPP), Environmental Product Declarations (EPD), material composition and recycled content data, bill-of-materials Product Carbon Footprint, EUDR, REACH, circular economy, waste and resource management"
+    },
+    {
+      "category": "Reporting Frameworks and Assurance",
+      "items": "CSRD, ESRS, EU Taxonomy, GRI Standards, CDP, TCFD, GHG Protocol Scopes 1, 2 and 3, Life Cycle Assessment (ISO 14040 / 14044 / 14067), EN 15804, ISO 14025, third-party assurance evidence, internal control systems"
+    },
+    {
+      "category": "Tools and Delivery",
+      "items": "Excel (advanced modelling), Power BI, SQL, Python, SAP, OneClick LCA, osapiens, CDP platform, dashboards and data visualisation, report writing, client advisory, proposal input, project and workstream management, mentoring and training delivery"
+    }
+  ],
+  "certifications": [
+    "Understanding Climate-related Financial Disclosures - CDP",
+    "Introduction to Scenario Analysis - CDP",
+    "Introduction to ESG - Corporate Finance Institute (CFI)"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional (B2) | Hindi - Native"
+  ],
+  "footer": "Berlin, Germany | Available immediately | Valid German work and residence permit | Open to remote delivery across EMEA"
+}

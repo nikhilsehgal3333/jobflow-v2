@@ -1,0 +1,116 @@
+{
+  "company": "Turner & Townsend",
+  "role": "Project Coordinator",
+  "format": "preferred",
+  "language": "en",
+  "profile": "Project coordinator with six years across construction and real estate delivery, business support and bid administration. Provides administrative support to senior leadership covering diary, correspondence and travel, manages QHSE online reporting and the annual audit schedule, and completes pre-qualification questionnaires and tender responses for commercial teams. Coordinated design, engineering and client teams across 15+ projects worth 20M+ euros.",
+  "experience": [
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Provided administrative support to the practice principal alongside project delivery, covering diary and email management, correspondence and business travel arrangements",
+        "Managed QHSE reporting online, logging hazards, incidents, NCRs and audit findings, and tracked every item through to closure",
+        "Completed the annual audit schedule, planning which audits ran when and closing out the findings with the responsible teams",
+        "Ran site audits, toolbox talks and risk assessments, and maintained the permit register with its conditions, deadlines and compliance status",
+        "Secured best price from subcontractors and consultants on tendered packages, and prepared the cost and budget estimates behind each",
+        "Coordinated design, engineering, environmental and client teams across 15+ projects worth 20M+ euros, keeping concurrent projects to programme",
+        "Managed and coached a team of 4 interns, delivering the training and review cycle they needed to work independently"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Completed pre-qualification questionnaires (PQQs) and full tender responses end to end, owning response strategy, section ownership and submission timelines against hard client deadlines",
+        "Priced bids and set the commercial terms attached to them, with the Excel cost and cash-flow models behind each submission, and normalised client data for a pharmaceutical account",
+        "Supported the sales team through the pipeline, arranging client calls, maintaining opportunity forecasts in the CRM and running win/loss reviews on closed deals",
+        "Built a reusable content library, proposal templates and pitch decks that cut turnaround on repeat submissions and held messaging consistent across contributors"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Communicated and implemented group policies and processes across functions, writing the SOPs, work instructions and responsibility splits that put each requirement into daily practice",
+        "Prepared the working papers and evidence packs external auditors tested against, and coordinated audit and inspection scheduling with the responsible functions",
+        "Delivered ISO 14001, supply chain due diligence and human rights training as e-learnings through the SAP LMS, and prepared the materials behind each module",
+        "Built and steered a cross-functional project team across Compliance, Risk, Legal, IT and supply chain, set its deliverables and held contributors to deadlines without direct authority"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Served as primary point of contact for 150+ organisations globally through the disclosure inbox, resolving methodology, data-quality and deadline queries",
+        "Handled finance, invoice and payment queries for disclosing companies and kept the records accurate through a full reporting cycle",
+        "Supported the CDP-hosted workshop in Warsaw, and built repeatable processes and controls across organisations of very different size and maturity"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Chaired the recurring meetings of a 53-member consortium, setting agendas, facilitating between differing mandates and driving actions to closure",
+        "Produced member newsletters and policy updates, organised speaker-led learning sessions, and handled membership renewals"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Advise building materials, industrial and real estate clients on regulatory obligations and the compliance evidence each project has to carry"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universität Berlin, Germany",
+      "details": [
+        "Grade 1.6 (Distinction). Coursework in data analysis and statistical methods, SQL, energy audits and life cycle assessment"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), five-year professional degree",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": [
+        "Technical coursework: construction technology, building services, building physics, contract management"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Project and Office Coordination",
+      "items": "Administrative support to senior leadership, diary, calendar and email management, inbox triage and correspondence, business travel arrangements, event and workshop organisation, meeting agendas, minutes and action tracking, business policies and processes, document control and accurate paperwork administration, excellent attention to detail, staffing and resource schedules, day-to-day running of a busy office"
+    },
+    {
+      "category": "QHSE and Audit",
+      "items": "QHSE online reporting, hazard, incident and NCR logging, annual audit schedule planning and close-out, site audits, toolbox talks, risk assessments and risk registers, permit registers with conditions and deadlines, health and safety policy implementation, inspection coordination, ISO 14001"
+    },
+    {
+      "category": "Bids, Sales Support and Commercial",
+      "items": "Pre-qualification questionnaires (PQQ), tender and RFP responses end to end, bid pricing and commercial terms, subcontractor and supplier pricing, cost and budget estimating, Excel cost and cash-flow modelling, reusable content libraries and proposal templates, CRM pipeline and forecasting, win/loss reviews, strong numeracy"
+    },
+    {
+      "category": "Communication, Training and Systems",
+      "items": "Written and verbal communication in English and German, business communication, briefings and management reporting, newsletters and publications, training delivery and e-learning through SAP LMS, coaching and development planning, Microsoft Outlook, Excel and Word, Microsoft 365, Power BI, SAP, Jira, Confluence, quick uptake of new in-house systems"
+    }
+  ],
+  "certifications": [
+    "Agile - Cognizant",
+    "Climate & Sustainability - Boston Consulting Group (BCG)"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional (B2) | Hindi - Native"
+  ],
+  "footer": "Berlin, Germany | Willing to relocate to Düsseldorf and work on site 3 to 4 days a week | Immediately available | Valid German work and residence permit"
+}

@@ -1,0 +1,111 @@
+{
+  "profile": "Project delivery and controls professional with six years across construction, technical consulting and industrial and infrastructure advisory. Develops and maintains CPM schedules in Primavera P6 and MS Project, runs critical path and what-if analysis, and holds baselines, look-ahead programmes, resource loading and earned value against site progress. Reads construction means and methods across civil, structural, architectural, mechanical, electrical and plumbing scopes. Planned and costed delivery across 15+ projects worth 20M+ euros.",
+  "experience": [
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Developed and maintained detailed construction programmes in Primavera P6 and MS Project, setting the work breakdown, activity logic and milestones across 15+ commercial, hospitality, institutional and residential projects worth 20M+ euros",
+        "Ran critical path analysis and what-if scenarios on live programmes, and held baselines and forecast revisions against progress reported by site teams",
+        "Prepared short-term look-ahead schedules with site teams and integrated subcontractor and discipline programmes into the master schedule",
+        "Loaded manpower and equipment resources into programmes, and validated durations and productivity assumptions against cost and budget estimates",
+        "Tracked earned value against planned progress and reported project status, performance metrics and forecasts to project managers and clients",
+        "Coordinated project documentation and correspondence through Aconex and Oracle Unifier, and marked up drawings and quantity takeoffs in Bluebeam and AutoCAD",
+        "Compiled schedule and site documentation behind delay analysis and change management, flagged schedule risks with the mitigation open to each, and raised NCRs, incident reports and risk assessments from site audits",
+        "Brought civil, structural, MEP and specialist consultants into consolidated technical submissions across pre-feasibility, permitting and delivery stages",
+        "Managed a team of 4 interns from proposal through delivery, holding drawing and review deadlines across concurrent projects"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Advise building materials, industrial and real estate clients on technical exposure and the delivery pathways open to them, spanning gypsum, insulation, cement, plasterboard and facade manufacturers",
+        "Model cost and fee exposure market by market in Excel, converting technical obligation into the figures behind client capital decisions",
+        "Assess building and product performance against ISO 14040, 14044 and 14067, and set out the evidence a project has to carry through construction"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Built and steered a cross-functional project team across Compliance, Risk, Legal, IT and supply chain, set its deliverables and held contributors to deadlines without direct authority",
+        "Reported programme status and performance metrics through Power BI dashboards, and presented results and recommendations to senior leadership",
+        "Drove implementation directly with international group subsidiaries and tracked completion entity by entity against fixed deadlines"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Owned tender responses end to end, pricing submissions and building the Excel cost and cash-flow models behind each bid against hard client deadlines",
+        "Ran sprint cycles for a B2B platform, writing user stories and acceptance criteria as tracked Jira issues and reporting sprint progress against plan",
+        "Automated data processing in Python, cutting manual handling by 40%"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Served as primary point of contact for 150+ organisations globally, tracking submission coverage and data quality through a full reporting cycle"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Evaluated 53 consortium members across 5 countries and chaired the recurring member meetings through to agreed actions"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universität Berlin, Germany",
+      "details": [
+        "Grade 1.6 (Distinction). Coursework in energy audits, ISO 50001, life cycle assessment, data analysis and statistical methods, SQL"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), five-year professional degree",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": [
+        "Construction technology, building services, structural and environmental control systems, building physics, Baustofflehre, land use and urban planning, contract management"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Planning and Scheduling",
+      "items": "Oracle Primavera P6, MS Project, CPM scheduling, critical path and float analysis, baseline maintenance and forecast revision, what-if scenarios, schedule risk assessment, short-term look-ahead schedules, milestone tracking, subcontractor and discipline schedule integration, schedule risk identification and mitigation strategies, resource and manpower loading, earned value concepts, delay analysis and change impact assessment"
+    },
+    {
+      "category": "Construction and Project Controls",
+      "items": "Construction means and methods across civil, structural, architectural, mechanical, electrical and plumbing scopes, HOAI Leistungsphasen, cost and budget estimating, pre-feasibility and technical-financial evaluation, contract management, NCRs and incident reporting, site audits and toolbox talks, environmental permitting, master planning covering site roads, utilities and services infrastructure, Quartiersentwicklung"
+    },
+    {
+      "category": "Software",
+      "items": "Primavera P6, MS Project, Aconex, Oracle Unifier, Bluebeam, AutoCAD, Revit, SketchUp, Rhino and Grasshopper, IES VE, Excel, Power BI, SQL, Python, Jira, Confluence, SAP, Microsoft 365"
+    },
+    {
+      "category": "Delivery and Stakeholders",
+      "items": "Cross-functional project leadership in matrix organisations, subcontractor and consultant coordination, site team liaison, reporting to senior leadership, client advisory, dashboard and status reporting, team supervision"
+    }
+  ],
+  "certifications": [
+    "Agile - Cognizant",
+    "Climate & Sustainability - Boston Consulting Group (BCG)"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional (B2) | Hindi - Native"
+  ],
+  "footer": "Berlin, Germany | Open to Grünheide (Mark), Brandenburg | Immediately available | Valid German work and residence permit"
+}

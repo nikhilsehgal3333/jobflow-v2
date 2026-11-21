@@ -1,0 +1,121 @@
+{
+  "company": "Sonoco",
+  "role": "Global Sustainability Compliance Specialist",
+  "format": "workday",
+  "language": "en",
+  "profile": "Sustainability compliance specialist with 4+ years across sustainable packaging and product regulation, supply chain due diligence and CSRD reporting, in consulting, a listed group and a disclosure platform. Reviews new EU legal requirements and turns them into implementation steps with business teams, customers and suppliers. Cut manual data processing by 40% through Python automation, and modelled EPR fee exposure market by market for packaging clients.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Review PPWR, EPR and recyclability requirements for clients' food, paper and board packaging",
+        "Model EPR fee and cost exposure market by market in Excel",
+        "Substantiate clients' product environmental claims under EmpCo with LCA and EPD evidence",
+        "Feed geolocation and deforestation-risk data into clients' EUDR due diligence statements and risk assessments",
+        "Supply PCFs and ESG data requested by clients' own customers, and consolidate several customers' ESG requirements into one requirements list",
+        "Commission external testing laboratories and follow up test reports as compliance evidence and LCA inputs",
+        "Deliver LCAs and product carbon footprints to ISO 14040, 14044 and 14067 for 4+ B2B clients",
+        "Agree collected volumes, treatment routes and turnaround with recycling partners and waste contractors",
+        "Pilot new compliance processes with one client or product line before extending them across the portfolio"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Implemented CSDDD and LkSG due diligence on osapiens, configuring the platform and loading cleansed data for 500+ suppliers",
+        "Assessed suppliers against ESG criteria from questionnaires and evidence, and took part in on-site supplier audits",
+        "Documented EcoVadis, SAQ and Integrity Next questionnaires, and answered investor and rating-agency queries",
+        "Aligned group CSRD reporting with ESRS E1 alongside the senior disclosure team",
+        "Built and delivered e-learnings on ISO 14001, CSDDD and human rights through the SAP LMS",
+        "Rolled out regulatory requirements with 5+ international group entities and tracked completion entity by entity",
+        "Steered a 5-function project team across Compliance, Risk, Legal, IT and supply chain to agreed deadlines"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Served as primary contact for 150+ organisations globally, resolving disclosure, data and deadline queries",
+        "Logged feedback calls in HubSpot and escalated issues to internal teams through to close-out"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Cut manual data processing by 40% through Python automation",
+        "Wrote SQL validation rules for a GRI-aligned reporting platform that caught incomplete and implausible entries",
+        "Created a reusable content library and templates that cut turnaround on repeat bids"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Represented the organisation in an industry association working group",
+        "Produced member newsletters and policy updates, and organised speaker-led learning sessions for a 53-member consortium",
+        "Trained companies on the GRI Standards at 3 stock exchanges: Bombay, Colombo and Dhaka"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Kept waste registers and set disposal routes for industrial waste streams at operating sites",
+        "Advised on 15+ projects worth 20M+ euros, covering environmental compliance and cost estimates"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universität Berlin, Germany",
+      "details": [
+        "Grade 1,6 (good). Thesis on the financial implications of CSRD in the construction industry, evaluating ESRS E1 to G1",
+        "Coursework: life cycle assessment, environmental law, data analysis and statistical methods"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), five-year professional degree",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": []
+    }
+  ],
+  "skills": [
+    {
+      "category": "Packaging and Product Regulation",
+      "items": "Sustainable packaging, PPWR, extended producer responsibility (EPR) and EPR fee modelling, packaging recyclability, food, paper and board packaging, EmpCo and green claims substantiation for external communication, ESPR and Digital Product Passport, EU Ecolabel, REACH, CE marking, GPSR"
+    },
+    {
+      "category": "Supply Chain and Reporting Compliance",
+      "items": "EUDR, CSDDD and LkSG, supplier ESG assessments, on-site supplier audits, EcoVadis, Integrity Next, CSRD and ESRS, double materiality, GRI, CDP, EU Taxonomy, regulatory monitoring and compliance tracking, customer sustainability requests, continuous improvement"
+    },
+    {
+      "category": "Product Sustainability",
+      "items": "Life cycle assessment (ISO 14040/14044), product carbon footprint (ISO 14067), EPD (EN 15804), GHG Protocol Scope 1-3, OneClick LCA, circular design criteria, circularity KPIs (recycled content, recyclability rate), external testing laboratories"
+    },
+    {
+      "category": "Tools and Communication",
+      "items": "Advanced Excel, Power BI, SAP, osapiens, HubSpot, Python, SQL, AI tools for research and drafting, SAP LMS e-learnings, newsletters, trainings and webinars, internal and external stakeholder engagement, Microsoft 365, Google Workspace"
+    }
+  ],
+  "certifications": [
+    "Climate & Sustainability - Boston Consulting Group (BCG)",
+    "Climate Change & Sustainability - EY",
+    "Introduction to ESG - Corporate Finance Institute (CFI)"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional (B2) | Hindi - Native"
+  ],
+  "footer": "Based in Berlin | Willing to relocate to Hockenheim | Open to 10% travel | Available immediately | Valid German work and residence permit"
+}

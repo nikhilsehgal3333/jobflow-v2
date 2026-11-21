@@ -1,0 +1,125 @@
+{
+  "company": "Voith Hydro",
+  "role": "Junior Manager Sustainability",
+  "format": "preferred",
+  "language": "en",
+  "profile": "Sustainability consultant with 4+ years in environmental KPI reporting, CO2 accounting and site-level efficiency analysis, across consulting, a listed group and a global disclosure platform. Analyses energy, water and material data across sites, quantifies reduction potential with its CO2 and cost effect, and turns findings into presentations and training for international teams. Consolidated non-financial KPIs from 5+ international entities into group reporting by planning the data-collection cycles and validating figures in SAP and Power BI.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Track energy use across client site portfolios from metered data and set reduction targets",
+        "Check consumption data for plausibility, catching gaps, outliers and unit errors before it reaches reporting",
+        "Derive retrofit and operating measures for 10+ buildings and assets, quantifying the CO2 and cost effect of each",
+        "Scope decarbonisation projects with reduction options, savings estimates and implementation plans, then follow each measure to its achieved reduction",
+        "Assess electrification or fuel-switching options at a client's industrial site",
+        "Apply circularity KPIs such as recycled-content share and recyclability rate, and evaluate low-carbon material substitution",
+        "Calculate product and corporate carbon footprints to the GHG Protocol, Scope 1-3, for 4+ B2B clients",
+        "Supply the PCFs or ESG data that clients' customers request, and consolidate several customers' requirements into one list"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Collected, validated and consolidated non-financial KPIs from several functions and 5+ international entities, using SAP and Power BI",
+        "Planned annual ESG KPI targets and data-collection cycles, and tracked attainment against climate targets developed with the senior team",
+        "Built Power BI ESG dashboards and presented analysis results to senior leadership with recommendations",
+        "Shared best practice between 5+ international subsidiaries while coordinating regulatory rollout, tracking completion entity by entity",
+        "Developed and delivered 3 staff e-learnings on the SAP LMS, covering ISO 14001, CSDDD and human rights",
+        "Rolled out an employee sustainability awareness campaign and kept internal intranet pages up to date for colleagues",
+        "Prepared EcoVadis, SAQ and Integrity Next questionnaire responses and answered investor sustainability queries",
+        "Steered a cross-functional project team across 5 functions, including Compliance, Risk, Legal and IT, to fixed deadlines"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Served as primary contact for 150+ organisations worldwide, resolving questionnaire, data and invoicing queries",
+        "Validated ESG data on the CDP platform and tracked submission coverage and data quality"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Cut manual data processing by 40% through Python automation, backed by SQL validation rules on a reporting platform",
+        "Created a reusable content library, templates and Confluence documentation that colleagues drew on for repeat work",
+        "Trained new client users through walkthroughs and onboarding sessions, with the training materials behind them"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Evaluated 53 consortium members' engagement with 17 SDGs across 5 countries in South Asia",
+        "Chaired recurring meetings of the 53-member consortium and organised speaker-led learning sessions to share practice between members",
+        "Produced member newsletters and policy updates for the network",
+        "Presented the GRI Standards to companies at 3 stock exchanges: Bombay, Colombo and Dhaka"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Ran energy audits and environmental compliance assessments for commercial buildings and IT parks",
+        "Monitored water and wastewater, air emissions and industrial waste at operating sites against permit conditions",
+        "Delivered pre-feasibility studies, cost estimates and implementation plans across 15+ projects worth 20M+ euros"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universität Berlin, Germany",
+      "details": [
+        "Grade 1,6 (good). Thesis on the financial implications of CSRD in the construction industry, using survey design and regression analysis in Python",
+        "Coursework: energy audits, ISO 50001, LCA, environmental law, data analysis and statistical methods"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), five-year professional degree",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": [
+        "Coursework: energy systems, building services, building physics and environmental control systems"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Environmental Performance and Efficiency",
+      "items": "Energy, water and material efficiency analysis, energy and resource efficiency, metered consumption data, plausibility checks, energy audits, environmental and reduction targets, identification and quantification of improvement potential, decarbonisation measures with CO2 and cost effect, electrification or fuel switching, circularity KPIs, material substitution, ISO 14001 and ISO 50001 (framework knowledge)"
+    },
+    {
+      "category": "Carbon Accounting and Reporting",
+      "items": "GHG Protocol Scope 1-3, corporate and product carbon footprints, LCA to ISO 14040/14044/14067, EPD to EN 15804, KPI controlling and data validation, CSRD and ESRS E1, EU Taxonomy, GRI, CDP, SBTi, CRREM"
+    },
+    {
+      "category": "Knowledge Management, Training and Projects",
+      "items": "Training materials and e-learnings, presentations for senior leadership, intranet content, knowledge libraries and templates, best-practice exchange across international sites and entities, customer sustainability questionnaires, cross-functional project management"
+    },
+    {
+      "category": "Tools",
+      "items": "MS Office / Microsoft 365 (advanced Excel, PowerPoint, Word, Teams), Power BI, SAP, SQL, Python, OneClick LCA, Confluence, Jira"
+    }
+  ],
+  "certifications": [
+    "Climate & Sustainability - Boston Consulting Group (BCG)",
+    "Climate Change & Sustainability - EY",
+    "Climate-related Financial Disclosures - CDP"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional (B2) | Hindi - Native"
+  ],
+  "footer": "Based in Berlin | Willing to relocate to Heidenheim | Available immediately | Valid German work and residence permit"
+}

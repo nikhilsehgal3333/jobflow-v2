@@ -1,0 +1,126 @@
+{
+  "contact": {
+    "location": "Berlin, Germany",
+    "phone": "+49 172 6568115",
+    "email": "nikkhilsehgal@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/nikkhil-sehgal-a68577146/"
+  },
+  "profile": "Project and platform coordination specialist with over five years across enterprise software rollouts, third-party vendor management and cross-functional delivery across multinational matrix organisations in EMEA. Combines tool deployment and adoption with training design, CRM campaign execution and reporting through Power BI, SQL and Excel dashboards. Implemented a third-party compliance platform across international group subsidiaries at a DAX-listed group, steering a cross-functional team through Compliance, Risk, Legal and IT and tracking adoption entity by entity.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd.",
+      "location": "Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Build and maintain client KPI dashboards tracking performance against targets, and keep the underlying data accurate, consistent and audit-ready",
+        "Pilot new data collection processes with a single client or product line first, then support the rollout across the wider portfolio once the approach holds",
+        "Coach client teams on methodology, reporting requirements and data governance, acting as first point of contact for queries and escalating complex cases"
+      ]
+    },
+    {
+      "company": "TUI AG",
+      "location": "Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Implemented the osapiens third-party vendor platform across the group, coordinating deployment with international subsidiaries across diverse markets, balancing global consistency with local requirements and embedding it into existing group processes",
+        "Steered a cross-functional project team across Compliance, Risk, Legal, IT and supply chain, setting deliverables, holding contributors to deadlines and running delivery agile",
+        "Designed e-learning modules, delivered them through the SAP LMS to staff across international entities, and tracked training programme completion and product adoption across teams",
+        "Developed reports and dashboards in Power BI using existing analytics tools, consolidating operational and performance data from SAP across multiple business units and entities",
+        "Scoped and drove a proof of concept for an LLM assistant, designing the prompts and retrieval behind it to test AI-based query handling before wider use",
+        "Documented processes, SOPs and roles and responsibilities across functions, defining decision rights and ownership between central and local teams"
+      ]
+    },
+    {
+      "company": "CDP Worldwide",
+      "location": "Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Acted as first point of contact for 150+ organisations globally, resolving platform, methodology and invoicing queries and escalating complex cases to specialist teams",
+        "Onboarded and supported organisations onto the disclosure platform, maintaining customer records and logging interactions in HubSpot",
+        "Analysed newly launched platform modules for accurate data capture, and tracked submission coverage and data quality across the user base"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd.",
+      "location": "Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Managed the product lifecycle from concept to implementation for a B2B SaaS platform, running sprint cycles in Jira and authoring the requirement and specification pages in Confluence that engineering built against",
+        "Ran email campaigns and marketing workflows in the CRM, and produced reports and dashboards on campaign performance metrics, engagement and pipeline across a defined book of business",
+        "Forecast revenue weekly against an opportunity pipeline in Dynamics 365, and tracked contract renewals, upsell and account expansion against commercial growth targets",
+        "Automated data processing in Python, improving operational efficiency and cutting manual effort by 40 percent",
+        "Owned tender and proposal responses end to end, pricing bids and setting the commercial terms and cost models behind each submission",
+        "Assembled a reusable content library, proposal templates and pitch decks that cut turnaround on repeat bids and held messaging consistent across contributors"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative",
+      "location": "New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Ran a communications campaign end to end, setting the messaging, channels, timeline and measurement behind it",
+        "Produced member newsletters and policy updates, and chaired recurring meetings across a 53-member network spanning 5 countries"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations",
+      "location": "Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Led a team of 4 across 15+ projects worth over EUR 20M, from proposal through delivery against scope, budget and schedule",
+        "Coordinated specialist consultants and third-party vendor partners into consolidated deliverables, monitoring delivery quality and cost-effectiveness, and prepared the cost and budget estimates behind client approval"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universitaet Berlin, Germany",
+      "details": [
+        "Grade 1.6 (Distinction). Coursework in data analysis, statistical methods and SQL. Thesis using regression analysis in Python"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (5-year professional degree)",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": [
+        "Contract management, land use and urban planning, construction technology"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Platform Enablement and Adoption",
+      "items": "Enterprise SaaS rollout and deployment, multi-market implementation, change management, user training and e-learning design, adoption tracking, piloting new tools before wider rollout, process documentation and SOPs, best-practice sharing across regions"
+    },
+    {
+      "category": "Marketing, CRM and Data",
+      "items": "HubSpot, Dynamics 365, email campaigns and marketing workflows, CRM reporting and dashboards, opportunity pipeline and revenue forecasting, Power BI, SQL, advanced Excel, SAP, data management tools, data governance, validation and quality"
+    },
+    {
+      "category": "Project Delivery and Vendor Management",
+      "items": "Jira, Confluence, MS Project, MS Teams, sprint cycles, user stories and acceptance criteria, UAT, cross-functional and matrix delivery, scope, budget and schedule management, third-party vendor partner coordination and performance monitoring, contract and proposal pricing, stakeholder communication"
+    },
+    {
+      "category": "Innovation and Automation",
+      "items": "Python automation, LLM prompt and retrieval design, proof-of-concept scoping, AI-assisted query handling, workflow optimisation, Microsoft 365, Google Workspace (Sheets and Slides)"
+    }
+  ],
+  "certifications": [
+    "Agile - Cognizant",
+    "Climate & Sustainability - Boston Consulting Group",
+    "Introduction to ESG - Corporate Finance Institute"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional (B2) | Hindi - Native"
+  ],
+  "footer": "Valid German work and residence permit | Berlin-based | Available immediately"
+}

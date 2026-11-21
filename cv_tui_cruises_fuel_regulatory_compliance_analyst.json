@@ -1,0 +1,122 @@
+{
+  "company": "TUI Cruises",
+  "role": "Fuel and Regulatory Compliance Analyst",
+  "format": "preferred",
+  "language": "en",
+  "profile": "Sustainability data professional with six years across emissions accounting, energy data and environmental compliance in corporate, consulting and non-profit roles. Collects, verifies and benchmarks emissions and energy data, tracks carbon and efficiency KPIs, and prepares data and documentation for regulatory compliance and sustainability reporting. Calculated 4+ corporate carbon footprints and cut manual data processing by 40% through Python automation.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Collect energy consumption and emissions data for hotel and commercial building clients across 10+ assets, checking it for gaps, outliers and unit errors",
+        "Track energy use across client sites from metered data and set reduction targets against the baseline",
+        "Calculate Scope 1, 2 and 3 carbon footprints under the GHG Protocol from fuel consumption, electricity and activity data",
+        "Benchmark buildings against industry standards such as the CRREM 1.5 and 2 degree pathways and EU Taxonomy energy criteria",
+        "Cut Scope 3 data collection time by 10%+ with standard templates, supplier data requests, data quality checks and an Excel calculation model",
+        "Build client KPI dashboards and track each reduction measure by owner, status and achieved reduction",
+        "Map a client's EU ETS exposure and CBAM reporting duties against covered goods and the underlying declaration data",
+        "Direct 6+ analysts and quality-check their emissions calculations and deliverables before release"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Coordinated with audit partners and external consultants to compile the evidentiary documentation for CSRD assurance",
+        "Prepared for CSRD reporting with the disclosure team, aligning disclosures with ESRS E1 and assessing SBTi and TCFD statements",
+        "Consolidated and validated ESG data from group entities in SAP",
+        "Developed training modules on ISO 14001, human rights, child protection and modern slavery, and contributed to the related guidelines",
+        "Compared the S&P, Sustainalytics, MSCI and ISS rating methodologies, identifying intersections with TUI's operations and regulatory requirements",
+        "Contributed to enhancing and updating the supplier risk management tool",
+        "Initiated and conceptualised an ESG chatbot aligned with corporate objectives to support strategic decision-making"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Validated climate disclosure data on the CDP platform, tracking submission coverage and data quality",
+        "Served as primary contact for 150+ disclosing organisations, cutting response times by 20%+"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Cut manual data processing by 40% through Python automation on a GRI-aligned sustainability reporting platform",
+        "Built and improved the platform's data management system, writing SQL queries and validation rules and testing releases through UAT",
+        "Analysed client sustainability datasets in Python for reporting"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Benchmarked 53 consortium members against one another on their engagement with the 17 SDGs across 5 countries",
+        "Presented the GRI Standards at 3 stock exchanges: Bombay, Colombo and Dhaka",
+        "Wrote policy briefs and technical summaries for non-specialist audiences"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Architect",
+      "bullets": [
+        "Performed energy audits and environmental compliance assessments for commercial buildings, and advised on 15+ projects worth 20M+ euros",
+        "Monitored water, wastewater and air emissions at operating sites, and reported against permit conditions",
+        "Compiled environmental permit submissions to authorities, consolidating specialist inputs on air, noise, water and ecology"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universität Berlin, Germany",
+      "details": [
+        "Grade 1,6 (good). Thesis on the financial implications of CSRD in the construction industry, with survey design and regression analysis in Python. Coursework in data analysis, statistical methods and SQL"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), five-year professional degree",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": [
+        "Coursework in energy systems, building services and environmental control systems"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Emissions and Energy Data",
+      "items": "GHG Protocol Scope 1, 2 and 3, carbon footprints, fuel and energy consumption data, metered data, emissions and energy efficiency KPIs, data collection, validation and consolidation, data quality assurance, plausibility checks"
+    },
+    {
+      "category": "Data Tools",
+      "items": "Advanced Excel (calculation and cost models), SQL, Python (data analysis and automation), SAP, OneClick LCA, MS Office"
+    },
+    {
+      "category": "Regulation and Reporting",
+      "items": "EU ETS, CBAM reporting duties, CSRD and ESRS E1, EU Taxonomy, CDP, GRI, TCFD, SBTi, CRREM, assurance evidence documentation, environmental permit reporting"
+    },
+    {
+      "category": "Communication and Teamwork",
+      "items": "Findings and recommendations for management, technical teams and external partners, client coaching, training module development, cross-functional teams"
+    }
+  ],
+  "certifications": [
+    "Climate-related Financial Disclosures - CDP",
+    "Climate Change & Sustainability - EY",
+    "Climate & Sustainability - Boston Consulting Group (BCG)"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional (B2) | Hindi - Native"
+  ],
+  "footer": "Valid German work and residence permit | Berlin-based, open to relocation to Hamburg | Available immediately"
+}

@@ -1,0 +1,127 @@
+{
+  "contact": {
+    "location": "New Delhi, India",
+    "phone": "+91 7042509790",
+    "email": "nikkhilsehgal@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/nikkhil-sehgal-a68577146/"
+  },
+  "profile": "Sustainability consultant with over five years across the AEC industry and corporate sustainability, specialising in low-carbon design solutions, Net Zero strategies and whole life carbon assessment. Spans energy and thermal comfort simulation, computational design workflows in Rhino and Grasshopper, life cycle assessment and green building certification under LEED, WELL and GRIHA. Delivered sustainability advisory services on 15+ commercial, hospitality and institutional developments worth over EUR 20M, from concept-stage design analysis through permitting to client approval.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd.",
+      "location": "Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Deliver whole life carbon assessments and product carbon footprints for building materials clients across gypsum, insulation, cement, plasterboard and facade systems, on GHG Protocol and ISO 14040, 14044 and 14067 methodology",
+        "Produce Environmental Product Declarations to EN 15804 and ISO 14025 in OneClick LCA, with embodied carbon quantified across material, transport, construction and end-of-life stages",
+        "Model CRREM decarbonisation pathways for Middle East real estate portfolios at 1.5 and 2 degrees, building Net Zero strategies and sizing transition risk against asset-level energy baselines",
+        "Advise clients on low carbon design solutions, material substitution and circular construction, and substantiate product environmental claims with LCA and EPD evidence under EU green claims rules",
+        "Coach key client stakeholders and technical teams on carbon accounting methodology and data governance, and pilot new data collection processes on a single product line before extending them portfolio-wide"
+      ]
+    },
+    {
+      "company": "TUI AG",
+      "location": "Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Presented climate analysis and regulatory developments to senior leadership with recommendations, and steered a cross-functional project team across Compliance, Risk, Legal and IT to fixed deliverables and deadlines",
+        "Aligned CSRD reporting with ESRS E1 alongside the senior disclosure team, covering climate mitigation and adaptation targets, transition planning and Scope 1, 2 and 3 performance",
+        "Assessed EU Taxonomy eligibility and alignment across group activities, and documented the technical screening evidence behind each classification for third-party assurance",
+        "Designed and ran ISO 14001 and due diligence training modules on the SAP LMS for technical staff across international group entities"
+      ]
+    },
+    {
+      "company": "CDP Worldwide",
+      "location": "Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Served as primary point of contact for 150+ organisations globally on climate and environmental disclosure, resolving methodology and data queries through the disclosure inbox",
+        "Owned ESG data collection, validation and quality tracking on the CDP platform across newly launched questionnaire modules"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd.",
+      "location": "Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Automated data processing in Python for a GRI-aligned reporting platform, cutting manual effort by 40 percent",
+        "Managed the product lifecycle from concept to implementation for a B2B ESG platform, spanning requirements gathering, user stories and UAT"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative",
+      "location": "New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Evaluated 53 consortium members against 17 SDGs across 5 countries, and researched sustainability reporting trends in India, Sri Lanka and Bangladesh",
+        "Presented GRI Standards to listed companies at the Bombay, Colombo and Dhaka stock exchanges",
+        "Documented GRI-BRSR linkage for SEBI alignment, and chaired recurring member meetings across differing organisational mandates"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations",
+      "location": "Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Led a team of 4 across 15+ commercial, hospitality, institutional and residential projects worth over EUR 20M, from proposal through design development to delivery",
+        "Ran thermal comfort and energy simulation cases in IES VE on project models, adjusting inputs across design options and comparing outputs to inform envelope and passive design decisions",
+        "Built parametric design models in Rhino and Grasshopper, and applied computational methods to solar, shading, daylight and microclimate analysis across massing and facade options at concept stage",
+        "Audited energy performance of commercial buildings and IT parks, benchmarking metered consumption against baselines and specifying efficiency measures",
+        "Benchmarked scheme designs against LEED, WELL and GRIHA criteria, and identified the credit gaps and design changes needed to close them",
+        "Authored full environmental impact assessment reports for hotels, commercial buildings and a standalone energy project, identifying sustainability risks and mitigation measures across specialist air, noise, water and ecology inputs, and briefed government authorities on the findings",
+        "Produced design documentation in Revit and AutoCAD, and coordinated drawings with multidisciplinary engineering teams across structural and MEP disciplines"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universitaet Berlin, Germany",
+      "details": [
+        "Grade 1.6 (Distinction). Coursework in energy audits, ISO 50001, life cycle assessment, EU building directives and GEG regulation, DGNB and environmental law"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (5-year professional degree)",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": [
+        "Building physics, environmental control systems, building services and energy systems, construction technology, building materials, land use and urban planning"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Building Physics and Simulation",
+      "items": "IES VE energy analysis and thermal comfort modelling, Rhino and Grasshopper computational design methods and workflows, solar, shading and daylight studies, microclimate analysis, energy audits, metered consumption benchmarking, building envelope and passive design, HVAC, EPBD and GEG"
+    },
+    {
+      "category": "Whole Life Carbon and LCA",
+      "items": "Embodied carbon, whole life carbon assessment, OneClick LCA, EPD to EN 15804 and ISO 14025, ISO 14040, 14044 and 14067, GHG Protocol Scope 1, 2 and 3, CRREM 1.5 and 2 degree pathways, SBTi, Net Zero advisory and target setting"
+    },
+    {
+      "category": "Certification, Standards and Advisory",
+      "items": "LEED, WELL and GRIHA certification support, gap analysis and credit tracking, ISO 14001, EU Taxonomy, CSRD and ESRS E1, environmental impact assessment and permitting, climate mitigation and adaptation strategy"
+    },
+    {
+      "category": "Design, Data and Delivery",
+      "items": "Revit, AutoCAD, SketchUp, Adobe Creative Suite, Python, SQL, Power BI, Predium, advanced Excel, Microsoft 365, cross-application workflows, high-quality technical reports and stakeholder presentations"
+    }
+  ],
+  "certifications": [
+    "Climate-related Financial Disclosures - CDP",
+    "Scenario Analysis - CDP",
+    "Climate & Sustainability - Boston Consulting Group"
+  ],
+  "languages": [
+    "English - Fluent (C1) | Hindi - Native | German - Professional (B2)"
+  ],
+  "footer": "Indian national | Open to relocation to Hyderabad | Available immediately"
+}

@@ -1,0 +1,156 @@
+{
+  "company": "SRH University",
+  "role": "External Lecturer Engineering",
+  "format": "preferred",
+  "language": "en",
+  "profile": "Architecture and building technology professional with 5+ years producing CAD and BIM drawings, building physical models and training others. At Holistics, produced working, detail and coordinated consultant drawing sets in AutoCAD and Revit and advised on 15+ projects worth 20M+ euros. Now combines freelance BIM design with LCA consulting, after tutoring technical drawing and design studio at GGSIPU and MBA students at TU Berlin.",
+  "experience": [
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Architect",
+      "bullets": [
+        "Produced working (GFC) drawing sets of plans, sections and elevations in AutoCAD and Revit, issued to site for construction",
+        "Drew construction details to standard for residential, commercial and hospitality projects",
+        "Integrated structural and MEP drawings into the architectural set and resolved clashes",
+        "Modelled design options in Rhino and Grasshopper and tested solar, shading and daylight",
+        "Ran thermal comfort and energy simulations in IES VE, comparing design options",
+        "Selected 4 interns through screening and interviews, then trained them in CAD and BIM",
+        "Directed contractor crews on site and followed daily progress",
+        "Inspected sites against drawings and quality standards and drove NCRs to closure",
+        "Chaired site progress meetings with contractors and consultants, and wrote the minutes",
+        "Advised on 15+ projects worth 20M+ euros, from pre-feasibility studies and cost estimates",
+        "Benchmarked projects against LEED, WELL and GRIHA criteria through gap analyses",
+        "Conducted energy audits for commercial buildings and IT parks"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Deliver LCA, product carbon footprint and EPD work for 4+ clients in building materials, industrial and automotive sectors, using OneClick LCA to ISO 14040/14044/14067",
+        "Calculate BOM-based carbon footprints for manufactured goods from supplier material data",
+        "Prepare CE technical files and Declarations of Conformity, and commission external test labs",
+        "Apply circular design criteria to client products and track circularity KPIs",
+        "Assess 10+ buildings for 4+ real-estate clients against CRREM 1.5 and 2 degree pathways",
+        "Direct 6+ analysts and coach client teams on methods, reporting requirements and data governance"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Built 3 e-learning modules on ISO 14001, CSDDD and human rights for cross functional teams, delivered via SAP LMS with effectiveness checks",
+        "Scoped and drove an LLM ESG assistant proof of concept, designing its prompts and retrieval",
+        "Steered a 5-function agile project team across Compliance, Risk, Legal, IT and supply chain"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Ran the disclosure inbox as primary contact for 150+ organisations worldwide",
+        "Co-organised the CDP-hosted workshop in Warsaw alongside senior staff"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Trained client users in onboarding sessions and prepared the training materials",
+        "Wrote user stories and acceptance criteria in Jira and tested releases through UAT with engineers",
+        "Took a new product module from concept through implementation to its first users",
+        "Authored the technical and methodology sections of 5+ tender and RFP responses",
+        "Cut manual data processing by 40% through Python automation"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Presented the GRI Standards at 3 stock exchanges: Bombay, Colombo and Dhaka",
+        "Designed training curricula and ran capacity building for ministries and regulators",
+        "Drafted policy briefs and technical summaries for non-specialist audiences",
+        "Organised speaker-led learning sessions for a 53-member consortium across 5 countries"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universität Berlin, Germany",
+      "details": [
+        "Master's degree with grade 1,6 (good). Thesis on the financial implications of CSRD in the construction industry, using survey design and regression analysis in Python",
+        "Coursework in energy audits, life cycle assessment, ISO 50001, data analysis and statistical methods"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), five-year professional degree",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": [
+        "Coursework in building services, environmental control systems, energy systems, building physics and construction technology"
+      ]
+    }
+  ],
+  "extras": [
+    {
+      "label": "TEACHING",
+      "bullets": [
+        "Tutored B.Arch students at GGSIPU in technical drawing and design studio work",
+        "Showed students how to build physical models, from hand-built scale models to laser-cut parts",
+        "Taught one university course independently and tutored MBA students at TU Berlin",
+        "Gave a guest lecture at TU Berlin presenting the results of the MBA thesis"
+      ]
+    },
+    {
+      "label": "FREELANCE DESIGN AND PROTOTYPING",
+      "bullets": [
+        "Model residential projects in Revit and draw plans, sections and elevations from the model",
+        "Draw interior layouts and interior details, and build 3D models and renders for client presentations",
+        "Laser-cut and 3D-print prototypes from own CAD files, and build scale models by hand"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "CAD and BIM",
+      "items": "AutoCAD, Revit (BIM modelling and drawing production), SketchUp, Rhino, Grasshopper (parametric models), 3D visualisation and rendering, Adobe Creative Suite"
+    },
+    {
+      "category": "Drawing Production",
+      "items": "Working (GFC) drawing sets, construction details, structural and MEP drawing coordination, interior layouts and details"
+    },
+    {
+      "category": "Fabrication",
+      "items": "Laser cutting and 3D printing from own CAD files, hand-built scale models"
+    },
+    {
+      "category": "Building Technology and Simulation",
+      "items": "Building services, HVAC and building automation coordination, environmental control systems, energy audits, IES VE, daylight analysis, OneClick LCA"
+    },
+    {
+      "category": "Teaching",
+      "items": "University tutoring (technical drawing, design studio), English-language teaching to international groups, adult education, training curricula, e-learning (SAP LMS), webinars"
+    },
+    {
+      "category": "Data and Project Tools",
+      "items": "Python, SQL, Power BI, MS Project, Primavera P6, Jira, Confluence"
+    }
+  ],
+  "certifications": [
+    "Agile Methodology - Cognizant",
+    "Climate & Sustainability - Boston Consulting Group (BCG)",
+    "Climate Change & Sustainability - EY"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional (B2) | Hindi - Native"
+  ],
+  "footer": "Berlin, Germany | Valid German work and residence permit, self-employment permitted | Available for face-to-face seminars in Heidelberg | Available immediately"
+}

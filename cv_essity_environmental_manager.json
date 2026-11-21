@@ -1,0 +1,114 @@
+{
+  "company": "Essity",
+  "role": "Environmental Manager",
+  "format": "workday",
+  "language": "en",
+  "profile": "Environmental and sustainability professional with six years across environmental permitting, compliance and performance on industrial and commercial sites. Handles water and wastewater, air emissions and waste management alongside environmental reporting, incident prevention and corrective action closure. Coordinates EU Ecolabel and third-party product certification, hosts external auditors and certification bodies, and delivers training that builds site environmental capability. Authored full environmental impact assessments and permitting submissions across 15+ projects worth 20M+ euros.",
+  "experience": [
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Authored full environmental impact assessments end to end for hotels, commercial developments and a standalone energy project, and brought air, noise, water and ecology specialists into consolidated submissions",
+        "Tracked water and wastewater, air emissions and waste streams against permit conditions, and produced the environmental monitoring reports demonstrating compliance",
+        "Maintained the permit register with its conditions, deadlines and compliance status, alongside the hazardous substance register with safety data sheets and classifications",
+        "Managed QHSE reporting online, logging hazards, incidents and non-conformities, and completed the annual audit schedule from planning through to closing out findings",
+        "Raised non-conformities and incident reports from site audits and toolbox talks, and drove corrective and preventive actions to verified closure",
+        "Briefed government authorities on a government hotel project, and prepared the compliance documentation behind inspections and approvals"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Coordinate EU Ecolabel and third-party product certification for clients, aligning criteria evidence and documentation consistently across multisite scopes and product lines",
+        "Advise manufacturing clients across industrial, building materials and automotive sectors on EU environmental legislation and the compliance evidence each site and product has to carry",
+        "Manage industrial waste and end-of-life obligations across PPWR, EPR, WEEE and end-of-life vehicles, and coordinate with recycling partners and waste contractors on volumes and treatment routes",
+        "Calculate product and site environmental performance to ISO 14040, 14044 and 14067, and produce the EPD evidence substantiating environmental claims",
+        "Screen substances against REACH, commission external testing laboratories, and support CE marking technical files and Declarations of Conformity"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Hosted the external assurance provider and certification bodies through third-party audits, preparing the working papers, evidence packs and audit trails they tested against",
+        "Delivered ISO 14001 and environmental compliance training as e-learnings through the SAP LMS, and built the guidance materials and SOPs behind each requirement",
+        "Monitored emerging EU environmental legislation and its impact entity by entity across international subsidiaries, and reported completion against deadlines",
+        "Assessed suppliers against environmental criteria, took part in on-site audits, and tracked remediation and continuous improvement actions to verified closure",
+        "Built and steered a cross-functional project team across Compliance, Risk, Legal, IT and supply chain, and presented findings and recommendations to senior leadership"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Identified best practice across members and facilitated knowledge sharing through newsletters, policy updates, industry forums and speaker-led learning sessions, and presented standards at three stock exchanges"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Served as primary point of contact for 150+ organisations globally, owning environmental data collection, validation and quality through a full reporting cycle"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Produced training materials and risk assessments, and automated environmental data processing in Python, cutting manual handling by 40%"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universität Berlin, Germany",
+      "details": [
+        "Grade 1.6 (Distinction). Coursework in environmental management, life cycle assessment, energy audits, ISO 50001, data analysis and statistical methods"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), five-year professional degree",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": [
+        "Technical coursework: environmental control systems, building services, building physics, Baustofflehre, construction technology, land use planning"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Environmental Compliance and Permitting",
+      "items": "Environmental permitting and permit registers, permit condition and deadline tracking, environmental monitoring and reporting, EU and national environmental legislation tracking, compliance documentation, incident prevention and response, non-conformities with corrective and preventive actions"
+    },
+    {
+      "category": "Environmental Media and Site Operations",
+      "items": "Water and wastewater, air emissions, industrial waste management and waste streams, waste contractors and treatment routes, hazardous substance registers and safety data sheets, site audits, risk assessments and risk registers"
+    },
+    {
+      "category": "Management Systems, Certification and Audit",
+      "items": "ISO 14001 and EMAS, environmental management system implementation and training, multisite certification coordination, continuous improvement programmes, annual audit schedule planning and close-out, hosting external auditors and certification bodies, assurance working papers and audit trails, supplier environmental assessments and on-site audit participation, EU Ecolabel and third-party product certification"
+    },
+    {
+      "category": "Systems, Reporting and Capability Building",
+      "items": "EHS and environmental management platforms, QHSE online reporting, advanced Excel, Power BI dashboards, SAP, Python, Jira, Microsoft 365, environmental training delivery and e-learning, best practice sharing and knowledge sharing across sites, stakeholder engagement, industry forums, networks and trade associations, systematic problem solving with ownership of assigned programmes"
+    }
+  ],
+  "certifications": [
+    "Climate & Sustainability - Boston Consulting Group (BCG)",
+    "Climate Change & Sustainability - EY"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional (B2) | Hindi - Native"
+  ],
+  "footer": "Berlin, Germany | Applying for the Mannheim or Kostheim site - valid German work and residence permit | Willing to relocate and to travel 30% | Immediately available"
+}

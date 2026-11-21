@@ -1,0 +1,124 @@
+{
+  "contact": {
+    "location": "Berlin, Germany",
+    "phone": "+49 172 6568115",
+    "email": "nikkhilsehgal@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/nikkhil-sehgal-a68577146/"
+  },
+  "profile": "Research and policy analyst, five years, working where climate science meets the people who have to act on it: multi-country policy research, corporate climate disclosure and reporting standards. Turns science synthesis into briefings for policymakers, government delegates and member organisations, and designs the capacity building behind them. Evaluated 53 organisations against 17 SDGs across 5 countries for a regional consortium.",
+  "experience": [
+    {
+      "company": "Global Reporting Initiative",
+      "location": "New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Evaluated 53 consortium members against 17 SDGs across 5 countries",
+        "Researched climate and sustainability policy across India, Sri Lanka and Bangladesh, and synthesised the evidence into briefings for policy and member audiences",
+        "Briefed government delegates and member organisations on UNFCCC outcomes, COP processes and national NDC commitments, and attended UNFCCC sessions",
+        "Supported the preparation of expert review comments on an IPCC draft, and ran the structured literature reviews behind them",
+        "Designed the curricula for speaker-led learning sessions and ran them for organisations across South Asia",
+        "Presented GRI Standards to listed companies at the Bombay, Colombo and Dhaka stock exchanges",
+        "Chaired the recurring member forum across competing mandates, carrying actions to closure"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd.",
+      "location": "Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Build decarbonisation pathways and transition risk exposure for real estate portfolios at 1.5 and 2 degrees",
+        "Run carbon accounting on GHG Protocol across Scope 1, 2 and 3 for industrial and manufacturing clients",
+        "Model what incoming EU climate regulation will cost a client per market, before they commit capital"
+      ]
+    },
+    {
+      "company": "TUI AG",
+      "location": "Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Delivered CSRD and ESRS E1 climate reporting alongside the senior disclosure team at a listed group",
+        "Assessed climate risk and scenario exposure against TCFD, and prepared the group's CDP climate disclosure",
+        "Steered a cross-functional team across Compliance, Risk, Legal, IT and supply chain",
+        "Presented analysis and regulatory developments to senior leadership, then built the e-learning modules that followed"
+      ]
+    },
+    {
+      "company": "CDP Worldwide",
+      "location": "Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Handled the disclosure inbox for 150+ organisations globally as their primary point of contact",
+        "Supported the CDP-hosted workshop in Warsaw, and tracked submission coverage and data quality across the user base"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd.",
+      "location": "Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Cut manual data handling 40 percent by automating the processing pipeline in Python",
+        "Sized markets and mapped the policy and competitive landscape across several countries"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations",
+      "location": "Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Authored full environmental impact assessments for hotel, commercial and energy projects, start to finish",
+        "Coordinated air, noise, water and ecology specialists into consolidated submissions, and briefed government authorities",
+        "Led a team of 4 across 15+ projects worth over EUR 20M"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universitaet Berlin, Germany",
+      "details": [
+        "Grade 1.6. Coursework in data analysis, statistical methods, SQL, environmental law and life cycle assessment",
+        "Thesis on the financial implications of EU climate regulation, using survey design and regression analysis in Python"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (5-year professional degree)",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": []
+    }
+  ],
+  "skills": [
+    {
+      "category": "Climate Science and Policy",
+      "items": "IPCC processes and assessment cycle, UNFCCC processes, COP negotiations, NDCs, Paris Agreement, 1.5 and 2 degree pathways, decarbonisation and transition scenarios (CRREM), SBTi, TCFD, climate risk assessment and scenario analysis, GHG Protocol Scope 1-3"
+    },
+    {
+      "category": "Science Synthesis and Communication",
+      "items": "Science synthesis, structured literature reviews, policy briefs and technical summaries, science communication for non-specialist audiences, multi-country policy research, landscape mapping, peer benchmarking, survey design, regression analysis in Python, SQL"
+    },
+    {
+      "category": "Capacity Building and Stakeholder Engagement",
+      "items": "Capacity building and capacity strengthening, curriculum design, in-person and virtual workshop design and delivery, e-learning modules, facilitated multi-stakeholder processes, chairing member forums, briefing governments and regional organisations, mapping and fostering regional networks, outreach, diverse stakeholder groups across multicultural contexts, knowledge management"
+    },
+    {
+      "category": "Regions and Frameworks",
+      "items": "South Asia (India, Sri Lanka, Bangladesh) and LDC contexts, GRI, CDP, CSRD and ESRS, EU Taxonomy, environmental impact assessment"
+    }
+  ],
+  "certifications": [
+    "Scenario Analysis - CDP",
+    "Climate-related Financial Disclosures - CDP",
+    "Climate & Sustainability - Boston Consulting Group"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional (B2) | Hindi - Native"
+  ],
+  "footer": "Valid German work and residence permit | Berlin-based, available to travel internationally | Available immediately"
+}

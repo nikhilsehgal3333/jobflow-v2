@@ -1,0 +1,120 @@
+{
+  "company": "Lucanet",
+  "role": "Consultant Report Creation",
+  "format": "preferred",
+  "language": "en",
+  "profile": "Sustainability and reporting consultant with four years producing annual, integrated and ESG reports, from the figures and content through to the laid-out document. Builds Word templates, heading and table styles and page layouts to a corporate design manual, and moves a report into InDesign where it leaves Office. Runs several client reports in parallel against fixed publication dates and settles structure and layout questions with clients by email. Produced a company's GRI report through to sign-off and cut manual data processing 40% by automating it.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Produce client sustainability reports end to end, from the underlying figures and the GRI content index through to the assembled document",
+        "Assemble each report in Word against the client's corporate design manual, then brief the design agency and check its proofs before sign-off",
+        "Run the GRI 3 materiality process and map each disclosure in the index to its data",
+        "Keep several client reports moving at once against fixed publication dates, settling structure and layout questions with the client by email",
+        "Model EPR fees and packaging cost exposure market by market in Excel",
+        "Calculate product and corporate carbon footprints on GHG Protocol across Scope 1 to 3"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Checked the non-financial disclosures in the annual report against the consolidated figures and coordinated the audit timetable around them",
+        "Aligned CSRD reporting with ESRS E1 alongside the senior disclosure team and prepared the working papers the external assurance provider tested",
+        "Collected, validated and consolidated non-financial figures group-wide from several entities in SAP, and built the Power BI dashboards that presented them",
+        "Compared five ESG rating methodologies including S&P CSA, Sustainalytics, MSCI and ISS, and set out where the group stood",
+        "Designed the prompts and retrieval behind an LLM assistant for CSRD and ESRS queries, and scoped it as a proof of concept",
+        "Wrote the process descriptions, data collection procedures and responsibility splits behind the group's reporting requirements"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Fielded questions from 150+ organisations worldwide through the disclosure inbox on structure, data and deadlines",
+        "Ran data validation and quality control across the 2024 disclosure cycle and tracked submission coverage organisation by organisation"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Built the proposal template set, Word styles and reusable content library that held formatting consistent across contributors and cut turnaround on repeat bids",
+        "Automated data processing in Python and cut manual effort by 40%",
+        "Linked Excel tables into Word and slide documents so figures updated without being retyped",
+        "Wrote tender and RFP responses end to end, holding section owners to a submission timeline set by the client's deadline"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Assessed 53 consortium members against 17 SDGs across 5 countries and benchmarked them against one another",
+        "Produced the member newsletters and policy updates, and ran a communications campaign from messaging through to measurement",
+        "Presented the GRI Standards at three stock exchanges in Bombay, Colombo and Dhaka"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Laid out project documents, presentation drawings and 3D visualisations in the Adobe suite across 15+ projects worth over 20M euros",
+        "Selected and led a team of 4 on residential projects from proposal through to delivery"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universitaet Berlin, Germany",
+      "details": [
+        "Grade 1,6 (good). Thesis on the financial implications of CSRD in the construction industry, using survey design, quantitative analysis and regression in Python",
+        "Coursework: data analysis and statistical methods, SQL, environmental law, COSO and ISO 31000, life cycle assessment, energy audits"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), five-year professional degree",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": [
+        "Design-led professional degree covering visual communication, technical documentation, drawing standards, building services and contract management"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Document production and layout",
+      "items": "Report creation and structured document editing; Microsoft Word to template level: heading and table styles, numbering, automatic tables of contents, section breaks, page setup and margins; long-document formatting; typography, fonts, line breaks and alignment; corporate design manuals and corporate identity standards; Adobe InDesign; Adobe Creative Suite; proof checking and version control through review rounds; PowerPoint and Google Slides"
+    },
+    {
+      "category": "Excel, data and document automation",
+      "items": "Excel for structured workbooks, cost and fee models and cash-flow models; Excel tables linked into Word and slide documents; mail merge; Power BI dashboards; SQL; Python automation; data validation and quality control; SAP"
+    },
+    {
+      "category": "Financial and ESG reporting",
+      "items": "Annual, integrated and sustainability reports; disclosure management; non-financial disclosures in the Lagebericht and consistency against consolidated figures; CSRD and ESRS; EU Taxonomy; GRI Standards, GRI content index and GRI 3 materiality; CDP; TCFD; assurance working papers and audit coordination"
+    },
+    {
+      "category": "Ways of working",
+      "items": "AI tools in daily use to speed up research, analysis, data work and document drafting; prompt design and retrieval setup; multiple parallel and concurrent projects against fixed deadlines; independent, structured and solution-oriented working style; client contact by email and Teams; process documentation, SOPs and best-practice write-ups; Jira, Confluence and MS Project"
+    }
+  ],
+  "certifications": [
+    "Climate-related Financial Disclosures - CDP",
+    "Introduction to ESG - Corporate Finance Institute (CFI)",
+    "Climate & Sustainability - Boston Consulting Group (BCG)"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional working proficiency (B2) | Hindi - Native"
+  ],
+  "footer": "Berlin, Germany | Immediately available | Valid German work and residence permit"
+}

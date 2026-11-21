@@ -1,0 +1,130 @@
+{
+  "company": "MKT",
+  "role": "Manager Compliance & Sustainability",
+  "format": "preferred",
+  "language": "de",
+  "contact": {
+    "location": "Berlin, Deutschland",
+    "phone": "+49 172 6568115",
+    "email": "nikkhilsehgal@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/nikkhil-sehgal-a68577146/"
+  },
+  "profile": "Spezialist für Product Compliance und Nachhaltigkeit mit über fünf Jahren Erfahrung in Beratung, Konzern und Umwelt-Compliance, aktuell für Kunden aus Bauprodukten, Industrie und Automobilzulieferung. Schwerpunkte sind Produkt-Compliance- und Nachhaltigkeitsanforderungen von REACH und GPSR über Verpackung und CBAM bis zum digitalen Produktpass sowie Nachhaltigkeitsberichte. Erstellte 2+ GRI-Berichte und 4+ Unternehmens-CO2-Bilanzen inklusive Scope 3.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "Januar 2026 - heute",
+      "title": "LCA & Sustainability Consultant (freiberuflich)",
+      "bullets": [
+        "Führe je Kunde einen Regulierungs-Tracker zu CSRD, ESRS und EU-Taxonomie mit Status, Fristen und Auswirkungen und leite Maßnahmen ab",
+        "Erstellte für einen Kunden die Risikobewertung eines Bauprodukts zu Gefährdungen, bestimmungsgemäßer Verwendung und Schutzmaßnahmen",
+        "Bereite CE-Kennzeichnungen mit Konformitätserklärungen und technischen Unterlagen vor und verfolge Produktsicherheitsthemen nach GPSR bis zum Abschluss",
+        "Prüfe Materialzusammensetzungen anhand von Lieferantendaten auf REACH-SVHC und beauftrage externe Prüflabore für Konformitätsnachweise",
+        "Fordere Materialdaten bei Lieferanten an, prüfe sie auf Plausibilität und berechne daraus stücklistenbasierte Produkt-CO2-Fußabdrücke",
+        "Beantworte regulatorische Kundenanfragen, liefere die von Abnehmern geforderten PCF und ESG-Daten und bündele deren Anforderungen in einer Liste",
+        "Modelliere EPR-Gebühren und Kostenrisiken je Markt in Excel und berate zur EU-Verpackungsverordnung und zur Recyclingfähigkeit von Verpackungen",
+        "Ordne CBAM-Berichtspflichten den betroffenen Waren und den zugrunde liegenden Zollanmeldedaten zu",
+        "Baue mit Kunden Produktdatenstrukturen für den digitalen Produktpass auf, einschließlich Material- und Rezyklatangaben nach ESPR",
+        "Erstelle Ökobilanzen und EPD nach EN 15804 für 4+ Kunden aus Bauprodukten, Industrie und Automobilzulieferung",
+        "Stimme Sammelmengen, Verwertungswege und Nachweisdaten mit Recyclingpartnern und Entsorgern ab",
+        "Erstelle GRI-Nachhaltigkeitsberichte mit GRI-Inhaltsindex bis zur Freigabe und erstellte bzw. prüfte einen VSME-Bericht für einen Kunden",
+        "Analysiere Lieferkettenrisiken eines Bekleidungskunden bis zu Spinnereien, Färbereien und Gerbereien nach UN-Leitprinzipien und OECD-Leitfaden"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Deutschland",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Werkstudium)",
+      "bullets": [
+        "Bereitete mit dem Disclosure-Team und externen Beratern die CSRD-Berichterstattung nach ESRS E1 vor und bewertete SBTi- und TCFD-Aussagen",
+        "Stellte Nachweisdokumentation und Prüfpfade für die externe Prüfung zusammen",
+        "Berechnete die Taxonomie-KPIs zu Umsatz, CapEx und OpEx aus Finanzdaten und prüfte Taxonomiefähigkeit und -konformität",
+        "Schrieb Prozessbeschreibungen und Arbeitsanweisungen für Berichtspflichten und legte Zuständigkeiten über Fachbereiche und Gesellschaften fest",
+        "Steuerte ein Projektteam aus 5 Fachbereichen (Compliance, Risk, Legal, IT, Supply Chain) und hielt Beiträge und Fristen nach",
+        "Entwickelte Schulungsmodule zu 4 Themen (ISO 14001, Menschenrechte, Kinderschutz, moderne Sklaverei) und wirkte an den Richtlinien mit",
+        "Erweiterte mit dem Team das Tool für das Lieferanten-Risikomanagement"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Deutschland",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Werkstudium)",
+      "bullets": [
+        "Betreute als erste Ansprechperson über 150 Organisationen bei der CDP-Offenlegung und verkürzte die Antwortzeiten um über 20 %"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "März 2023 - März 2024",
+      "title": "Product Manager / Sustainability Consultant (freiberuflich)",
+      "bullets": [
+        "Senkte den manuellen Aufwand der Datenverarbeitung durch Python-Automatisierung und SQL-Prüfregeln um 40 Prozent"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | Neu-Delhi, Indien",
+      "dates": "März 2022 - Februar 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Schulte Unternehmen an 3 Börsen in Bombay, Colombo und Dhaka zu den GRI-Standards"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, Indien",
+      "dates": "Juni 2020 - Februar 2022",
+      "title": "Architect",
+      "bullets": [
+        "Pflegte Gefahrstoff- und Genehmigungsregister und steuerte Abfallströme, Einstufung und Entsorgungswege mit Entsorgern",
+        "Prüfte die Bauausführung im ISO-9001-Qualitätsmanagementsystem gegen nationale Bauvorschriften und Prüfpläne mit Halte- und Abnahmepunkten",
+        "Verfasste UVP-Berichte und Genehmigungsunterlagen für Hotels und Gewerbebauten und informierte Behörden bei einem staatlichen Hotelprojekt",
+        "Empfing externe Auditoren und Zertifizierungsstellen und verfolgte Abweichungen und Korrekturmaßnahmen bis zur verifizierten Schließung",
+        "Beriet zu 15+ Projekten mit über 20 Mio. Euro Volumen und führte Energieaudits sowie LEED-, WELL- und GRIHA-Gap-Analysen durch"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "Oktober 2023 - März 2025",
+      "institution": "Technische Universität Berlin, Deutschland",
+      "details": [
+        "Abschlussnote 1,6 (gut). Masterarbeit zu den finanziellen Folgen der CSRD in der Bauwirtschaft. Schwerpunkte: Ökobilanzierung, Umweltrecht, EU-Gebäuderichtlinien, DGNB"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (fünfjähriger Studiengang)",
+      "dates": "August 2016 - Juni 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, Neu-Delhi, Indien",
+      "details": [
+        "Schwerpunkte: Baustofflehre, Bautechnologie, Bauphysik, Gebäudetechnik"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Produkt-Compliance und EU-Regulatorik",
+      "items": "Produktsicherheitsverordnung (GPSR), Produktrisikobewertung, CE-Kennzeichnung mit Konformitätserklärung und technischen Unterlagen, REACH und SVHC, EU-Verpackungsverordnung (PPWR) und EPR, CBAM an der Importeurs- und Zollschnittstelle, digitaler Produktpass (DPP), ESPR, Altfahrzeuge und WEEE, Green Claims (EmpCo), Regulierungsmonitoring"
+    },
+    {
+      "category": "Nachhaltigkeit und Berichterstattung",
+      "items": "Lieferkettensorgfaltspflichtengesetz (LkSG) und CSDDD, Nachhaltigkeits- und CSR-Berichte (GRI, VSME), CSRD und ESRS, EU-Taxonomie, EPD nach EN 15804 und ISO 14025, Ökobilanzen nach ISO 14040, 14044 und 14067, OneClick LCA, GHG Protocol Scope 1-3"
+    },
+    {
+      "category": "Umwelt- und Qualitätsmanagement",
+      "items": "ISO 14001 (Normkenntnis), Mitarbeit im ISO-9001-QMS, Gefahrstoff- und Abfallregister, Umweltgenehmigungen und UVP, Auditbegleitung, Korrekturmaßnahmen (CAPA), LEED und WELL, externe Prüflabore"
+    },
+    {
+      "category": "Tools und Arbeitsweise",
+      "items": "SAP, Excel, Power BI, SQL, Python, Jira, Confluence, Microsoft 365, bereichsübergreifende Zusammenarbeit, strukturierte, eigenständige und lösungsorientierte Arbeitsweise"
+    }
+  ],
+  "certifications": [
+    "Climate-related Financial Disclosures - CDP",
+    "Climate & Sustainability - Boston Consulting Group (BCG)",
+    "Climate Change & Sustainability - EY"
+  ],
+  "languages": [
+    "Deutsch - gute Kenntnisse (B2) | Englisch - verhandlungssicher (C1) | Hindi - Muttersprache"
+  ],
+  "footer": "Gültige deutsche Arbeits- und Aufenthaltserlaubnis | Umzugsbereit nach Weilerbach | Ab sofort verfügbar"
+}

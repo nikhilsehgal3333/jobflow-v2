@@ -1,0 +1,131 @@
+{
+  "company": "General",
+  "role": "Acoustic Consulting and Commercial Audio",
+  "format": "preferred",
+  "language": "en",
+  "profile": "Project and client coordinator with an architecture background and six years across building projects, B2B consulting and EU product compliance. Core strengths in technical drawings and design studies, proposals and client accounts, and coordinating contractors, suppliers and deliveries. Advised on 15+ commercial, hospitality and residential projects worth 20M+ euros, coordinating 20+ contractors and vendors across 6+ sites at one time.",
+  "experience": [
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Advised on 15+ commercial, hospitality, institutional and residential projects worth 20M+ euros",
+        "Integrated noise, air and water studies from specialist consultants into consolidated environmental permit submissions",
+        "Ran thermal comfort and energy simulation cases in IES VE on project models, comparing outputs across design options",
+        "Prepared cost and budget estimates and technical evaluations behind client go-ahead decisions",
+        "Inspected site work against drawings and quality standards, raising NCRs and following each to closure",
+        "Chaired site progress meetings with contractors and consultants, wrote the minutes and reported cost variance against budget",
+        "Coordinated 20+ contractors and vendors across 6+ sites, taking each repair request through to a checked and approved invoice",
+        "Negotiated supplier contracts on price, payment terms and risk coverage, and onboarded new vendors",
+        "Scheduled inbound deliveries from suppliers to site and arranged shipments with 6+ carriers and freight forwarders",
+        "Selected and led a team of 4 interns on residential projects from proposal to delivery"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Commission external testing laboratories and follow up test reports as evidence for CE marking technical files and Declarations of Conformity",
+        "Model packaging EPR fees per market in Excel, and brief clients on WEEE and producer take-back duties",
+        "Negotiate fees and scope directly with clients, and pitch follow-on work during delivery that clients buy",
+        "Deliver LCA, product carbon footprint and EPD work for 4+ manufacturing clients from bills of materials and supplier data",
+        "Direct 6+ analysts on client engagements and quality-check their deliverables"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Steered a cross-functional team across Compliance, Risk, Legal, IT and supply chain, holding contributors to deadlines",
+        "Configured a new supplier platform to group requirements and loaded cleansed data for 500+ suppliers"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Answered queries from 150+ organisations worldwide as primary contact, escalating issues internally and closing them out",
+        "Resolved invoice and payment queries and logged customer records and interactions in HubSpot"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Owned 5+ tender and proposal responses end to end, pricing each bid and writing its technical sections",
+        "Ran live and custom product demos for prospects, then trained client users after signing",
+        "Held a book of 5+ SME and mid-market client accounts against renewal and upsell targets, forecasting revenue weekly in a CRM",
+        "Built proposal templates, pitch decks and a reusable content library that cut turnaround on repeat bids",
+        "Cut manual data processing by 40% through Python automation",
+        "Sent email campaigns and built marketing workflows in HubSpot and Dynamics 365"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Planned and posted content for the organisation's social channel, optimised it for SEO and tracked performance in platform analytics",
+        "Presented GRI Standards at the Bombay, Colombo and Dhaka stock exchanges, and organised learning sessions for 53 members"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universität Berlin, Germany",
+      "details": [
+        "Grade 1.6. Coursework in energy audits, German and EU building regulation (GEG, EPBD), data analysis and statistical methods"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), five-year professional degree",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": [
+        "Coursework in building physics, building services, environmental control systems, construction technology and contract management"
+      ]
+    }
+  ],
+  "extras": [
+    {
+      "label": "ADDITIONAL EXPERIENCE",
+      "bullets": [
+        "Restaurant and Catering Team Member (Part-time), Oriental Garden, New Delhi, 2016 - 2020: service and catering operations in a busy restaurant",
+        "Family consumer-care brand, 2019 - 2022: invoicing, distribution and inventory"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Design and Technical Tools",
+      "items": "AutoCAD, Revit (BIM), SketchUp, Rhino and Grasshopper, 3D visualisation and rendering, IES VE simulation, building physics and building services, Adobe Creative Suite including InDesign"
+    },
+    {
+      "category": "Sales and Clients",
+      "items": "Proposals and tender responses, bid pricing, cost and budget estimates, product demos, client onboarding and user training, account management, renewals and follow-on scope, HubSpot, Dynamics 365, email campaigns, social media content and SEO"
+    },
+    {
+      "category": "Projects and Operations",
+      "items": "Project coordination, MS Project and Primavera P6 scheduling, contractor and site coordination, supplier negotiation and onboarding, invoice checks, inbound deliveries and carriers, Jira, Confluence, Microsoft 365, Google Workspace, Excel cost models, Python automation, AI tools"
+    },
+    {
+      "category": "EU Product Compliance",
+      "items": "CE marking, Declarations of Conformity and technical files, WEEE and producer take-back, packaging EPR, GPSR product safety, REACH, external testing laboratories, product carbon footprints and EPDs"
+    }
+  ],
+  "certifications": [
+    "Agile - Cognizant",
+    "Climate & Sustainability - Boston Consulting Group"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional (B2) | Hindi - Native"
+  ],
+  "footer": "Berlin, Germany | Valid German work and residence permit, self-employment permitted | Available immediately for employment, freelance projects or an apprenticeship"
+}

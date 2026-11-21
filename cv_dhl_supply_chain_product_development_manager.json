@@ -1,0 +1,128 @@
+{
+  "company": "DHL Supply Chain",
+  "role": "Product Development Manager",
+  "format": "preferred",
+  "language": "en",
+  "profile": "Product and implementation professional with 4+ years across B2B SaaS, a listed global group and consulting. Core strengths in product lifecycle delivery from requirements to launch, multi-site platform rollout with testing, training and documentation, and process standardisation across matrix stakeholders. Rolled out a supply chain compliance platform to 500+ suppliers across 5+ international group companies by gathering cross-functional requirements, configuring the platform and loading supplier data through templates.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Pilot new data-collection and compliance processes with one client or product line, then extend them across the wider client portfolio",
+        "Consolidate ESG requirements from several of a client's customers into one requirements list and gap assessment",
+        "Direct 6+ analysts across client projects and quality-check their deliverables before release",
+        "Flag slipping deliverables early and agree recovery plans and revised timelines with clients"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Gathered requirements across Compliance, Risk, Legal, IT and supply chain, and configured the osapiens platform to meet them",
+        "Prepared, cleansed and loaded data for 500+ suppliers into the platform through templates",
+        "Rolled out the platform and process with 5+ international group companies, tracking completion entity by entity",
+        "Steered a cross-functional project team under one shared plan, setting deliverables, managing dependencies and holding contributors to deadlines",
+        "Wrote the process documentation, SOPs and roles-and-responsibilities split behind the new process",
+        "Trained colleagues through e-learning modules built and delivered on the SAP LMS",
+        "Scoped and drove an LLM assistant proof of concept, designing the prompts and retrieval and validating the approach before wider use",
+        "Presented analysis and recommendations to senior leadership and the steering committee, and followed decisions to closure"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Onboarded and supported 150+ organisations worldwide as primary contact on the disclosure platform, escalating issues to internal teams",
+        "Built repeatable processes and controls for data capture across diverse organisation types"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Took a B2B SaaS reporting platform from concept to implementation, gathering requirements and running UAT before release",
+        "Launched a new module from concept to first users, then handed it to the permanent team that runs it",
+        "Ran sprint cycles in Jira, writing user stories and acceptance criteria for new product features with engineers",
+        "Authored requirement and specification pages in Confluence, and kept project documentation and decision logs",
+        "Cut manual data processing by 40% through Python automation",
+        "Escalated client-reported platform issues to engineering and tracked each to a fix",
+        "Sized markets and mapped the competitive landscape, including a market entry analysis behind a go/no-go decision",
+        "Analysed customer cohorts, retention and churn, and ran live and custom demos for prospects"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Chaired recurring meetings of a 53-member consortium across 5 countries, facilitating between differing mandates and driving actions to closure",
+        "Researched industry trends across India, Sri Lanka and Bangladesh and identified new revenue opportunities for the South Asia chapter"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Scheduled inbound material deliveries to site and arranged shipments with 6+ carriers and freight forwarders",
+        "Held 20+ contractors and vendors across 6+ sites to agreed SLAs and KPIs",
+        "Planned the annual audit schedule and drove findings through corrective actions to verified closure",
+        "Selected and led a team of 4 interns on residential projects from proposal to delivery"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universität Berlin, Germany",
+      "details": [
+        "Grade 1.6. Coursework in data analysis, statistical methods and SQL; thesis built on survey design and regression analysis in Python"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), five-year professional degree",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": [
+        "Coursework in construction technology, building services and contract management"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Product Management",
+      "items": "Product development and product lifecycle from concept to launch, requirements gathering, user stories and acceptance criteria, UAT, sprint cycles, product launch and handover to operations, live and custom demos, client user training, product ownership practices"
+    },
+    {
+      "category": "Implementation and Rollout",
+      "items": "Platform configuration, template-based data cleansing and loading, multi-site and multi-entity rollout, piloting before portfolio rollout, process documentation and SOPs, roles and responsibilities, training and e-learning, issue tracking to resolution, continuous improvement"
+    },
+    {
+      "category": "Market and Commercial Analysis",
+      "items": "Market sizing, competitive landscape mapping, market entry analysis, cohort, retention and churn analysis, win/loss reviews, business model analysis (pricing, margin, unit economics), customer needs analysis"
+    },
+    {
+      "category": "Supply Chain and Operations",
+      "items": "Supplier onboarding and data management, contractor and vendor SLAs and KPIs, inbound delivery scheduling, carrier and freight forwarder coordination, supply chain risk register, vendor performance management, audits and corrective actions, matrix stakeholder management across regions, facilitation and communication at all organisational levels"
+    },
+    {
+      "category": "Tools",
+      "items": "Jira, Confluence, SQL, Python, Power BI, SAP, osapiens, Dynamics 365, HubSpot, MS Project, Microsoft Excel and PowerPoint, Google Workspace"
+    }
+  ],
+  "certifications": [
+    "Agile - Cognizant",
+    "Introduction to ESG - Corporate Finance Institute (CFI)",
+    "Climate & Sustainability - Boston Consulting Group (BCG)"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional (B2) | Hindi - Native"
+  ],
+  "footer": "Berlin, Germany | Valid German work and residence permit | Open to relocation to Bonn | Available immediately"
+}

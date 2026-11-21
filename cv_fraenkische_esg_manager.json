@@ -1,0 +1,130 @@
+{
+  "company": "Fraenkische",
+  "role": "ESG Manager",
+  "format": "preferred",
+  "language": "de",
+  "contact": {
+    "location": "Berlin, Deutschland",
+    "phone": "+49 172 6568115",
+    "email": "nikkhilsehgal@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/nikkhil-sehgal-a68577146/"
+  },
+  "profile": "ESG- und Nachhaltigkeitsspezialist mit über vier Jahren Erfahrung in Konzern, Beratung und NGO. Schwerpunkte sind ESG-Kundenanforderungen wie EcoVadis, SAQ und CDP, Carbon-Footprint-Erfassung, globale ESG-Kennzahlen und die Abstimmung mit Fachbereichen und Standorten. Konsolidierte in einem börsennotierten Konzern Kennzahlen aus 5+ Gesellschaften und brachte über 500 Lieferanten auf eine digitale Plattform für Sorgfaltspflichten.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "Januar 2026 - heute",
+      "title": "LCA & Sustainability Consultant (freiberuflich)",
+      "bullets": [
+        "Berechne Produkt- und Unternehmens-CO2-Fußabdrücke für 4+ B2B-Kunden nach GHG Protocol, auch stücklistenbasiert mit Lieferantendaten",
+        "Liefere Kunden die von ihren Abnehmern geforderten CO2-Fußabdrücke und ESG-Daten, etwa für Anfragen von Automobilherstellern",
+        "Prüfe Kundenverträge und Verhaltenskodizes auf ESG-Pflichten und bündele die Anforderungen mehrerer Abnehmer in einer Anforderungsliste",
+        "Führe für jeden Kunden einen Regulierungs-Tracker zu CSRD, ESRS und EU-Taxonomie und leite daraus den Handlungsbedarf ab",
+        "Leitete die doppelte Wesentlichkeitsanalyse eines Kunden nach CSRD, bewertete Auswirkungen, Risiken und Chancen und holte die Freigabe der Geschäftsleitung ein",
+        "Begleite Kunden bei Zertifizierungen nach EU Ecolabel, auch standortübergreifend"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Deutschland",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Werkstudium)",
+      "bullets": [
+        "Dokumentierte EcoVadis-, SAQ- und Integrity-Next-Fragebögen, beantwortete Investorenanfragen und verglich 5 ESG-Ratingmethodiken",
+        "Richtete die CSRD-Berichterstattung mit dem Senior-Disclosure-Team an ESRS E1 aus und konsolidierte dafür Kennzahlen aus 5+ Gesellschaften mit SAP und Power BI",
+        "Wirkte mit dem Senior-Team an den Klimazielen des Konzerns mit, plante Zielwerte und Erhebungszyklen für ESG-KPIs und verfolgte die Zielerreichung",
+        "Konfigurierte osapiens für LkSG und CSDDD nach den Anforderungen des Konzerns und lud bereinigte Daten zu über 500 Lieferanten ein",
+        "Steuerte das Proof of Concept eines LLM-Assistenten für ESG-Anfragen und entwarf Prompts und Retrieval",
+        "Entwickelte E-Learnings zu ISO 14001, CSDDD und Menschenrechten im SAP LMS und prüfte ihre Wirksamkeit",
+        "Schrieb Prozessbeschreibungen und Arbeitsanweisungen für das Nachhaltigkeits-IKS und pflegte sie als gelenkte Dokumente mit Versionen und Freigaben",
+        "Steuerte ein Projektteam aus 5 Fachbereichen und stimmte die Umsetzung mit internationalen Tochtergesellschaften bis zum Abschluss ab",
+        "Pflegte das Lieferketten-Risikoregister und stellte Risiken, Analysen und Empfehlungen der Leitungsebene vor",
+        "Bereitete Arbeitspapiere, Nachweise und Prüfpfade für die externe Prüfung vor"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Deutschland",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Werkstudium)",
+      "bullets": [
+        "Beantwortete als erste Ansprechperson Fragen von über 150 Organisationen zu CDP-Fragebögen und Offenlegung",
+        "Prüfte Offenlegungsdaten auf der CDP-Plattform auf Vollständigkeit und Datenqualität"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "März 2023 - März 2024",
+      "title": "Product Manager / Sustainability Consultant (freiberuflich)",
+      "bullets": [
+        "Senkte den manuellen Aufwand der Datenverarbeitung um 40 Prozent durch Python-Automatisierung und schrieb SQL-Validierungsregeln für eine Reporting-Plattform",
+        "Erstellte Schulungsunterlagen und schulte Kunden nach Vertragsabschluss in der Anwendung der Plattform"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | Neu-Delhi, Indien",
+      "dates": "März 2022 - Februar 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Bewertete das SDG-Engagement von 53 Konsortiumsmitgliedern in 5 Ländern",
+        "Entwarf Schulungskonzepte und schulte Unternehmen an 3 Börsen in Bombay, Colombo und Dhaka zu den GRI-Standards"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, Indien",
+      "dates": "Juni 2020 - Februar 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Empfing externe Auditoren und Zertifizierungsstellen, plante das jährliche Auditprogramm und verfolgte Abweichungen und Korrekturmaßnahmen bis zum Abschluss",
+        "Führte Energieaudits und Umwelt-Compliance-Prüfungen für Gewerbebauten durch und beriet zu 15+ Projekten mit über 20 Mio. Euro Volumen"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "Oktober 2023 - März 2025",
+      "institution": "Technische Universität Berlin, Deutschland",
+      "details": [
+        "Abschlussnote 1,6 (gut). Masterarbeit zu den finanziellen Folgen der CSRD in der Bauwirtschaft. Schwerpunkte: Ökobilanzierung, ISO 50001, Umweltrecht, Risikomanagement nach ISO 31000"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (fünfjähriger Studiengang)",
+      "dates": "August 2016 - Juni 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, Neu-Delhi, Indien",
+      "details": [
+        "Schwerpunkte: Bauphysik, Energiesysteme, Vertragsmanagement"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "ESG-Kundenanforderungen und Ratings",
+      "items": "EcoVadis, SAQ, CDP, Integrity Next, ESG-Ratingmethodiken, PCF- und ESG-Anfragen von Kunden, ESG-Pflichten aus Kundenverträgen, Bündeln und Bewerten von Kundenanforderungen, Bewertung der Nachhaltigkeitsleistung von Produkten und Lieferanten"
+    },
+    {
+      "category": "Klima und Kennzahlen",
+      "items": "Carbon-Footprint-Erfassung (PCF und CCF), GHG Protocol Scope 1 bis 3, Mitarbeit an Klimastrategie und Klimazielen, Nachhaltigkeitsziele, Maßnahmen und Roadmaps, SBTi, ESG-KPIs mit Zielwerten, Erhebungszyklen und Datenerfassung"
+    },
+    {
+      "category": "Berichterstattung und Regulatorik",
+      "items": "Nachhaltigkeitsmanagement, CSRD und ESRS, doppelte Wesentlichkeitsanalyse mit Risiken und Chancen, GRI, EU-Taxonomie, LkSG und CSDDD, Regulierungsmonitoring, Handlungsempfehlungen für die Geschäftsführung"
+    },
+    {
+      "category": "Managementsysteme und Audits",
+      "items": "ISO 14001, ISO 50001 und EMAS (Normkenntnis), Audits mit externen Zertifizierungsstellen, EU Ecolabel, Prüfungsbegleitung, Prozess- und Dokumentenmanagement, gelenkte Dokumente, Schulungskonzepte, E-Learnings und Wirksamkeitskontrolle"
+    },
+    {
+      "category": "Tools und Arbeitsweise",
+      "items": "MS Office (Excel, PowerPoint, Word), SAP, SAP LMS, Power BI, osapiens, SQL, Python, Abstimmung mit Group, Fachbereichen und internationalen Standorten, selbstständige und strukturierte Arbeitsweise"
+    }
+  ],
+  "certifications": [
+    "Climate-related Financial Disclosures - CDP",
+    "Scenario Analysis - CDP",
+    "Climate & Sustainability - Boston Consulting Group (BCG)"
+  ],
+  "languages": [
+    "Deutsch - gute Kenntnisse (B2) | Englisch - verhandlungssicher (C1) | Hindi - Muttersprache"
+  ],
+  "footer": "Gültige deutsche Arbeits- und Aufenthaltserlaubnis | Umzugsbereit nach Königsberg in Bayern | Ab sofort verfügbar"
+}

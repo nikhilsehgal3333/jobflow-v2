@@ -1,0 +1,126 @@
+{
+  "company": "CEEZER",
+  "role": "(Senior) Customer Success Manager",
+  "format": "preferred",
+  "language": "en",
+  "profile": "Sustainability professional with 4+ years in B2B climate data, ESG software and advisory, most of it client facing: onboarding, high-touch client support, escalations, renewals and upsell. Combines CRM pipeline discipline and custom client reporting with GHG accounting, corporate climate frameworks and carbon markets. Supported 150+ organisations globally as primary contact through a full disclosure cycle.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Deliver product and corporate carbon footprints under the GHG Protocol for 4+ B2B clients",
+        "Flag slipping deliverables early and agree recovery plans and revised timelines with the client",
+        "Turn custom reporting requests into client KPI dashboards and audit-ready Scope 1-3 reports",
+        "Keep a per-client tracker of CSRD, ESRS and EU Taxonomy status, deadlines and impact",
+        "Pilot new data collection processes with one client before rolling them out across the portfolio"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Built and steered a 5-function project team across Compliance, Risk, Legal, IT and supply chain, and held it to deadlines",
+        "Coordinated regulatory implementation with 5+ group subsidiaries to completion, entity by entity",
+        "Configured osapiens for CSDDD and LkSG and loaded cleansed data for 500+ suppliers",
+        "Presented to senior leadership and the steering committee, then tracked decisions to closure",
+        "Kept the supply chain risk register and reported risk findings to senior management"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Onboarded and supported 150+ organisations as their primary liaison through the disclosure cycle",
+        "Resolved finance, invoicing and payment queries for disclosing companies",
+        "Escalated disclosing organisations' issues to internal teams and closed them out",
+        "Held feedback calls with current and prospective organisations and kept HubSpot records clean",
+        "Tracked submission coverage and data quality on the CDP platform against reporting deadlines"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Carried 5+ client accounts against renewal, upsell and expansion targets, with weekly pipeline forecasts in Dynamics 365",
+        "Trained new client users after signing through platform walkthroughs and onboarding sessions",
+        "Took client-reported platform issues to engineering and tracked them to a fix",
+        "Turned client requirements into Jira user stories and acceptance criteria, and ran UAT",
+        "Built reusable proposal templates, pitch decks and a content library that sped up repeat bids",
+        "Ran win/loss reviews with sales on closed deals and reset qualification tactics on the deal data",
+        "Cut manual data processing by 40% with Python, and wrote the platform's SQL validation rules"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Chaired recurring member meetings across 5 countries and ran membership renewals",
+        "Produced newsletters and policy updates for 53 members, and organised speaker-led sessions",
+        "Ran a communications campaign end to end: messaging, channels, timeline and measurement",
+        "Presented the GRI Standards at 3 stock exchanges: Bombay, Colombo and Dhaka"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Selected and managed a team of 4 interns, and advised on 15+ projects worth 20M+ euros"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universität Berlin, Germany",
+      "details": [
+        "Grade 1,6 (good). Thesis on the financial implications of CSRD in the construction industry, using survey design and regression analysis in Python",
+        "Coursework: data analysis, statistical methods, SQL, COSO and ISO 31000 risk frameworks"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), five-year professional degree",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": []
+    }
+  ],
+  "skills": [
+    {
+      "category": "Customer Success and Account Management",
+      "items": "B2B customer success, post-transaction execution, client onboarding and user training, high-touch client support and troubleshooting, escalation management, finance operations including client billing and invoicing queries, renewals, expansion and upsell opportunities for recurring account growth, book of business and pipeline forecasting, cohort, retention and churn analysis"
+    },
+    {
+      "category": "Sales Enablement and Product Feedback",
+      "items": "Sales enablement resources (reusable content library, proposal templates, pitch decks), win/loss reviews with sales, live and custom pre-sales demos, client feedback into product requirements, user stories and acceptance criteria, UAT, tender and RFP responses"
+    },
+    {
+      "category": "CRM, Data and Reporting",
+      "items": "HubSpot and Dynamics 365 (records, pipeline, CRM reports and dashboards, email workflows), CRM data hygiene and data alignment across client management platforms, Power BI dashboards, SQL validation rules, Python automation, Excel, Google Sheets and Slides, Jira, Confluence, osapiens, SAP"
+    },
+    {
+      "category": "Carbon Markets, Sustainability Regulations and Climate Frameworks",
+      "items": "Voluntary carbon market: Gold Standard carbon credit quality assessment and retirement documentation for client credits, GHG Protocol Scope 1, 2 and 3, PCF and CCF, SBTi, CDP, TCFD, CSRD and ESRS, EU Taxonomy, CSDDD and LkSG"
+    },
+    {
+      "category": "Project and Stakeholder Management",
+      "items": "Project management of complex deliverables and deliverable timelines, cross functional project leadership, early flagging of delivery delays and operational risks, risk registers, mitigation strategies and recovery plans, presentations to senior external stakeholders and leadership, client communication campaigns and newsletters, Agile delivery"
+    }
+  ],
+  "certifications": [
+    "Climate-related Financial Disclosures - CDP",
+    "Climate & Sustainability - Boston Consulting Group (BCG)",
+    "Agile - Cognizant"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional (B2) | Hindi - Native"
+  ],
+  "footer": "Based in Berlin | Available immediately | Valid German work and residence permit"
+}

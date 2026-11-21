@@ -1,0 +1,125 @@
+{
+  "company": "L.E.K. Consulting",
+  "role": "Associate Munich",
+  "format": "preferred",
+  "language": "en",
+  "profile": "Analyst and advisor with six years across corporate strategy, research and commercial consulting, now moving into general strategy consulting at entry grade. Combines primary and secondary research on markets, competitors and customers with an analytical skill set built on Python, SQL and Excel modelling, and turns the findings into actionable recommendations for clients. Automated the data processing behind a B2B reporting platform in Python, cutting manual handling by 40%.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Model fee and cost exposure market by market in Excel for enterprise clients, and convert regulatory obligation into the figures behind their capital-allocation decisions",
+        "Run scenario analyses on real-estate portfolios against 1.5 and 2 degree pathways, and present the results as client-facing decision material",
+        "Advise clients across building materials, industrial, automotive and apparel on regulatory exposure and the commercial pathways to compliance"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Benchmarked five investor rating methodologies, including S&P CSA, Sustainalytics, MSCI and ISS, and set out where the group stood against peer practice",
+        "Conducted stakeholder interviews, surveys and workshops for the group materiality assessment, and scored the results against severity, likelihood and financial-magnitude thresholds",
+        "Presented analysis and regulatory developments to senior leadership with the recommendations attached",
+        "Built and steered a cross-functional project team across Compliance, Risk, Legal, IT and supply chain, setting the deliverables and holding contributors to deadlines",
+        "Gathered and structured sustainability and regulatory-exposure data for the team reviewing a corporate transaction"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Served as primary point of contact for 150+ organisations globally, resolving methodology, data-quality and payment queries through a full reporting cycle",
+        "Analysed newly launched questionnaire modules for accurate data capture across organisations of very different size, sector and data maturity"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Automated data processing in Python for a B2B reporting platform, cutting manual handling by 40%",
+        "Priced client proposals and built the Excel cash-flow and cost models behind each bid",
+        "Normalised and validated pharmaceutical client datasets, and wrote the SQL queries and validation rules behind platform reporting",
+        "Reviewed closed deals won and lost with sales, and reset qualification criteria on what the deal data showed"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Evaluated 53 consortium members' engagement with 17 SDGs across five countries and set out the findings for the regional chapter",
+        "Researched reporting trends across India, Sri Lanka and Bangladesh, and documented the linkage between national regulation and global standards",
+        "Identified new revenue opportunities for the South Asia chapter and built partnerships with corporates, government bodies and NGOs",
+        "Delivered standards sessions at the Bombay, Colombo and Dhaka stock exchanges and chaired the consortium's recurring member meetings"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Prepared pre-feasibility studies, technical and financial evaluations and cost estimates across 15+ projects worth 20M+ euros",
+        "Supported the investment cases and internal approval documents behind client go-ahead decisions",
+        "Managed and coached a team of 4 interns on residential projects from proposal through delivery, and transferred the technical skills the review cycle required"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universität Berlin, Germany",
+      "details": [
+        "Grade 1.6 (Distinction). Thesis assessed the financial implications of EU sustainability regulation for the construction industry, built on survey design, quantitative analysis and regression in Python",
+        "Coursework: data analysis and statistical methods, SQL, environmental law, COSO and ISO 31000 risk frameworks"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), five-year professional degree",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": [
+        "Coursework: energy systems, building physics, construction technology, land use and urban planning, contract management"
+      ]
+    }
+  ],
+  "extras": [
+    {
+      "label": "EXTRACURRICULAR ACTIVITIES",
+      "bullets": [
+        "Volunteering and community work with non-profit organisations alongside professional and academic commitments"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Quantitative and Financial Analysis",
+      "items": "Rigorous strategic and financial analysis, structured problem solving on complex commercial questions, regression and statistical methods in Python, cost and cash-flow modelling in Excel, scenario and sensitivity analysis, cost-exposure modelling by market, pre-feasibility and technical-financial evaluation, budget estimation, investment case support, data validation and group consolidation. Python, SQL, Excel, Power BI, SAP, Dynamics 365, Microsoft 365, Google Workspace"
+    },
+    {
+      "category": "Research and Insight",
+      "items": "Primary research through structured interviews, surveys, questionnaire design and stakeholder workshops, secondary and desk research, multi-country market research, competitor and peer benchmarking, methodology comparison, trend analysis, findings written up as client-facing recommendations"
+    },
+    {
+      "category": "Commercial and Stakeholder",
+      "items": "Client advisory, written and verbal communication for senior audiences, team-based project delivery, cross-functional project leadership, matrix organisations, proposal and tender responses, bid pricing and commercial terms, coaching colleagues and transferring skills, training delivery, agile delivery and sprint cycles"
+    },
+    {
+      "category": "Sector Exposure",
+      "items": "Commercial challenges across multiple industry sectors: building materials and industrial manufacturing, automotive component suppliers, travel and tourism, commercial and residential real estate, textiles and apparel, pharmaceuticals, public sector and multilateral organisations"
+    }
+  ],
+  "certifications": [
+    "Climate & Sustainability - Boston Consulting Group (BCG)",
+    "Introduction to ESG - Corporate Finance Institute (CFI)"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional (B2) | Hindi - Native"
+  ],
+  "footer": "Berlin, Germany | Willing to relocate to Munich | Available for a March 2027 start | Valid German work and residence permit"
+}

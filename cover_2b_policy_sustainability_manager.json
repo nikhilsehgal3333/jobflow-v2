@@ -1,0 +1,25 @@
+{
+  "company": "2B Policy",
+  "role": "Sustainability Manager",
+  "recipientAddress": [
+    "2B Policy",
+    "Kostverlorenstraat 19-B",
+    "1052 GT Amsterdam",
+    "The Netherlands"
+  ],
+  "salutation": "Dear Hiring Manager,",
+  "intro": "I am writing to apply for the Sustainability Manager position based in Berlin. 2B Policy works with the consumer goods, tourism, construction and packaging sectors, and those four describe most of my working life: sustainability strategy inside a tourism group, product footprints for building materials manufacturers, and packaging obligations under PPWR and EPR. What draws me to this role is the chance to do that work at the methodology level, with industry coalitions, rather than one client at a time.",
+  "experiences": "My background sits where technical footprinting meets EU regulation. At KarbonWise I calculate product and corporate carbon footprints and produce Environmental Product Declarations for manufacturers, while advising those same clients on ESPR, PPWR, EUDR and the Empowering Consumers directive. Before that I spent a year at TUI AG on CSRD and ESRS reporting, and a year at the Global Reporting Initiative running a 53-member consortium across five countries. I am based in Berlin and hold a valid German work and residence permit.",
+  "skills": [
+    {
+      "name": "Environmental footprinting",
+      "body": "A footprint is only useful if the number survives scrutiny. At KarbonWise I run life cycle assessments in OneClick LCA to ISO 14040 and 14044 and produce Environmental Product Declarations on EN 15804 datasets, for clients making gypsum, insulation, cement and facade products. Most of the difficulty sits upstream of the calculation: setting boundaries, writing the supplier data requests, and specifying what evidence each material-level input must carry before it enters a bill-of-materials footprint. I also test the environmental claims clients want to make against the Empowering Consumers directive before those claims reach the market. Clients end up with footprints and claims they can defend line by line in a customer audit."
+    },
+    {
+      "name": "Multi-stakeholder facilitation",
+      "body": "Getting a room of competitors to agree on a method is a different skill from running the method. At the Global Reporting Initiative I chaired the recurring meetings of a 53-member consortium spanning five countries, where members arrived with genuinely different mandates and commercial interests. I set the agendas, steered discussion toward decisions rather than positions, and carried agreed actions through to closure between sessions. Alongside the meetings I produced the member newsletters and policy updates, organised speaker-led learning sessions, and presented the GRI Standards at the Bombay, Colombo and Dhaka stock exchanges. That combination of facilitation and public presentation is what I would bring to your working groups."
+    }
+  ],
+  "closing": "I would welcome the chance to discuss how this mix of footprinting practice and multi-stakeholder facilitation could add value to the coalitions 2B Policy convenes.",
+  "signoff": "Sincerely,"
+}

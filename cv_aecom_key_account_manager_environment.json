@@ -1,0 +1,136 @@
+{
+  "company": "AECOM",
+  "role": "Key Account Manager Environment",
+  "format": "preferred",
+  "language": "en",
+  "contact": {
+    "location": "New Delhi, India",
+    "phone": "+91 7042509790",
+    "email": "nikkhilsehgal@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/nikkhil-sehgal-a68577146/"
+  },
+  "profile": "Sustainability and environmental consultant with 4+ years across consulting, client services, business development and account management for industrial, building materials, automotive and real-estate clients. Combines account planning, executive-level client relationships and commercial negotiation with EHS consulting, environmental permitting and ESG advisory. Supported 150+ organisations as primary contact through a full disclosure cycle, from onboarding to account reviews and escalations.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Conduct account reviews and business reviews and write account growth strategies for 4+ clients in industrial, building materials, automotive and real estate",
+        "Win follow-on scope by pitching it to client leadership during delivery, and secure renewals and contract extensions",
+        "Negotiate fees and scope directly with executive-level client stakeholders",
+        "Flag slipping deliverables early and agree recovery plans with the client and internal delivery teams",
+        "Direct an analyst team on client engagements and quality-check deliverables before release",
+        "Run CRREM transition-risk analyses across 10+ real-estate assets for 4+ clients, deriving retrofit measures with their CO2 and cost effect",
+        "Model EPR fee and cost exposure per market in Excel for packaging clients",
+        "Align service offerings with client business priorities through a per-client tracker of CSRD, EU Taxonomy and regulatory deadlines and impact"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Built and steered a 5-function project team across Compliance, Risk, Legal, IT and supply chain in a matrix organisation",
+        "Drove regulatory implementation to completion across 5+ group subsidiaries, entity by entity",
+        "Presented analysis and recommendations to senior leadership and the sustainability steering committee, then tracked decisions to closure",
+        "Configured osapiens for CSDDD and LkSG due diligence, loaded data for 500+ suppliers and kept the supply chain risk register"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Onboarded and supported 150+ organisations globally as their primary contact through the disclosure cycle",
+        "Gathered feedback and tracked customer satisfaction in calls logged in HubSpot, and held account reviews with disclosing organisations",
+        "Escalated organisations' issues and invoicing queries to internal teams and closed them out"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Carried a book of 5+ client accounts as primary relationship manager, against renewal, upsell and account expansion targets",
+        "Wrote an account plan for each account, ran regular account reviews and forecast the revenue pipeline weekly in Dynamics 365",
+        "Led 5+ tender and RFP responses end to end, pricing each bid and negotiating fees, scope and commercial terms",
+        "Demoed the platform live to prospects, built custom demos for specific use cases, and trained client users after signing",
+        "Sized a new market segment and mapped competitor activities behind a go/no-go entry decision for leadership",
+        "Ran win/loss reviews and cohort, retention and churn analysis, then reset qualification on what the deal data showed",
+        "Took client-reported platform issues to engineering and tracked each one to a fix"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Presented the GRI Standards at 3 stock exchanges: Bombay, Colombo and Dhaka",
+        "Built partnerships with corporates, governments and NGOs across South Asia, and identified new revenue opportunities for the chapter",
+        "Chaired meetings of a 53-member consortium across 5 countries and ran membership renewals"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Selected and managed a team of 4 interns, and advised on 15+ projects worth 20M+ euros",
+        "Authored full EIA reports for hotels and commercial buildings, consolidating air, noise, water and ecology specialist inputs into each submission",
+        "Prepared environmental permitting submissions for commercial, retail and mixed-use developments and briefed government authorities",
+        "Conducted site and energy audits and EHS risk assessments, raising NCRs and driving corrective actions to verified closure",
+        "Chaired site progress meetings with contractors and consultants, and tracked actual cost against budget with variance reporting"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universität Berlin, Germany",
+      "details": [
+        "Grade 1,6 (good). Thesis on the financial implications of CSRD in the construction industry, using survey design and regression analysis in Python"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), five-year professional degree",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": [
+        "Technical coursework: building services, environmental control systems, construction technology and contract management"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Account Management and Business Development",
+      "items": "Strategic account management, key account management, client relationship management, executive-level relationships with client stakeholders, account growth strategies, revenue growth management, consulting sales, proposal development and client presentations, commercial discussions and negotiation, commercial acumen, solution selling, market trends and competitor analysis"
+    },
+    {
+      "category": "Client Delivery and Customer Success",
+      "items": "Project management, project coordination across technical, environmental and engineering teams, project performance tracking, escalation management, customer success and retention, client meetings and workshops"
+    },
+    {
+      "category": "Environment, Health and Safety (EHS) and Sustainability",
+      "items": "Environmental impact assessment (EIA) and permitting, EHS audits and corrective actions, energy audits, carbon footprints (GHG Protocol Scope 1-3) and LCA, CSRD and ESRS, EU Taxonomy, CSDDD, climate risk (CRREM)"
+    },
+    {
+      "category": "Stakeholder Management and Risk Management",
+      "items": "Stakeholder engagement, cross-functional collaboration in matrix organisations, communication and relationship building, risk management (COSO, ISO 31000), risk registers and risk assessments"
+    },
+    {
+      "category": "CRM Platforms and Tools",
+      "items": "HubSpot and Dynamics 365 (pipeline, reports and dashboards), Power BI, Excel modelling, SAP, osapiens, Microsoft 365, Jira"
+    }
+  ],
+  "certifications": [
+    "Climate & Sustainability - Boston Consulting Group (BCG)",
+    "Climate Change & Sustainability - EY",
+    "Climate-related Financial Disclosures - CDP"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional (B2) | Hindi - Native"
+  ],
+  "footer": "Indian national | Ready for on-site work in Gurgaon | Available immediately"
+}

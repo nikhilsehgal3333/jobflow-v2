@@ -1,0 +1,135 @@
+{
+  "contact": {
+    "location": "New Delhi, India",
+    "phone": "+91 7042509790",
+    "email": "nikkhilsehgal@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/nikkhil-sehgal-a68577146/"
+  },
+  "profile": "Sustainability specialist with over five years across corporate sustainability, community engagement and the travel and hospitality sector, covering sustainability action plans and programme delivery, stakeholder and community relations, and corporate reporting. Combines training design and delivery with sustainability action planning, KPI tracking and environmental compliance. Coordinated a 53-member sustainability consortium across five countries, chairing member forums, running speaker-led learning sessions and publishing the newsletters and policy updates that kept the network engaged.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd.",
+      "location": "Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Develop, calculate and track sustainability KPIs to audit-ready standard, and build client dashboards showing performance against reduction targets",
+        "Deliver carbon footprint assessments across Scope 1, 2 and 3 on GHG Protocol methodology, and run life cycle assessments in OneClick LCA",
+        "Coach client teams on sustainability methodology, reporting requirements and data governance, and pilot new data collection processes on one site before extending them across the portfolio"
+      ]
+    },
+    {
+      "company": "TUI AG",
+      "location": "Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Designed ISO 14001, human rights and child protection training modules and delivered them through the SAP LMS to staff across international group entities",
+        "Managed volunteering, giving and social procurement programmes, and presented results and recommendations to senior leadership",
+        "Coordinated sustainability reporting within the group sustainability team and across Compliance, Risk, Legal, IT and supply chain, keeping communication clear between departments and group subsidiaries",
+        "Completed corporate reporting requirements to CSRD and ESRS E1 standards, consolidating non-financial data from multiple business units in SAP and Power BI"
+      ]
+    },
+    {
+      "company": "CDP Worldwide",
+      "location": "Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Served as first point of contact for 150+ organisations globally, resolving disclosure, methodology and invoicing queries and escalating complex cases",
+        "Supported the CDP-hosted workshop in Warsaw, and held feedback calls with disclosing and prospective organisations"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd.",
+      "location": "Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Produced training materials and risk assessments for B2B clients, and held account relationships from onboarding through renewal"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative",
+      "location": "New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Evaluated 53 consortium members' engagement with 17 SDGs across 5 countries, and documented the projects and initiatives each organisation ran",
+        "Chaired recurring member meetings across differing organisational mandates, setting agendas, facilitating discussion and tracking actions to closure",
+        "Maintained relationships with key community organisations, local government departments, corporates and NGOs across South Asia, and identified new revenue generation opportunities for the GRI South Asia chapter",
+        "Organised speaker-led learning sessions and educational sustainability activities for members, and published newsletters and policy updates that kept the network current on industry trends",
+        "Ran a sustainability communications campaign end to end, setting the messaging, channels, timeline and measurement behind it",
+        "Presented GRI Standards to listed companies at the Bombay, Colombo and Dhaka stock exchanges"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations",
+      "location": "Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Advised on 15+ commercial, hospitality, institutional and residential projects worth over EUR 20M, including hotel developments, and led a team of 4",
+        "Authored environmental impact assessment reports for hotels and commercial developments, and briefed government authorities on findings and permit conditions",
+        "Conducted site audits, toolbox talks and risk assessments, and issued non-conformance and incident reports against safety, environmental and statutory requirements",
+        "Benchmarked schemes against LEED, WELL and GRIHA criteria, and audited energy performance of commercial buildings"
+      ]
+    },
+    {
+      "company": "Oriental Garden",
+      "location": "New Delhi, India",
+      "dates": "2016 - 2020",
+      "title": "Restaurant and Catering Team Member (Part-time)",
+      "bullets": [
+        "Supported daily restaurant and catering operations at a high-volume Connaught Place venue, working to service standards under peak-hour pressure",
+        "Upheld hygiene, grooming and food safety standards across preparation areas and service, and kept department equipment clean and in good working condition",
+        "Served guests directly on the floor and supported the team through peak service, holding a high standard of personal appearance in line with venue requirements"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universitaet Berlin, Germany",
+      "details": [
+        "Grade 1.6 (Distinction). Coursework in life cycle assessment, energy audits, environmental law, data analysis and statistical methods"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (5-year professional degree)",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": [
+        "Environmental control systems, building services, construction technology, land use and urban planning"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Sustainability Programmes and Community Engagement",
+      "items": "Sustainability action plans, KPI setting and tracking, programme coordination, community and stakeholder relations, key community organisations, local government departments and NGO partnerships, member forums and events, volunteering and giving programmes, speaker-led learning sessions, membership renewals"
+    },
+    {
+      "category": "Reporting, Standards and Compliance",
+      "items": "Corporate sustainability reporting, GRI Standards, CDP, CSRD and ESRS, TCFD, GHG Protocol Scope 1, 2 and 3, life cycle assessment, ISO 14001, environmental compliance and permitting, environmental impact assessment, LEED, WELL and GRIHA"
+    },
+    {
+      "category": "Training and Communications",
+      "items": "Training design and delivery, e-learning through SAP LMS, workshop facilitation, newsletters and policy updates, campaign messaging and measurement, presentations to senior leadership and external audiences, technical report writing"
+    },
+    {
+      "category": "Technical Skills",
+      "items": "Advanced MS Office - Word, Excel, PowerPoint and Outlook, Power BI, SAP, HubSpot, SQL, Python, AutoCAD, Revit, Adobe Creative Suite"
+    }
+  ],
+  "certifications": [
+    "Climate-related Financial Disclosures - CDP",
+    "Climate & Sustainability - Boston Consulting Group",
+    "Climate Change & Sustainability - EY"
+  ],
+  "languages": [
+    "English - Fluent (C1) | Hindi - Native | German - Professional (B2)"
+  ],
+  "footer": "Indian national | Open to relocation to Dehradun | Available immediately"
+}

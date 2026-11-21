@@ -1,0 +1,121 @@
+{
+  "company": "Bürkert Fluid Control Systems",
+  "role": "Manager Sustainability Reporting",
+  "format": "workday",
+  "language": "de",
+  "profile": "Sechs Jahre Erfahrung in der Nachhaltigkeitsberichterstattung, im ESG-Reporting und in der Beratung. Setzt Anforderungen aus CSRD, ESRS und EU-Taxonomie in belastbare Berichtsprozesse um, koordiniert die Datenerhebung über Fachbereiche und Gesellschaften hinweg und sichert die Qualität der ESG-Daten bis zur Prüfreife. Stimmte bei einem börsennotierten Konzern die CSRD-Berichterstattung entlang ESRS gemeinsam mit dem Senior-Team ab und entwarf dazu ein Nachhaltigkeits-IKS mit Prozessbeschreibungen und Zuständigkeiten.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "Januar 2026 - heute",
+      "title": "LCA & Sustainability Consultant (Werkvertrag)",
+      "bullets": [
+        "Analysiere regulatorische Nachhaltigkeitsanforderungen der EU und leite daraus die Berichts- und Nachweispflichten für einzelne Gesellschaften, Standorte und Produkte ab",
+        "Steuere die Erhebung, Validierung und Berichterstattung von ESG-Daten über Scope 1, 2 und 3 hinweg und entwickle daraus Kennzahlen bis zur Prüfreife",
+        "Erstelle CO2-Bilanzen auf Produkt- und Unternehmensebene nach GHG Protocol und dokumentiere die Berechnungsgrundlagen prüffähig",
+        "Berate Kundenteams zu Methodik, Berichtspflichten und Datenqualität und schule sie in der laufenden Datenerhebung"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Deutschland",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Werkstudium)",
+      "bullets": [
+        "Stimmte die CSRD-Berichterstattung entlang ESRS E1 gemeinsam mit dem Senior-Team für Offenlegung ab und ordnete die Themen den einschlägigen Datenpunkten zu",
+        "Erhob, validierte und konsolidierte nichtfinanzielle Kennzahlen konzernweit aus mehreren Fachbereichen und Gesellschaften, gestützt auf SAP und Power BI",
+        "Bewertete die EU-Taxonomie-Fähigkeit und -Konformität wirtschaftlicher Tätigkeiten und belegte die Einstufung mit den erforderlichen Nachweisen",
+        "Entwarf ein Nachhaltigkeits-IKS und dokumentierte dazu Prozessbeschreibungen, Arbeitsanweisungen und Zuständigkeiten je Fachbereich",
+        "Baute ein bereichsübergreifendes Projektteam aus Compliance, Risiko, Recht, IT und Einkauf auf, legte die Arbeitspakete fest und hielt die Beteiligten an Fristen",
+        "Bereitete Nachweisunterlagen für die externe Prüfung auf, stimmte sich laufend mit den Prüfungspartnern ab und prüfte die Angaben im Lagebericht auf Konsistenz zu den konsolidierten Zahlen",
+        "Plante Zielwerte und Erhebungszyklen für ESG-Kennzahlen und verfolgte die Zielerreichung entlang der vereinbarten Reduktionspfade",
+        "Wirkte an der doppelten Wesentlichkeitsanalyse mit, führte dazu Interviews und Workshops mit Stakeholdern und ordnete die Ergebnisse den ESRS-Datenpunkten zu",
+        "Führte die Sorgfaltspflichten nach LkSG und CSDDD auf der ESG-Software osapiens ein, verbesserte die Datenerfassung im laufenden Betrieb und verfolgte die Umsetzung je Gesellschaft nach",
+        "Stellte Analysen und regulatorische Entwicklungen der Leitungsebene vor und legte Empfehlungen dazu vor"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Deutschland",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Werkstudium)",
+      "bullets": [
+        "Sicherte die Qualität der ESG-Daten auf der CDP-Plattform durch Prüfregeln und wiederholbare Kontrollen",
+        "Betreute über 150 Organisationen weltweit als erste Ansprechperson und klärte Fragen zu Methodik, Datenqualität und Fristen",
+        "Analysierte neu eingeführte Fragebogenmodule auf korrekte Datenerfassung und meldete Auffälligkeiten an das Plattformteam"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "März 2023 - März 2024",
+      "title": "Product Manager / Sustainability Consultant (Werkvertrag)",
+      "bullets": [
+        "Verantwortete als Product Manager eine GRI-konforme Berichtsplattform von der Konzeption bis zur Einführung und stimmte Anforderungen und Abnahmetests mit den Fachbereichen ab",
+        "Automatisierte die Datenverarbeitung mit Python und senkte den manuellen Aufwand um 40 %",
+        "Erstellte Excel-Modelle zu Kosten und Liquidität und führte uneinheitliche Kundendatensätze in eine einheitliche Berichtsstruktur über"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | Neu-Delhi, Indien",
+      "dates": "März 2022 - Februar 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Untersuchte das Engagement von 53 Mitgliedsorganisationen in fünf Ländern und dokumentierte die Verknüpfung nationaler Vorgaben mit globalen Berichtsstandards",
+        "Leitete wiederkehrende Mitgliederrunden und stellte die GRI-Standards an den Börsen in Mumbai, Colombo und Dhaka vor"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, Indien",
+      "dates": "Juni 2020 - Februar 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Erarbeitete technische und wirtschaftliche Bewertungen sowie Kosten- und Budgetschätzungen für über 15 Projekte mit mehr als 20 Mio. Euro Volumen",
+        "Prüfte die Einhaltung von Umweltauflagen, dokumentierte Abweichungen und verfolgte deren Behebung"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "Oktober 2023 - März 2025",
+      "institution": "Technische Universität Berlin, Deutschland",
+      "details": [
+        "Note 1,6 (mit Auszeichnung). Masterarbeit zu den finanziellen Auswirkungen der CSRD, gestützt auf Umfragedesign, quantitative Analyse und Regression in Python",
+        "Schwerpunkte: Datenanalyse und statistische Methoden, SQL, COSO und ISO 31000, Umweltrecht, Ökobilanzierung"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), fünfjähriges Vollzeitstudium",
+      "dates": "August 2016 - Juni 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, Neu-Delhi, Indien",
+      "details": [
+        "Schwerpunkte: Baukonstruktion, Gebäudetechnik, Vertragswesen"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Nachhaltigkeitsberichterstattung",
+      "items": "CSRD und ESRS (E1, S1, G1), ESRS-Datenpunkte, doppelte Wesentlichkeitsanalyse, EU-Taxonomie, GRI, CDP, TCFD, DNK, Angaben im Lagebericht, prüffähige Dokumentation, Zielwert- und Erhebungsplanung für ESG-Kennzahlen"
+    },
+    {
+      "category": "Reporting- und Governance-Prozesse",
+      "items": "Aufbau und Weiterentwicklung von Reporting-, Steuerungs- und Governance-Prozessen, Corporate Reporting, Zuständigkeiten und Entscheidungswege, internes Kontrollsystem (IKS), Prozessdokumentation und Arbeitsanweisungen, Konsolidierung und Qualitätssicherung nichtfinanzieller Kennzahlen, Fristensteuerung, Zusammenarbeit mit Wirtschaftsprüfern, Projektmanagement bereichsübergreifender Vorhaben, COSO und ISO 31000"
+    },
+    {
+      "category": "ESG-Systeme und IT",
+      "items": "osapiens, SAP, SAP LMS, Power BI, CDP- und GRI-Plattform, EcoVadis, SQL, Python, MS Office mit Schwerpunkt Excel und PowerPoint, Microsoft 365, Google Workspace, Einführung und Optimierung von ESG-Reporting-Tools, Anforderungsaufnahme und Abnahmetests"
+    },
+    {
+      "category": "Zusammenarbeit und Projektsteuerung",
+      "items": "Bereichsübergreifende Projektsteuerung mit Finance, Einkauf, IT, Recht und Compliance, Matrixorganisationen, Abstimmung mit Tochtergesellschaften, Management-Präsentationen und Entscheidungsvorlagen, Schulungen und E-Learnings, Beratungskompetenz"
+    }
+  ],
+  "certifications": [
+    "Climate-related Financial Disclosures - CDP",
+    "Climate Change & Sustainability Services - EY",
+    "Introduction to ESG - Corporate Finance Institute (CFI)"
+  ],
+  "languages": [
+    "Deutsch - Gute Kenntnisse (B2) | Englisch - Fließend (C1) | Hindi - Muttersprache"
+  ],
+  "footer": "Berlin, Deutschland | Sofort verfügbar | Gültige deutsche Arbeits- und Aufenthaltserlaubnis"
+}

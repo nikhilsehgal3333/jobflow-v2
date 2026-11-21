@@ -1,0 +1,120 @@
+{
+  "company": "Birkenstock",
+  "role": "Supply Chain Compliance and Governance Manager",
+  "format": "preferred",
+  "language": "en",
+  "profile": "Supply chain compliance specialist with 4+ years in human rights and environmental due diligence, supplier risk and governance controls across global supply chains, in consulting, a listed group and a disclosure platform. Assesses suppliers through documentation checks and on-site audits, tracks remediation to closure, and builds the governance processes and controls behind due diligence. Implemented CSDDD and LkSG due diligence on a digital platform for a listed group's 500+ suppliers.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Collect supplier data and assess risk down an apparel brand's chain to Tier 2 and beyond: mills, dyehouses and tanneries",
+        "Feed geolocation and deforestation-risk data into clients' EUDR due diligence for raw-material supply chains",
+        "Apply the UN Guiding Principles and OECD due diligence guidance in client due diligence work",
+        "Review customer contracts and supplier codes of conduct for ESG obligations",
+        "Consolidate several customers' ESG requirements into one requirements list and gap assessment",
+        "Track regulatory change across CSRD, ESRS and the EU Taxonomy, with status, deadline and impact per client",
+        "Pilot new compliance processes with one client or product line before extending them across the portfolio",
+        "Held face-to-face community engagement on a client project",
+        "Calculated the apparel brand's corporate carbon footprint across Scope 1, 2 and 3"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Implemented CSDDD and LkSG due diligence on osapiens, configuring the platform and loading cleansed data for 500+ suppliers",
+        "Assessed suppliers against ESG criteria from questionnaires and documentation, and scored the outcome",
+        "Took part in on-site supplier audits alongside the responsible functions",
+        "Assessed supplier human-rights risks and tracked remediation and improvement actions through to closure",
+        "Logged supply chain risks in the risk register and reported the findings to senior management",
+        "Resolved individual grievances from receipt and logging through to closure",
+        "Contributed to the group's salient human rights issues assessment and its published modern slavery disclosure",
+        "Designed internal controls for sustainability compliance, with process documentation, SOPs and responsibilities across functions and entities",
+        "Rolled out regulatory requirements with 5+ international group entities, tracking completion for consistent implementation"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Served as primary contact for 150+ organisations globally, resolving disclosure and data-quality queries"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Cut manual data processing by 40% through Python automation",
+        "Wrote SQL validation rules that caught incomplete and implausible entries on a reporting platform"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Evaluated 53 consortium members' SDG engagement across 5 countries in South Asia",
+        "Engaged communities face to face in programme work across South Asia",
+        "Trained companies on the GRI Standards at 3 stock exchanges: Bombay, Colombo and Dhaka"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Hosted external auditors and certification bodies, and drove corrective and preventive actions to verified closure",
+        "Advised on 15+ projects worth 20M+ euros, covering environmental compliance and cost estimates"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universität Berlin, Germany",
+      "details": [
+        "Grade 1,6 (good). Thesis on the financial implications of CSRD in the construction industry, evaluating ESRS E1 to G1",
+        "Coursework: environmental law, COSO and ISO 31000 risk frameworks, data analysis"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), five-year professional degree",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": []
+    }
+  ],
+  "skills": [
+    {
+      "category": "Human Rights and Environmental Due Diligence",
+      "items": "CSDDD, LkSG, UN Guiding Principles, OECD due diligence guidance, human rights and environmental due diligence processes, risk assessment, risk-based supplier assessment and scoring, documentation checks, on-site supplier audits, remediation and corrective action tracking, grievance handling, salient human rights issues, modern slavery disclosure, supply chain transparency and traceability work at Tier 1, Tier 2 and beyond, EUDR"
+    },
+    {
+      "category": "Governance and Controls",
+      "items": "Governance processes, standards and controls, internal controls for sustainability compliance, SOPs and process documentation, roles and responsibilities (RACI), controlled documents, supply chain risk register, regulatory monitoring and compliance tracking, supplier codes of conduct, assurance working papers, continuous improvement and piloting"
+    },
+    {
+      "category": "Regulation and Reporting",
+      "items": "CSRD and ESRS (S1, G1), EU Taxonomy, GRI, CDP, GHG Protocol Scope 1-3, corporate carbon footprint, ISO 14001 (framework knowledge), TNFD"
+    },
+    {
+      "category": "Tools",
+      "items": "osapiens, SAP, Power BI, advanced Excel, Python, SQL, Microsoft 365, Google Workspace"
+    }
+  ],
+  "certifications": [
+    "Introduction to ESG - Corporate Finance Institute (CFI)",
+    "Climate Change & Sustainability - EY"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional (B2) | Hindi - Native"
+  ],
+  "footer": "Based in Berlin | Willing to relocate to Cologne | Open to travel | Available immediately | Valid German work and residence permit"
+}

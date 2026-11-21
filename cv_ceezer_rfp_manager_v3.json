@@ -1,0 +1,123 @@
+{
+  "profile": "Six years of project delivery and B2B commercial operations, with end-to-end ownership of tender and RFP responses for enterprise sustainability solutions. Structures cross-functional input from commercial, technical, legal and finance contributors into compliant submissions on fixed deadlines, and prices the commercial terms behind them. Built the reusable content library and proposal templates behind a B2B ESG platform's bids, shortening turnaround on repeat responses and holding messaging consistent across the team.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd.",
+      "location": "Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Advise enterprise clients on EU sustainability regulation and the compliance pathways behind it, across building materials, industrial, automotive and apparel portfolios",
+        "Model EPR fee exposure and packaging cost by market in Excel, converting regulatory obligation into figures a management team can decide capital allocation on",
+        "Run CRREM transition-risk and decarbonisation-pathway analyses on 1.5 and 2 degree scenarios, and present the results as client-facing decision material",
+        "Deliver product and corporate carbon footprints on GHG Protocol methodology, including BOM-based PCFs built from supplier data requests",
+        "Coach client teams on methodology, reporting requirements and data governance, and document the processes that keep delivery repeatable"
+      ]
+    },
+    {
+      "company": "TUI AG",
+      "location": "Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Built and steered a cross-functional project team across Compliance, Risk, Legal, IT and supply chain, holding contributors to deadlines and agreed deliverables",
+        "Coordinated regulatory implementation directly with international group subsidiaries and tracked completion entity by entity",
+        "Presented analysis and regulatory developments to senior leadership and produced the decision papers carrying the recommendations",
+        "Collected, validated and consolidated non-financial metrics group-wide from multiple functions and entities using SAP and Power BI",
+        "Developed training and e-learning modules in the SAP LMS and rolled them out to employees worldwide"
+      ]
+    },
+    {
+      "company": "CDP Worldwide",
+      "location": "Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Served as primary point of contact for 150+ organisations globally, resolving methodology, data-quality, deadline and invoicing queries through a full disclosure cycle",
+        "Standardised repeatable processes and controls that held across organisations of very different size, sector and data maturity",
+        "Ran feedback calls with disclosing and prospective organisations and supported the CDP-hosted workshop in Warsaw"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd.",
+      "location": "Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Owned tender and RFP responses end to end for a B2B ESG platform, setting response strategy, section ownership and the submission timeline against hard client deadlines",
+        "Priced bids and set the commercial terms attached to them, building the cost models and cash-flow scenarios behind each submission",
+        "Authored the technical and methodology sections of proposals, converting platform capability and GRI-aligned reporting logic into client-facing narrative",
+        "Established a reusable content library, proposal templates and pitch decks that cut turnaround on repeat bids and kept messaging consistent across contributors",
+        "Reviewed closed deals won and lost with sales, and reset qualification and response tactics on what the deal data showed",
+        "Managed a defined book of business against renewal, upsell and growth targets, forecasting the opportunity pipeline weekly in Dynamics 365",
+        "Automated reporting workflows in Python, cutting manual data processing by 40%, and ran sprint cycles with engineering on user stories and acceptance criteria"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI)",
+      "location": "New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Evaluated 53 consortium members' engagement with 17 SDGs across 5 countries and chaired the recurring member meetings to decisions and actions",
+        "Presented GRI Standards at the Bombay, Colombo and Dhaka stock exchanges and identified new revenue opportunities for the South Asia chapter"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd.",
+      "location": "Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Led a team of 4 on projects from proposal through delivery, coordinating specialist consultant inputs into consolidated client submissions",
+        "Prepared pre-feasibility studies, technical and financial evaluations and cost estimates across 15+ projects worth 20M+ euros, supporting the investment cases behind client approval"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universität Berlin, Germany",
+      "details": [
+        "Grade 1.6 (Distinction). Thesis on the financial implications of CSRD in the construction industry, built on survey design, quantitative analysis and regression in Python",
+        "Coursework: data analysis and statistical methods, SQL, environmental law, life cycle assessment"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), five-year professional degree",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": [
+        "Coursework: contract management, construction technology, building services, land use and urban planning"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Proposal and Bid Operations",
+      "items": "Bid management and proposal operations, end-to-end ownership of the proposal, RFP and tender lifecycle, response strategy, timeline and compliance management, structuring complex deliverables under tight deadlines, pricing and cost modelling, commercial terms, reusable content library, proposal templates, pitch decks and pitch materials, win/loss post-mortems, pre-sales execution, RFQ responses"
+    },
+    {
+      "category": "Project and Stakeholder Management",
+      "items": "Complex project management, cross-functional team leadership, agile delivery, sprint cycles, user stories and acceptance criteria, UAT, deadline management across entities and geographies, senior stakeholder and executive communication, matrix organisations, client onboarding and account management"
+    },
+    {
+      "category": "Data, Modelling and Tools",
+      "items": "Analytical data modelling in Excel and Google Sheets, Google Slides and PowerPoint, cash-flow and cost scenarios, KPI dashboards, SQL, Python, Power BI, SAP, Dynamics 365, HubSpot, pipeline forecasting"
+    },
+    {
+      "category": "Climate and Carbon Markets",
+      "items": "Voluntary Carbon Market and carbon credits (Gold Standard project assessment), GHG Protocol Scope 1-3, product and corporate carbon footprints, CRREM scenario analysis, SBTi, CDP, GRI Standards, CSRD and ESRS, EU Taxonomy, life cycle assessment (ISO 14040/44/67)"
+    }
+  ],
+  "certifications": [
+    "Agile Methodology - Cognizant",
+    "Introduction to ESG - Corporate Finance Institute (CFI)",
+    "Climate & Sustainability - Boston Consulting Group (BCG)"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional (B2) | Hindi - Native"
+  ],
+  "footer": "Berlin, Germany | Immediately available | Valid German work and residence permit"
+}

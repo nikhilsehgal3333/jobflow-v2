@@ -1,0 +1,17 @@
+{
+  "company": "Acme GmbH",
+  "role": "ESG Manager",
+  "salutation": "Dear Acme GmbH Hiring Team,",
+  "intro": "I want to express my interest in the ESG Manager position at Acme. As someone who has taken CSRD reporting from a blank page to an audited submission, I know my mix of regulatory rigour and hands-on platform work would help your team move faster.",
+  "experiences": "My experience spans corporate ESG and applied carbon work, from standing up ESRS reporting at TUI AG to running product-level LCA studies at KarbonWise. I am looking to take the next step by leading sustainability reporting end to end for a company that treats it as core, not compliance theatre.",
+  "skills": [
+    {
+      "name": "CSRD and ESRS reporting",
+      "body": "I learned reporting by doing it under deadline. At TUI AG I owned the move onto the osapiens platform during our first full CSRD cycle. The data was scattered across business units and nobody agreed on definitions. I mapped our double-materiality results to the right ESRS datapoints and got sign-off from each owner. The result was a submission that held up in assurance review without major rework."
+    },
+    {
+      "name": "Carbon accounting and LCA",
+      "body": "Numbers only matter if someone can defend them. At KarbonWise I run product-level LCA and PCF studies in OneClick LCA. Suppliers send messy spreadsheets and partial factors. I clean the inputs, pick defensible boundaries, and document every assumption. Clients now walk into customer audits with footprints they can explain line by line."
+    }
+  ]
+}

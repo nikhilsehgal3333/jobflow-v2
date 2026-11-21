@@ -1,0 +1,120 @@
+{
+  "company": "twentyfifty",
+  "role": "Consultant Business and Human Rights",
+  "format": "preferred",
+  "language": "en",
+  "profile": "Sustainability and human rights consultant with over four years across client advisory, corporate due diligence and reporting research. Core strengths in human rights due diligence against the UNGPs and OECD guidance, engagement with communities and stakeholders, and research and synthesis into client-ready deliverables. Brought 500+ suppliers of a listed group under CSDDD and LkSG due diligence by configuring the supplier platform and tracking remediation and grievances to closure.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Advise clients on human rights due diligence against the UNGPs and OECD guidance, including supplier risk work down the textile chain to mills, dyehouses and tanneries",
+        "Engage affected communities face to face on client projects",
+        "Led a client's CSRD double materiality assessment, scoring impacts including own workforce (ESRS S1) and taking the result to management for sign-off",
+        "Ran a work package on an EU LIFE project, authoring the deliverables submitted to the funder and coordinating consortium partners",
+        "Flag slipping deliverables early and agree recovery plans and revised timelines with clients"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Implemented CSDDD and LkSG due diligence for 500+ suppliers on the osapiens platform, applying the UNGPs and OECD due diligence guidance",
+        "Rolled out the due diligence process with 5+ group companies, steering a cross-functional team across Compliance, Risk, Legal, IT and supply chain",
+        "Assessed supplier human rights risk, took part in on-site supplier audits and tracked remediation and individual grievances through to closure",
+        "Contributed to the group's salient human rights issues assessment and its published human rights and modern slavery disclosure",
+        "Ran stakeholder interviews, surveys and workshops for the group's double materiality assessment alongside the senior disclosure team",
+        "Built and delivered e-learning modules on CSDDD, human rights and child protection through the SAP LMS",
+        "Scoped and drove an LLM assistant proof of concept, designing the prompts and retrieval and validating the approach before wider use",
+        "Presented analysis and regulatory developments to senior leadership with practical recommendations"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Triaged and resolved queries from 150+ disclosing organisations worldwide as their primary point of contact"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Owned 5+ tender and RFP responses end to end, authoring the methodology sections and pitch decks against hard client deadlines",
+        "Priced bids and set commercial terms from cost models, and held 5+ client accounts against renewal and growth targets",
+        "Cut manual data processing by 40% through Python automation"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Evaluated 53 consortium members' engagement with 17 SDGs across 5 countries",
+        "Chaired recurring meetings of the 53-member consortium, facilitating between differing mandates and driving actions to closure",
+        "Engaged communities directly in GRI programme work across South Asia",
+        "Turned structured literature reviews into policy briefs for non-specialist audiences",
+        "Presented GRI Standards at 3 stock exchanges and delivered capacity building to government stakeholders"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Consulted local communities on development and EIA work, and briefed government authorities on a government hotel project",
+        "Authored full EIA reports for hotels and commercial buildings, consolidating specialist inputs on air, noise, water and ecology",
+        "Advised on 15+ commercial, hospitality and residential projects worth 20M+ euros"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universität Berlin, Germany",
+      "details": [
+        "Grade 1.6. Thesis on the financial implications of CSRD in the construction industry, built on survey design and regression analysis in Python"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), five-year professional degree",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": [
+        "Coursework in land use and urban planning, environmental control systems and contract management"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Business and Human Rights",
+      "items": "UN Guiding Principles (UNGPs), OECD due diligence guidance, human rights due diligence, human rights impacts and salient issues, CSDDD, LkSG, supplier human rights risk assessment and remediation, grievance handling, modern slavery disclosure, ESRS S1 own workforce, supply chain due diligence beyond tier 1"
+    },
+    {
+      "category": "Engagement and Research",
+      "items": "Community and stakeholder engagement, interviews, surveys and workshops, facilitation that surfaces different perspectives across cultures, document reviews, structured literature reviews, policy briefs, data analysis and synthesis of themes, survey design and regression analysis"
+    },
+    {
+      "category": "Consulting and Commercial",
+      "items": "Client relationships and client communication, breaking down complex client challenges, practical recommendations, proposals, tender responses and pitch decks, business acumen and commercial awareness, bid pricing, practical project management of defined workstreams and conflicting deadlines, clear written and verbal communication"
+    },
+    {
+      "category": "Frameworks and Digital Tools",
+      "items": "CSRD and ESRS, double materiality, GRI Standards, SDGs, AI and digital tools in daily use to accelerate research, analysis and drafting, LLM prompt and retrieval design, Python, Power BI, osapiens, SAP LMS, Microsoft 365"
+    }
+  ],
+  "certifications": [
+    "Introduction to ESG - Corporate Finance Institute (CFI)",
+    "Climate & Sustainability - Boston Consulting Group (BCG)"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional (B2) | Hindi - Native"
+  ],
+  "footer": "Berlin, Germany | Valid German work and residence permit | Available weekly at the Berlin hub | Available immediately"
+}

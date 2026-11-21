@@ -1,0 +1,117 @@
+{
+  "company": "DHL Group",
+  "role": "Trainee Corporate Real Estate Global Sustainability",
+  "format": "preferred",
+  "language": "en",
+  "profile": "Building sustainability consultant with five years across building energy audits, real estate portfolio decarbonisation and energy data analysis. Develops CRREM decarbonisation pathways, drives reduction projects from scoping through implementation, and turns energy-related data into dashboards that non-technical operational managers can act on. Cut manual data processing by 40% by automating a reporting platform in Python.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Model decarbonisation pathways under 1.5 and 2 degree CRREM scenarios for Middle Eastern real estate clients, flagging assets at transition risk",
+        "Scope decarbonisation projects with reduction options, savings estimates and implementation plans that clients then carry out",
+        "Track each reduction measure through implementation by owner, status and achieved reduction",
+        "Analyse metered energy data across real estate portfolios in Predium against EPBD, GEG and EU Taxonomy requirements",
+        "Assess physical climate risk across client sites and portfolios, and cost the adaptation and resilience measures",
+        "Explain carbon methodologies and reporting requirements to non-technical client managers in coaching sessions"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Built and steered a cross-functional project team across 5 functions, holding contributors to deliverables and deadlines",
+        "Drove regulatory implementation with international group subsidiaries and tracked completion entity by entity",
+        "Consolidated non-financial KPIs group-wide in SAP and turned them into Power BI dashboards",
+        "Set annual ESG KPI targets and data-collection cycles, and tracked attainment against reduction pathways",
+        "Presented analysis results and recommendations to senior leadership"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Served as first point of contact for 150+ organisations worldwide, validating their ESG data on the CDP platform"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Automated manual data processing in Python, cutting effort by 40%",
+        "Wrote SQL queries and validation rules for a GRI-aligned sustainability reporting platform",
+        "Built Excel cost models and cash-flow scenarios behind client bids"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Assessed 53 consortium members against 17 SDGs across 5 countries",
+        "Presented the GRI Standards at 3 stock exchanges in Bombay, Colombo and Dhaka"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Conducted energy audits for commercial buildings and IT parks",
+        "Assessed EV charging infrastructure and building management and automation (BMS) needs on commercial building projects",
+        "Advised on 15+ commercial, hospitality, institutional and residential projects worth over 20M euros",
+        "Selected and managed a team of 4 interns, taking residential projects from proposal to delivery",
+        "Ran thermal comfort and energy simulation cases in IES VE, comparing outputs across design options",
+        "Prepared pre-feasibility studies, cost estimates and implementation plans behind client go-ahead decisions",
+        "Supported site acquisition and leasing, working directly with landlords, brokers and property owners"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universitaet Berlin, Germany",
+      "details": [
+        "Grade 1,6 (good). Thesis on the financial implications of CSRD in construction, using regression analysis in Python",
+        "Coursework: energy audits, ISO 50001, GEG, EU building directives, life cycle assessment, data analysis and statistical methods, SQL"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), five-year professional degree",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": [
+        "Coursework: energy systems, building services, building physics, environmental control systems and construction technology"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Building energy and decarbonisation",
+      "items": "Energy audits, EV charging infrastructure, building management and automation systems (BMS), CRREM decarbonisation pathways, EPBD, GEG, ISO 50001, EU Taxonomy for real estate, HVAC and building envelope, LEED, WELL and GRIHA gap analysis, physical climate risk"
+    },
+    {
+      "category": "Data and analysis",
+      "items": "Excel (Power Query, Power Pivot, cost and cash-flow models), Power BI, SQL, Python, Predium, IES VE energy simulation, SAP, GHG Protocol Scope 1-3"
+    },
+    {
+      "category": "Project and stakeholder management",
+      "items": "MS Office (Word, PowerPoint, Teams), MS Project, Jira, Confluence, project management, stakeholder coordination, data-driven decision making, communication with non-technical managers, senior leadership reporting"
+    }
+  ],
+  "certifications": [
+    "Scenario Analysis - CDP",
+    "Climate & Sustainability - Boston Consulting Group (BCG)",
+    "Climate Change & Sustainability - EY"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional working proficiency (B2) | Hindi - Native"
+  ],
+  "footer": "Berlin, Germany | Immediately available | Valid German work and residence permit"
+}

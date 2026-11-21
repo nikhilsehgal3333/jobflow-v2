@@ -1,0 +1,213 @@
+{
+  "profile": "Sustainability and regulatory consultant with six years across corporate ESG reporting, EU product and supply chain regulation, life cycle assessment and the built environment. Delivers CSRD and ESRS alignment, CSDDD and LkSG implementation, product and corporate carbon footprints under the GHG Protocol, and EU product compliance across EPD, ESPR, PPWR, EUDR and REACH. Works across NGOs, a DAX-listed group and B2B advisory clients, from environmental permitting and full EIA authorship through to bid ownership and cross-functional programme delivery.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd.",
+      "location": "Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Deliver Product and Corporate Carbon Footprint calculations for B2B clients on GHG Protocol methodology, including BOM-based footprints on manufactured goods with supplier data requests for material-level inputs",
+        "Produce and support Environmental Product Declarations, running the underlying life cycle assessments on EN 15804 and ISO 14025 datasets through OneClick LCA",
+        "Run OneClick LCA for product and building assessments to ISO 14040, 14044 and 14067",
+        "Conduct CRREM analyses for Middle Eastern real estate clients, identifying decarbonisation pathways and transition-risk exposure under 1.5 and 2 degree scenarios",
+        "Advise clients on EU sustainability regulation and compliance pathways, spanning EUDR, PPWR, ESPR and Ökodesign, the Empowering Consumers directive and the Digital Product Passport",
+        "Model Extended Producer Responsibility fee and cost exposure per European market in Excel, so clients decide packaging obligations against figures rather than estimates",
+        "Advise on Digital Product Passport readiness, structuring client-side product data, material and recycled-content requirements",
+        "Substantiate product environmental claims with LCA and EPD evidence, and advise on greenwashing risk under the Empowering Consumers directive",
+        "Map CBAM reporting duties at the importer and customs interface against covered goods and the underlying declaration data",
+        "Screen product conformity across REACH SVHC and substance declarations, CE marking Declarations of Conformity and technical files, and GPSR non-conformity and recall-type handling",
+        "Commission and follow up external testing laboratory reports as compliance evidence and LCA inputs",
+        "Manage ESG data collection, validation and reporting across Scope 1, 2 and 3",
+        "Develop, calculate and track sustainability KPIs to audit-ready standard, and build client KPI dashboards",
+        "Assess real estate portfolios on Predium against EU Taxonomy, EPBD and GEG requirements using metered consumption data",
+        "Pilot new compliance and data-collection processes on a single client and product line, then extend them across the wider portfolio once the approach holds",
+        "Coach clients on sustainability methodologies, reporting requirements and data governance",
+        "Serve clients across building materials (gypsum, insulation, cement, plasterboard and facades), industrial manufacturing, automotive component supply, and textile, apparel and footwear"
+      ]
+    },
+    {
+      "company": "TUI AG",
+      "location": "Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Built and steered a cross-functional project team across Compliance, Risk, Legal, IT and supply chain, setting deliverables, running it agile and holding contributors to deadlines without line authority",
+        "Coordinated regulatory implementation directly with international group subsidiaries, tracking completion entity by entity",
+        "Implemented CSDDD and LkSG due diligence on osapiens, and ran supply chain risk assessments across the supplier base",
+        "Aligned CSRD reporting with ESRS E1 alongside the senior disclosure team",
+        "Delivered EU Taxonomy eligibility and alignment assessments, including the evidence and documentation behind classifying economic activities",
+        "Delivered the double materiality assessment alongside the senior disclosure team, covering IRO identification and scoring against severity, likelihood and financial-magnitude thresholds, stakeholder interviews, surveys and workshops, and ESRS datapoint mapping",
+        "Compared and analysed S&P CSA, Sustainalytics, MSCI and ISS rating methodologies against group disclosure positions",
+        "Documented EcoVadis, SAQ and Integrity Next questionnaires and responded to investor queries",
+        "Prepared CDP and TCFD-aligned climate reporting",
+        "Designed the sustainability internal control system, defining process controls and governance documentation",
+        "Wrote the process documentation, standard operating procedures, data-collection procedures and work instructions behind each regulatory requirement",
+        "Defined roles and responsibilities across functions and entities, setting decision rights and RACI-style responsibility splits",
+        "Coordinated with audit partners on evidentiary documentation for third-party assurance",
+        "Collected, validated and consolidated non-financial KPIs group-wide across multiple business units and legal entities, on SAP and Power BI",
+        "Built ESG dashboards in Power BI, and set annual target values and data-collection cycles for ESG KPIs against reduction pathways",
+        "Delivered ISO 14001, CSDDD and human rights and child protection training modules as e-learnings on the SAP LMS",
+        "Presented analysis results and regulatory developments with recommendations to senior leadership",
+        "Scoped and drove an LLM-based ESG assistant to completion as a proof of concept, designing the prompts and the retrieval behind it and integrating CSRD and ESRS frameworks into AI-based query handling",
+        "Supported ESG due diligence on a corporate transaction, gathering and structuring sustainability data and regulatory exposure for the reviewing team",
+        "Supported group consolidation and IFRS disclosure work on the Lagebericht, checking consistency against consolidated figures",
+        "Ran volunteering and corporate giving programmes, and supported social procurement"
+      ]
+    },
+    {
+      "company": "CDP Worldwide",
+      "location": "Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Served as primary point of contact for 150+ organisations globally through the disclosure inbox, across a full reporting cycle",
+        "Owned customer onboarding and support for disclosing organisations, and maintained customer records and logged interactions in HubSpot",
+        "Analysed newly launched integrated questionnaire modules for accurate data capture",
+        "Owned ESG data collection, validation and management on the CDP platform, tracking submission coverage and data quality",
+        "Established repeatable processes and controls that held across organisations of very different size, sector and geography",
+        "Handled finance, invoice and payment queries for disclosing companies",
+        "Supported delivery of the CDP-hosted workshop in Warsaw",
+        "Ran feedback calls with disclosing and prospective organisations"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd.",
+      "location": "Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Owned tender and RFP responses end to end, setting response strategy, section ownership and the submission timeline against hard client deadlines",
+        "Priced bids and set the commercial terms attached to them, with the cost models and cash-flow scenarios behind each submission",
+        "Authored the technical and methodology sections of proposals, converting platform capability and GRI-aligned reporting logic into client-facing narrative",
+        "Built and maintained a reusable content library, proposal templates and pitch decks that cut turnaround on repeat bids and held messaging consistent across contributors",
+        "Reviewed closed deals with sales in structured win and loss sessions, and reset qualification and response tactics on what the deal data showed",
+        "Managed the product lifecycle from concept to implementation for a B2B ESG SaaS platform, covering requirements gathering and UAT",
+        "Ran sprint cycles with engineers, writing user stories and acceptance criteria and resolving scope questions in flight",
+        "Built and improved the data systems behind a GRI-aligned sustainability reporting platform, writing SQL queries and validation rules",
+        "Automated reporting workflows in Python, cutting manual data processing by 40%",
+        "Grew a defined book of business against renewal, upsell and expansion targets, and managed contract renewals",
+        "Maintained an opportunity pipeline with weekly revenue forecasting in Dynamics 365",
+        "Acquired clients and managed accounts through to billing",
+        "Normalised and structured pharmaceutical client data, and built Excel cash-flow models",
+        "Produced training materials and risk assessments for client teams"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI)",
+      "location": "New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Evaluated 53 consortium members' engagement with 17 SDGs across 5 countries",
+        "Chaired recurring member meetings across differing corporate, government and NGO mandates, setting agendas, facilitating between competing positions and carrying actions to closure",
+        "Presented GRI Standards in person at the Bombay, Colombo and Dhaka stock exchanges",
+        "Issued member newsletters and policy updates on regulatory developments",
+        "Convened speaker-led learning sessions with industry associations and policymakers",
+        "Documented GRI-BRSR linkage against SEBI requirements, mapping national regulation onto international reporting frameworks",
+        "Researched sustainability reporting trends across India, Sri Lanka and Bangladesh",
+        "Established partnerships with corporates, governments and NGOs across South Asia",
+        "Managed membership renewals across the consortium",
+        "Identified new revenue opportunities for the GRI South Asia chapter"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd.",
+      "location": "Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Managed a team of 4 on residential projects from proposal through to delivery",
+        "Advised on 15+ commercial, hospitality, institutional and residential projects worth 20M+ euros",
+        "Authored full Environmental Impact Assessment reports start to finish for hotels, commercial buildings and a standalone energy project",
+        "Handled environmental permitting for commercial, retail and mixed-use developments at master-plan scale, covering site roads, utilities and services",
+        "Coordinated specialist consultant inputs on air, noise, water and ecology into consolidated regulatory submissions",
+        "Produced desk-based assessments, constraints mapping, screening and scoping studies, and socio-economic inputs",
+        "Briefed government authorities on a government hotel project",
+        "Compiled gap analyses and environmental monitoring reports against permit conditions",
+        "Conducted energy audits and environmental compliance assessments for commercial buildings and IT parks",
+        "Benchmarked projects against LEED, WELL and GRIHA through structured gap analysis",
+        "Prepared pre-feasibility studies, implementation plans, technical and financial evaluations, and cost and budget estimates",
+        "Supported preparation of investment cases and internal approval documents behind client go-ahead",
+        "Coordinated with brokers, landlords and property owners during site acquisition and selection",
+        "Tracked lease structures, terms, renewals and key dates, and supported negotiations alongside senior managers and legal advisors",
+        "Ran site audits, toolbox talks and risk assessments, and raised non-conformance and incident reports",
+        "Contributed to Quartiersentwicklung and Masterplanung work across HOAI Leistungsphasen"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universität Berlin, Germany",
+      "details": [
+        "Grade 1.6 (Distinction)",
+        "Thesis: Assessing the Financial Implications of CSRD in the Construction Industry, Evaluating E1-G1 Topics. Survey design, quantitative analysis and regression in Python",
+        "Coursework: energy audits, GEG-Regulatorik, EU-Gebäuderichtlinien, ISO 50001, LCA, data analysis, statistical methods, SQL, environmental law, COSO, ISO 31000, DGNB"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), five-year professional degree",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": [
+        "Coursework: energy systems, building services, building physics, environmental control systems, construction technology, Baustofflehre, land use and urban planning, Standort- und Quartiersentwicklung, contract management"
+      ]
+    }
+  ],
+  "extras": [
+    {
+      "label": "ADDITIONAL EXPERIENCE",
+      "bullets": [
+        "Family personal-care brand (feminine hygiene), 2019 - 2022: invoicing, distribution and inventory management"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Reporting Frameworks and Standards",
+      "items": "CSRD, ESRS (E1, S1, G1), EU Taxonomy, CSDDD, LkSG, GRI, CDP, TCFD, SBTi, ISSB, SASB, GHG Protocol (Scope 1-3), ISO 14001, ISO 50001, ISO 14040, 14044, 14067, DNK, EMAS, BRSR (SEBI), double materiality, COSO, ISO 31000"
+    },
+    {
+      "category": "Carbon, LCA and Climate",
+      "items": "Product and Corporate Carbon Footprints, BOM-based calculations, Scope 1-3 accounting, EPD (EN 15804 / ISO 14025), OneClick LCA, CRREM 1.5 and 2 degree pathways, transition risk, decarbonisation pathways, embodied carbon, CCUS and clinker substitution, UNFCCC and COP processes, NDCs, voluntary carbon market (Gold Standard, assessment)"
+    },
+    {
+      "category": "EU Product and Supply Chain Regulation",
+      "items": "ESPR and Ökodesign, PPWR, Extended Producer Responsibility, Digital Product Passport, EPD, EUDR, EmpCo and green claims, CBAM (importer and customs interface), REACH, CE marking, GPSR, EU Green Deal, Kreislaufwirtschaft, supplier due diligence"
+    },
+    {
+      "category": "Ratings, Platforms and Systems",
+      "items": "EcoVadis, S&P CSA and DJSI, MSCI ESG, ISS ESG, Sustainalytics, SAQ, Integrity Next, osapiens, CDP platform, GRI platform, Predium, SAP, SAP LMS, Power BI, HubSpot, Dynamics 365, Microsoft 365, Google Workspace (Sheets and Slides), Adobe Creative Suite"
+    },
+    {
+      "category": "Data and Technical",
+      "items": "SQL queries, validation rules and dashboards, Python scripting and data automation, Power BI dashboards, ESG data collection, validation and consolidation, data governance, KPI design and target setting, Excel cost and cash-flow modelling, prompt and retrieval design for LLM-based assistants"
+    },
+    {
+      "category": "Bid, Proposal and Commercial",
+      "items": "End-to-end tender and RFP ownership, response strategy and submission timelines, bid pricing and commercial terms, cost and cash-flow modelling, reusable content libraries, proposal templates and pitch decks, win and loss reviews, pre-sales execution, pipeline and revenue forecasting, renewals and account expansion"
+    },
+    {
+      "category": "Built Environment",
+      "items": "Environmental permitting, full EIA authorship, environmental monitoring against permit conditions, LEED, WELL and GRIHA gap analysis, energy audits, GEG-Regulatorik, EU-Gebäuderichtlinien and EPBD, CRREM, metered consumption data, HVAC and building envelope, Quartiersentwicklung, Masterplanung, HOAI Leistungsphasen, Revit, AutoCAD, SketchUp"
+    },
+    {
+      "category": "Project and Stakeholder",
+      "items": "Cross-functional project delivery, agile delivery and sprint cycles, product ownership practices, user stories and acceptance criteria, UAT, planning trackers and status reporting, risk identification and mitigation, process documentation and SOPs, RACI and decision rights, chairing and facilitation, matrix organisations and international subsidiaries, senior leadership communication, training delivery and e-learning, Beratungskompetenz"
+    }
+  ],
+  "certifications": [
+    "Climate-related Financial Disclosures - CDP",
+    "Scenario Analysis - CDP",
+    "Climate & Sustainability - Boston Consulting Group",
+    "Climate Change & Sustainability - EY",
+    "Agile - Cognizant",
+    "Introduction to ESG - Corporate Finance Institute (CFI)"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional (B2) | Hindi - Native"
+  ],
+  "footer": "Berlin, Germany | Immediately available | Valid German work and residence permit | Indian national"
+}

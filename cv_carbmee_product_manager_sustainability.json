@@ -1,0 +1,120 @@
+{
+  "company": "carbmee",
+  "role": "Product Manager Sustainability",
+  "format": "preferred",
+  "language": "en",
+  "profile": "Product manager and sustainability consultant with 4+ years across B2B ESG software, environmental data, product carbon footprints and EU sustainability regulation. Turns ISO 14067, CSRD/ESRS and EU product regulation into product specs, runs customer discovery and pilots, and backs sales with live demos. Cut manual data processing by 40% through Python automation on a GRI-aligned ESG reporting platform.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Turn ISO 14067 PCF logic, CSRD/ESRS datapoints and EU product regulation requirements into specs for features in KarbonWise product modules",
+        "Develop IFRS S1 and S2 gap-analysis modules, mapping the disclosure requirements into gap-check logic",
+        "Calculate BOM-based product carbon footprints for building materials, industrial and automotive clients, using supplier data requests for material-level inputs",
+        "Supply PCFs and ESG data requested by clients' customers, such as automotive OEMs, and consolidate their requirements into one list",
+        "Map CBAM reporting duties against covered goods and declaration data, and contribute to EUDR due diligence statements and risk assessments",
+        "Cut Scope 3 data collection time by 10%+ with standard templates, supplier data requests, data quality checks and an Excel calculation model",
+        "Led a client's CSRD double materiality assessment, scoring the IRO long list and taking the ESRS mapping to management sign-off",
+        "Pilot new compliance and data-collection processes with one client before rolling them out across the portfolio"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Initiated and conceptualised an ESG chatbot aligned with corporate objectives to support strategic decision-making",
+        "Contributed to enhancing and updating the supplier risk management tool",
+        "Prepared for CSRD reporting with the disclosure team, aligning disclosures with ESRS E1 and assessing SBTi and TCFD statements"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Owned onboarding and support for 150+ disclosing organisations as primary contact, cutting response times by 20%+",
+        "Analysed newly launched integrated questionnaire modules for accurate data capture"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Interviewed customers and mapped their teams' reporting workflows to shape features for a B2B ESG reporting platform",
+        "Took a new product module end to end, from concept to first users, then handed it over to the permanent team",
+        "Wrote user stories and acceptance criteria in Jira and the Confluence specification pages engineers built against",
+        "Ran sprint cycles with engineers, resolving scope questions in flight, and tested releases through UAT",
+        "Piloted new features with one customer before rollout, and reworked features after release based on usage or customer feedback",
+        "Ran live and custom platform demos for prospects in sales calls, and trained client users after signing",
+        "Took client-reported platform issues to engineering and tracked each one to a fix",
+        "Cut manual data processing by 40% through Python automation, and wrote SQL queries and validation rules for the platform"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Evaluated 53 consortium members' engagement with the 17 SDGs across 5 countries",
+        "Presented the GRI Standards at 3 stock exchanges: Bombay, Colombo and Dhaka"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Architect",
+      "bullets": [
+        "Selected and managed a team of 4 interns, and advised on 15+ projects worth 20M+ euros"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universität Berlin, Germany",
+      "details": [
+        "Grade 1,6 (good). Thesis on the financial implications of CSRD in the construction industry, with survey design and regression analysis in Python"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), five-year professional degree",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": [
+        "Coursework in building physics, construction technology and energy systems"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Product Management",
+      "items": "Customer interviews and discovery, workflow mapping, specs, user stories and acceptance criteria, sprint delivery, UAT, customer pilots, post-launch iteration, live and custom demos, client user training, Jira, Confluence"
+    },
+    {
+      "category": "Methodology and Regulation",
+      "items": "ISO 14067, ISO 14040/14044, GHG Protocol Scope 1-3, BOM-based PCF, CCF, EPD (EN 15804), OneClick LCA, EPD and industry LCI datasets, CSRD/ESRS, double materiality, CBAM, EUDR, ESPR and DPP, supply chain due diligence, IFRS S1 and S2"
+    },
+    {
+      "category": "Data and AI",
+      "items": "AI tools in daily use (Claude) for research, analysis, prototyping and specs, LLM-based document extraction, agent framework (hands-on), Python (automation, tests), SQL, Excel"
+    },
+    {
+      "category": "Collaboration",
+      "items": "Engineering and design collaboration, sales and pre-sales support, manufacturing clients (automotive, industrial, building materials), cross-functional teams"
+    }
+  ],
+  "certifications": [
+    "Agile Methodology - Cognizant",
+    "Climate-related Financial Disclosures - CDP",
+    "Climate & Sustainability - Boston Consulting Group (BCG)"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional (B2) | Hindi - Native"
+  ],
+  "footer": "Valid German work and residence permit | Berlin-based, open to relocation to Munich | Available immediately"
+}

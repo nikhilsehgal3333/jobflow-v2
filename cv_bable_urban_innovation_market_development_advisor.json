@@ -1,0 +1,129 @@
+{
+  "company": "BABLE Smart Cities",
+  "role": "(Junior) Urban Innovation and Market Development Advisor",
+  "format": "preferred",
+  "language": "en",
+  "profile": "Business developer and sustainability advisor with over four years of client-facing work across B2B climate software, consulting and urban development. Core strengths in prospecting and pipeline building, CRM management in HubSpot and Dynamics 365, and tailored proposals for private-sector clients in proptech, mobility and infrastructure. Won 2+ new clients from cold outreach to 50+ prospects a month, booking 3+ meetings a month through outreach and follow-up.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Advise international private-sector clients on climate strategy, from GHG Protocol footprints to 3+ decarbonisation projects that clients went on to implement",
+        "Productised recurring client questions into a priced package with fixed deliverables and duration, sold to 2+ clients",
+        "Negotiate fees and scope directly with Head-of-Sustainability and C-level counterparts, and sell follow-on scope during delivery",
+        "Run account reviews and write account growth plans, with clients renewing or extending their engagements",
+        "Write the deck storyline and present quantified CO2, cost or savings findings to client senior leadership",
+        "Direct 6+ analysts at a time and review their deliverables before they reach the client"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Identified target companies and contacted 50+ potential clients a month through cold outreach and follow-ups, booking 3+ meetings or demos a month",
+        "Converted 2+ cold prospects into paying clients for a B2B ESG software platform",
+        "Qualified inbound leads alongside a 20+ prospect pipeline, tracking conversion from lead to demo to deal",
+        "Pitched the platform in live and custom demos built for specific use cases, then trained client users after signing",
+        "Owned 5+ tender and RFP responses end to end, authoring the technical sections and pricing each bid",
+        "Built a reusable content library, proposal templates and pitch decks that cut turnaround on repeat bids",
+        "Secured renewals across a EUR 100k+ book of 5+ accounts, working towards renewal, upsell and growth targets",
+        "Upgraded an existing client to a paid add-on or higher plan",
+        "Forecast weekly revenue from the opportunity pipeline in Dynamics 365 and built CRM dashboards on engagement and pipeline",
+        "Ran win/loss reviews with sales on closed deals and reset qualification tactics on what the deal data showed"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Initiated the concept and development of an ESG chatbot to support strategic decision-making",
+        "Presented analysis and regulatory updates to senior leadership and the sustainability steering committee"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Cut response times by 20%+ as first point of contact for 150+ organisations worldwide",
+        "Onboarded organisations and ran feedback calls with disclosing and prospective ones, tracking contact records and interactions in HubSpot CRM",
+        "Escalated organisations' issues to internal teams and closed them out"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Built partnerships with corporates, governments and NGOs across South Asia",
+        "Identified new revenue opportunities for the GRI South Asia chapter through market sizing and competitive landscape mapping",
+        "Chaired recurring meetings of a 53-member consortium across 5 countries, driving actions to closure",
+        "Presented the GRI Standards at 3 stock exchanges: Bombay, Colombo and Dhaka"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Architect",
+      "bullets": [
+        "Advised clients across 15+ commercial, hospitality, institutional and residential projects worth over 20M euros",
+        "Authored full EIA reports for hotel and commercial developments at masterplan scale, covering site roads, utilities and services",
+        "Prepared environmental permit submissions for commercial, retail and mixed-use developments and briefed government authorities"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universität Berlin, Germany",
+      "details": [
+        "Grade 1.6. Thesis: Assessing the Financial Implications of CSRD in the Construction Industry, with survey design and regression analysis in Python",
+        "Coursework included energy audits, EU building directives, data analysis and statistical methods"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (5-year professional degree)",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": [
+        "Coursework in land use and urban planning, site and neighbourhood development, energy systems and building services"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Business Development and Account Management",
+      "items": "Prospecting and cold outreach, follow-ups, lead generation, lead qualification, pipeline building, B2B sales processes, client acquisition, fee and scope negotiation, building and managing client relationships, renewals and upsell"
+    },
+    {
+      "category": "Customer Relationship Management (CRM) and Tools",
+      "items": "HubSpot, Dynamics 365, CRM reports and dashboards, email campaigns and marketing workflows, Excel cost and cash-flow models, Power BI, Microsoft 365, Google Workspace"
+    },
+    {
+      "category": "Proposals and Presentations",
+      "items": "Tailored business proposals and offers, tender and RFP responses, PQQs, bid pricing and commercial terms, value propositions, pitch decks, client presentations to Head-of and C-level audiences, webinars"
+    },
+    {
+      "category": "Market Research and Market Development",
+      "items": "Market sizing, competitive landscape mapping, new revenue opportunities, regulatory and market trend tracking (CSRD, EU Taxonomy, EPBD, Omnibus I), masterplanning and neighbourhood development, digital transformation through ESG software platforms"
+    },
+    {
+      "category": "Client Sectors and Stakeholders",
+      "items": "Proptech and smart-building technology, mobility and EV, engineering and infrastructure, real estate, building materials, automotive suppliers; international clients, including Middle Eastern real estate portfolios; public-sector counterparts (municipalities, regional authorities), accelerators and innovation hubs, NGOs"
+    }
+  ],
+  "certifications": [
+    "Climate & Sustainability - Boston Consulting Group (BCG)",
+    "Climate Change & Sustainability - EY",
+    "Agile - Cognizant"
+  ],
+  "languages": [
+    "English - fluent (C1) | German - professional working proficiency (B2) | Hindi - native"
+  ],
+  "footer": "Valid German work and residence permit | Based in Berlin, open to relocation to Stuttgart | Available immediately"
+}

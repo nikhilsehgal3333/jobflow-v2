@@ -1,0 +1,117 @@
+{
+  "company": "Hager Group",
+  "role": "Regulation Manager",
+  "format": "preferred",
+  "language": "en",
+  "profile": "Regulatory affairs and sustainability professional with over four years monitoring changes in regulations and legislation, assessing the associated risks and opportunities, and driving clear internal positions a business can act on. Covers product compliance for electrical and electronic equipment alongside building decarbonization, electrification technologies and climate policy, working in cross-functional teams across Legal, IT, Quality and commercial functions. Modelled regulatory fee and cost exposure market by market in Excel, giving clients the economic case behind each compliance decision.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Advise manufacturing and building-sector clients on EU product and sustainability legislation, converting incoming regulation into the technical and economic position each business needs to take",
+        "Respond to public consultations on draft regulation, setting out the technical and commercial implications for the sectors affected",
+        "Monitor changes in regulations and legislation across ESPR and Ökodesign, Digital Product Passport, PPWR and EPR, the EU Battery Regulation, WEEE and end-of-life vehicles, assess the associated risks and opportunities, and brief clients on the decisions each change forces",
+        "Support CE marking for electrical and electronic equipment under the Low Voltage and EMC Directives, maintaining technical files and Declarations of Conformity and commissioning external testing laboratories for the supporting evidence",
+        "Screen products against RoHS and REACH restricted-substance requirements using supplier material data, and track substance declarations through to compliance evidence",
+        "Identify building decarbonization pathways through CRREM analysis under 1.5 and 2 degree scenarios, covering heating electrification through heat pumps, rooftop solar and storage, and EV charging provision",
+        "Model regulatory fee and cost exposure market by market in Excel, quantifying what each legislative change costs the business"
+      ]
+    },
+    {
+      "company": "TUI AG | Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Monitored changes in regulations and legislation and tracked their impact entity by entity across international group subsidiaries, driving implementation with the responsible functions",
+        "Assessed regulatory risks and opportunities against severity, likelihood and financial magnitude thresholds, maintained the risk register, and reported findings to senior management",
+        "Built and steered a cross-functional project team across Compliance, Risk, Legal, IT and supply chain, setting the deliverables and holding contributors to deadlines",
+        "Delivered EU Taxonomy eligibility and alignment assessments, and aligned CSRD reporting with ESRS E1 alongside the senior disclosure team",
+        "Presented regulatory developments and their business implications to senior leadership, driving clear internal positions and the recommended course on each"
+      ]
+    },
+    {
+      "company": "CDP Worldwide | Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Served as primary point of contact for 150+ organisations globally, resolving climate disclosure and methodology queries across a full reporting cycle",
+        "Supported the CDP-hosted workshop in Warsaw and ran feedback calls with disclosing and prospective organisations"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd. | Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Sized markets, mapped competitive landscapes and analysed pricing, margin and unit economics behind client product lines",
+        "Owned tender and proposal responses end to end, pricing bids and setting the commercial terms attached to each submission"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI) | New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Presented GRI Standards at the Bombay, Colombo and Dhaka stock exchanges, and represented the organisation to corporates, governments, NGOs and industry associations across South Asia",
+        "Tracked UNFCCC and COP outcomes and national NDC commitments, and converted them into policy updates for a 53-member consortium",
+        "Chaired recurring member meetings, facilitating between differing mandates through to agreed actions, and organised speaker-led learning sessions",
+        "Researched regulatory developments across India, Sri Lanka and Bangladesh, and documented the GRI-BRSR linkage behind SEBI alignment"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd. | Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Briefed government authorities on a government hotel project, and audited energy performance and building services across 15+ projects worth 20M+ euros"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universität Berlin, Germany",
+      "details": [
+        "Grade 1.6 (Distinction). Coursework in environmental law, energy audits, GEG-Regulatorik, EU building directives and ISO 31000 risk frameworks"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), five-year professional degree",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": [
+        "Technical coursework: energy systems, building services and electrification, building physics, environmental control systems, construction technology"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Regulatory Affairs and Product Compliance",
+      "items": "Regulatory affairs activities and regulatory strategy, monitoring changes in regulations and legislation, responses to public consultations on draft regulation, CE marking under the Low Voltage and EMC Directives, technical files and Declarations of Conformity, RoHS and REACH restricted substances, GPSR product safety, WEEE and end-of-life vehicles, EU Battery Regulation, ESPR and Ökodesign, Digital Product Passport, PPWR and EPR"
+    },
+    {
+      "category": "Building Decarbonization and Electrification",
+      "items": "Building decarbonization, electrification technologies and clean energy in the building sector, EPBD and GEG-Regulatorik, CRREM transition risk and 1.5 and 2 degree pathways, heat pumps and heating electrification, rooftop solar and battery storage, EV charging provision, HVAC and building envelope, embodied carbon"
+    },
+    {
+      "category": "Climate and Sustainability Policy",
+      "items": "UNFCCC, COP processes and NDCs, EU climate regulation and national policy alignment, CSRD and ESRS, EU Taxonomy, CSDDD and LkSG, GRI, CDP, TCFD, GHG Protocol Scope 1-3"
+    },
+    {
+      "category": "Analysis, Commercial and Stakeholder Engagement",
+      "items": "Assessing associated risks and opportunities, strong analytical, negotiation and communication skills, business acumen, cost and fee exposure modelling in advanced Excel, pricing, margin and unit economics, working collaboratively in cross-functional teams across Legal, IT, Quality and commercial functions, external representation at regulatory and industry forums, senior leadership reporting"
+    }
+  ],
+  "certifications": [
+    "Climate & Sustainability - Boston Consulting Group (BCG)",
+    "Climate Change & Sustainability - EY",
+    "Climate-related Financial Disclosures - CDP"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional (B2) | Hindi - Native"
+  ],
+  "footer": "Berlin, Germany | Valid German work and residence permit | Open to relocation to Blieskastel | Immediately available"
+}

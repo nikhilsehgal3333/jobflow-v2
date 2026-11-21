@@ -1,0 +1,120 @@
+{
+  "profile": "Sustainability and climate specialist with four years advising banks, insurance companies, asset managers and pension funds on climate data, regulatory disclosure and the workflows that carry sustainability into risk and reporting decisions. Combines domain expertise across CSRD, EU Taxonomy, SFDR and TCFD with client ownership spanning onboarding, retention and pre-sales against a defined book of business. Served as primary point of contact for 150+ disclosing organisations globally at CDP, resolving climate methodology and reporting queries across a full disclosure cycle.",
+  "experience": [
+    {
+      "company": "KarbonWise Ltd.",
+      "location": "Remote",
+      "dates": "January 2026 - Present",
+      "title": "LCA & Sustainability Consultant (Contract)",
+      "bullets": [
+        "Advise banks, insurance companies and asset managers on how sustainability and climate regulation applies to their business, translating CSRD, EU Taxonomy, CBAM and green claims requirements into the compliance pathway each institution has to follow",
+        "Embed sustainability and climate data into client reporting and risk management workflows, structuring the Scope 1, 2 and 3 collection, validation and governance behind defensible figures",
+        "Coach client teams on carbon accounting methodology, reporting requirements and data governance, running each new process on a single client or product line before extending it across the wider portfolio",
+        "Quantify transition risk exposure through CRREM analysis at 1.5 and 2 degree scenarios across Middle East real estate portfolios, and set the decarbonisation pathways that close the exposure",
+        "Model corporate and product carbon footprints on GHG Protocol methodology, tracking the resulting KPIs to audit-ready standard on client dashboards"
+      ]
+    },
+    {
+      "company": "TUI AG",
+      "location": "Berlin, Germany",
+      "dates": "November 2024 - September 2025",
+      "title": "Sustainability Strategy and Stakeholder Dialogue (Work Study)",
+      "bullets": [
+        "Supplied the EU Taxonomy alignment and ESG risk data that lending banks required for Green Asset Ratio and Pillar 3 ESG disclosure, and supported the integration of sustainability factors into credit assessment at counterparty level",
+        "Benchmarked MSCI ESG, S&P CSA, Sustainalytics and ISS ESG methodologies against the group disclosure position, and answered investor and rating agency queries on the underlying data",
+        "Delivered EU Taxonomy eligibility and alignment assessments at a DAX-listed group, classifying economic activities and assembling the evidence behind each classification",
+        "Aligned CSRD reporting with ESRS E1 alongside the senior disclosure team, and produced the CDP and TCFD-aligned climate disclosures behind it",
+        "Built and steered a cross-functional project team across Compliance, Risk, Legal, IT and supply chain, presenting analysis and regulatory developments to senior leadership with recommendations",
+        "Scoped and drove an LLM assistant for ESG queries through to proof of concept, designing the prompts and retrieval that put CSRD and ESRS frameworks behind its AI-based query handling"
+      ]
+    },
+    {
+      "company": "CDP Worldwide",
+      "location": "Berlin, Germany",
+      "dates": "April 2024 - September 2024",
+      "title": "Disclosures (Work Study)",
+      "bullets": [
+        "Served as primary point of contact for 150+ disclosing organisations globally, owning onboarding and the ongoing client experience across a full disclosure cycle",
+        "Analysed newly launched questionnaire modules for accurate data capture, and tracked submission coverage and data quality across the disclosing portfolio"
+      ]
+    },
+    {
+      "company": "KarbonWise Ltd.",
+      "location": "Remote",
+      "dates": "March 2023 - March 2024",
+      "title": "Product Manager / Sustainability Consultant (Contract)",
+      "bullets": [
+        "Ran account management for a defined book of business against renewal, upsell and expansion targets, forecasting the opportunity pipeline weekly in Dynamics 365",
+        "Partnered with sales on pre-sales engagements, owning tender and RFP responses end to end and pricing bids on the cost and cash flow models behind each submission",
+        "Owned the product lifecycle of a B2B ESG reporting platform from concept to implementation, converting client feedback into requirements and running them into sprint delivery with engineering"
+      ]
+    },
+    {
+      "company": "Global Reporting Initiative (GRI)",
+      "location": "New Delhi, India",
+      "dates": "March 2022 - February 2023",
+      "title": "Research Consultant",
+      "bullets": [
+        "Presented GRI Standards at the Bombay, Colombo and Dhaka stock exchanges to listed issuers, financial institutions and sector regulators",
+        "Chaired recurring meetings of a 53-member consortium across 5 countries, facilitating between differing mandates and driving agreed actions to closure",
+        "Tracked UNFCCC and COP outcomes and national NDC commitments against corporate disclosure practice, converting the regulatory direction into member policy updates and newsletters"
+      ]
+    },
+    {
+      "company": "Holistics Urban Innovations Pvt. Ltd.",
+      "location": "Noida, India",
+      "dates": "June 2020 - February 2022",
+      "title": "Junior Architect",
+      "bullets": [
+        "Managed a team of 4 across 15+ capital projects worth 20M+ euros, defining scope, resources and timelines and delivering against agreed plan, budget and quality"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Master of Business Administration), Building Sustainability",
+      "dates": "October 2023 - March 2025",
+      "institution": "Technische Universität Berlin, Germany",
+      "details": [
+        "Grade 1.6 (Distinction). Thesis on the financial implications of CSRD, with regression analysis in Python. Coursework in data analysis, statistical methods, environmental law, COSO and ISO 31000 risk frameworks"
+      ]
+    },
+    {
+      "degree": "Bachelor of Architecture (B.Arch), five-year professional degree",
+      "dates": "August 2016 - June 2021",
+      "institution": "Guru Gobind Singh Indraprastha University, New Delhi, India",
+      "details": []
+    }
+  ],
+  "skills": [
+    {
+      "category": "Sustainable Finance and Financial Institutions",
+      "items": "EU Taxonomy Green Asset Ratio and BTAR reporting inputs, EBA Pillar 3 ESG disclosure requirements, ESG risk integration into credit assessment, SFDR at entity level and principal adverse impact indicators, investor and rating agency engagement"
+    },
+    {
+      "category": "Sustainability and Climate Frameworks",
+      "items": "CSRD and ESRS, EU Taxonomy, TCFD, ISSB, GRI, CDP, TNFD, SBTi, GHG Protocol across Scope 1, 2 and 3, CSDDD and LkSG, double materiality and IRO assessment, CBAM, ESPR and green claims"
+    },
+    {
+      "category": "ESG Ratings, Data and Climate Analytics",
+      "items": "MSCI ESG, S&P CSA, Sustainalytics, ISS ESG, EcoVadis, CDP platform, osapiens, Predium, CRREM scenario analysis, transition risk assessment, OneClick LCA, corporate and product carbon footprinting"
+    },
+    {
+      "category": "Client and Commercial",
+      "items": "Client relationship management, account retention and renewals, book of business ownership, pre-sales and tender ownership, opportunity pipeline and revenue forecasting, client onboarding, training delivery, senior stakeholder communication, Dynamics 365, HubSpot"
+    },
+    {
+      "category": "Project Delivery and Data",
+      "items": "Project management across cross-functional teams, defining scope, resources and timelines, Jira, Confluence, MS Project, SQL, Python, advanced Excel, Power BI, SAP"
+    }
+  ],
+  "certifications": [
+    "Climate-related Financial Disclosures - CDP",
+    "Scenario Analysis - CDP",
+    "Introduction to ESG - Corporate Finance Institute"
+  ],
+  "languages": [
+    "English - Fluent (C1) | German - Professional (B2) | Hindi - Native"
+  ],
+  "footer": "Valid German work and residence permit | Open to the Frankfurt office, hybrid | Available immediately"
+}
